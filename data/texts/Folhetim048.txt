@@ -1,0 +1,348 @@
+FOLHETIM DE EDUCAÇÃO
+MATEMÁTICA
+
+Ano 3 - número 48 - Folhetim de Educação Matemática - Departamento “de Ciências Exatas
+
+Março/1996
+
+OBJETIVO
+
+Este Folhetim é um veículo de divoigação,
+circulação de idéias e de estímulo ao estudo e
+à curiosidade intelectual. Dirige-se a todos os
+interessados pelos aspectos pedagógicos,
+filosóficos e históricos da Matemática. Pretende
+construir uma ponte para unir os que estão
+próximos € os que estão distantes.
+
+EDITORIAL |
+
+Ao longo desses anos temos distribuído
+gratuitamente o Folhetim a todo aquele que
+nos solicitam.
+
+Temos recebido estímulos de alguns
+leitores que espontanemente nos enviaram
+suas avaliações. Entretanto é usual que
+periódicos de distribuição gratuita, regularmente solicitem dos leitores uma
+manifestação de interesse de continuar
+recebendo o mesmo. É o que estamos no
+momento solicitando aos nossos leitores.
+
+O preenchimento e devolução da ficha
+em anexo significa que você quer continuar
+recebendo o Folhetim.
+
+COMITÊ EDITORIAL
+
+Carloman Carlos Borges (Doutor)
+Inácio de Sousa Fadigas (Mestre)
+Wilson Pereira de Jesus (Mestre)
+
+PERGUNTE QUE O NEMOC RESPONDE
+
+Pergunta. Luiz Francisco, residente à Rua Cláudio
+Manoel, 878, apt” 301, Belo Horizonte, escreve: a) que é
+uma estrutura matemática? b) por que a descoberta dos
+irracionais, na Grécia Antiga, provocou tanto alvoroço?
+c) você concorda que não se deve ensinar Matemática
+divorciada de sua tt d) qual o exato significado
+de, exemplificando, 3º ?
+
+R. Falar em estrutura matemática é falar em N. Bourbaki,
+pseudônimo coletivo assumido em tono de 1933 por um
+grupo de jovens e brilhantes matemáticos franceses, os quais
+procuraram através de suas obras demonstrar a unidade
+matemática, realçando a existência de estruturas fundamentais.
+Em Les Structures Formelles de 1º Analyse (Elements de
+Mathématique), I, pág. 846, Bourbaki escreve: Um conjunto de elementos abstratos possui uma estrutura, ou
+está estruturado, quando, de acordo com determinados axiomas, foram definidas certas relações ou operações relativas a seus elementos, o que permite formar,
+consegiientemente, uma “teoria”. Acrescentando: uma
+estrutura algébrica é a definição de uma ou de várias leis
+de composição, podendo estas leis apresentar certas relações, como a distributividade. Veja os exemplos de grupo, de
+anel e de espaço vetorial. Por outro lado, a definição de uma
+relação de ordem provoca uma estrutura de ordem e a definição de uma topologia determina uma estrutura de espaço
+topológico e, assim sucessivamente. Um resumo aproximado:
+você possui uma estrutura matemática quando estabelece entre
+os elementos do conjunto E uma axiomática. Do ponto de
+vista filosófico, o método axiomático é o mais aceitável quando
+se trata de organizar o conhecimento matemático. Todavia,
+quando se trata de ensino de matemática, principalmente nos
+níveis de que estamos tratando (1º e 2º graus) o método
+
+
+
+Ano 3 - número 48
+
+Folhetim de Educação Matemática
+
+Mar/96
+
+axiomático deve ser empregado não apenas com
+parcimônia mas e sobretudo, com sensibilidade.
+Quanto a sua pergunta (b): os historiadores da
+Matemática costumam referir-se à descoberta
+(ou criação?) dos números irracionais pela Escola
+Pitagórica como a primeiracrise dentro dessa ciência.
+De acordo com Asger Aaboe, em Episódios da
+História Antiga da Matemática, Coleção Fundamentos de Matemática Elementar, SBM, esta descoberta provocou as seguintes consegiiências: em
+primeiro lugar, prejudicou toda a teoria da semelhança e, em segundo lugar refletiu-se na álgebra,
+mostrando que uma equação como x? = 2 não
+tinha solução numérica exata, pois números
+significavam, na época, números racionais. Vejamos esse problema da irracionalidade mais de perto.
+A Escola Pitagórica, não foi apenas uma escola matemática, porém, se constituía numa verdadeira
+sociedade secreta com os seus rituais e regulamentos. Uma de suas notáveis contribuições e aquela que
+nos interessa nessa exposição realçava a importância fundamental do número (no sentido já explicado
+acima) na compreensão dos fenômenos naturais.
+Segundo alguns livros, os pitagóricos afirmavam com
+orgulho: tudo é número. É difícil avaliar, ainda
+hoje, a importância dessa idéia quando muitos setores do conhecimento humano continuam sendo
+compreendidos através de uma medida. Além da
+postulação de que tudo é número, os pitagóricos
+procuraram unificar a aritmética e a geometria por
+intermédio de representações geométricas como os
+chamados números triangulares e números quadrados:
+
+cce
+
+.c4
+
+“1
+
+A idéia de que tudo é número foi muito bem
+expressa pelo pitagórico Filolaus quando,
+
+presumivelmente, afirmou: todas as coisas que
+podem ser conhecidas têm número: pois não é
+possível que sem número qualquer coisa possa
+ser concebida ou conhecida. Como já escrevemos anteriormente, esta quantificação do conhecimento humano é, hoje, uma realidade consensual
+nacomunidade científica. Pois bem, dentro deste contexto histórico não é difícil, para nós, do século XX,
+imaginar o espanto dos pitagóricos perante o surgimento dos irracionais. Em primeiro lugar, esta descoberta rompia com a identificação entre números e
+figuras, deixando de ser umacoisa para expressar-se
+por intermédio de uma relação (relação entre o quadrado e a diagonal). Que ironia! Esta relação surgir
+exatamente no quadrado, uma das figuras básicas
+da mística dessa Escola. Em seguida, como ficaria
+a divisa máxima: tudo é número? O espanto
+experimentado pelos gregos ante a incomensurabilidade ilustra o que nos mostra a História da
+Ciência: todo conhecimento novo causa alvoroço
+pois nunca é inteiramente absorvido pela geração
+contemporânea, aquela que o viu nascer. A sua
+pergunta (c) merece os seguintes comentários: a
+História da Matemática como recurso ao ensino
+dessa ciência possui alguma legitimidade. Ao professor de qualquer ciência cabe-lhe procurar conhecer
+a história do seu saber. Inicialmente, é bom lembrar
+que esse recurso didático não é de agora. Livros
+de antigamente, lá das décadas anteriores à 2º
+Guerra Mundial, já exibiam notas históricas acerca
+do desenvolvimento histórico da Matemática. E,
+diga-se de passagem, eram notas bem elaboradas,
+emalguns daqueles manuais. Aonível de 1ºe 2º graus,
+a integração no processo de ensino-aprendizagem
+da história das idéias matemáticas poderá servir
+como motivação dos alunos ao estudo desse saber
+- com resultados duvidosos. Em cursos de graduação
+de Matemática a sua História é aconselhável - pois
+serve para mostrar que, na construção desse saber,
+as dificuldades enfrentadas pelos matemáticos
+serão, guardadas as devidas proporções, as mesmas
+a serem sentidas pelos alunos. Por outro lado, ela
+nos mostra que pessoas consideradas bem mais
+dotadas do que nós incorreram em erros e tolices
+
+
+Ano 3 - número 48
+
+Folhetim de Educação Matemática
+
+Mar/96
+
+que não serão praticados por nós. Finalmente, um
+simples lembrete a alguns autores de notas históricas: assumam uma postura crítica nessa exposição
+deixando de serem meros cronistas. Agora mesmo
+estou lendo em um desses mais recentes manuais
+a transcrição da seguinte frase atribuída à Escola
+Pitagórica: Não é digno de se chamar homem
+aquele que não sabe que a diagonal e o lado do
+quadrado são grandezas incomensuráveis. Tolices
+iguais a estas e outras ligando a Matemática à honra
+do espírito humano, não colaboram em nada na
+educação de alguém. Sua última pergunta nos conduz novamente aos números irracionais. A incomensurabilidade entre dois segmentos ( a relação
+entre o quadrado e sua diagonal) - isto é, a impossibilidade de encontrar-se um terceiro segmento que
+caiba um número inteiro de vezes no lado do quadrado e outro número inteiro de vezes na sua diagonal
+- não foi, historicamente, de fácil compreensão. Mais
+de 25 séculos se passaram desde o seu surgimento até a criação de uma explicação satisfatória.
+Qual o porquê de tanta dificuldade? Subjacente à
+idéia de número irracional, há outra, muito mais
+profunda, mais intrigante e muito mais fascinante.
+Qual é esta idéia? É a idéia do infinito perante a
+qual o ser humano experimenta um sentimento de
+espanto em seu primeiro contacto. Perante a idéia
+do infinito desabrocham as duas profundas necessidades do ser humano: saber e acreditar. Agora,
+vamos direto à pergunta. Extraindo as raízes aproximadas por deficiência e por excesso respectivamente,
+de 3, obtemos as duas sucessões de aproximações:
+
+por deficiência 'porexcesso diferenças
+1 2 1
+
+1,7 1,8 0,1
+
+1,73 1,74 0,01
+
+1,732 1,733 0,001
+1,7320 1,7321 0,0001
+
+1,73205 1,73206 0,00001
+
+As duas primeiras colunas acima (aproximações por deficiência e por excesso), cada uma possuindo uma infinidade de termos, mostram claramente como a idéia de infinito se encontra presente
+na definição do número irracional ./3 . Demonstra-se
+
+facilmente que as duas infinidades acima (aproximações por deficiência e por excesso) definem um
+
+único número irracional, no caso o número ./3 . Ora,
+do exposto, podemos escrever:
+
+31<317< 313 < 3172 < 317320 < 31,73205 4
+
+(1)
+e
+
+P>3M>314>3173 >3L80 >318206> (2)
+
+donde resulta concluir que o número 33 éumnúmero que é superior a todo termo das desigualdades
+(1) einferior a todo termo das desigualdades (2). Isto
+é, onúmero 33 deve ser compreendido como o número que é maior que 3 elevado a qualquer aproximação racional de ./3 por deficiência e que é menor
+que 3 elevado a qualquer aproximação racional de
+«/3 por excesso. Como entre dois números racionais
+
+quaisquer existem infinitos outros números racionais,
+o valor de 3/3 é tão aproximado quanto se queira.
+Aqui surge a oportunidade de mais uma crítica ao
+nosso ensino desde o curso primário até o término
+do 2º grau, pelo menos. Nossos livros didáticos
+estão cheios de falsos problemas com resultados
+exatos; melhor seria que seus autores apresentassem problemas referentes a desigualdades, tendo
+por objetivo fundamental a idéia de aproximação, idéia
+que, diga-se de passagem, é central no desenvolvimento do conhecimento humano. Hoje em dia o
+que mais se vê são desigualdades por todos os lados.
+Enquanto isto, questões envolvendo igualdades e
+com resultados exatos preenchem os manuais didáticos de matemática destinados às nossas crianças
+indefesas e ingênuas; este é mais um exemplo de como
+- nos livros didáticos - o real é substituído pelo
+
+Pergunte que o NEMOC Responde é uma
+coluna de autoria do prof. Dr.Carloman Carlos Borges
+
+e objetiva atingir ao público interessado em
+Matemática nos seus múltiplos aspectos.
+
+
+
+Ano 3 - número 48
+
+Folhetim de Educação Matemática
+
+Mar/96
+
+Caso o leitor queira fazer alguma pergunta
+relacionada aos aspectos pedagógicos, filosóficos e
+hisóricos da Matemática, escreva-nos.
+
+PRÓXIMO NÚMERO
+
+Resposta para a pergunta: porque a raiz
+quadrada de um número positivo não tem dois
+valores? Exemplificando: a raiz quadrada de 4
+poderia muito bem ter os dois valores: menos 2
+e mais 2, pois ambos elevados ao quadrado
+produzem o múmero 4.
+
+Aguardem!
+
+NOTÍCIAS |.
+
+A Universidade Estadual de Feira de Santana
+sediará no mês de novembro do corrente ano a 4º
+Reunião Especial da SBPC.
+
+Está prevista na programação alguns minicursos na área de Matemática que serão divulgados
+nos próximos números do Folhetim.
+
+Para o próximo semestre, o NEMOC programou os seguintes cursos destinados a professores
+de 1ºe 2º graus da região de Feira de Santana:
+
+1) Fundamentos de Aritmética
+
+Bibliografia básica: Fundamentos de
+Aritmética, Domingos Hygino.
+
+2)Logaritmos
+
+Bibliografia básica: Logaritmos, Elon Lages
+Lima.
+
+Estes dois cursos serão ministrados pelo
+prof. Dr. Carloman Carlos Borges.
+
+NÚMEROS ATRASADOS .
+
+Envie para cada folhetim um selo de postagem
+nacional de 1º porte. Dentro de no máximo quatro
+semanas, contadas a partir da data de recebimento do
+seu pedido, você estará recebendo os folhetins
+solicitados.
+
+OBS.: É permitida a reprodução total ou parcial desse
+folhetim, desde que citada a fonte.
+
+ERRATA
+
+Na segunda coluna dos Folhetins nº 46 e nº 47, página 4, linha 7, onde se lê citado, leia-se citada.
+
+“NEMOC- NÚCLEO DE
+EDUCAÇÃO MATEMÁTICA
+OMARCATUNDA
+
+Folhetim de Educação Matemática
+Ano 3. n. 48 Março/96
+
+Editores: Carloman e Inácio
+Editoração e Impressão: Núcleo de
+Editoração Gráfica - NUEG
+
+Tiragem: 1.400 exemplares
+
+Endereço: Av. Universitária, s/n-km 03
+BR 116 « Campus Universitário
+Fax:(075)224-2284 - CEP 44031-460
+Feira de Santana - BA - BRASIL
+
+
+
+UNVERSIDADE ESTADUAL DE FEIRA DE SANTANA
+DEPARTAMENTO DECÊNCIASEXATAS
+NEMOC- NÚCLEO DE EDUCAÇÃO MATEMÁTICA OMAR CATUNDA
+
+FICHA DE AVALIAÇÃO
+
+NOME:
+
+ENDEREÇO COMPLETO:
+
+1] Que temas você gostaria que fossem tratados?
+
+—""———————
+
+2] Faça uma avaliação do Folhetim
+
+3] Necessita temas que abordem mais:
+
+1 1ºGrau (1º a 4º série) D1ºGrau(5ºa 8º série) Q2ºGrau 03ºGrau
+
+OBS: O PREENCHIMENTO E DEVOLUÇÃO DESTA FICHA SIGNIFICA
+
+QUE VOCÊ QUER CONTINUAR RECEBENDO O FOLHETIM.
+
+NEMOC - NÚCLEO DE EDUCAÇÃO MATEMÁTICA OMAR CATUNDA
+Av. Universitária s/n - Campus Universitário
+44031-460 Feira de Santana - Ba
+

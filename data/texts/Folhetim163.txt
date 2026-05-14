@@ -1,0 +1,354 @@
+FOLHETIM DE EDUCAÇÃO
+MATEMÁTICA
+
+Folhetim Educ. Mat., Feira de Santana, Ano 18, Número 163, nov./dez., 2011
+
+UNIVERSIDADE
+ESTADUAL DE
+FEIRA DE
+SANTANA
+
+ISSN 1415-8779
+
+OBJETIVO
+
+Este Folhetim é um veículo de divulgação,
+circulação de ideias e de estímulo ao estudo e
+à curiosidade intelectual. Dirige-se a todos
+os interessados pelos aspectos pedagógicos,
+filosóficos e históricos da Matemática. Pretende construir uma ponte para unir os que
+estão próximos e os que estão distantes.
+
+EDITORIAL
+
+Prosseguimos com a transcrição das notas intituladas “A Matemática: suas origens,
+seu objeto e seus métodos - Parte 1”, de autoria do professor Carloman. Esta edição
+tratará de definições, encerrando o tópico “A
+Matemática continua progredindo”, iniciado
+no Folhetim 158. O subtópico “Axiomática”
+é finalizado neste número, trazendo considerações sobre o problema da verdade e o
+problema do rigor. Veremos uma discussão
+entre definições reais e definições usuais empregadas em Matemática, que são: definições
+nominais ou explícitas; definições por abstração; definições por recorrência.
+
+Desejamos aos nobres leitores e a seus familiares um 2012 próspero e repleto de realizações.
+
+COMITE EDITORIAL
+
+Carloman Carlos Borges (UEFS) - im memoriam
+Inácio de Sousa Fadigas (UEFS)
+Marcos Grilo Rosa (UEFS)
+
+Trazíbulo Henrique (UEFS)
+
+PERGUNTE QUE O NEMOC RESPONDE
+
+A Matemática: suas origens, seu objeto e seus
+métodos (continuação)
+
+Carloman Carlos Borges
+2.2 Axiomática (continuação)
+
+Ligados a uma determinada axiomática temos dois outros
+problemas: o problema do rigor e o problema da verdade; como
+já dissemos anteriormente, a verdade matemática é relativa a
+uma certa teoria T, e jamais uma coisa acabada: aqui, vale
+o princípio da não contradição. Igualmente o rigor: ele não
+se encontra acabado numa suposta imutabilidade. Ambos
+esses conceitos são históricos; ambos experimentam seus
+refinamentos, de acordo com a evolução da Matemática. Isto
+é perfeitamente compreensível se levarmos em consideração
+a própria historicidade da razão humana. Nenhuma ciência
+é formada de compartimentos estanques; mesmo entre as
+ciências existe uma interdependência, pois cada uma delas
+revela aspectos específicos da realidade.
+
+2.3 Definições
+
+O conhecimento humano é conceitual; o homem conhece o
+mundo por intermédio dos conceitos. É como se existisse, entre
+a realidade objetiva e o sujeito cognoscente, um biongo formado por novas ideias. O conhecimento imediato do mundo,
+sem quaisquer mediações, seria o conhecimento intuitivo, o conhecimento dos santos e dos grandes místicos orientais e seus
+adeptos bem sucedidos. Aqui, estamos interessados no conhecimento matemático que é essencialmente conceitual. Para sobreviver o homem precisa ajustar-se à realidade que lhe é circundante, conhecendo-a cada vez melhor e transformando-a com
+esse conhecimento. Na aquisição de suas verdades, ele forma
+conceitos, combina-os e forma teorias. É indispensável, portanto, refinar seus conceitos: tornar o biongo existente, mencionado logo acima, cada vez mais límpido. O processo de
+refinamento conceitual é um processo limite, porque o processo
+do conhecimento, em sua totalidade, é um processo infinito.
+
+O assim chamado princípio da economia do pensamento
+atravessa todas as ciências; estamos empregando-o, por exem
+
+Folhetim Educ. Mat., Feira de Santana, Ano 18, Número 163, p.2, nov./dez., 2011
+
+plo, quando procuramos definir as entidades com
+as quais nossa mente lida. Uma definição é, antes
+de mais nada, uma convenção conceitual; quando,
+ainda exemplificando, definimos círculo como “o
+lugar geométrico dos pontos do plano equidistantes de um ponto fixo desse mesmo plano”, a
+convenção está perfeitamente clara: doravante,
+empregaremos o termo círculo no lugar de toda
+essa frase entre aspas. Em definições desse tipo,
+as mais usuais em Matemática, o trabalho criador da mente é evidente: o ser definido: círculo
+- nasce com a sua própria definição e é claro que
+ele pode, em outro contexto, servir de termo primitivo, da mesma maneira como nossa definição lugar geométrico - aparece primitivamente, isto é,
+sem definição.
+
+Quando falamos em termos primitivos, acrescentamos serem termos sem definição, porquanto
+é impossível definir-se todos os termos sem cair
+naquilo que é comumente chamado de “regressão
+ao infinito”; todavia, os axiomas de uma determinada teoria 7", estabelece relações entre os
+termos primitivos dessa mesma teoria e, através
+dessas relações, ficam estabelecidos os significados
+dos termos primitivos da teoria 7. Por isso, alguns autores acham que os axiomas são definições
+implícitas dos termos primitivos da mesma teoria, no sentido dado acima. Agora, considere a
+definição: “O Brasil faz fronteiras com o Uruguai,
+a Argentina, etc”. Com esta frase definimos as
+fronteiras do Brasil, isto é, algo já existente; esta
+definição não introduz no vocabulário de T qualquer termo novo, pois apenas menciona, enumera coisas reais; definições desse tipo são designadas definições reais e não são empregadas
+em Matemática. As definições mais usuais em
+Matemática são:
+
+a) definições nominais ou explícitas;
+
+b) definições por abstração;
+
+c) definições por recorrência.
+
+Todos os três tipos acima possuem uma
+característica comum: introduzem no vocabulário
+da teoria 7, em estudo, termos novos; a definição
+
+de círculo, já mencionada, é um exemplo de
+definição nominal ou explícita, tipo bastante usual em
+Matemática. Todas as definições, logo abaixo, ainda
+pertencem ao tipo (a):
+
+i) Um determinante é nulo se, e somente se, suas
+fileiras ou colunas são linearmente dependentes;
+
+à) ANB = o conjunto dos elementos que pertencem, simultaneamente, aos conjuntos A e B;
+
+iúi) AC B= a intersecção de Ae Béo próprio 4.
+
+As definições por abstração requerem uma pequena
+introdução: devemos, primeiro, introduzir alguns outros termos. Assim, consideremos a tão conhecida
+relação de igualdade =. Ela goza das propriedades:
+
+a) «x = « (Propriedade Reflexiva);
+
+b)v=y=y=a (Propriedade Simétrica);
+
+Jr=yy=2z> «= az (Propriedade Transitiva).
+
+Dado um conjunto 4, uma relação de equivalência
+em A é uma relação binária em A que goza das
+três propriedades mencionadas acima, destarte, a
+relação de igualdade entre elementos de um conjunto
+A estabelece em A uma relação de equivalência. O
+símbolo “-” é comumente empregado para designar
+tal relação; assim x — y (x equivale a y) mostra que
+os elementos x e y do conjunto 4 possuem, entre si,
+a relação definida. Um outro exemplo de relação de
+equivalência é dado pela relação de paralelismo, no
+conjunto R das retas do plano euclidiano P, pois sendo
+a, b e c elementos de R:
+
+i)jalla( a é paralela a si mesma)
+
+i)alb=>bla
+
+iúijalb,bl|c>alc
+
+Um conceito importante intimamente ligado ao de
+relação de equivalência, é o de partição. Considere o
+conjunto 4 dos automóveis fabricados no Brasil, das
+marcas Fiat, Chevrolet e Volkswagen, representados,
+respectivamente, por F, C e V; em À estabelecemos
+a relação “o carro a tem a mesma marca que o carro
+b”: esta relação é de equivalência no conjunto 4, pois
+desfruta das três propriedades acima. De fato, seja 4:
+
+Fr F C CV Fr VV Fr
+V Cc Õêr VC CV F
+F V CPF CÕUVÕOUVrrÃaoe
+
+NEMOC - NÚCLEO DE EDUCAÇÃO MATEMÁTICA OMAR CATUNDA
+
+Folhetim Educ. Mat., Feira de Santana, Ano 18, Número 163, nov./dez. 2011 - Editores: Inácio, Grilo e Trazíbulo Digitação: Josenildes Oliveira Venas Almeida e Manoel Aquino dos Santos - Editoração: Evandro Vaz e Nivaldo Assis
+
+- Impressão: Imprensa Gráfica Universitária - Periodicidade: bimestral - Tiragem: 1.500 exemplares - Distribuição
+
+gratuita - Endereço: Avenida Transnordestina s/n, Módulo Prof. Carloman Carlos Borges, bairro Novo Horizonte, Feira
+de Santana, BA, Brasil. CEP 44.036-900. - Telefone: (75)3161-8115 - Fax: (75)3161-8086 - E-mail: nemocQuefs.br Home-Page: www.uefs.br/nemoc
+
+
+
+Folhetim Educ. Mat., Feira de Santana, Ano 18, Número 163, p.3, nov./dez., 2011
+
+Em um novo quadro, após dividir o conjunto A
+em compartimentos, coloquemos, em cada um deles
+os carros da mesma marca:
+
+VVovvI|oCcCcÃÕCocCc|Errr-grVVovvI|oCcCcÃÕCocCc|Errr-grV Fr F
+
+Ao conjunto acima dá-se o nome de conjuntoquociente (A/R) e ele representa uma partição do
+conjunto 4, isto é, uma decomposição unívoca de A
+em subconjuntos com as propriedades:
+
+i) são disjuntos dois a dois;
+ii) sua reunião é o próprio 4;
+iii) nenhum desses subconjuntos é vazio.
+
+Cada um desses subconjuntos se chama classe de
+equivalência. Sendo a um elemento de 4, então, ao
+subconjunto:
+
+a=(xeA;am-al
+
+de todos os elementos equivalentes a um dado a,
+chama-se classe de equivalência do elemento a. Seja
+II = R? um plano real com um sistema de coordenadas
+retangulares cartesianas. Consideremos dois pontos P
+e P' pertencentes a Il e a uma mesma reta horizontal.
+Seja a propriedade pertencem a uma mesma reta horizontal; esta propriedade é uma relação de equivalência
+e as classes de equivalência são determinadas por retas
+horizontais:
+
+Este exemplo foi extraído do livro Introduccion al
+Algebra de A. 1. Kostrikin, Editorial MIR. Outro exemplo importante de relação de equivalência é sugerido pela relação de equipolência entre segmentos
+orientados do plano euclidiano 7. Dizemos que os dois
+segmentos orientados a e b pertencentes ao plano 7,
+são equipolentes quando possuem a mesma direção,
+o mesmo sentido e o mesmo comprimento (por enquanto, direção aqui significa que dois segmentos a e b
+estão situados em uma mesma reta ou em retas paralelas; ademais, a e b podem ser nulos). Evidentemente,
+saber o significado de um termo não implica que ele
+
+foi definido; na linguagem comum, o significado de um
+termo já assegura seu uso; aliás, a maioria das palavras
+que usamos nós as aprendemos baseados apenas nos
+seus significados. Em Matemática, todavia, exige-se a
+definição daqueles termos que não são primitivos dentro de uma mesma axiomática. A definição de direção
+é o primeiro exemplo de uma definição por abstração.
+Seja a relação de paralelismo mencionada na página
+2: trata-se de uma relação de equivalência no conjunto
+das retas do plano euclidiano 7 e, então, o seu conjunto
+quociente é uma partição em R. Sabemos que, numa
+relação de equivalência, dois elementos são equivalentes se, e somente se, eles determinam a mesma
+classe de equivalência; logo, o que duas retas paralelas
+têm de comum é a classe de equivalência, definindose a direção de uma reta x como sendo sua classe de
+equivalencia T em R. Assim, sejam as retas:
+
+Em uma classe coloquemos todas as retas paralelas à reta x; teremos então, a primeira classe de
+equivalência em R; em outra classe, coloquemos todas
+as retas paralelas à reta dada %Y; teremos a segunda
+classe de equivalência. Assim, procedendo, teremos
+as diversas classes de equivalência da partição associada à relação de paralelismo. Vejamos a visualização
+dessas classes:
+
+|
+I
+
+del
+I
+
+
+
+Folhetim Educ. Mat., Feira de Santana, Ano 18, Número 163, p.4, nov./dez., 2011
+
+Observemos que a direção de uma reta é um
+conjunto, o qual é a sua correspondente classe de
+equivalência. Outro exemplo de uma definição por
+abstração é sugerido pela relação de equipolência. Assim, um vetor determinado por um segmento orientado a é o conjunto de todos os segmentos orientados
+do plano 7 que são equipolentes ao segmento orientado
+a, isto é, um vetor a é a classe de equivalência determinada pelo segmento orientado a. Como qualquer uma
+das classes de equivalência determinada por um segmento orientado a é formada de infinitos elementos,
+concluímos: um vetor é um conjunto infinito de segmentos orientados. Nas diversas aplicações práticas,
+porém, empregamos um segmento orientado a para
+representar o vetor a, isto é, representamos um vetor
+a - que é um conjunto infinito de segmentos orientados,
+por apenas um segmento orientado a - que é um conjunto infinito de pontos. Os exemplos acima mostram
+como cada relação de equipolência permite definir por
+abstração um novo conceito.
+
+Outro tipo de definição usado em Matemática é a
+definição por recorrência, a qual utiliza o V axioma de
+Peano; este tipo de definição introduz novos conceitos
+ligados aos números naturais. Assim, para introduzir
+o conceito de soma de números naturais, define-se:
+
+m+1=s(m)
+
+m+s(n)=s(m+n)
+
+sendo m, n números naturais dados. Lembramos que
+s(m) é o sucessor de m. Concretamente, teríamos:
+
+14+2=14+s(1) = s(14+1)= 16
+Para definir a” , a e n naturais, temos:
+
+a <a
+
+at =ara
+
+Nesse tipo de definição é fácil perceber a passagem
+do infinito potencial ao acabado. Note-se que, na
+definição de soma dada acima e introduzida por Peano,
+são empregados os termos primitivos um e sucessor;
+ademais, uma inspeção visual sobre ela pode levar-nos
+à ideia de que estamos diante de uma definição incorreta, uma vez que a coisa definida - o sinal + - faz
+parte dos dois lados da identidade; ora, se o símbolo
+a ser definido (que é o sinal +) o é por intermédio
+dele próprio, encontramo-nos diante de uma definição
+circular, tão usada pelos dicionários. A objeção é inteligente, embora, neste caso, possa ser rebatida satisfatoriamente, pois o sinal “+” pode ser eliminado
+do segundo membro da identidade; para tal basta lembrar que: s(s(s(5))) = s(s(6)) = s(7) = 8
+Assim, pela definição:
+
+5+3=5+s(2)=s(5+2)
+que aparenta ser circular, significa:
+5+3 = s(s(s(5)))
+
+Para maiores detalhes, pode-se consultar Leonidas
+Hegenberg, Definições: termos teóricos e significado,
+Editora Cultrix - Editora da Universidade de São
+Paulo.
+
+PRÓXIMO NÚMERO
+
+A Matemática: suas origens, seu objeto e seus
+métodos. (Continuação)
+
+NOTÍCIAS
+
+CEEM Semipresencial
+
+O Núcleo de Informática e Sociedade (NIS) e o
+NEMOC oferecerão em 2012 o Curso de Especialização em Educação Matemática, Modalidade
+Semipresencial. Brevemente, será lançado o edital
+para o processo seletivo. Maiores informações, no site
+
+do NEMOC: http://www.uefs.br/nemoc
+
+Vídeos do IMPA
+
+O IMPA disponibiliza no endereço
+http://video.impa.br um repositório de vídeos de
+cursos, palestras, colóquios, etc. Estão disponíveis,
+gratuitamente, vídeos das cinco últimas edições
+do Colóquio Brasileiro de Matemática, cursos do
+Programa de Aperfeiçoamento de Professores de
+Matemática do Ensino Médio, aulas de disciplinas do
+mestrado e doutorado como, por exemplo, Análise
+na Reta e Topologia das Variedades, etc. Há uma
+seção interessante contendo entrevistas com eméritos
+do IMPA: Elon Lages, Manfredo Perdigão, Maurício
+Peixoto e Jacob Palis foram os entrevistados até o
+momento.
+
+NÚMEROS ATRASADOS
+
+Envie para cada Folhetim um selo de postagem nacional de
+1º porte. Dentro de no máximo quatro semanas, contadas a
+partir da data de recebimento do seu pedido, você receberá
+os folhetins solicitados. OBS.: É permitida a reprodução
+total ou parcial deste Folhetim, desde que citada a fonte.
+

@@ -1,0 +1,311 @@
+FOLHETIM DE EDUCAÇÃO
+MATEMÁTICA
+
+Folhetim Educ. Mat., Ano 10, n. 114, maio / jun. 2003
+
+ISSN 1415-8779
+
+OBJETIVO
+
+Este Folhetim é um veículo de divulgação,
+circulação de idéias e de estímulo ao estudo e à
+curiosidade intelectual. Dirige-se a todos os
+interessados pelos aspectos pedagógicos,
+filosóficos e históricos da Matemática. Pretende construir uma ponte para unir os que
+
+estão próximos e os que estão distantes.
+
+EDITORIAL
+
+Ainda sobre coisas elementares de
+matemática, o presente Folhetim traz respostas
+a algumas indagações frequentes. Podemos
+observar que estas estão agrupadas em vários
+blocos: sobre a desigualdade no conceito de
+limite de uma sequência; sistemas não
+arquimedianos; sobre congruência módulo m;
+sobre soma de quadrados; sobre a demonstração
+da transcendência do número x e finalmente
+sobre a palavra gnomo e seu uso na matemática.
+
+Aproveitamos aoportunidade para agradecer
+a todos os que nos enviaram sugestões e
+avaliaram nosso trabalho através da ficha de
+pesquisa que foi anexa ao Folhetim nº 111.
+Garanta o recebimento dos números a partir do
+
+116, enviando-nos acitada ficha preenchida.
+
+COMITÊ EDITORIAL
+
+Carloman Carlos Borges (Doutor)
+
+Inácio de Sousa Fadigas (Mestre)
+
+PERGUNTE QUE O NEMOC RESPONDE
+
+Pergunta. Coisas elementares de Matemática provocam
+dúvidas no alunado (continuação).
+
+R.Quando do estudo do limite de uma segiiência de
+númerosreaisoucomplexos: (|, , L,, [,-.-) dizemos que (|, )
+
+tende ao número 4 (|, —), se, e somente se, a todo número
+
+e >0é possível fazer corresponder um inteiro N tal que n>N
+
+>| Hb | <e, escrevendo-se lim t, =. Algumas vezes os
+
+n->+
+alunos perguntam se uma das duas desigualdades n>N,
+| u, —b | <e pode ser substituida pelas desigualdades estritas,
+isto é, substituir <£ por <£. A resposta é afirmativa. A nova
+definição é equivalente à definição precedente. Exemplificando,
+ao substituirmos <€ por <£, a nova definição (com o uso da
+
+desigualdade estrita < £ ) implica, claramente, a precedente.
+
+Reciprocamente, se a definição anterior é verificada, existe, para
+>
+todo £ > 0, um inteiro N tal que n2N implica | uy, =| E E
+
+consequentemente | LU, -b| <£.O que não se deve é tornar
+
+e = 0 pois, assim, teríamos uma definição demasiadamente
+
+restritiva.
+
+8 Quando da exposição do Axioma de Arquimedes (para dois
+segmentos desiguais, existe um múltiplo inteiro do menor superior
+ao maior) de quando em quando, alguns alunos levantam a
+seguinte questão: há sistemas nos quais esse Axioma perde a sua
+validade” A resposta é afirmativa. O cálculo Não Standard (vide
+Folhetim de Educação Matemática nº. 109) com os números
+
+infinitesimais é um exemplo de um sistema não arquimediano.
+
+
+
+Folhetim Educ. Mat., Ano 10, n. 114, p. 2, maio / jun. 2003.
+
+Outro exemplo: os denominados ângulos lunares nos
+quais não se verifica o Axioma de Arquimedes. Abaixo
+está arepresentação de dois ângulos lunares: No primeiro,
+oladocurvo não é tangente ao ladoretilineo, enquanto no
+segundo temos um ângulo lunar de lados tangentes. Pois
+bem: um múltiplo qualquer deste sempre é inferior aum
+
+ângulo lunar cujo lado curvo não é tangente ao lado
+
+retilíneo. /
+E O X
+x
+
+ângulo lunar de lados tangentes
+ângulo lunar cujo lado curvo
+
+não é tangente ao lado retilíneo
+
+8 | Quandose estuda as congruências módulo m (m
+inteiroe positivo) é possível somar, subtrairou multiplicar
+móldulo m. O que grande parte dos livros não menciona
+é que quando m é igual a um número p primo, também
+pode dividir-se. Nesse sentido pode-se falar em frações
+módulo um número primo. Assim módulo 5 - que é um
+número primo - temos:
+
+2x3=1, 2x8=1; 3x7=1
+
+e, portanto, pode escrever-se:
+
+=3, —=2,
+
+É
+3
+
+tO |m
+
+podemos chamar as frações módulo 5.
+
+& | Pordiversas vezes alguns alunos nos procuram
+com problemas envolvendo somas de dois quadrados.
+Aclaremos melhor a questão: que possuem de comumos
+números 2,5, 13,17,29,37,...? Umarápida verificação
+visual leva a conclusão que todos eles são números
+primos; verticalizadndo nossa "pesquisa" concluímos
+poderem os mesmos serem escritos como somas de dois
+quadrados:
+
+2=12+12,5=22+12,13=32+22,
+17=4+1,29=524+22;37=6+12.
+
+Deve-se concluir daí de que todo número primo
+pode ser escrito como soma de quadrados? A resposta
+é negativa. Basta examinar os números 3, 7, 11,43,...
+Eles são primos, porém não são somas de dois quadrados,
+pois os quadrados deixam restos O ou 1 quando divididos
+por4;logo, a soma de dois quadrados pode deixar como
+restos apenas, ou O ou 1 ou 2. Cabe a Fermat a
+descoberta: pode-se escrever um número primo p, como
+soma de dois quadrados, apenas se p + 1 nãofor divisível
+por4. Aplique esse magníficoresultado a 2,5, 13, 17,29,
+37 e, também, aos números 3, 7, 11,43... A questão,
+agora, é a seguinte: dado um número inteiro e positivo
+arbitrário, quando podemos afirmar que ele pode ser
+escrito como soma de dois quadrados? Em primeiro
+lugar, faça-se a decomposição do número em fatores
+primos n=p,*.p,” .p,”... Quando nenhum dos
+
+números p,* +1, p,;” +1, p;” +1 for divisível por 4,
+
+NEMOC - NÚCLEO DE EDUCAÇÃO MATEMÁTICA OMAR CATUNDA
+
+Folhetim Educ. Mat., Ano 10,n.114,maio/jun. 2003 - Editores: Carloman e Inácio - Secretária: Josenildes Oliveira
+Venas Almeida - Digitação: Manoel Aquino dos Santos - Editoração: Evandro Vaz e Nivaldo de Assis - Impressão:
+Imprensa Gráfica Universitária - Periodicidade: bimestral - Tiragem: 1.900 exemplares - Distribuição gratuita Endereço: Av. Universitária, sn - km 03 - BR 116 - Campus Universitário - Telefone: (75)224-8115 Fax: (75)224-8086 - CEP 44031-460 - Feira de Santana - Ba - BRASIL - E-mail: nemocQuefs.br
+
+dee
+
+
+
+Folhetim Educ. Mat., Ano 10, n. 114, p.3, maio / jun. 2003.
+
+ES tata 2 Se
+
+então, podemos afirmar que ele pode ser escrito como a
+soma de dois quadrados. Alguns exemplos servirão para
+ilustrar o que foi escrito: Seja o número 125 que éigual a
+5º. Logo5º+1=126=4.31+2. Assim, o número 125
+pode ser escrito como soma de dois quadrados. De fato:
+125=102+52.
+
+Paran= 100 podemos escrever n= 102; logo, 100
+= 10? + 02.
+
+Paran =72=2.3
+
+3º+1=10,ambos (9e 10) não divisíveis por 4,onúmero
+
+como 22 + 1 =9€e
+
+72 pode ser escrito como a soma de dois quadrados.
+
+Realmente, 72=6? +62.
+
+Para n = 1000 = 2º. 5º, donde 2º? + 1 = 9 (não
+divisível por4)e 5º + 1 =126 (também não divisível por
+4); dessa forma, o número 1000 pode ser representado
+como a soma de dois quadrados. É preciso notar que essa
+representação não é única, pois 1000 = 900 + 100 = 302
++ 10. Por outro lado: 1000 = 26? + 18? =
+= 676 + 324.
+
+Aoescrever sobre esse assunto, é difícil deixar de
+lembraro brilhante matemático indiano Ramanujan (1887
+- 1920) coma sua inacreditável capacidade de perceber
+relações numéricas complicadas. "Descoberto" pelo grande
+matemáticoinglêsG.H. Hardy (1877 - 1947), Ramanujan
+fezcomele umabela parceriaque produziu belosresultados
+matemáticos. Hardy conta o seguinte: ao visitar o seu
+amigo indiano no hospital, comentou com ele que vieraem
+um táxi de chapa numerada com o número 1729, número
+sem nenhum interesse. Ramanujan imediatamente
+questionou essa afirmativa dizendo: 1729 é o menor
+inteiro que se pode expressar de duas maneirascomo
+
+soma de dois cubos:
+
+2+12=1729=9 + 10º.
+
+Emoutra ocasião, calculou mentalmente o valor de
+e”! afirmando situar-se o seu valor "muito
+proximamente deumnúmerointeiro". Realmente, onúmero
+e”! é um inteiro seguido de doze zeros antes de
+
+aparecer qualquer outro algarismo.
+
+(6) Alguns alunos, estudando a demonstração da
+transcendênciado número 7 , elaborada pelo matemático
+Lindemann, considera-a bastante difícile, daí, a pergunta:
+"Não háoutra demonstração mais fácil"? Bem, admitamos
+o seguinte resultado devido ao inglês Alan Baker: "sex
+não é nulo, então pelo menos um dos números x ou e é
+transcendente". Agora a transcendência procurada
+decorre, daí, facilmente.
+
+Antes porém, relembremos rapidamente que um
+número real ou complexo x é chamado de número
+algébrico se ele é raiz de um polinômio com coefientes
+inteiros. Caso contrário, x é transcendente. Ainda, sea
+e b são dois números algébricos, então a sua somaa + b,
+o produto abe, se a não é nulo, seu inverso 1/a também
+são números algébricos. Vejamos, agora como se
+demonstra facilmente a transcendência do número 7 . Da
+teoria dos números complexos sabemos que: e'” = —1.
+
+Como -1 é algébrico por ser solução da equação
+algébrica x + 1=0, e” também o é. Pelo teorema de
+Alan Baker
+
+x=imx
+tem que ser um número transcendente, visto ser o outro
+número e” umnúmeroalgébrico (ele é iguala-1). Mas
+x=im éo produto de de dois números: i que é algébrico
+porser solução dex?+1=0)e 7 ;se x fosse algébrico,
+im também o seria (produto de dois algébricos), o que
+
+contraria o teorema anunciado de Alan Backer.
+
+& | Apalavra gnomonem sempre vem bemexplicada
+
+
+
+Folhetim Educ. Mat., Ano 10, n. 114, p. 4, maio / jun. 2003.
+
+nos textos escolares. Os antigos gregos chamavam de ATENÇÃO
+gnomona uma peçaajustávelauma outracom a finalidade NÃO ES QUEÇA DE NOS
+de, após o ajustamento, produzir outra peça de tamanho RETORNAR A FICHA DE
+maior, porém, da mesma forma. PESQUISA ANEXA AO
+E ; FOLHETIM Nº 111
+Vejaafigura abaixo:
+
+4º Gnomo
+
+Pergunte que o NEMOC Responde é uma
+
+coluna de autoria do prof. Dr. Carloman Carlos
+Borges e objetiva atingir ao público interessado em
+
+Matemática nos seus múltiplos aspectos.
+
+Caso o leitor queira fazer alguma pergunta
+
+escreva-nos.
+
+Uma observação mais atenta dessa figura, leva- PRÓXI MO N Ú MERO
+
+nos a calcular "visualmente" a soma dos n primeiros
+
+números ímpares:1+3+5+7+...+n
+
+Vejamos: Sêénese e História: lugar nos
+A do primei = -. J= po .
+soma do primeiro corações matemáticos?
+A soma dos dois primeiros 22=4
+a l : Pá Por Aron Simis )
+A soma dos três primeiros 32=9
+Asomadosquatroprimeiros — 42=16
+
+Aguardem!
+
+NÚMEROS ATRASADOS
+
+A soma dosn-ésimos primeiros — n?=n?
+Envie para cada folhetim um selo de postaLogo: 1+3+5+7+..=n?. gem nacional de 1º porte. Dentro de no máximo
+quatro semanas, contadas a partir da data de recebiEsse exemplo mostra a unidade entre os aspectos mento do seu pedido, você estará recebendo os
+cardinale ordinal do número natural. e folhetins solicitados.
+
+OBS.: É permitida a reprodução total ou parcial
+
+deste folhetim, desde que citada a fonte.
+

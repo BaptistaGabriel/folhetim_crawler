@@ -1,0 +1,459 @@
+FOLHETIM DE EDUCAÇÃO
+MATEMÁTICA
+
+Folhetim Educ. Mat., Ano 9, n. 106, jan. / fev. 2002
+
+ISSN 1415-8779
+
+ERES SDS eia nt cc tp DE
+
+OBJETIVO
+
+Este Folhetim é um veículo de divulgação,
+circulação de idéias e de estímulo ao estudo e à
+curiosidade intelectual. Dirige-se a todos os
+interessados pelos aspectos pedagógicos,
+filosóficos e históricos da Matemática. Pretende construir uma ponte para unir os que
+
+estão próximos e os que estão distantes.
+
+EDITORIAL
+
+A questão do ensino da Geometria é retomada
+neste Folhetim, onde sãoressaltadas as pesquisas
+maisrecentes sobre tal ensino, sobretudo aquelas
+devida aos van Hiele.
+
+Um outro aspecto enfatizado é o confronto
+entre as idéias de Piaget e Freudhental. Este
+último tem pouco de suas obras em nossalíngua,
+o que sem dúvida dificulta um debate mais
+profundo entre concepções diferentes, em
+
+nossas escolas.
+
+COMITÊ EDITORIAL
+
+Carloman Carlos Borges (Doutor)
+
+Inácio de Sousa Fadigas (Mestre)
+
+PERGUNTE QUE O NEMOC RESPONDE
+
+Pergunta. Uma pergunta quase nunca esquecida:
+Como você vê o ensino da Geometria? (Continuação)
+
+R. Éincrível tal afirmação sair da boca de Piaget, um
+sábio com tantas contribuições científicas importantes justamente
+na área de educação. Pesquisas mais recentes parecem não
+confirmar essa correspondência entre o desenvolvimento mental
+dacriançae o surgimento de estruturas algébricas, de ordeme
+topológicas.O caráter natural dessas estruturas pode não ser tão
+natural assim. Entre 10 e 13 de outubro de 1975, eminentes
+especialistas em Linguagem e Teorias de Aprendizagem se
+reuniram na abadia de Royaumont, em torno de Piagete Noam
+Chomsky. Esses debates foram publicados pelas edições 70 com
+otítulo Teorias da Linguagem. Teorias da Aprendizagem. Sua
+leitura é muito instrutivacomrelação aos problemas mencionados.
+Remeto o leitor para lá recomendando o debate entre Piaget e
+René Thom. Neste você tomará conhecimento de coisas bem
+interessantes. Por exemplo: quando este "acusa" aquele de
+formalista, sua resposta vem pronta: "de maneira alguma sou
+responsável pelas aplicações pedagógicas das minhas idéias". É
+difícil entender que o defensor da "naturalidade" das estruturas
+matemáticas mencionadas, não possua tendências formalistas...
+Oensino da Geometria da forma como vem sendo feito caracteriza
+a"inversão antididática" de que falava o eminente matemático
+e educador holandês Hans Freudenthal: "ela toma o formal, o
+matemático, como o princípio organizador dos conteúdos a
+
+seremensinados". Esse pessoal que encara o ensino da Geometria
+
+
+
+Folhetim Educ. Mat., Ano 9, n. 106, p. 2, jan. / fev. 2002.
+
+desse modo parece nada ter aprendido com o fracasso
+dachamada "matemática moderna". Há, ainda, aqueles
+que são adeptos de uma "matemática experimental", os
+antiformalistas: com eles o ensino deve ser através de
+“material concreto”. Então, organizam as chamadas
+"oficinas" nas quais a presença dominante é adacartolina,
+datesoura, etc. Emtodas essas oficinas, temos observado:
+os princípios lógicos a serem explicitados, ensinados, não
+fazem parte natural das situações criadas por tanto
+material concreto. Resultado: essas oficinas não preparam
+para nada. Querem uma prova”? Vejam os resultados
+delas ... Quem não se lembra de Z. Dienes percorrendo
+o mundo, proferindo conferência nas grandes
+universidades em prol de experimentos com "reguinhas"
+e outros materiais concretos? Um exemplo típico da
+chamada inversão antididática pode ser observada no
+
+ensino da Indução Matemática. Exemplificando: o
+
+professor pede ao aluno que demonstre por Indução
+
+n (n+1)
+
+Matemática a fómula 1+2+3+4+... +n= sem
+
+a mínima preocupação de mostrar a sua construção,
+quando, então, teria oportunidade de falar sobre outro
+tipo de indução como a empírica, tão importante nas
+ciências naturais. A aprendizagem é um tipo de
+desenvolvimento: este se realiza por intermédio da tensão
+entre a continuidade e a descontinuidade. Os números
+
+naturais sugeriram, provavelmente, a elaboração do
+
+conceito de descontinuidade, enquanto que o surgimento
+dos números irracionais deve ter sugerido a criação do
+conceito de continuidade e segundo o historiador E. T.
+Bell, na sua História das Matemáticas, "toda a história
+matemática pode interpretar-se como a batalha pela
+supremacia entre esses dois conceitos". Narealidade,
+quando se fala de aprendizagem, que é um caso particular
+de desenvolvimento, não se deve dizer - é nosso
+entendimento - simplesmente que não é um processo
+contínuo. Nós entendemos que na aprendizagem há dois
+tipos de mudanças: quantitativas (que caracteriza a
+continuidade no processo de desenvolvimento) e as
+qualitativas, as intermitências, os chamados saltos
+qualitativos (que caracteriza a descontinuidade desse
+desenvolvimento). Ao falar em uma dessas categorias
+isolando-a uma da outra age-se metafisicamente, pois, na
+realidade, a existência de uma implica a existência da
+outra. Porexemplo: a lei de classificação periódica dos
+elementos químicos exibe muito bem essa ligação: a
+qualidade dos elementos químicos depende da
+quantidade da carga positiva do núcleo de seu átomo. A
+unidade da quantidade e da qualidade chama-se medida,
+isto é, aquele intervalo dentro do qual o objeto, o
+processo, continua com sua própria identidade. Quando
+há quebra dessa medida, surgue a intermitência, o
+chamado salto qualitativo, o surgimento de um novo
+
+desenvolvimento. Exemplificando: considere a água. A
+
+NEMOC - NÚCLEO DE EDUCAÇÃO MATEMÁTICA OMAR CATUNDA
+
+Folhetim Educ. Mat., Ano 9, n. 106, jan. /fev. 2002 - Editores: Carloman e Inácio - Secretária: Josenildes Oliveira
+Venas Almeida - Editoração: Evandro Vaz e Nivaldo de Assis - Impressão: Imprensa Gráfica Universitária Periodicidade: bimestral - Tiragem: 1.900 exemplares - Distribuição gratuita - Endereço: Av. Universitária,
+s/n - km 03 - BR 116 - Campus Universitário - Telefone: (75)224-8115 - Fax: (75)224-8086 - CEP: 44031-460 - Feira
+de Santana - Ba - BRASIL - E-mail: nemocQuefs.br
+
+
+
+Folhetim Educ. Mat., Ano 9, n. 106, p. 3, jan. / fev. 2002.
+
+DS e E ED SS RE PAM NEED SR pao
+
+sua medida é repreentada pelo intervalo entre 0º e
+100º C. Dentro desse quadro a água continua sendo
+aquele líquido saboroso e tão importante para à vida
+humana. Quando há violações dessa medida isto é,
+quando a temperatura desce abaixo de zero, ela solidifica-se e quando ultrapassa os 100º Cela passa ao estado
+de vapor. Tanto na solidificação como na vaporização há
+o surgimento de novas propriedades. Que são os famosos
+estágios de Piaget, sensório-motor, período simbólico,
+período de operações concretas, senão medidas de
+desenvolvimento da criança” A arbitrariedade desses
+estágios seria um bom ponto para discussão. No que diz
+respeito ao ensino da matemática, particularmente, do
+ensino da Geometria, seria de bom proveito a tradução
+para o Português de alguns livros específicos escritos
+pelo jácitado Hans Freudenthal. No mínimo ele serviria
+para ser colocado frente a frente com Piaget. Ele foi um
+crítico ferrenho não apenas da chamada matemática
+moderna (defendida por Piaget) mas, igualmente, de
+muitas das teorias de Piaget. Ele chega mesmo a afirmar
+que alguns conceitos básicos da matemática, como o de
+espaço (topológico, euclidiano e projetivo), bem como o
+de número, em seu duplo aspecto de ordinalidade e
+cardinalidade não foram compreendidos por Piaget. Essa
+incompreeensão, se estende até ao conceito de
+transformação, tão importante, do ponto de vista da
+prática pedagógica. Emnosso entendimento, precedendo
+o ensino da Geometria, devem ser propostas algumas
+perguntas: como são elaborados os conceitos
+geométricos? Trata-se de uma elaboração diferente
+daquela empregada pela mente para formar alguns
+conceitos aritméticos? Na formação de tais conceitos,
+
+qual a importância dos conceitos de continuidade e
+
+descontinuidade? A formação deles obedece a uma
+idade cronológica? Será que ela pode ser antecipada
+através de ensinamentos apropriados? Essa última
+pergunta é de grande importância na prática pedagógica.
+Citoumexemplo: alguns colégios - por sinal, aqueles que
+se consideram os melhores - proibem, terminantemente
+aos pais o ensinamento aos seus filhos de algo que vai ser
+ensinado em séries posteriores, mesmo que a criança
+esteja "ardendo" de curiosidade, e seja do tipo hiperativa.
+Ante tamanho disparate, somos inclinados a concordar
+com Piaget: "não sou responsável pelas aplicações
+pedagógicas de minhas teorias". As perguntas formuladas
+vêmpreocupando muitosespecialistas. Há algumas poucas
+dezenas de anos, um casal holandês Pierre van Hiele e sua
+esposa Dina van Hiele tentaram respondê-las.
+Aconselhamos a leitura do artigo: La pensée del'enfantetla géometrie. Bulletin de !' Association de Professeurs de
+Mathematiques de 1" Enseignement Public, 38º Anée (nº
+198, 1959, escrito por Pierre van Hiele. Como eles eram
+professores de Geometria vale a pena mencionar algumas
+de suas teses. O modelo van Hiele sobre o ensino da
+Geometria era muito empregado na década de 60 na
+então União Soviética que chegou até mesmo areformular
+o currículo dessa disciplina para adaptar-se a ele. Na
+década de 70, Hans Freudenthal, professor dos van Hiele
+em Utrecht faz menção do modelo, em seu livro
+Matemática como Tarefa Educacional (não traduzidoem
+Português).
+Abaixo o modelo de van Hiele:
+
+Nível 1: Reconhecimento Visual, isto é, o aluno
+
+reconhece globalmente as figuras geométricas, sem
+identificar claramente suas propriedades. Prevalece a
+
+aparência físicadas figuras. Assim são comuns as situações
+
+
+
+Folhetim Educ. Mat., Ano 9, n. 106, p. 4, jan. / fev. 2002.
+
+como: "esta figura é um círculo porque parece com um
+círculo", com esse nível identificamos uma coisa
+corriqueira em qualquer outro tipo de conhecimento. Por
+exemplo: ao ouvirmos uma peça musical de Mozarte, em
+seguida, outra peça de Bethoven, sabemos, em seguida
+e sem nenhum conhecimento musical mais refinado,
+identificar, numa nova audição, qual a peça de Mozart e
+quala peça de Bethoven. Nível 2: Análise, o aluno já é
+capaz de analisar propriedades de figuras geométricas,
+porém é incapaz de estabelecer inter-relações e
+consegiientemente não compreende ainda as definições.
+Exemplo: ele sabe que o quadrado possui quatro lados
+iguaise quatro ângulos iguais. Nível3: Dedução Informal.
+Este nível, também é conhecido como Ordenação. O
+aluno sabe estabelecer inter-relações entre as figuras
+geométricas. Compreende definições. mas não domina
+ainda o processo dedutivo. Ele é capaz de afirmar: que
+todo quadrado é umretângulo, e que todo retângulo é um
+paralelogramo. Ele sabe discernir que um quadrado é um
+retângulo porque tem todas as propriedades de um
+retângulo. Ele já é capaz de compreender o raciocínio
+baseado em inclusão de classes: se B está dentro de A,
+e C dentro de B, então C está dentro de A.
+Compreendendo oraciocínio por inclusão de classes, ele
+deve compreender algumas inferências da lógica de
+Aristóteles, que é a lógica da inclusão de classes. Pode,
+também, trabalhar com os diagramas de Euler-Venn.
+Nível 4: Dedução. O aluno compreende o processo
+dedutivo. Sabe o que é uma condição necessária e a
+distingue de uma condição suficiente. É capaz, ainda, de
+acompanhar uma demonstração, porém não valoriza o
+rigor matemático. Ele é capaz de relacionar o teorema
+sobre a soma dos ângulos internos de um triângulo com
+
+o postulado das paralelas. Nível 5: Rigor. Neste nível ele
+
+compreende a importância do rigor chegando mesmo à
+análise de geometrias não euclidianas. Este nível poderia
+ser chamado, também de nível de abstração. O aluno
+generaliza, sabe conceituar porque sabe elaborar classes
+de equivalência. Obsevações Gerais: tanto o próprio van
+Hiele como os outros pesquisadores adeptos desse modelo
+convergem para o ponto de vista de que no curso médio
+ounocurso fundamental é praticamente impossível atingir
+onível5,onível dorigor. Assim,os próprios van Hiele se
+dedicaram mais aprofundar os outros níveis; as principais
+propriedades do modelo são: a) Segiiência ou
+Hierarquia. Para atingir certo nível o aluno deve passar
+pelos níveis anteriores. Não adianta "queimar" etapas.
+Ante umnovonível, ele somente terá sucesso se assimilou
+as estratégias dos anteriores; b) "A progressão(ounão)
+de um nível para outro depende mais do conteúdo e
+dos métodos de instrução recebidos do que da idade.
+Nenhum método de ensino permite ao aluno pular um
+nível; alguns métodos acentuam o progresso, ao passo
+que outros o retardam ou até impedem a passagem de um
+nível para o outro. Van Hiele salientou que é possível
+ensinar ao 'aluno de talento habilidades que estejam
+acima de seu nível, assim como se podem treinar
+crianças novas na aritmética das frações sem lhes dizer o
+que significam as frações ou treinar crianças mais velhas
+em diferenciar e integrar, embora não saibam que são
+diferenciais e integrais! (Freudenthal, 1973, p.25).
+Exemplos de geometriaincluem a memorização de fórmulas
+de áreas ou relações como 'um quadrado é umretângulo".
+Em situações como essa o que ocorre é que a essência do
+assunto é reduzida a um nível inferior e não há
+compreensão”. (Mary L. Crowley: o modelo van Hiele
+
+de desenvolvimento do pensamento geométrico);
+
+c)Lingiiístico. Significa que cadanível possui sua própria
+
+
+
+Folhetim Educ. Mat., Ano 9, n. 106, p. 5, jan. / fev. 2002.
+
+E PE EEE ATO REDE a
+
+linguagem. Assim, quando o aluno, emumnível falaem
+ângulos congruentes referindo-se a ângulos de mesma
+medida é porque, no nível básico, ele empregava a
+expressão "iguais"; d) intrínseco e extrínseco. Aquilo
+que estava implícitoem umnível é explicitado no próximo
+nível. Isto concorda com o conhecimento científico, o
+qual, para muitos especialistas, é um explicitamento do
+que se encontra implícito. Muitas conclusões interessantes
+podem ser inferidas do modelo de van Hiele. Quando há
+excesso de memorização e repetição, por parte do aluno,
+significa que o ensino esta sendo dado emnível superior.
+Neste caso, não pode haver entendimento. É importante
+salientar: o progresso do aluno se acha ligado mais à
+instrução recebida e menos à idade ou, maturidade. A
+maior parte das dificuldades encontradaspelo aluno no
+respeitante à geometria parece concentrar-se em
+dificuldades lógicas, dificuldades no entendimento das
+demonstrações. Se nos dermos ao trabalho de mausear
+alguns manuais antigos, escritos por Ari Quintela ou
+mesmo por Jácomo Stávale, paraos 3ºe 4º anos ginasiais
+(atualmente equivalentes às 7º e 8º séries do ensino
+fundamental) nos deparamos, logo nas primeiras páginas
+com definições, demonstrações, isto é, como processo
+dedutivo. Ora, nessas séries dificilmente aluno encontraseno nível de dedução de van Hiele. O aluno encontraseem um nível abaixo do ensino, no qual a geometria é
+ensinada. Resultado: na melhor das hipóteses, surge a
+memorização e na pior, a rejeição completa a essa
+disciplina para o "resto da vida”... Nonível de dedução
+informal, nível no qual o aluno já compreende a inclusão
+de classes, ele possui a possibilidade de entender uma
+demonstração silogística, bem no estilo de Aristóteles.
+
+Ele deve ser iniciado nessa direção e questões como esta,
+
+exemplificando: 1) todos os retângulos têm diagonais
+iguais entre si. 2) todos os quadrados são retângulos.
+3) Conclusão: todos os quadrados têm as diagonais
+iguais entre sinão devemcausar-lhe maiores dificuldades.
+Aqui talvez seja "melhor" conservar o termo "igualdade"
+em lugar de "congruente" - porque provavelmente, o
+aluno não esteja firme em relação ao princípio de
+identidade A = A, pois tal embaraço ainda pode ser
+identificado em alunos do 3º grau de nossas universidades.
+Como uma boa parte das demonstrações silogísticas na
+geometria obedece a esse esquema, ele deverá ser
+empregado aexaustão. Muitos autoresachamconveniente
+o emprego de coordenadas cartesianas (geometria
+analítica) no ensino dessa disciplina. Aqui, talvez seja
+necessário estar seguro da concepção de espaço do
+aluno: para muitos o espaço é o lugar no qual nos .
+movimentamos (concepção de Aristóteles).Os gregos,
+com Aristóteles à frente, não se referem a espaço mas a
+lugar de uma coisa. Por exemplo: o espaço desta sala
+seria a totalidade dos lugares possíveis de serem ocupados
+por uma determinada coisa. Trata-se de um conceito
+dependente de algum conteúdo. A independência do
+conceito de espaço de qualquer conteúdo pode ser
+creditada a Descartes quando,no século XVII, juntamente
+com Fermat criou a Geometria Analítica. As demais
+generalizações desse difícil conceito são originárias daí.
+Assim, o espaço deixa de ser um simples receptáculo
+(atenção: muita gente grande ainda conserva essa
+concepção errônea...) para tornar-se um sistema no qual
+um evento pode ser perfeitamente identificado. Essa
+definição abstrata de espaço possibilitou, como já
+
+escrevemos, suas diversas generalizações. A geometria
+
+estuda as propriedades de figuras imersas em um
+
+
+
+Folhetim Educ. Mat., Ano 9, n. 106, p. 6, jan. / fev. 2002.
+
+ARES PÇ PPT SS ie
+
+determinado espaço. Assim, as propriedades do triângulo
+são diferentes quando estudadas em espaço diferentes.
+No espaço euclidiano a soma dos seus ângulos internos
+medem 180º, enquanto no espaço de Riemann pode
+
+medir mais do que 180º. e
+
+Z
+
+Pergunte que o NEMOC Responde é uma
+
+coluna de autoria do prof. Dr. Carloman Carlos
+Borges e objetiva atingir ao público interessado em
+Matemática nos seus múltiplos aspectos.
+
+Caso o leitor queira fazer alguma pergunta
+
+escreva-nos.
+
+NOTÍCIAS
+
+Foi realizado entre os dias 09 e 12 de janeiro
+
+o IX SECIM - Seminário de Ciências e Matemática.
+O evento ocorreu na UESB - Universidade do
+Estado da Bahia, como parte das atividades do
+PROCIEMA - Programa de Ensino de Ciências e
+Matemática.
+Como tema "Formação do Educador Frente a
+Novos Desafios", foram realizados mini-cursos, mesas
+
+redondas, palestras, dentre outras atividades.
+
+E com satisfação que tivemos a boa notícia da
+
+aprovação do nosso projeto "A Matemática do Século
+
+XXT", submetido à apreciação aa SEMTEC/MEC.
+Trata-se de um curso de aperfeiçoamento de
+
+professores do Ensino Médio, em exercício, dentro do
+
+projeto PRÓ-CIÊNCIAS. As atividades serão
+
+desenvolvidas na cidade bahiana de Lençóis, onde a
+UEFS tem um campus avançado, através do Nemoc e
+
+sua equipe.
+
+A SBM, Sociedade Brasileira de Matemática,
+
+lançourecentemente várias publicações:
+* Exame de Textos: Análise de Livros de
+Matemática para o Ensino Médio
+* Temas e Problemas
+* Matemática e Ensino
+* Episódios da História Antiga da Matemática
+Essas e outras publicações da SBM encontramse em nosso Núcleo (ver endereço na página 2).
+
+PRÓXIMO NÚMERO
+
+Aguardem!
+
+NÚMEROS ATRASADOS
+
+Envie para cada folhetim um selo de postagem nacional de 1º porte. Dentro de no máximo
+quatro semanas, contadas a partir da data de recebimento do seu pedido, você estará recebendo os
+folhetins solicitados.
+
+OBS.: É permitida a reprodução total ou parcial
+
+desse folhetim, desde que citada a fonte.
+
+ERRATA
+
+No Folhetim 105:
+pág. 5, Pergunte que o NEMOC Responde, 1º coluna,
+
+2º linha, onde se lê aconte, leia-se acontece.
+

@@ -1,0 +1,426 @@
+FOLHETIM DE EDUCAÇÃO
+MATEMÁTICA
+
+Folhetim Educ. Mat., Feira de Santana, Ano 19, Número 168, set./out., 2012
+
+UNIVERSIDADE
+ESTADUAL DE
+FEIRA DE
+SANTANA
+
+ISSN 1415-8779
+
+OBJETIVO
+
+Este Folhetim é um veículo de divulgação,
+circulação de ideias e de estímulo ao estudo e
+à curiosidade intelectual. Dirige-se a todos
+os interessados pelos aspectos pedagógicos,
+filosóficos e históricos da Matemática. Pretende construir uma ponte para unir os que
+estão próximos e os que estão distantes.
+
+EDITORIAL
+
+Dando continuidade à transcrição das notas intituladas “A Matemática: suas origens,
+seu objeto e seus métodos - Parte 1”, de autoria do professor Carloman, neste número, veremos as Demonstrações Indiretas. O texto
+basicamente é apresentado por meio de exemplos de aplicação da tautologia que estabelece
+a equivalência entre a implicação da hipótese
+para a tese e a falsidade da conjunção entre
+a hipótese e a negação da tese. Os exemplos
+são ricos e abrangentes, e vão desde propriedades dos números racionais e irracionais,
+passando por propriedades dos números primos. Outra equivalência lógica, a contrapositiva da condicional, também é ilustrada com
+vários exemplos da teoria dos números, conjuntos e geometria.
+
+COMITÊ EDITORIAL
+
+Carloman Carlos Borges (UEFS) - in memoriam
+Inácio de Sousa Fadigas (UEFS)
+
+Marcos Grilo Rosa (UEFS)
+
+Trazíbulo Henrique (UEFS)
+
+PERGUNTE QUE O NEMOC RESPONDE
+
+A Matemática: suas origens, seu objeto e seus
+métodos (continuação)
+
+Carloman Carlos Borges
+
+4. Demonstrações indiretas
+
+Algumas das demonstrações indiretas podem ser justificadas
+pela tautologia:
+
+(H>NSI[(HAST) > f] cuja tabela-verdade damos
+abaixo:
+
+HITIHST|/NST|HANSTI£ (HAND>ti(HS>TS
+(HASTD > f]
+
+VIV AY F F F V AY
+
+VIF F vV AY F F AY
+
+FIV V F F F V AY
+
+FI F V V F F V V
+
+Alguns exemplos servirão para ilustrar o emprego dessa
+importante tautologia.
+
+Exemplo 1. Sendo a um número racional e b um número
+irracional, mostre que:
+
+i) a + b é irracional
+ii) a - b é irracional (a £ 0)
+
+Para (i), temos,
+
+us & racional
+b, irracional
+
+TP: a+béirracional =“ T: a+b é racional
+Consideremos, ainda:
+
+P:HANST Tt
+
+Demonstração: N = a + b (um número racional, conforme
+
+H'), donde concluímos N - a = b; ora, como N é racional e a,
+igualmente, N - a é um número racional (a diferença entre dois
+
+
+
+Folhetim Educ. Mat., Feira de Santana, Ano 19, Número 168, p.2, set./out., 2012
+
+racionais é um racional); logo, N - a = b representa uma contradição pois, no primeiro membro
+temos um número racional, N - a, enquanto
+no segundo membro temos b, que é irracional.
+Conforme a tautologia em estudo, concluímos
+definitivamente: a + b é um número irracional.
+
+q
+
+A demonstração de (ii) é inteiramente análoga.
+
+Exemplo 2. Mostre que n é um número
+irracional, toda vez que o número n não seja O
+quadrado de outro número natural. Temos:
+
+H À nm, m um número natural
+
+= vn
+
+T. x éirracional = T: x é racional
+Consideremos, ainda:
+HF: HANST T':f
+
+Demonstração: «x = yn = F é racional (conforme H'; aqui, p e q são dois números inteiros,
+primos entre si). Elevando ambos os membros ao
+quadrado e transpondo q? ao primeiro membro,
+obtemos nq? = p2.
+
+Mostremos, agora, que nq? = p?, que é o nosso
+7º representa uma contradição. Realmente, devido ao sinal de igualdade, os dois números nq2 e
+p? quando decompostos em fatores primos deverão
+coincidir, isto é, a representação de nq? como produto de fatores primos deverá apresentar os mesmos fatores primos da representação de p? quando
+escrito como produto de fatores primos. Cada
+número primo deve aparecer um número par de
+vezes na decomposição tanto de p? como de q?
+(pois ambos os números p e q estão ao quadrado)
+e isto significa que a mesma coisa deverá ocorrer
+na decomposição de n, o que implica ser n um quadrado perfeito, contrariando, portanto H. Logo,
+de acordo com a tautologia, /n é um número irracional toda vez que n não for um quadrado perfeito. Observação: na demonstração acima empregamos
+
+o chamado “Teorema Fundamental da Aritmética”:
+“Todo número inteiro N maior do que 1, pode ser
+decomposto em um produto de fatores primos, e esta
+decomposição é única, a menos da ordem dos fatores”.
+
+Exemplo 3. Mostre que v2 + 5 é um número
+irracional. Temos:
+
+H: v=v2+5;
+
+T: x éirracional sv T:a é racional
+Seja ainda:
+
+HF. BAT Tt
+
+Demonstração: seja
+
+x = 2 + 5 um número racional (conforme H').
+«2 — 7 4 2N10 (elevando ao quadrado)
+
+Ora, «2 — 7 + 2V10 representa uma contradição
+pois, x? é racional (o quadrado de todo número
+racional é um número racional), enquanto 7 + 210 é
+um número irracional conforme exemplos 1 e 2, logo
+
+acima. Assim, a demonstração está terminada.
+
+Exemplo 4. Mostre que existem infinitos números
+primos. Temos:
+
+H: seja C o conjunto dos números primos p4, po,
+p3, etc.;
+
+T: Cé um conjunto infinito =“ T:Cé finito
+Consideremos, ainda:
+HF. BAT Tt
+
+Demonstração: conforme Hº', C é um conjunto
+finito de números primos, isto é, C é um conjunto
+formado dos únicos números primos py, p2,... Pn;
+então, há sentido formar-se o número N = (pj - po -...
+“ Pn) + 1; a análise de N nos leva a uma contradição,
+senão vejamos:
+
+NEMOC - NÚCLEO DE EDUCAÇÃO MATEMÁTICA OMAR CATUNDA
+
+Folhetim Educ. Mat., Feira de Santana, Ano 19, Número 168, set./out. 2012 - Editores: Inácio, Grilo e Trazíbulo Digitação: Josenildes Oliveira Venas Almeida e Manoel Aquino dos Santos - Editoração: Evandro Vaz e Nivaldo Assis
+
+- Impressão: Imprensa Gráfica Universitária - Periodicidade: bimestral - Tiragem: 1.500 exemplares - Distribuição
+
+gratuita - Endereço: Avenida Transnordestina s/n, Módulo Prof. Carloman Carlos Borges, bairro Novo Horizonte, Feira
+de Santana, BA, Brasil. CEP 44.036-900. - Telefone: (75)3161-8115 - Fax: (75)3161-8086 - E-mail: nemocQuefs.br Home-Page: www.uefs.br/nemoc
+
+
+
+Folhetim Educ. Mat., Feira de Santana, Ano 19, Número 168, p.3, set./out., 2012
+
+a) N é, claramente, maior que 1 (estamos considerando apenas os números primos positivos);
+
+b) N é maior que cada um dos pi;
+
+c) N não é um número primo, pois ele é diferente e
+maior do que cada um dos p; existentes;
+
+d) N não sendo um número primo, pode ser decomposto num produto de fatores primos, conforme
+Teorema Fundamental da Aritmética;
+
+e) Como N - 1 é divisível por cada um dos p;, isto
+significa que N não o é e, conforme (d), na decomposição de N há de aparecer um número primo diferente de cada um dos p;.
+
+Esta contradição demonstra o teorema de que
+existem infinitos números primos.
+
+Exemplo 5. Aqui, empregamos a equivalência:
+HSDes(NT>"H)
+
+Considere o teorema: “Se x2 é divisível por 5 então,
+ax também o é”. Temos:
+
+H: «2 é divisível por 5;
+
+T: x é divisível por 5;
+
+=P: x não é divisível por 5;
+
+= H: «2 não é divisível por 5.
+
+Podemos, pois, escrever a equivalência:
+
+“Se x? é divisível por 5, então, x também o é”.
+
+ip
+
+“Se x não é divisível por 5, então, x? também não
+AD
+
+oe.
+
+Neste caso, temos:
+
+v= 5n+1 = 5p41
+v= 5n+2 = 5p+2
+= v= 5n+83 -H vw = 5p+3
+= 5n+4 x — 5p+4
+
+n e p são números naturais.
+
+Demonstração: temos que considerar, separadamente, cada um dos quatro tipos da hipótese (» T)
+e verificar se, partindo daí, chegamos a um dos tipos
+representados pela tese (no caso » H). Assim, de
+v=>ôon+1 vem:
+
+x -925n24+10n+1=5(5m2+2n)+1=5p+41
+(fazendo 5n2 + 2n = p)
+
+De x = 5n + 2, vem:
+
+x = 25m? +20n4+4=5(5nº+4n)+4=5p+4
+
+De x =5n+3, vem:
+
+x — 25nº +30n+9=5(5nº + 6n +11) +4=
+op + 4
+
+Finalmente, de q = 5n + 4, tem-se:
+
+x = 25nº + 40n +16 =5(5n2+8n+3)+1=
+op +1
+e a demonstração está terminada.
+
+Exemplo 6. Considere a definição: “no plano euclidiano, duas retas AB e CD são paralelas se, e somente se, sua interseção é vazia”. Consideremos a
+figura abaixo:
+
+Seja a hipótese: “os ângulos 1 e 2 são iguais entre
+si”; tese: “as retas AB e CD são paralelas”. Temos:
+
+ms T: AB e CD se intersectam em T;
+
+ H: os ângulos 1 e 2 são diferentes entre si.
+
+Demonstração: no triângulo PQI, o ângulo 2 é
+interno, enquanto que o ângulo 1 é exterior; logo, a
+medida de 1, isto é, m(1) é maior que m(2) pois “a
+medida do ângulo externo de um triângulo é igual à
+soma das medidas dos dois ângulos internos não adjacentes” (prove este teorema): esta contradição prova o
+teorema, conforme a equivalência usada no exemplo 5.
+
+Exemplo 7. Sejam A, Be C três conjuntos, f
+uma aplicação de A dentro de B e g uma aplicação
+de B dentro de C. Demonstre: se gof é injetora então
+f é injetora.
+
+No teorema direto temos:
+H: gof é injetora;
+
+T: f é injetora.
+
+então, podemos escrever:
+e T: f não é injetora;
+
+- H: gof é não injetora.
+
+Demonstração: se f não é injetora então, por
+definição, existem em A dois elementos a e a” com a
+mesma imagem y por f, donde se conclui que a e a!
+terão mesma imagem g(y) por gof, o que implica a
+função composta ser não injetora.
+
+
+
+Folhetim Educ. Mat., Feira de Santana, Ano 19, Número 168, p.4, set./out., 2012
+
+Exemplo 8. Sejam E; e E» dois espaços métricos
+com as distâncias respectivas di e do; então, uma
+aplicação de E, dentro de E5 é uniformemente
+contínua se, para todo e > 0, existe a > O tal que,
+quaisquer que sejam x' e x” dentro de Hj, tem-se:
+
+di(a,1) <a > do(a), fa) <e
+
+Esta definição é equivalente à seguinte: seja f
+uma função real (pode ser complexa também) definida sobre um intervalo I. A função f é uniformemente
+contínua dentro de I se, parace > 0, existe a > 0, tal
+que
+
+lu—-x|<a, vel =>I|fo)-fHa)|<e
+
+É evidente que uma função uniformemente
+contínua dentro de E, é contínua em todo ponto de
+E,, porém, a recíproca é falsa. Por exemplo: seja a
+função f(x) = «2, a qual é contínua para qualquer
+x real, porém, esta função não é uniformemente
+contínua dentro de R. Temos:
+
+H: f é contínua para qualquer x real;
+
+T: f não é uniformemente contínua para qualquer
+x real;
+
+ms T: f é uniformemente contínua;
+
+ H: f não é contínua.
+
+Demonstração: na definição acima basta fazer
+e = 1; existirá, então, um número a > 0 tal que:
+
+lr—-x'|<a, va eR, =>|72-12|>1
+Façamos « = La! = 1 +84. , Fem-se lg = 2 =
+“<a eltcat=|s-(D+S+Dl=1+G>1.
+
+Exemplo 9. A propriedade mais importante dos
+números reais provavelmente é a seguinte: “Se C é
+um conjunto não vazio de números reais e C está acotado superiormente, então, C tem uma cota superior
+mínima”.
+
+Teorema: Seja IN o conjunto dos números naturais. Mostrar que IN não está acotado superiormente.
+Temos:
+
+H: seja IN o conjunto dos números naturais;
+
+T: IN não está cotado superiormente;
+
+ms TP: N está acotado superiormente. Façamos:
+
+HF: (HANST) Tt
+
+Demonstração: admitamos que IN esteja acotado
+superiormente; como IN é diferente do conjunto vazio,
+ele possui uma cota superior mínima a. Logo,
+
+a >n, para qualquer n pertencente a IN (definição
+de cota superior mínima ou supremo — sup);
+
+a > n+1, (igualmente, consequência do item
+anterior).
+
+Ora, seja a > n+1 para qualquer n natural e como
+n + 1 pertence a IN, podemos escrever: a-—- 1 >n
+para qualquer n natural, o que mostra ser o número
+a — 1 também, uma cota superior de IN, o que entra
+em contradição com o fato admitido de ser a a cota
+superior mínima.
+
+Exemplo 10. Para quaisquer a e b reais positivos,
+existe um número inteiro natural n pertencente a IN,
+tal que an > b. Temos:
+
+H: ae b reais positivos, n € IN;
+
+T.an>b «“T:an<b
+
+Façamos:
+
+P:(HAST Tt
+
+Demonstração: consideremos o conjunto A dos
+“múltiplos positivos” de a, isto é:
+
+A = (nal; ora, da hipótese (isto é, de » T), concluímos ser A majorado por b, donde existe s = sup À.
+
+Podemos, pois, escrever:
+
+(YVneN),(n+1l))a<s=>na<s-—a, o contradiz
+o fato de ser s = sup À.
+
+PRÓXIMO NÚMERO
+
+A Matemática: suas origens, seu objeto e seus
+métodos. (Continuação)
+
+NOTÍCIAS
+
+Simpósio Nacional da Formação do Professor
+de Matemática
+
+No período de 27 a 29 de setembro de 2013, a SBM e o
+PROFMAT realizarão em Brasília-DF, o 1º Simpósio
+Nacional da Formação do Professor de Matemática.
+O evento oferecerá um programa diversificado de atividades voltadas para a formação e atualização do
+professor de Matemática na Escola Básica, incluindo
+Conferências, Minicursos, Oficinas e Comunicações. O
+Simpósio propiciará, igualmente, um fórum para discussão de temas atuais e relevantes para a comunidade
+da Escola Básica. Maiores informações no endereço
+http: //simposio.profmat-sbm.org.br.
+
+NÚMEROS ATRASADOS
+
+Envie para cada Folhetim um selo de postagem nacional de 1º porte. Dentro de no máximo quatro semanas,
+contadas a partir da data de recebimento do seu pedido, você receberá os folhetins solicitados. OBS.: É
+permitida a reprodução total ou parcial deste Folhetim, desde que citada a fonte.
+

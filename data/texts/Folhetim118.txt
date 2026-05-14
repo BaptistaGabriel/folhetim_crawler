@@ -1,0 +1,299 @@
+FOLHETIM DE EDUCAÇÃO
+
+UNIVERSIDADE
+ESTADUAL DE
+
+MATEMÁTICA gps
+
+Folhetim Educ. Mat., Ano 10, n. 118, jan. / fev. 2004
+
+ISSN 1415-8779
+
+OBJETIVO
+
+Este Folhetim é um veículo de divulgação,
+circulação de idéias e de estímulo ao estudo e à
+curiosidade intelectual. Dirige-se a todos os
+interessados pelos aspectos pedagógicos,
+filosóficos e históricos da Matemática. Pretende construir uma ponte para unir os que
+
+estão próximos e os que estão distantes.
+
+EDITORIAL
+
+O presente Folhetim é uma continuação e
+extensão dos asuntos tratados no Folhetim 117.
+Desta vez são investigadas as podárias da
+parábola em relação a um ponto situado na sua
+diretriz, mais precisamente na intesecção da
+diretriz da parábola com seu eixo.
+
+A partir dessa investigação, surge a relação
+entre cissóides e estrofóides.
+
+Aproveitamos para nos desculpar diante de
+nossos leitores pela demora dosúltimos Folhetins.
+Houve problemas técnicos no nosso parque
+gráfico, e tratando-se de uma Instituição pública,
+nem sempre os problemas são resolvidos na
+
+velocidade desejada.
+
+COMITÊ EDITORIAL
+
+Carloman Carlos Borges (Doutor)
+
+Inácio de Sousa Fadigas (Mestre)
+
+PERGUNTE QUE O NEMOC RESPONDE
+
+Sobre parábolas, podárias e outras curvas
+Ea Ng a
+
+(Continuação )
+
+PODÁRIA DA PARÁBOLA RELATIVA A UM PONTO
+NA DIRETRIZ
+
+Da mesma forma que chegamos à podaria da parábola
+relativa ao seu vértice, podemos estabelecer as equações para
+outros pontos, como por exemplo, um ponto pertencente à
+diretriz d da parábola. Desta vez vamos usar apenas a curva dada
+
+pela expressão y? = 2 px e adotar p<0, como na figura 6.
+
+diretriz
+
+figura 6
+
+Por simplicidade, escolhemos o ponto da diretriz que
+também está no eixo da parábola. Designemos por (x,,0) tal
+
+ponto. Como a equação da reta tangente à parábola y? = 2 px
+
+
+
+Folhetim de Educação Matemática, Ano 10, n. 118, p. 2, jan. / fev. 2004.
+ARARUNA SA ar
+
+em função da suainclinaçãomé y=mx+ E (D),a
+m
+
+equação dareta perpendicular traçada do ponto (x,.0)
+no eixo da parábola, uma vez que x = Sa é dada por
+
+—(x+5)
+4
+
+1
+y= —— (+) , donde m = . Paraencontrar
+m
+
+a equação dos pontos R (pés das perpendiculares),
+
+substituimos a última equação em (D),
+
+=0+5) py
+
+—(x+ — É
+[ ces y Ux+5)
+
+Após as manipulações e simplificações algébricas
+
+chegamos a equação (V)
+
+Acurva podária da parábola, emrelação ao ponto
+(-5,0), dada por ( V ) com p < O é mostrada na
+figura 7, associada à parábola de equação y? = 2 px.
+Quando apresentamos a cissóide do ponto de vista
+geométrico (Folhetim 117) vimos um caso particular
+onde o pólo - sempre pertencente à base - encontra-se
+num diâmetro da base perpendicular à diretriz da parábola.
+Também mostramos que o diâmetro a da base é
+algebricamente igual a & OU seja, igual à distância do
+
+foco (5 ;0) ao vértice (0,0) da parábola. Ora, quando
+
+buscamos a equação da podária da parábolarelativa ao
+ponto de interseção da diretriz comoeixo, vimos que este
+ponto tem coordenadas (— 5.0) comp <0. Umavez que
+ás 5 concluímos que o dito ponto está no círculo
+(base), elogoa curva dafigura 7 é também uma cissóide.
+Por outro lado, se folhearmos um texto específico sobre
+curvas, ou um manual mais completo de geometria
+analítica, descobriremos que essa curvaé "muito próxima"
+
+de uma estrofóide reta. Nosso propósito agora é
+definir, encontrar a equação e traçar a estrofóide reta, e
+depois estabelecer a possível relação com a equação
+
+(V).
+
+figura 7
+
+Seja um círculo de diâmetro OA e seja uumareta
+perpendicular a OA passando pelo centro € do círculo.
+Ocírculo é a base, o ponto O é o póloe areta u é a diretriz
+
+dacurva. Cadareta que passa por O determina um ponto
+
+NEMOC - NÚCLEO DE EDUCAÇÃO MATEMÁTICA OMAR CATUNDA
+
+Folhetim Educ. Mat., Ano 10,n.118,jan./fev.2004 - Editores: Carloman e Inácio - Secretária: Josenildes Oliveira
+Venas Almeida - Digitação: Manoel Aquino dos Santos - Editoração: Evandro Vaz - Impressão: Imprensa Gráfica
+Universitária - Periodicidade: bimestral - Tiragem: 850 exemplares - Distribuição gratuita - Endereço:
+Av. Universitária, s/n - km 03 - BR 116 - Campus Universitário - Telefone: (75)224-8115 - Fax: (75)224-8086 CEP 44031-460 - Feira de Santana - Ba - BRASIL - E-mail: nemocQuefs.br
+
+se
+
+
+
+Folhetim de Educação Matemática, Ano 10, n. 118, p. 3, jan. / fev. 2004.
+ERES Da 0 ca ET DO DE AT Rg e
+
+nocírculoe outro emu (figura 8). Seja s uma dessasretas,
+M'um ponto dareta ue P um ponto no círculo. Marca-se
+na reta s um ponto Q que satisfaz a MQ = OP. O lugar
+geométrico obtido é a estrofóide reta.
+
+Parachegar à equação da estrofóide a partir da sua
+definição, novamente vamos buscar a equação polar.
+Como MQ = MO - OQ e OP = MO - MP, podemos
+escrever a definição usando OQ = MP.
+
+Aplicando o teorema da potência de um ponto em
+relação à base a um ponto M”, interseção de s com uma
+reta tangente t, temos:
+
+(OM)? =OM.M'P (E)
+
+Aplicando um conhecido teorema da geometria
+plana ao triângulo OAM"', uma vez que C é ponto médio
+de OA, podemos concluir que AM' = 2CM. Lembrando
+
+também o teorema fundamental da proporcionalidade,
+
+temos OM = MM' e OM' = 20M. Substituindo
+em ( E)e simplificando, resulta que 2(CMP = (OM) +
+
+MUCM) —(OM)?
+OM
+
++ OM.MP donde MP = . Mas do
+
+triângulo OMCtemos OM = -s e CM =0M sen6
+cos
+
+Então = OM(2sen?8-1)= —-OMcos29 ou
+
+OC
+cos6
+
+MP =—
+
+cos 28 . Fazendo OC = p ,queéoraio
+docírculo,e MP = OQ = rr teremos r = “(o )
+cos6
+que é a equação procurada em coordenadas polares.
+Para transformar em coordenadas retangulares basta
+lembrar que 1»? =x? +y?, x=rcos6 e y=rsen6 .
+
+Após as substituições e manipulações algébricas, resulta
+
+a equação (VI). A figura 9 mostra
+
+uma curva da família dada por (VI).
+y
+
+figura 9
+
+Compare agora a figura 9 com a figura 7. Se
+conseguirmos mostrar algebricamente que uma pode ser
+obtida datranslação horizontal da outra, teremos chegado
+ao nosso propósito.
+
+Se na equação ( VI ) fizermos uma translação
+
+para a direita no valor de p, teremos
+
+
+
+Folhetim de Educação Matemática, Ano 10, n. 118, p. 4, jan. / fev. 2004.
+aaa Res naD corodn > us ie RR ERRO ROSES OR E near
+
+2 2
+y = Cop) x - Q—p)'x . Atribuindo o valor
+
+p-(1x—-p) 2p-x
+E x(x+5)
+p=—* .aequaçãoacimaresultaem º =" "5",
+
+que é a mesma equação ( V ).
+Como o valor absoluto de & corresponde ao
+
+diâmetro a da base (círculo) da cissóide reta, concluímos
+que, na estrofóide retaoraio p temo mesmo valor do
+diâmetro a, ou seja, o raio da base da estrofóide tem o
+mesmo valor do diâmetro da base da cissóide. A figura 10
+
+ilustra a situação.
+
+parábola parábola
+issóide
+
+figura 10
+
+Para completar e melhor esclarecer os resultados
+anteriores, é interessante ampliar mais um pouco estudo
+da cissóide reta. Podemos classificá-la de acordo com a
+posição da diretriz emrelação à base: quando a diretriz é
+tangente à base, a cissóide é cuspidal (também chamada
+normal, perfeita, ordinária ou regular). Quando a diretriz
+não tem ponto comum com a base a cissóide é acnodal
+(também chamada achatada ou encurtada). Também se
+diz que ela tem ponto acnodal (isto é, ponto isolado).
+Quando a diretriz é secante à base, acissóide é crunodal
+e também se dizque ela tem ponto cronodal, isto é, ponto
+múltiplo. A figura 1 1 ilustra as diversas situações.
+
+Então, aestrofóide reta é umacissóideretacrunodal,
+
+quando a diretriz passa pelo centro da base. Tais curvas
+
+cissóide acnodal cissóide crunodal
+
+cissóide cuspidal
+
+figura 11
+
+podem ser facilmente obtidas através de um programa de
+computação algébrica ou numérica se na equação da
+
+cissóide (ver Folhetim 117, equação B”) fizermos
+
+1
+y=—-—(x—x), o que resultaria na equação
+m
+
+Agora é só variar adequadamente x, e p. Outra
+forma é utilizar um programa de geometria dinâmica e
+construir lugares geométricos variando a posição da
+diretriz. Voltaremos a discutir tais tecnologias no próximo
+
+Folhetim. e
+
+PRÓXIMO NÚMERO
+
+Sobre parábolas, podárias e outras curvas
+(continuação).
+Aguardem!
+
+NÚMEROS ATRASADOS
+
+Envie para cada folhetim um selo de postagem nacional de 1º porte. Dentro de no máximo
+quatro semanas, contadas a partir da data de recebimento do seu pedido, você estará recebendo os
+folhetins solicitados.
+
+OBS.: É permitida a reprodução total ou parcial
+deste folhetim, desde que citada a fonte.
+

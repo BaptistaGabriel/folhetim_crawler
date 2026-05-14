@@ -1,0 +1,353 @@
+FOLHETIM DE EDUCAÇÃO
+MATEMÁTICA
+
+Folhetim Educ. Mat., Ano 9, n. 104, set. / out. 2001
+
+ISSN 1415-8779
+
+aerea mm o O
+
+OBJETIVO
+
+Este Folhetim é um veículo de divulgação,
+circulação de idéias e de estímulo ao estudo e à
+curiosidade intelectual. Dirige-se a todos os
+interessados pelos aspectos pedagógicos,
+filosóficos e históricos da Matemática. Pretende construir uma ponte para unir os que
+
+estão próximos e os que estão distantes.
+
+EDITORIAL
+
+Desde o Folhetim de nº 100, sem dúvida um
+marco para nós, nesse desafio de escrever com
+qualidade sobre Educação Matemática, estamos
+recebendo várias correspondências de pessoas
+nacionalmente conhecidas na área, parabenizando-nos pelo trabalho. É com grande
+satisfação que recebemos tais apoios, o que nos
+incentiva a continuar produzindo os Folhetins.
+
+E, para dar continuidade ao trabalho, o
+presente Folhetim traz a segiiência do tema
+apresentado no número anterior, sobre o
+significado de paradoxo. Algumas propriedades
+dos transfinitos são apresentadas, para dar
+
+embasamento a questões ligadas a paradoxos.
+
+COMITÊ EDITORIAL
+
+Carloman Carlos Borges (Doutor)
+
+Inácio de Sousa Fadigas (Mestre)
+
+PERGUNTE QUE O NEMOC RESPONDE
+
+Pergunta. Muitos alunos perguntam qual o
+significado da palavra paradoxo e qual a relação dela
+com a matemática (continuação).
+
+R. Do que foi exposto, concluímos que o conjunto Y é
+equipotente ao conjunto X, se existe uma bijeção f de X sobre Y.
+Assim, podemos falar sobre o novo objeto matemático,
+simbolizado por card(X) ou É(X), escrevendo:
+
+card(X) = card(Y) <> X eq Y
+
+Ainda, card($))=0, número cardinal zero;card((a))=1,
+número cardinal 1. (Observar que, então 0% 1, pois não existe
+bijeção de SS sobre ((a)). Nas linhas acima já assinalamos a
+antinomia ligada à existência do conjunto de todos os conjuntos.
+Por isso, não devemos considerar que os números cardinais
+constituem um conjunto. O emprego feito por alguns autores da
+identificação de IN ao conjunto dos cardinais finitos deve
+levar em consideração essa observação. Para dois conjuntos A
+e B, pode acontecer que:
+
+1) A seja equivalente a uma parte de B; 2) B seja
+equivalente a uma parte de A; 3) ambos os casos anteriores;
+4) nenhum dos casos anteriores. O caso (3) acima, em alguns
+livros aprece com a redação: A equivalente a B. Nesse caso,
+admite-se o teorema de Bernstein: "Se A éumconjuntoequivalente
+a uma parte de B, e B é equivalente a uma parte de A, então, A
+é equivalente a B”. Vejamos, agora, algumas relações nas quais
+
+há predominância dos transfinitos.
+
+D Seja A=[123..
+Logo A C N. Por (1), tem-se: n < *N, . Igualmente,
+
+-» nj um conjunto finito.
+
+(1,2,3,...,n,n+1) está contido em (1,2,3,...), donde
+
+
+
+Folhetim Educ. Mat., Ano 9, n. 104, p. 2, set. / out. 2001.
+
+n+1 < So. A possibilidade de sern > S,, levaria a
+
+n+12 N,,o que é absurdo. Logo:
+n< BS
+
+II) So mais qualquer cardinal finito, permanece
+sempre N,. Realmente:
+(1,2,3,..,n)U (n+1,n+2,n+3,...)——
+conjunto infinito
+
+conjunto finito
+=(1,2,3,..,n,n+1,n+2,n+3,...)
+
+>>
+
+conjunto infinito
+
+HI) Provemos que . Ora,
+
+isso é evidente, pois, o conjunto dos inteiros naturais
+
+ímpares reunido ao conjunto dos inteiros naturais
+
+pares é igual ao conjunto dos inteiros naturais, isto é,
+
+,
+
+L, 3 5 AF ELA aj 11,2,3, 4,5, 1.
+Resumindo,
+
+Notl=N,
+
+So +n=S
+
+So + So =
+
+A tabela para a multiplicação:
+Noxl=NS,
+
+Soxn=NS,
+
+(So) =MxM=R,
+(No)"= So» ondenrepresenta uminteiro finito.
+
+Retornemos, agora, aos paradoxos mencionados.
+
+O Paradoxo de Burali-Forti: ele diz respeito tanto à
+cardinalidade como à ordinalidade. Consideremos a
+
+seguinte lista dos naturais:
+
+É fácil verque (1) possui o ordinal 6, vez que seu
+últimoelementoé 6a partirdo zero. Easuacardinalidade?
+
+Pelo quadro abaixo:
+O 1234 56
+RE RR Ms
+123 4 5 6 7
+
+Vemos que a cardinalidade de (1)é7(o último
+elmento da correspondência). Ao aumentarmos uma
+unidade à (1 ) teremos claramente:
+
+cardinalidade — 8
+
+ordinalidade — 7
+e, assim, sucessivamente. Ao prosseguirmos nesse
+caminho, isto é, de acrescentar sempre um elemento à
+
+(1),a diferença entre o número cardinal e o ordinal é
+
+"um". Generalizando, pode-se concluir, então, que para
+
+a ordinalidade N, tem-se N, + 1, isto é, Ny não pode
+serconsiderado como o número que fornece a totalidade
+dos inteiros naturais. Nesse raciocínio, que é de BuraliForti, háum pequeno (?) "pecado". Qualé esse "pecado"?
+Ele simplesmente postulou que propriedades válidas no
+domínio do finito permanecem igualmente válidas no
+domínio do infinito. Trata-se de uma postulação incorreta
+
+e, até mesmo, ingênua. Mas, apenas como um simples
+
+NEMOC - NÚCLEO DE EDUCAÇÃO MATEMÁTICA OMAR CATUNDA
+
+Folhetim Educ. Mat., Ano 9 ,n. 104, set. /out. 2001 - Editores: Carloman e Inácio - Secretária: Josenildes Oliveira
+Venas Almeida - Editoração: Evandro Vaz e Nivaldo de Assis - Impressão: Imprensa Gráfica Universitária Periodicidade: bimestral - Tiragem: 1.800 exemplares - Distribuição gratuita - Endereço: Av. Universitária,
+s/n - km 03 - BR 116 - Campus Universitário - Telefone: (75)224-8115 - Fax: (75)224-8086 - CEP 44031-460 - Feira
+
+de Santana - Ba - BRASIL - E-mail: nemocQOuefs.br
+
+
+
+Folhetim Educ. Mat., Ano 9, n. 104, p. 3, set. / out. 2001.
+
+sete rt cn O E sir enero
+
+exercício do emprego da aritmética do transfinito, vamos
+
+considerar a postulação correta. Mesmo assim paradoxo
+
+deixa de existir quando sabemos que (como já vimos)
+Notl=8,
+
+O paradoxo de Burali-Forti só seria verdadeiro
+caso a aritmética do finito fosse igual à aritmética do
+transfinito. Postular que propriedades válidas em um
+domínio matemático permanecem válidasem outro domínio
+matemático que seja mais geral que o anterior se constituiu
+em um princípio muito valioso em matemática. O
+desenvolvimento inicial daaritméticanota-se claramente a
+presença desse princípio. Somente quando a matemática
+atingiu estágios bem mais elevados ele foi abandonado e
+hoje é uma página virada da história dessa ciência. De
+passagem, basta lembrar que os antigos gregos sabedores
+de que umpolígonoregular pode ser facilmente quadrável,
+isto é pode ser encontrado um quadrado de área equivalente
+a ele (o quadrado), imaginavam o círculo também
+quadrável, pois este não é o limite de um polígono de n
+lados quandon cresce indefinidamente? Bento de Jesus
+Caraça, em seu belo livro Conceitos Fundamentais da
+Matemática escreve "ainda no final do século XVIII
+encontramos numa obra de Simon L'Huilier, Exposition
+élémmentaire des principes descallculs sepérieure esta
+passagem: Se uma quantidade variável, susceptível
+de limite, goza constantemente duma certa
+propriedade, o seu limite goza constantemente da
+mesma propriedade". E aquele autor acrescenta:
+"L'Huilier ganhou com essa sua obra um concurso
+aberto pela Academia de Berlim em 1784 para se obter
+uma teoria clara e precisa daquilo que se chama
+
+rm
+
+infinito em Matemática! ". Como já mencionamos, a
+existência do "conjunto de todos os conjuntos" leva à
+sérias contradições. De fato, seja U o conjunto de todos
+
+os conjuntos e P(U) o conjunto formado pelas partes de
+
+U. Logo, pode-se assegurar que & P(U) < & U pois,
+sendo P(U) um conjunto, ele é um elemento de U.
+Mas, segundo um conhecidoresultado de Cantor
+HU<HP(U); existe, aí, umaflagrante contradição. Como
+se procurava fundamentar a Matemática na Teoria dos
+Conjuntos, o surgimento de paradoxos nessa teoria
+provocou uma sériacrise entre os matemáticos, surgindo,
+daí, diversas tentativas com vistas a expurgar esses
+paradoxos. A idéia de que a matemática pudesse fundar-se a si mesma, inclusive com os recursos da lógica,
+perseguiu os matemáticos durante muito tempo. Essa
+proeza, se fosse conseguida, colocaria a matemática
+numa posição invejável, como a única ciência a
+fundamentar-se em si própria. O grande matemático
+David Hilbert alimentava tal ilusão. Num congresso em
+Munster em 1925 disse: "Se existe um problema, ache a
+solução; você pode encontrar apenas pensando, pois não
+háignorabimus em matemática". O projeto de Hilbert e
+de seus seguidores nãoeranada modesto: a) formalização
+de todo saber matemático. Com tal formalização seria
+possível solucionar todo problema matemático:
+b)empregandorecursos estritamente finitários, mostrar
+que aaxiomática implícitaem (a) é consistente. Segundo
+Walter A. Carniellie Michael Rathjen (vide Combinatória
+e Indemonstrabilidade,ouo 13º Trabalho de Hércules,
+Revista Universitária, nº 12, dezembro de 1990,23-41),
+pormeios estritamente finitários, deve-se entender meios
+“computáveis" ou "recursos no sentido das funções
+recursivas, tratadas em qualquer texto básico em
+ciências da computação". Vejamos, novamente, o
+paradoxo do barbeiro. Uma rápida aproximação dele,
+mostra-nos que ele, o barbeiro, envolve uma totalidade,
+represenatada pelos habitantes da aldeia A. Ele faz
+mesmo parte dessa totalidade. Lembre-se que ele faz a
+
+barba de todas as pessoas de A que não se barbeiam a
+
+
+
+Folhetim Educ. Mat., Ano 9, n. 104, p. 4, set. / out. 2001.
+
+SEP cc O ER SP Mi
+
+simesmas. Temos, aí, então, um conceito impredicativo,
+que é aquele conceito que exibe em sua definição o
+emprego de uma totalidade à qual ele, o conceito faz
+parte. Outro exemplo de conceito impredicativo é o de
+supremo de um conjunto de números reais como omenor
+dos majorantes. Veja que, o supremo é definido a partir
+ta totalidade à qual ele pertence e, portanto, é um
+inceito impredicativo. Pois bem, os lógicos olhampara
+'s conceitos impredicativos com desconfiança pois eles
+levam a paradoxos que conduzem à contradições como
+o Paradoxo do barbeiro e seu similar o Paradoxo de
+Russel. Felizmente, até agora, o conceito de supremo
+como mencionado acima, embora impredicativo, não
+provocou nenhuma contradição. Constitue um problema
+de grande importância nos Fundamentos da Matemática
+demarcar comrigor quais os conceitos impredicativos
+suscetíveis de gerarem contradições. O problema desses
+paradoxos pertencem aos Fundamentos da Matemática
+e daí a grande importância de que ele se reveste. Um dos
+problemas fundamentais dessa ciência continua sendo o
+de procurar uma definição unívoca para cada um de seus
+conceitos. Não se pode negar que acrise provocada pelo
+aparecimento dos paradoxos não tenha sido fecunda e
+altamente positiva ao desenvolvimento dessa ciência. Até
+omomento, devido aos esforços de lógicos e matemáticos,
+parece não terem surgidos novos paradoxos, porém,
+quem nos assegura, que no futuro não surjam novas
+antinomias? Como eles estão ligados ao problema de
+consistência da axiomática, vale a pena encerrar essas
+palavras com a seguinte frase do eminente matemático
+francês Poincaré, sobre esse último problema (o da
+consistência): "Não é suficiente para preservá-lo dos
+lobos, encerrar o rebanho no curral; há de se estar
+seguros, além disso de que dentro do curral não se
+
+encontra lobo algum". é
+
+Pergunte que o NEMOC Responde é uma
+
+coluna de autoria do prof. Dr. Carloman Carlos
+Borges e objetiva atingir ao público interessado em
+Matemática nos seus múltiplos aspectos.
+
+Caso o leitor queira fazer alguma pergunta
+
+escreva-nos.
+
+NOTÍCIAS
+
+Será ralizado de 03 a 07 de dezembro, na
+UEFS, a IV SEMANA DE MATEMÁTICA RACIOCÍNIO MATEMÁTICO: UMA QUESTÃO
+DE ESTÍMULO.
+
+Promoção:
+
+D.A. de Matemática
+
+Colegiado do Curso de Lic. em Matemática
+
+Informações:
+
+= (75)224-8233
+
+e-mail: colmat Quefs.br
+
+PRÓXIMO NÚMERO
+
+Aguardem!
+
+NÚMEROS ATRASADOS
+
+Envie para cada folhetim um selo de postagem nacional de 1º porte. Dentro de no máximo
+quatro semanas, contadas a partir da data de recebimento do seu pedido, você estará recebendo os
+folhetins solicitados.
+
+OBS.: É permitida a reprodução total ou parcial
+desse folhetim, desde que citada a fonte.
+
+ERRATA
+
+No Folhetim 103:
+pág. 2, Pergunte que o NEMOC Responde, 1º coluna,
+
+linha 27 - onde se lê previlégio, leia-se privilégio.
+

@@ -1,0 +1,345 @@
+FOLHETIM DE EDUCAÇÃO
+MATEMÁTICA
+
+Folhetim Educ. Mat., Ano 13, n. 136, jan. / fev. 2007
+
+UNIVERSIDAD
+ESTADUAL DE
+FEIRA DE
+SANTANA
+
+ISSN 1415-877
+
+OBJETIVO
+
+Este Folhetim é um veículo de divulgação,
+circulação de idéias e de estímulo ao estudo e à
+curiosidade intelectual. Dirige-se a todos os
+interessados pelos aspectos pedagógicos,
+filosóficos e históricos da Matemática. Pretende construir uma ponte para unir os que
+
+estão próximos e os que estão distantes.
+
+EDITORIAL
+
+Uma das características que difere a
+Geometria Fractal da Geometria Euclidiana é a
+possibilidade dos objetos fractais possuirem
+dimensões não inteiras. É esseo tópico principal
+abordado no presente Folhetim. Através de
+exemplos claros, é apresentado, com detalhes e
+figuras ilustrativas, como calcular a dimensão
+fractal de certos objetos. A partir da leitura,
+percebe-se que o conceito de dimensão, quando
+aplicado a objetos fractais, leva em conta outras
+características, como aspereza, espessura,
+
+textura, etc.
+
+COMITÊ EDITORIAL
+
+Carloman Carlos Borges (Doutor)
+Inácio de Sousa Fadigas (Mestre)
+
+Trazíbulo Henrique Pardo Casas (Doutor)
+
+PERGUNTE QUE O NEMOC RESPONDE
+
+ractar
+
+Dimensão. Vamos, agora, nos aproximarmos mais um pouc
+do conceito de dimensão. Da nossa experiência do dia a di:
+sabemos que um objeto de estudo se torna complexo quanto mai
+for o número de suas dimensões. Tudo indica que a complexidad
+deum objeto está ligada ao número de suas dimensões. Um exempl
+simples: o estudo dos números reais (objetos unidimensionais)
+mais simples do que o estudo dos números complexos(objetc
+bidimensionais). Imagine, agora, o ser humano, em todas as suz
+dimensões... A percepção que possuímos do mundo foi sempr
+enriquecida com o aumento do número de dimensões dos objetos d
+nosso entorno. Falávamos, até recentemente, na imersão do sc
+humanonumuniverso tri-dimensional; arelatividade geral, acrescento
+mais uma dimensão, o tempo e, assim, o espaço-tempo faz partc
+agora denossas percepções. Há mais de doismilenos, a Geometri
+Euclidiana, postulava a existência detrês dimensões para o Univers
+dando-lhe os atributos de comprimento, largura e altura. Iss
+concordava com o senso comum e, assim, persistiu até o século XX
+No final de contas era fácil visualizar o universo tridimensional (tré
+eixos perpendiculares entre si), enquanto não podemos colocar entr
+esses três eixos perpendiculares entre si, um quarto eixo que sej
+perpendicular aos outros três. A existência deuma quarta dimensã
+aparecia com alguma frequência, na ficção.
+
+Comainvenção da Geometria Analítica, Descartes conceituo
+o espaço de maneira diferente da conceituação grega. Como j
+vimos, Euclides, ao atribuir qualidades às dimensões (comprimentc
+largura ealtura) firmou-se mais à uma conceituação qualitativa dess
+conceito, enquanto Descartes, ao algebrizar os conceitos geométricc
+descrevendo os pontos (objetos geométricos) por coordenada
+(números) abre a possibilidade de uma conceituação quantitativa«
+daí, por via de consegiiência, amplia o conceito de dimensão
+
+
+
+Folhetim de Educação Matemática, Ano 13, n. 136, p.2, jan. / fev. 2007
+COMER ico e ARS O ORI ATE
+
+espaço. O próprio Aristóteles evita falar de espaço,
+quando afirma que todas as coisas possuem um lugar. A
+independência do conceito de espaço de qualquer
+conteúdo está na Geometria Analítica, invenção de
+Descartes e Fermat. Apesar da idéia de um espaço
+infinito-dimensional, jáestá implícita nadefinição cartesiana
+de dimensão como coordenadas, os matemáticos ainda
+hesitamna aceitação até mesmo de uma quarta dimensão.
+Parece queera muito difícil para eles aceitar a existência
+dealgo quenão poderia ser visualizado...
+
+Em 1854, omatemático alemão Bernard Riemann
+anunciou a ampliaçãio tanto da Geometria Euclidiana,
+quanto da Geometria Analítica - criando a conhecida
+geometria diferencial de Riemann. Ele aderiu à definição
+cartesiana de dimensão e, além disso, deu um grande
+salto ao postular a existência de uma quarta dimensão.
+Mais ainda: estava assentada a possibilidade de espaços
+de dimensões de zero ao infinito. Agora, a parte sensorial
+(comprimento, largura ealtura) da dimensão euclidiana
+estava sepultada, dando prevalência aos espaços
+conceituais de dimensões zero-infinito.
+
+A dimensão fractal. Agora, o conceito de dimensão
+é novamente enriquecido. O matemático Hausdorff, na
+segunda década do século XX fala em dimensões não
+inteiras, descritas por frações como 1/4, 1/6, etc. Alguns
+autores se limitam em falar apenas em dimensões
+fracionárias, quando, na Geometria Fractal são frequentes
+números irracionais na caracterização dimensional dos
+objetos.
+
+Cabe a Benoit Mandelbrot criador da Geometria
+Fractal, a consolidação conceitual de dimensões não
+inteiras, tanto fracionárias como representadas por
+números irracionais.
+
+Consideremos um segmento dereta (a)
+
+Folhetim Educ. Mat., Ano
+
+13, n. 136, jan. / fev. 2007 - Editores:
+Digitação: Josenildes Oliveira Venas Almeida e Manoel Aquino dos Santos - Editoração: Evandro Vaz Impressão: Imprensa Gráfica Universitária - Periodicidade: bimestral - Tiragem: 1.000 exemplares - Distribuição
+gratuita - Endereço: Av. Universitária, s/n - km 03 - BR 116 - Campus Universitário - Telefone: (75)3224-8115 Fax: (75)3224-8086 - CEP: 44031-460 - Feira de Santana - Ba - BRASIL - E-mail: nemoc(Duefs.br
+
+a ea pe ep
+
+um quadrado (b)
+
+(b)
+
+e um cubo (c),
+
+de dimensões respectivamente, iguaisa 1,23.
+
+Asfiguras logo acima ilustram que (a) está dividido em
+6 (seis) peças (b) em 16 (dezesseis) peças e (c) em 27 (vinte
+e sete) peças cúbicas (cada aresta foi dividida em 3 (três)
+peças. Temos, resumidamente que o número de peças nos
+três casos éigual, respectivamente:
+
+a) ao fator de aumento (6' ):
+b) ao quadrado do fator de aumento (4? ):
+c) ao cubo do fator de aumento (3º ).
+
+Generalizando, o número n de peças é dado por
+n =m?, onde m é o fator de aumento e D a dimensão do
+objeto em questão. É interessante observar, nesse exemplo,
+aimportância da auto-similaridade (cada peça é similar ao
+objeto do qual ela faz parte).
+
+Como vimos, a partir de Descartes, o conceito de
+dimensão começa a libertar-se de atributos, tais como
+comprimento, largura e altura (lembre-se da Geometria
+Euclidiana e como você estudou este assunto no ensino
+fundamental/médio). Com Riemann já se pode falar em
+
+NEMOC - NÚCLEO DE EDUCAÇÃO MATEMÁTICA OMAR CATUNDA
+
+Carloman, Inácio e Trazíbulo 
+
+Folhetim de Educação Matemática, Ano 13, n. 136, p. 3, jan. / fev. 2007
+
+dimensão zero, dimensão infinita; com Mandelbrot surgeo
+
+conceito de dimensão não inteira, isto é, fracionária eaté
+mesmo dimensão representada pornúmeros irracionais.
+Na fórmula n = mº, veja o aparecimento, agora da
+dimensão como um expoente. Nós estamos acostumados
+a falar: em uma linha, basta um único número para
+caracterizar um ponto, dois para uma superfície, três para
+um volume, quatro para o espaço - tempo e, assim,
+sucessivamente. Na Geometria F ractal, quando a
+caracterização de um ser geométrico é feita pelo número
+mínimo de "células" ou "hiper-cubos" necessários paraa
+sua "cobertura", o cálculo delemostra a dimensão como
+um expoente conformemostramos nas linhas acima.
+
+A fórmulan =m?, geralmente aparacenoslivros de
+
+formaequivalente D = lim log N(e)
+
+E>0 log (1/€)
+a chamam a dimensão de Hausdorff - Besicovitch ou
+dimensão fractal. Ela seaplica paraum conjunto de pontos
+A num espaço de dimensão p. Esses pontos sãorecobertos
+porhiper-cubos ou "caixas" de lado g . Paratornar mais
+concreta essa idéia, retornemos ao Conjunto de Cantor.
+
+ealgunsautores
+
+E
+ES DÓ a Se
+e e EE. o
+a ms sem — =
+
+Toma-se um segmento de comprimento unitário.
+Divide-se esse segmento emtrês partes iguais e suprimesea parte central. Faz-se a iteração da mesma operação:
+divide-se portrês cada um dos dois segmentosrestantes e
+suprimimos a parte central. O processo iterativo pode ser
+repetido indefinidamente e terminana construção de um
+conjunto infinito não enumerável de pontos desconexos.
+Claramente, nesse caso, não é possível a descrição do
+assim chamado Conjunto de Cantor em termos de
+comprimento. Mesmo antetal impossibilidade, é possível
+caracterizar o Conjunto de Cantor por meio de uma
+dimensão. Veja a ilustração desse fenômeno.
+
+Ne) &
+n = 0 eee | L
+
+da PP el AS
+
+=). mem mB. La
+n=00 2” 1/3
+
+Repetindo: N(£) éo número mínimo de "hiper-cubos"
+("caixas") delado enecessário paraa cobertura de pontos 4.
+
+Empregando a fórmula D
+D= lim Jog Ne) Ato)
+
+50 log(1/€)
+
+log 2 - og2 0,63
+log(3"/L) | l1og3
+
+tem-se: D= lim
+E>0
+
+Notar que o segmento inicial (n=0) podeser coberto
+por"hiper-cubo" ("caixa" ou, ainda, "célula" decomprimento
+unitário iguala L, dondeL =1. Aidéiaé simples: o objeto em
+estudo (no caso o Conjunto de Cantor) é recoberto com
+"caixinhas" de lado e. Em seguida, contamos quantas
+"caixinhas" foram gastasnesserecobrimento. Essa operação
+érepetida para e cada vezmenor. No limite, quando etende
+
+para zero, (D caracteriza a dimensão fractal do objeto.
+
+Observar que s 0 é o mesmo que fazer n —o0.
+Exemplo 2: Seja, agora, um segmento de reta. Veja
+ilustração abaixo:
+
+Ne) E
+
+n=0[-—>>>—>41 1&
+
+n=1-->—> 145 19
+n=2[+——+— +44 14
+n=3H + 8 188
+mas » pp
+
+Aplicando, novamente (D) 
+
+Folhetim de Educação Matemática, Ano 13, n. 136, p. 4, jan. / fev. 2007
+E ca sa OD SS E SE e e GS Sn dE
+
+D=lim log 2" / log (2" /1)]
+
+Como fazer s — 0 é o mesmo que n — «x, temos
+log(2"/L) > log 2" então D=1 resultado consistente
+com a dimensão euclidiana. Visando, ainda, aumamaior
+clareza: esse segmento dereta é coberto por "caixa" (um
+"hiper-cubo" ou "célula") de comprimento unitário L, ou
+por duas "caixas" de comprimento Z/2, ou por quatro
+"caixas" de comprimento Z/4 ou, generalizando, por 2”
+"caixas" de comprimento 7/2. Assim:
+
+De liga E rota SRD ça
+não log(2" /L) n5e (log2" log L)
+
+Exemplo 3: Veja, agora, a ilustração para uma
+superfície:
+
+Ne) E
+o aa 4 19
+n=00 a 1/9”
+
+A fórmula já nossa conhecida (1) , fornece:
+
+D= lim [log 2?" Mog(2" (DE 2 resultado também
+
+50
+
+consistente com o apresentado pela Geometria Euclidiana.
+
+Deve-se sempre terna mente que N(s) na fórmula
+
+(D é o número mínimo de "hiper-cubos" de lado £
+
+necessário ao recobrimento de todo o conjunto de pontos
+A (nos exemplos acima, respectivamente, 4= Conjunto de
+Cantor, 4= segmento de reta, 4 = uma superfície).
+
+NOTÍCIAS
+
+Já está disponível o Livro A Matemática para
+
+Todos, volumel de autoria do prof. Dr. Carloman Carlos
+Borges, conforme anunciado em Folhetins anteriores.
+O livro é uma seleção de artigos publicados na coluna
+Pergunte que o Nemoc Responde, organizado pelo
+prof. Inácio de Sousa Fadigas. O primeiro volumereúne
+textos dos seguintestópicos:
+
+- Álgebra
+
+- Funções
+
+- Números
+
+- Conjuntos e Lógica
+
+- Contagem e Combinatória
+
+- Demonstração
+
+Estamos em fase adiantada da organização do
+volume II que deverá abordar outros tópicos como:
+Cálculo, Computação, Ensino, Geometria, História da
+
+Matemática, Matemática, Probabilidade. Aguardem.
+
+PRÓXIMO NÚMERO
+Sobre Fractais (continuação).
+
+Aguardem!
+
+NÚMEROS ATRASADOS
+
+Envie para cada folhetim um selo de postagem nacional de 1º porte. Dentro de no máximo
+quatro semanas, contadas a partir da data de recebimento do seu pedido, você receberá os folhetins
+solicitados.
+
+OBS.: É permitida a reprodução total ou parcial
+
+deste folhetim, desde que citada a fonte.
+

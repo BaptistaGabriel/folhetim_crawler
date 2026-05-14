@@ -1,0 +1,377 @@
+FOLHETIM DE EDUCAÇÃO
+MATEMÁTICA
+
+Folhetim Educ. Mat., Ano 8, n. 99, fev. 2001
+
+ISSN 1415-8779
+
+OBJETIVO
+
+Este Folhetim é um veículo de divulgação,
+circulação de idéias e de estímulo ao estudo e à
+curiosidade intelectual. Dirige-se a todos os
+interessados pelos aspectos pedagógicos,
+filosóficos e históricos da Matemática. Pretende construir uma ponte para unir os que
+
+estão próximos e os que estão distantes.
+
+EDITORIAL
+
+Sem dúvida os números exercem um grande
+fascínio sobre os homens. O Triângulo de Pascal,
+e sua relação com a análise combinatória
+mostra um aspecto desse fascínio, apontando
+uma maneira prática e elementar de se determinar os coeficientes no desenvolvimento do
+Binômio de Newton. Longe de ser apenas uma
+curiosidade, encontramos também a formação
+do Triângulo de Pascal com apoio nas potências
+de 11 (de forma direta até a quarta potência). É
+esse o assunto tratado pelo presente Folhetim,
+que traz ainda uma discussão sobre os abusos
+
+de linguagem na matemática.
+
+COMITÊ EDITORIAL
+
+Carloman Carlos Borges (Doutor)
+
+Inácio de Sousa Fadigas (Mestre)
+
+PERGUNTE QUE O NEMOC RESPONDE
+
+Pergunta. Alice P. S. da Silva, de Salvador deseja
+informações acerca do Triângulo de Pascal.
+
+R. Vejamos, primeiro, o conceito de combinação de n
+objetos tomados p a p, sendo p um número natural e p <n.
+Chama-se combinação de n elementos de B (B sendo um
+conjunto não vazio comn objetos) p a p, toda parte não vazia de
+
+B tendo p elementos. As combinações de n objetos tomados
+
+n
+pap são simbolizadas por Ci = A
+
+Exemplo: Seja B o conjunto constituído dos quatro
+objetos, a, b, ce d. Teremos:
+
+Ci=ab,c,d ; Cê2=ab,ac,ad,bc,bd,cd ;
+
+Ci=abc,abd,acd,bcd ; Ci=abcd
+
+Deve-se observar que cada grupo acima contém
+somente p elementos e difere dos outros, ao menos, pela
+natureza de um elemento. É fácil mostrar que
+
+Cr=05j sendo n!=1.2.3....(n-1).n.
+
+Deve-se lembrar da convenção: 0! = 1. Ao quadro
+abaixo, denomina-se Triângulo de Pascal, nome de um
+
+matemático e filósofo francês (1623-1662):
+
+pjol1|2|3/4/5/6|7|8
+
+8
+
+0 [1
+
+EEE
+
+2 do) É na PI+ Cr,
+3 [1/3 214
+ajafafojali/ | já E
+5 |1/5[i10/10[5/1 Cc?
+6 |1/6]15/20/15 6 1] k
+7 /1/7/21/35/3521/7]1
+
+8 [1/8]/28/56/70 56 28/8/1
+
+
+
+Folhetim Educ. Mat., Ano 8, n. 99, p. 2, fev. 2001.
+
+Rn cs CE PD E ea
+
+Quem representa, por exemplo, no quadro
+acima, o elemento comum à quinta linha (n = 4)eà
+terceira coluna (p= 2)? Este número, 6, é o número de
+combinações que se podem formar com quatro elementos
+tomados dois a dois. Quantas são as combinações de 7
+elementos tomados cinco a cinco? Basta identificar o
+elemento comum à linha 8 com a sexta coluna. Esse
+elemento, é 21. Devido a essa propriedade podemos
+
+reescrevero Triângulo de Pascal da seguinte maneira:
+
+Co 1
+
+Ci Ci 11
+
+C3 Ci C2 121
+
+CS C3 C3 C5 13831
+
+Ss ChCiCi cá 14 6 41
+CG CG CC Cici 15101051
+
+Os termos de cada linha obedecem à seguinte
+lei de formação: um número qualquer desse quadro é
+igual, ao número colocado logo acima dele somado ao
+número que precede este na mesma linha. Exemplo:
+Como é formada a sétimalinha?
+Os números da sétima linha são: 1,6, 15,20, I3,
+6, 1. Para formar qualquer elemento dessa linha temos
+que nos orientar pela linha precedente (a sexta linha).
+Assim, reescrevemos as sexta e sétima linhas:
+1 5 10 10 51
+1 6 15 2015 61
+e notamos que qualquer elemento da sétima linha é
+
+igual à soma do elemento que lhe fica logo acima na
+
+sexta linha com o elemento que precede este.
+
+Exemplificando: 20 = 10 + 10; 15=5+ 10
+e assim, por diante. Essa lei de formação permite
+escrever, de uma maneira particular o seguinte:
+
+C5=Ci+Ci; Cê=CÊ+CÊ ; etc.
+e, de uma maneira geral a relação:
+
+Ch=Cha+Chã
+denominada de Relação de Stifel (1487-1567), algebrista alemão. A sua demonstração é simples: seja X
+um conjunto com n elementos e selecionemos um
+elemento x, de X. Os Cc” subconjuntos de X, com p
+elementos, podem ser divididos naqueles que contém,
+X, e nos subconjuntos que não o contém. O número
+de subconjuntos que contém X,É Ch. !, pois fixado
+X,» contamos todos os subconjuntos de p - 1 elementos
+que podem ser formados com os n - 1 elementos disponíveis. Para o número de subconjuntos que não
+contém x, Vale C!.,, pois, agora contamos subconjuntos de p elementos formados com os n - 1 disponíveis.
+
+Logo:
+
+Ch=Ch4+CR
+
+Parafraseando o exemplo logo acima: suponhamos formadas as combinações n-árias dos
+elementos
+
+E, ss eva ES
+
+Separemos essas combinações em 2 grupos:
+aquelas nas quais não figura o elemento a, daquelas
+que ocontém. Claramente o primeiro grupo é formado
+
+pelas combinações dos n - 1 elementos By 4
+
+n
+
+NEMOC - NÚCLEO DE EDUCAÇÃO MATEMÁTICA OMAR CATUNDA
+
+Folhetim Educ. Mat., Ano 8, n. 99, fev. 2001 - Editores: Carloman e Inácio - Secretária: Josenildes Oliveira Venas
+Almeida - Editoração: Evandro Vaz e Nivaldo de Assis - Impressão: Imprensa Gráfica Universitária - Periodicidade:
+mensal - Tiragem: 1.700 exemplares - Distribuição gratuita - Endereço: Av. Universitária, s/n - km 03 - BR 116
+- Campus Universitário - Telefone: (75)224-8115 - Fax: (75)224-8086 - CEP 44031-460 - Feira de Santana - Ba BRASIL - E-mail: nemocQuefs.br
+
+
+
+Folhetim Educ. Mat., Ano 8, n. 99, p. 3, fev. 2001.
+
+tomados p a p, donde seu número ser representado
+por C;., . O 2º grupo é obtido colocando-se à direita
+de a, as combinações dos n - 1 elementos seguintes
+p-lap-1, donde seu número ser representado por
+C?:1. Daí, surge a relação de STIFEL.
+
+Conforme a lei de formação citada se
+considerarmos uma linha qualquer do triângulo
+representada por
+
+l,a,b,...,ba,1 (A)
+
+a linha seguinte é
+
+Ll+a,a+b,..,b+aa+1,1 (B)
+donde se conclui: no Triângulo de Pascal, em uma
+determinada linha, os termos egjiiidistantes dos extremos
+são iguais. Ainda, a soma dos elementos contidos em (B)
+é igual ao dobro da soma dos elementos de (A). Donde
+
+C++... +Ci=7 (1)
+
+(Lembrar que, pelo Binômio de Newton:
+
+(x+a)"=C%a'x + Clay +
+
++Cia'x?2 +..+Ca'xº
+donde para x = a = 1, decorre a expressão (1) ).
+
+É curioso observar que as seguintes potências
+sucessivas de 11:
+
+(1 =]
+
+(1W'=ll
+
+(112 = 121
+
+(11) = 1331
+
+(11)* = 114641
+representam as cinco primeiras linhas do TP.
+
+Lembrar ainda que as potências sucessivas de 11
+podem ser praticamente encontradas do seguinte modo:
+escreve-se o algarismo das unidades e a ele soma-se o
+algarismo das dezenas, em seguinte o algarismo das
+dezenas é somado ao algarismo das centenas e, assim
+
+sucessivamente.
+
+Pergunta. A mesmacolega indaga se é correta
+a expressão “número decimal”.
+
+R. A expressão "número decimal" somente pode
+ser "justificada" por aquilo comumente conhecido por
+“abuso de linguagem" (AL). Aliás, os AL acham-se
+espalhados no discurso matemático. Vejamos alguns
+deles. Sabe-se que dados os conjuntos X, Y, uma função
+
+f:X —S Y é uma regra que diz como associar a cada
+
+elemento x € X um elemento y = f(x) E Y. Contudo
+geralmente falamos: seja a função y = f(x) o que é um
+“abuso de linguagem", pois, y = f(x) é um valor particular
+da função f no ponto x. Quando dizemos "grau de uma
+função" cometemos outro AL, pois, como jáexplicamos,
+função é um conjunto de instruções, uma regra que diz
+como associar cada elemento do conjunto X umelemento
+do conjunto Y. Por exemplo: a conhecida função afim.
+Qualo conjunto de instruções que a define? Multiplique
+x € X por uma constante a e ao resultado acrescente
+aconstante b. Esse é o seu conjunto de instruções, o qual
+pode ser representado analiticamente por y = ax + b, que
+é um polinômio do 1º grau.
+
+Assim, quando se fala em "grau de uma função"
+a referência, nesse caso, é para o polinômio p = ax + b
+enão para a função. Quem possui grau é polinômio. Um
+conjunto de instruções não pode possuir grau. Cuidado,
+não se deve confundir a roupa com a pessoa que a veste.
+Outros AL: "o pé da perpendicular"; "pontonoqualareta
+
+nem
+
+furao plano";"'número' em lugar de 'numeral'". Assim
+como não há "número decimal" é um abuso de linguagem
+falar ou escrever: adição de números decimais. Nós
+adicionamos números e não numerais. Como número é
+umaidéia altamente abstrata, procuramos torná-la mais
+concreta, representando-a por um sinal gráfico, que é o
+
+numeral.
+
+A palavra número deve ser adjetivada de uma
+
+
+
+Folhetim Educ. Mat., Ano 8, n. 99, p. 4, fev. 2001.
+
+maneira correta. Qual é essa maneira correta de
+adjetivação”? O adjetivo há de referir-se às propriedades
+intrínsecas do número de que estamos tratando. Por
+propriedade do número entendemos aquela propriedade,
+exemplificando, independente de sua representação. Os
+
+adjetivos natural, racional, real, complexo identificam
+
+perfeitamente de que número se trata, em qualquer base
+de numeração, enquanto a expressão "número decimal"
+éum AL. Não se deve "amarrar" o conceito de número
+à base na qual estamos trabalhando. Da mesma maneira
+quenão falamos "número quinário",nãodevemosescrever
+e nem falar "número decimal". A grande vantagem do
+emprego das expressões decimais é tornar o cálculo bem
+mais simples. O discurso matemático é cheio de abusos
+de linguagem. Enão pode ser de outra forma. Sefossemos
+levar em conta apenas origor, ele se tornaria pedante e
+até inacessível ao estudante. O importante nessa questão
+é que tais abusos sejam conscientes, a fim de que não
+paire nenhuma confusão no discurso matemático. Muitos
+livros escrevem: sejaonúmeror. =3,14. Esseéumabuso
+aserevitado, pois no primeiro membro temos um número
+irracional que é o T e no segundo membro temos um
+racionale, assim, se torna dificil"digerir"que umirracional
+é igual um a racional, mesmo em situações fora da
+matemática. O que se pode dizer nesse caso particular?
+Apenas isso: seja o número irracional tt aproximado por
+3,14. No ensino da Matemática um dos problemas
+
+pedagógicos cruciais é o problema da forma e do
+
+conteúdo. O principiante tende à apegar-se à forma,
+menosprezando o conteúdo que é representado por esta.
+Embora sabendo que um número é par quando é da
+forma 2n, ne IN, muitas vezesele se confunde quando
+afirmamos que o número 4p + 8, é par, sendo pe NN.
+Uma excelente exposição sobre o assunto pode ser
+
+encontrada em A Matemática do Ensino Médio,
+
+volume 1, soba responsabilidade de Elon Lages Lima,
+Paulo Cezar Carvalho, Eduardo Wagner e Augusto
+Cesar Morgado, Coleção do Professor de Matemática,
+
+Sociedade Brasileira de Matemática. º
+
+Pergunte que o NEMOC Responde é uma
+coluna de autoria do prof. Dr. Carloman Carlos
+Borges e objetiva atingir ao público interessado em
+Matemática nos seus múltiplos aspectos.
+
+Caso o leitor queira fazer alguma pergunta
+escreva-nos.
+
+NOTÍCIAS
+
+Acontecerá na UEFS no período de 02 a 06
+de julho, o IX EBEM - Encontro Baiano de Educação
+Matemática / 1º Fórum do Nordeste em Educação
+Matemática 2001 - Uma Odisséia na Matemática.
+
+Informações:
+
+= (75)224-8086 (Ana Cláudia)
+
+= (75)224-8070 (Jaidê)
+
+http://www uefs.br/sbemba
+
+Será ralizado de 19 a 23 de julho, no Rio de
+Janeiro, o VII ENEM - Encontro Nacional de
+Educação Matemática / Educação Matemática e
+Novas Tecnologias.
+
+Info ões:
+
+= (21)590-0940
+
+http://www .sbem.com.br
+
+http://www .viienem.ufrj.com.br
+
+PRÓXIMO NÚMERO
+
+Aguardem!
+
+NÚMEROS ATRASADOS
+
+Envie para cada folhetim um selo de postagem nacional de 1º porte. Dentro de no máximo
+quatro semanas, contadas a partir da data de recebimento do seu pedido, você estará recebendo os
+folhetins solicitados.
+
+OBS.: É permitida a reprodução total ou parcial
+
+desse folhetim, desde que citada a fonte.
+

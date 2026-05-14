@@ -1,0 +1,186 @@
+UNIVERSIDADE ESTADUAL
+DE FEIRA DE SANTANA
+DEPARTAMENTO DE CIÊNCIAS EXATAS
+
+NEMOC - Núczeo DE Epucação Matemática Omar CATUNDA
+
+Folhetim de Educação Matemática.
+Ano 1. n.21. 20.12.95
+
+Editores: Carloman e Wilson
+Editoração Eletrônica - CE.EL - (CPD).
+
+Impressão: Setor de Reprografia - ã
+Endereço: Km 3 BR 116 CAMPUS UNIVERSITÁRIO
+CEP 44031-460 - Feira de Santana-BA.
+Fox: (075) 2274.2284
+
+Objetivo
+
+Este Folhetim é um veículo de divulgação, circulação de idéias e de estímulo ao estudo e à curiosidade
+intelectual. Dirige-se a todos os interessados pelos
+aspectos pedagógicos, filosóficos e históricos da Matemática. Pretende construir uma ponte para unir Os que
+estão próximos e os que estão distantes.
+
+Comitê Editorial
+
+Carloman Carlos Borges (Doutor)
+Inácio de Sousa Fadigas (Mestre)
+Wilson Pereira de Jesus (Mestre)
+
+Z Editorial
+
+Dando continuidade às publicações da coluna
+Pergunte que o NEMOC responde de autoria do Professor Carloman Carlos Borges, editada aos domingos
+no Feira Hoje, aqui estamos com mais um número.
+Temos recebido muitas correspondências de colegas
+que se interessam pelo nosso trabalho. |
+
+
+1º Pergunta. Albertram, de Salvador, indaga: (a)
+
+qual o motivo de empregarmos a base decimal; (b)
+dentro do volumoso conhecimento matemático dos
+egípcios antigos, que já conheciam o Teorema de
+Pitágoras, existe algum teorema por eles demonstrado?
+R. O ser humano acostumou-se a contar efetuando coleções de dezenas, isto é, empregamos hoje em dia
+“a base decimal unicamente devido ao fato de possuirmos duas mãos e, em cada uma delas, cinco dedos.
+Através da história, outros povos usaram outras bases:
+os babilônios adotaram a base sexagesimal que ainda
+hoje usamos para medir o tempo € os ângulos, porém,
+com o passar dos anos, esta base não poderia subsistir,
+pois não é facil decorar uma tabela de 59 por 59... Na
+América Central, os povos pré-colombianos usaram a
+base 20 em virtude, provavelmente, de possuirem além
+de duas mãos, com dez dedos, dois pés, igualmente,
+com dez dedos... Assim, para eles, a expressão um
+homem completo significava, simplesmente, 20, não
+possuindo qualquer acepção metafísica... A base 2 que
+possui os algarismos 0 e 1 é bastante cômoda por
+possuir apenas estes dois simbolos em lugar dos dez
+empregados na base dez, porém apresenta a desvantagem de exigir muitos algarismos na representação de
+um número. Estudos antropológicos revelam a existência de tribos primitivas que empregavam a base dois. É
+preciso acrescentar que a apresentação de determinadas situações com apenas dois estados é uma preocupação que data, pelo menos, do tempo da Escola
+Pitagórica, a qual teve seu início ainda no século VI
+a.C.. Para os pitagóricos tudo está formado por elementos opostos e, tanto a chamada realidade objetiva como
+subjetiva era explicada por dez pares desse tipo: (1)
+limite e ilimitado, (2) ímpar e par, (3) unidade e
+pluralidade, (4) direita e esquerda, (5) masculino e
+
+
+feminino, (6) em repouso e em movimento, (7) reta e
+curva, (8) luz e escuridão, (9) bem email, (10) quadrado
+eretângulo. O número 70 era considerado sagrado para
+essa Escola: de fato, ele contém igual número de pares
+e impares é héle estão a unidade e o primeiro número
+par, estão o primeiro número impar e o primeiro quadra- |
+do. Veja, caro colega, como a base dois possui uma |
+- Gonotação metafísica; aliás, a história registra a existên-. |
+cia de filósofos que acreditavam ser o zero o simbolo do
+nada, enquanto o um era o simbolo do Criador. Se a
+escolha de uma base mais conveniente fosse tema de
+debates em algum suposto congresso de matemáticos
+- tendo essa escolha por único critério o matemático certamente que não haveria consenso entre os matemáticos sobre a base melhor maiematicamente.
+
+Caro colega Albertram: na sua pergunta (b) existem duas afirmativas que merecem análise, a primeira
+fala sobre o volumoso conhecimento matemático dos
+egípcios e a segunda faz referência ao suposto conhecimento, pelos egípcios, do Teorema de Pitágoras. A
+este respeito, gostaria de transcrever trechos do livro
+EPISÓDIOS DA HISTÓRIA ANTIGA DA MATEMÁTICA, escrito pelo conceituado historiador da ciência |
+Asger Aaboe. Esta obra foi editada pela não menos
+conceituada Sociedade Brasileira de Matemática e pertence à Coleção Fundamentos da Matemática Elementar. Eis os trechos: Há dois papiros matemáticos preservados, o Papiro Rhind, e o Papiro de Moscou, que
+nos dão uma idéia do caráter e do conteúdo da
+matemáticaegípeia. O resultado é muito desaponiador,
+pois, contrariamente a todas as lendas, à matemática
+egípcia nunca conseguiu ultrapassar um estágio extremamente elementar. O-conhecimento geométrico
+dos egípcios era, se estivermos lendo corretamente os
+textos, mais ou menos o dos babilônios, com uma
+
+
+
+omissão importante: o teorema de Pitágoras. Mesmo
+a afirmação fregitentemente repetida de que os egipcios conheciam o triângulo retângulo de lados 3, 4, 5
+não se baseia nos textos disponíveis, mas foi inventada uns £0 enos atrás. (Os grifos são nossos). Espantoso, hein?! Nas mãos de nossos sofridos alunos estão
+livros didáticos modernos mostrando os famosos
+estiradores de cordas egípcios, supostos conhecedores,
+do teorema de Pitágoras. Infelizmente, isso não se
+verifica apenas com relação à Matemática. Dois exemplos servirão para esclarecer minhatese: há várioslivros
+de desenho geométrico nos quais, obrigatoriamente,
+aparece um capítulo intitulado, Como dividir a circunferência em um mimero qualquer de partes guais, Ora,
+conforme demonstrou o matemático Gauss, ainda com
+19 anos, isto é impossível, em outros textos, fala-se na
+previsão feita por Tales de um eclipse solar, essa lenda,
+que se originou de um texto de Heródoto, encontra-se
+espalhada não apenas em inúmeros livros como até
+mesmo em artigos científicos! Quanto à parte de sua
+pergunta sobre alguma demonstração feita pelos egipcios, a resposta é negativa. 4 matemática ontiga,
+anterior aos gregos, não conhecia a demonstração. O
+método axiomático com suas consegiências foi criação
+dos gregos antigos.
+
+2* Pergunta. Um colega de Entre Rios pergunta:
+que são grandezas comensuráveis e grandezas incomensuráveis?
+
+R. Considere dois segmentos AB e CD. Imediatamentenos vem à cabeça: podemos medi-los tendo por
+unidade comum outro segmento EP? O senso comum
+apressadamente, como é de seu feitio, afirma sem
+qualquer dúvida: claro, sempre podemos medi-los com
+uma unidade comum. A situação não é bem assim, mas
+
+
+da seguinte maneira: dados dois segmentos AB e CD,
+quando for possível encontrar um terceiro segmento E”
+que caiba um número inteiro de vezes em 4B e outro
+número inteiro de vezes em CD), então, afirmamos que
+AB e CD são comensuráveis. Acontece, porém, que
+existem segmentos AB e CD sem unidade comum EF
+mesmo que tornemos EF bem pequenino; neste caso,
+dizemos que os segmentos AB e CD são incomensuráveis. Embora isto atinja nossa intuição geométrica,
+ferindo, assim, nosso senso comum - não é preciso
+assustar-se; basta lembrar a máxima popular: quem vê
+cara não vê coração, a qual, se seguida sistematicamente em nossas vidas, no dia-a-dia, nos evitaria muitos
+aborrecimentos e até mesmo muitos sofrimentos inúteis.
+
+BS TA ZA Ea CARDS UA
+q e a Se Se
+
+Obs.: É permitida a reprodução total ou parcial
+desse folhetim desde que citada a fonte.
+
+Caso vocêtenha interesse em receber esta publicação escreva para o NEMOC.
+
+Números atrasados - enviepara cada folhetim um
+
+" selo de postagem nacional de 1º porte. Dentro de no
+
+máximo quatro semanas, contadas a partir da data de
+recebimento do set pedido, você estará recebendo os
+folhetins solicitadós.
+
+agZ de de DS LARS 24
+se q NR N Ste
+
+Devido a problemas de ordem técnica na editoração
+do Folhetim, estamos enviando-o com demasiado atraso.
+Esperamos contar com a compreensão de vocês.
+
+
+No próximo número, as respostas para.
+
+- Quando devemos empregar o ponto ou avirgula
+* para escrever numerais?
+
+- Entre 13 pessoas existem pelo menos, duas
+delas que terão aniversários no mesmo mês. Como
+esta frase veio desacompanhada de qualquer outra
+“ explicação pergunto: é possível justificá-la matematicamente?. e eau Sp
+
+- Qual a explicação de a Matemática ser consi“ derada a Rainha das Ciências? Lira
+
+LAA LÁ
+
+Aguardem!
+
+“OSSTIANI
+OTaS
+

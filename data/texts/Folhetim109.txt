@@ -1,0 +1,383 @@
+FOLHETIM DE EDUCAÇÃO
+MATEMÁTICA
+
+Folhetim Educ. Mat., Ano 9/10, n. 109, jul. / ago. 2002
+
+ISSN 1415-8779
+
+OBJETIVO
+
+Este Folhetim é um veículo de divulgação,
+circulação de idéias e de estímulo ao estudo e à
+curiosidade intelectual. Dirige-se a todos os
+interessados pelos aspectos pedagógicos,
+filosóficos e históricos da Matemática. Pretende construir uma ponte para unir os que
+
+estão próximos e os que estão distantes.
+
+EDITORIAL
+
+Ainda sobre o cálculo, destacamos neste
+Folhetim um recente avanço na formalização
+dele, principalmente no que diz respeito à questão
+dos "infinitamente pequenos", um dos objetos da
+Análise Não Standard. Vale acrescentar também
+que o texto traz a visão de Karl Marx num campo
+que não é o socialismo.
+
+Conforme anunciado no Folhetim anterior, a
+nossa pesquisa de satisfação consistirá em um
+questionário (breve e objetivo) que acompanhará
+o Folhetim de número 111. Esse questionário
+deverá ser respondido e devolvido à nossa
+secretaria, confirmando assim o desejo do leitor
+em continuar fazendo parte do grupo de leitores
+
+do Folhetim. Aguardem.
+
+COMITÊ EDITORIAL
+
+Carloman Carlos Borges (Doutor)
+
+Inácio de Sousa Fadigas (Mestre)
+
+PERGUNTE QUE O NEMOC RESPONDE
+
+Pergunta. Como começou o cálculo? (Continuação)
+
+R. Vejamos concretamente o procedimento de D' Alembert.
+Seja a função y = x. Ele fez x, =x, + Ax, Ax um acréscimo
+finito arbitrário.
+
+Essa hipótese assegura, de antemão, o emprego dasregras
+operatórias da álgebra ordinária, em particular, do binômio de
+Newton. Assim:
+
+»,= (0) = (x, + A) = (1,9) +3(x,)2. 4x +3(x,). (Axo)? + (Ax)),
+eAy=),-Y,= [x] + 3(x,))2.Ax + 3x, (Ax)? + (Ax)'] - (x,))=
+= 3(x,)).Ax + 3x, (Ax)? + (Ax), donde
+
+By
+
+ds Su) + Im Ar + (AP (TD)
+
+Efetuando em ( 1) a substituição x, = X, isto é,
+Ax=x,-x,=0, vem: Ax=y,-y=(X)-(x)=o0.
+
+O 0
+Logo, 0 = 3(x,). TantoD'Alembert quanto Euler, substituem 0
+
+or dy chegando ao resultado correto: dy = (x)
+Re g Ega É.
+
+Sobre a divisão por zero, Euler, em seu livro Cálculo
+Diferencial, de 1755, escreveu: "Existe umainfinidade de ordens
+de grandezas infinitamente pequenas, (o grifo é nosso), que
+embora sejam todas iguais a zero, devem ser distinguidas entre si,
+quando olhamos para a sua proporção mútua, o que se explica
+por umarazão geométrica". (Veja Karl Marx: Arrancaro Véu,
+autor: Paulus Gerdes, Editor: Departamento de Matemática e
+Física, Faculdade de Educação, Universidade Eduardo M,,
+República Popular de Moçambique). Não deixa de ser interessante
+esse trecho de Euler. Ele fala sobre grandezas infinitamente
+pequenas todas iguais a zero, porém, diferentes entre si. Aqui,
+mais uma vez, o Princípio da Não Contradição é arranhado. A
+justificativa é mais interessante: aritmeticamente não se pode
+dividir por zero porém, geometricamente, dar-se um jeitinho...o
+
+
+
+Folhetim Educ. Mat., Ano 9/10, n.109, p. 2, jul. / ago. 2002.
+
+Ear ss EE PED OS A
+
+que mostra que em questões de dar um jeitinho o
+brasileiro não é tão assim original. Emseulivro Teoriadas
+Funções Analíticas o matemático francês Lagrange
+introduz algumas modificações porém faz postulação
+descabida: cada função pode ser expandida em série de
+potências. Nas lições ministradas por Cauchy na Escola
+Politécnica de Paris, Cauchy criticatal postulação - basta
+observar, exemplificando, a função exp(-1/x) etodas as
+suas derivadas no ponto x = 0; isso mostra que ela não
+admite desenvolvimento em série de Taylornesse ponto.
+E grande pensador Karl Marx como procedia sobre
+essa questão” A tal propósito recomendo a leitura de Les
+Manuscrits Mathematiques de Marx, apresentação de
+Alain Alcouffe, editora Econômica, 49, rue Héricart,
+75015 Paris. Logo no seu início o livro apresenta três
+cartas: as duas primeiras de Engels a Marx, onde se
+
+dy O
+discute a igualdade Er Engel felicita seu
+
+companheiro pelas reflexões contidas naqueles
+manuscritos jámencionados. Em seguida, Marx responde
+criticando o misticismo de Newton e de Leibniz e faz um
+balanço sobre o método racionalista de D'Alembert e
+Euler. Vejamos como procede esse pensador que tanta
+influência (não no que diz respeito à matemática) causou,
+principalmente nos movimentos sociais desses últimos
+séculos. Ainda considerando a função y = x”. Ele procede
+da seguinte maneira: a uma variação de x, para X,,
+corresponda, naturalmente, outra variação de y, para y,.
+
+= Ga) —(%)
+
+XX
+
+pr A NT
+ssim, temos: Ax
+
+, expressão
+x =; ii
+
+que, após simplificada torna-se
+
+A 2 2
+D(xf+xx+) (1)
+
+quando a variável x, retorna ax, (veja o citado livro de
+Paulus Gerdes) temos:
+
+a) àdireita: como (x,)º "vai" para (x, ex,.x, para
+X,X,, à parte direita de ( II ) fica Ger + (x? + (x,
+que é igual a 3(x,).
+
+Marx chama a expressão à direita em ( II ):
+(xP + x,. x, + (x) de derivada provisória e, a
+expressão 3(x,) de derivada definitiva. Marx escreve
+em seus Manuscritos sobre a derivada definitiva: "é a
+derivada provisóriareduzida ao seu valor mínimo”. Neste
+pontosurge a pergunta: após tantas mudanças, como fica
+o primeiro membro de (II)?
+
+b) à esquerda: como x = x,, vem X, - x, = 0,
+donde, Ax=x,-x,=0ecomoAy=y,-y, =(x)'-(x,)”,
+tem-se para x, = x,: (x,) = (x), donde: 4y = 0.
+
+O Ay
+Finalmente, parao membro à esquerda tem-se: 0 = Ax .
+Mas, n novamente”? O "velho" Marx que nãoerahomem
+
+O
+para dar-se por vencido ante uma "tolice" como — a
+
+justificou: "... a desgraça simbólica verifica-se somente no
+lado esquerdo, mas já não causa susto, porque aparece
+agora apenas como expressão dum processo, que já
+comprovou o seu conteúdo verdadeiro no lado direito”.
+Hein? Será que não ocorreu ao "velho" Marx que, no
+mínimo, ao elaborar tal justificativa, ele estava violando
+grosseiramente o Princípio da Identidade que postula
+A = A? É bem verdade que na Lógica Dialética esse
+Princípio sofre sérias restrições, porém, aqui se trata de
+uma questão da matemática clássica baseada na Lógica
+Clássica.
+
+Somente comos trabalhos de Bolzano e Cauchy e,
+principalmente Weierstrass, essas questões tomaram um
+enfoque suficientemente rigoroso para serem aceitas pela
+
+NEMOC - NÚCLEO DE EDUCAÇÃO MATEMÁTICA OMAR CATUNDA
+
+Folhetim Educ. Mat., Ano 9/10,n. 109, jul. / ago. 2002 - Editores: Carloman e Inácio - Secretária: Josenildes
+Oliveira Venas Almeida - Editoração: Evandro Vaz e Nivaldo de Assis - Impressão: Imprensa Gráfica Universitária
+- Periodicidade: bimestral - Tiragem: 1.900 exemplares - Distribuição gratuita - Endereço: Av. Universitária,
+s/n - km 03- BR 116 - Campus Universitário - Telefone: (75)224-8115 - Fax: (75)224-8086 - CEP 44031-460 - Feira
+
+de Santana - Ba - BRASIL - E-mail: nemoc Quefs.br
+
+
+
+Folhetim Educ. Mat., Ano 9/10, n.109, p. 3, jul. / ago. 2002.
+
+RR o NS A A O E E E a pg
+
+comunidade matemática... Tudo parecia mostrar, então,
+que "asnefastas quantidades infinitamente pequenas ou
+infinitesimais" ligadas à associações místicas tinham sido
+expulsas definitivamente da matemática - segundo um
+apreciado autor de excelentes livros de divulgação dessa
+ciência, Richard Courant. Puro engano. Não se abandona
+um instrumento (grandezas infinitamente pequenas) por
+falta de rigor, tendo o seu emprego mostrado grande
+funcionalidade e simplicidade juntamente com a produção
+de resultados corretos. Os físicos simplesmente
+continuaram a usá-lo, apesar dostrabalhos de Weierstrass
+e Dedekind. A partir de 1960 começou a fundamentação
+rigorosa do conceito de infinitesimale outros aele ligados.
+Essa fundamentação foi efetuada pelo matemático, físico
+elógico americano Abraham Robinson.
+
+Ele elabora a construção de
+umsistemanumérico,noqual
+além dos reais, cabem
+também os infinitesimais.
+Ele e seus colaboradores
+criaram a Análise Não
+Standard, teoria plenamente aceita pela comunidade
+matemática. Com essa
+criação, ficam solucionados
+os dois problemas levantados pelo Berkeley: a) existem os infinitesimais?
+b) firmada a sua existência, como operar com eles de
+
+Robinson, Abraham
+1918 — Waldenburg — Alemanha
+1974 — New Haven - EEUU
+
+maneira consistente? Assim, aos números reais foram
+acrescentados novos números, os infinitesimais e os
+números infinitos. Não entraremos em maiores detalhes
+sobre a Análise Não Standard, porém, apresentaremos
+algumas definições, o enunciado do Teorema da Parte
+Não Standard e algumas aplicações a fim de que o leitor
+possa vislumbrar a consistência dessa notável criação.
+Inicialmente, a definição de infinitesimal - é um infinitamente pequeno: o.é um infinitamente pequeno ou infinitesimal se -a <a < a, para cada número real positivo.
+De passagem, o leitor pode observar que o únicoreal que
+é igualmente infinitesimal é o zero. Com a introdução
+desses novos números (os infinitesimais e os números
+infinitos) a reta real passa a ser um subconjunto da reta
+
+hiper-real. O autor norte americano H. Jerome Keisler,
+em seu curso Elementary Calculus, An Infinitesimal
+Approach, Second Edition, Prindle, Weber & Schmidt,
+Boston, Massachusetts, desenvolve o seu curso
+fundamentado emtrês Princípios: o Princípio da Extensão,
+o Princípio da Transferência e o Princípio da Parte
+Padrão. Não os descreveremos aqui, porém, faremos
+aplicações dos seguintes resultados:
+
+Definição: Dizemosque x = y (xestáinfinitamente
+próximo de y) sex - y for infinitesimal.
+
+Teorema da Parte Sandard: se xfor um hiper-real
+finito, existirá um númeroreal univocamente definido r,
+com x=r. Esse único r é a Parte Standard de x;
+escreve-se r = st(x).
+
+Aplicações. Inicialmente, umresultado jáconhecido
+de Arquimedes: a área de um polígonoregular comcentro
+O, perímetro Q e apótema h=r é S=1/2.r.Q
+
+É Ses) TN
+
+Calculemos, agora, empregando a definição e o
+teorema acima da Análise Não Standard, a área de um
+círculo. Circunscrevemos o círculo com um polígono de
+Q lados, Q infinito, cada um de comprimento infinitesimal. Sabemos que:
+
+(a) A (área do círculo) = área do polígono
+
+(b) C (comprimento da circunferência) = a.Q
+
+De (a)e(b) concluímos:
+
+s= st(r [04 0) r.st(ag) Pê. i r2xr Ene
+2 2 2 Fo
+
+Umasegunda aplicação:
+Seja, ainda, y = xº e(x,y,) um ponto qualquer de
+y=x'e seja Ax um infinitesimal positivo ou negativo.
+
+
+
+Folhetim Educ. Mat., Ano 9/10, n. 109, p. 4, jul. / ago. 2002.
+
+esse cai o ARES PTOS PE SP re
+
+ar
+
+Considere Ay o acréscimo correspondente em "y" ao
+longo dacurva. Define-se a inclinação da curvano ponto
+(Xp Yo):
+
+inclinação em (x,, y,) = (o número infinitamente
+ci ÀY
+próximo a Ax ):
+Logo: y, =x) YyotAy=(x,+ AxP;
+Ay = (x, + AxP - x);
+Ay (+) x) x +3çÃr+ 3x (A) +(Ax) x
+Ax Ax Ax
+— 3xiAx+3x (Ax) + (Ax)
+Ax
+
+=3x) +3x,Ax+ (Ax)
+
+Mostra-se que desde que Ax é infinitesimal,
+3x,” + 3x,3Ax + (Ax) também o é. Portanto, o número
+hiper-real3x, ?+3x, Ax + (Axé infinitamente próximo
+ao número real 3x ?, donde a conclusão:
+
+[inclinação em (x,. y)]=3x? (HI);
+
+Chegou-se a expressão (III ) com os Princípios
+mencionados acima, porém, não explicitados aqui.
+Ademais, empregamos as simplificações seguintes:
+
+st (3x? + 3x, .Ax + (AxP ) =
+= st (3x)? + st (3x,.Ax) + st (Ax) =
+= 3x) + st(3x,).stAx + si(Ax) =
+
+= 3x) + 3x0 + 0º =3x,. e
+
+Pergunte que o NEMOC Responde é uma
+
+coluna de autoria do prof. Dr. Carloman Carlos
+Borges e objetiva atingir ao público interessado em
+Matemática nos seus múltiplos aspectos.
+
+Caso o leitor queira fazer alguma pergunta
+
+escreva-nos.
+
+NOTÍCIAS
+
+A SBM, Sociedade Brasileira de Matemática,
+lançourecentemente várias publicações:
+
+* Episódios da História Antiga da Matemática
+
+* Análise no R"
+
+* Sistemas Gráficos 3D
+
+* Introdução à Inferência Estatística
+
+Essas e outras publicações da SBM encontram-se
+em nosso Núcleo (ver endereço na página 2).
+
+Será ralizado de 21 a 25 de outubro, na UEFS,
+a V SEMANA DE MATEMÁTICA .
+
+Promoção:
+
+D.A. de Matemática
+
+Apoio:
+
+Departamento de Ciências Exatas
+
+Colegiado do Curso de Lic. em Matemática
+
+Informações:
+
+= (75)224-8233 (COLMAT)
+
+e-mail: damat Quefs.br
+
+PRÓXIMO NÚMERO
+
+Como começou o cálculo? (Continuação)
+Aguardem!
+
+NÚMEROS ATRASADOS
+
+Envie para cada folhetim um selo de postagem nacional de 1º porte. Dentro de no máximo
+quatro semanas, contadas a partir da data de recebimento do seu pedido, você estará recebendo os
+folhetins solicitados.
+
+OBS.: É permitida a reprodução total ou parcial
+
+deste folhetim, desde que citada a fonte.
+

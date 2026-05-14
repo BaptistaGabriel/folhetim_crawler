@@ -1,0 +1,273 @@
+UNIVERSIDADE
+ESTADUAL DE
+? FEIRADE
+E SANTANA
+
+FOLHETIM DE EDUCAÇÃO
+MATEMÁTICA
+
+Folhetim Educ. Mat., Ano 13, n. 138, maio / jun. 2007 ISSN 1415-8779
+
+OBJETIVO
+
+PERGUNTE QUE O NEMOC RESPONDE
+
+Este Folhetim é um veículo de divulgação,
+circulação de idéias e de estímulo ao estudo e à
+curiosidade intelectual. Dirige-se a todos os Jraclars
+interessados pelos aspectos pedagógicos, por Garloman Carlos Borges e Inácio de Sousa Fadigas
+filosóficos e históricos da Matemática. Pretende construir uma ponte para unir os que A curva do Floco de Neve. Como escrevemos no Folhetim
+
+estão próximos e os que estão distantes. anterior, essa curva é fundamentada na Curva de Koch, pois basta
+
+artir deum tirângulo eguilátero e sobre cada lado contruirmos uma
+EDITORIAL p Epineq
+
+curva de Koch. Mostremos, agora, que seu comprimento é infinito.
+No Folhetim nº 137 foi apresentado um Comecemos nossa exposição com um tirângulo equilátero de
+
+exemplo numérico da dimensão da Curva de lado unitário de comprimento:
+Koch, bem como algumas explicações da
+Geometria Fractal. O presente Folhetimtrata, de
+umaformadetalhada, do cálculo de comprimentoda
+Curva Floco de Neve. Mais especificamente
+mostra que tal curva tem comprimento infinito,
+embora possua uma superfície finita. Tais
+propriedades causaram embarços a grandes Primeiro estágio da Curva Floco de Neve — E;
+
+matemáticos como Poincaré e Hermita que Chamaremos esse triângulo de Curva E .
+consideram os objetos fractais como anomalias, Vamos dividir cada lado do triângulo emtrês partes iguais, e
+
+não merecendo portanto seu estudo muita  noterço médio de cada um, um triângulo eguilátero é construído,
+dedicação. Hoje porém tais objetos já fazem parte apontando para fora : (As partes comuns aostriângulos antigo enovo
+até do ensino fundamental emédio, mesmo queno são apagadas). Temosacurva:
+nível dedivulgação e curiosidade. A propósito da
+divulgação, é interessante a concepção da artista
+
+plástica Fayga Ostrwer sobre as figuras fractais.
+
+COMITÊ EDITORIAL
+
+Carloman Carlos Borges (Doutor)
+Inácio de Sousa Fadigas (Mestre)
+
+Trazíbulo Henrique Pardo Casas (Doutor) Segundo estágio da Curva Floco de Neve — E,
+
+
+
+Folhetim de Educação Matemática, Ano 13, n. 138, p.2, maio / jun. 2007
+
+Continuando com o mesmo processo, construimos
+
+acurva E:
+
+ade
+
+Terceiro estágio da Curva Floco de Neve — E;
+
+Acurva E:
+
+LR
+
+Quarto estágio da Curva Floco de Neve — Es
+
+À curva E,
+
+ds
+
+Quinto estágio da Curva Floco de Neve — Es
+
+E, assim, sucessivamente. Para mostrar que o Floco de
+Neve possui um comprimento infinito, é suficiente verificar
+(baseado no seu processo construtivo) que o perímetro do
+triângulo departida (E ) é3;
+ES
+
+o perímetro de E,
+
+4
+odeB,3+1+5;
+
+ode E,3+ 1+ 3.
+4º q qu
+2 3
+ode E, 3+1+ + +55 - Enfim, o perímetro de
+
+4º 4 4"?
+E é63+1++5> +55 ++.
+º 3-S==3 3º
+
+Estamos na presença deuma sérieinfinita divergente.
+
+Veja, o leitor, queo Floco de Neve, embora de comprimento
+infinito, possui uma superficie finita, uma vez que será sempre
+menor que um círculo traçado a sua volta. Outra "surpresa":
+(lembre-se da Curva de Weierstrass) essa curva, embora
+contínua, não possui derivada em qualquer um de seus
+pontos, o que vale afirmar: não é possível dizer, dado um
+ponto qualquer dessa curva, qual a sua direção, isto é, em
+qualquer ponto dado da curva limite não existe a tangente.
+Esse exemplo mostra que existem limites na aplicação da
+análise clássica. A maioria dos matemáticos encarava tais
+objetos fractais como objetos artificiais, "patológicos", de
+menor interesse. Não valia a pena serem estudados. Até
+mesmo o grande matemático francês Poincarénão acreditava
+
+que eles merecessem um estudo sério.Chama-os de uma
+
+NEMOC - NÚCLEO DE EDUCAÇÃO MATEMÁTICA OMAR CATUNDA
+
+Folhetim Educ. Mat., Ano 13, n. 138, maio / jun. 2007 - Editores: Carloman, Inácio e Trazíbulo Digitação: Josenildes Oliveira Venas Almeida e Manoel Aquino dos Santos - Editoração: Evandro Vaz Impressão: Imprensa Gráfica Universitária - Periodicidade: bimestral - Tiragem: 1.200 exemplares Distribuição gratuita - Endereço: Av. Universitária, s/n - km 03 - BR 116 - Campus Universitário - Telefone:
+(75)3224-8115 - Fax: (75)3224-8086 - CEP: 44031-460 - Feira de Santana - Ba - BRASIL - E-mail: nemoc(Quefs.br
+
+
+
+Folhetim de Educação Matemática, Ano 13, n. 138, p. 3, maio / jun. 2007
+CAR ST sig MES ESSES EEE
+
+"galeriademonstros"; enquanto, seuilustre contemporâneo,
+Hermiteescrevia "fugir com medo ehorror desta lamentável
+praga de funções sem derivada". A suaintolerância chegou
+ao ponto de levá-lo a tentar impedir Lebesgue de publicar
+um artigo sobre funções diferenciáveis: Esse fato vale a
+penaser aprofundado. Paraissorecorroa lanSTEWART,
+matemático que foi considerado pela revista Nature o
+divulgador mais dotado para explicar matemática ao leitor
+comum. Em seu livro: Os problemas da matemática,
+Ciência Aberta, Gradiva, lan Stewart assim descreve o
+episódio: "como vimosno capítulo 12, Lebesgue descobriu
+o importantíssimo método de integração que ainda hoje
+tem o seunome, não era uma especulação intelectual de
+importância diminuta. Escreveu mais tarde acerca da
+rejeição do seu artigo por Hermite: "Ele deviater pensado
+que aqueles que se embrenham monotonamente neste
+estudo estão a perder o seu tempo em vez de o dedicarem
+ainvestigação útil!" E disse, ainda: "Paramuitosmatemáticos
+tornei-me o homem das funções sem derivada. E, visto que
+omedo eo horror que Hermitemostrou eram sentidos por
+quase toda a gente, sempre que eu tentatava tomar parte
+numa discussão matemática havia um analista que dizia:
+"Isto não interessa; estamos a discutir funções com
+derivadas." E, assim, conclui, Ian Stewart: "A experiência
+de Lebesgue mostra que temos que ser cuidadosos na
+distinção entre a corrente matemática principal e o
+puramente convencional ouna moda. Em boa verdade, é
+claro quea exagerada proliferação destes conjuntos, sem
+um objeto definido, é um exercício bastante fútil. Mas,
+vendo bem, observamos que a matemática começa a
+agarrar fortemente a estrutura dos fractais."
+
+Asrelações que podem existir entreumatotalidade
+dada e suas partes sempre foi motivo de intresse para
+
+alguns estudiosos. Nahistória da ciência tais estudos têm
+
+aberto novas fronteiras no conhecimento humano. Um dos
+exemplos célebre foi provocado pelo axioma de Euclides: "O
+todo é sempre maior que qualquer uma de suas partes."
+
+Oseu abandono -no caso detotalidades infinitas - juntamente
+com a postulação de infinitos atuais, acabados - levou o
+grande matemático Cantor à criação da Teoriados Conjuntos.
+Como escreve Keith Devlin, em O Gene da Matemática,
+Editora Record. "Se olharmos atentamente para um lilás,
+notaremos que uma pequena parte se parecemuito coma flor
+toda. Vemos o mesmo fenômeno em algumas outras flores e
+
+em algumas verduras, tais como osbrócolisoua couve-flor.
+
+Os matemáticos chamam a essa propriedade de autosimilaridade." A auto-similaridade mereceu a atenção do
+matemático Helge Kock. Foi dessa situação que surgiu a
+curva Floco de Neve. Veja como a aplicação de uma regra
+bem simples (pegarmos um triângulo equilátero,
+acrescentarmos umtriângulo equilátero menorno terço médio
+de cadalado, depois repetirmos o processo, acrescentando
+triângulos cada vez menores nos terços médios dos lados)
+produz uma forma extraordinária que é a curva Floco de
+Neve.
+
+Alguns matemáticos - e não são poucos - exercitam
+seu pragmatismo fazendo perguntas tais como: e daí, qual a
+utilidade dos fractais? Aonde nos pode levar o estudo do
+
+lilás? A forma de uma nuvem? Eles parecem ser adeptos da
+
+
+
+Folhetim de Educação Matemática, Ano 13, n. 138, p. 4, maio / jun. 2007
+
+máxima do pragmatismo: "Tudo que éútil é verdadeiro",
+máxima essamuitas vezes desmentida pelo desenvolvimento
+científico, o qual émais compatível, com amáxima: "Tudo
+que é verdadeiro éútil." Porém, uma vezmais, passemos
+apalavra a Keith Devlin, em suaobrajámencionada: "Uma
+resposta, que a históriatemnos ensinadorepetidas vezes,
+é que o conhecimento científico geralmente vem a ser
+benéfico. Por exemplo, no início do século 19 os
+matemáticos começaram a estudar os padrões dos nós.
+Suaúnicamotivação era a curiosidade (o grifo é nosso).
+Mas, nos últimos vinte e cinco anos, os biologistas têm
+usado a matemática dos nós para ajudá-los a lutar contra
+os vírus, muitos dos quais alteram o modo pelo qual a
+molécula do DNA se enrola em torno de si mesma,
+formando umnó." E, continuando: "As nuvenstambémtêm
+auto-similaridade. Uma maneira matemática de descrever
+os padrões auto-similares poderia ser estudar as nuvens.
+Dada uma descrição matemática de nuves, poderíamos
+simular a formação, crescimento emovimento dasnuvens
+num computador. Usando essas simulações, talvez
+pudéssemos aperfeiçoar nossa capacidade de prever
+condições climáticas severas, usando essas previsões para
+nos proteger melhor das consequências de uma grande
+tempestade ou de um tornado. Isso não é pura fantasia. Há
+alguns anosos pesquisadores vêmrealizando investigações
+dessetipo."
+
+Antes de tentarmos mostrar aproximações entre os
+fractaisea Teoria do Caos, transcrevemos algumas partes
+do depoimento da artista plástica e professora da Teoria
+da Arte, Fayga Ostrower dada à revista Ciência Hoje, vol.
+14, número 80 Marco - Abril de 1992. Escreve essa
+artista: "Nasrepresentações visuais, as figuras de fractais
+pertencem aumanova geometria: elasexibem dimensões
+
+fracionárias, não inteiras. Mais importante, ainda, cada
+
+detalhe deuma imagem pode ser ampliado infinitamente,
+mantendo a forma estrutural do todo e sem perder a
+precisão. É um exemplo concreto de que existe um
+número infinito de subdivisões entreo "0" co"1"eque,
+pormenor que seja a distância, semprehaverá um novo
+segmento a ser dividido. O extraordinário dessa experiência é a possibilidade de ilustrar o infinito! Isto significa
+que, cada instante de nossa vida, cada mínima fração de
+instante, incorpora infinito enovamente se estendenele.
+O que étão difícil de ser concebido e imaginado pode ser
+
+ilustrado visualmente pelas imagens de fractais."
+
+NOTÍCIAS
+
+No Folhetim nº 129, anunciamos a publicação
+do Livro A Matemática para Todos, de autoria do
+prof. Dr. Carloman Carlos Borges - É com satisfação que
+anunciamos já estar pronto o volume 1. O livro pode ser
+adquirido localmente no NEMOC,, ou através do PIDL
+
+nas distribuidoras em todo Brasil.
+
+PRÓXIMO NÚMERO
+
+Sobre Fractais (continuação).
+
+Aguardem!
+
+NÚMEROS ATRASADOS
+
+Envie para cada folhetim um selo de postagem nacional de 1º porte. Dentro de no máximo
+quatro semanas, contadas a partir da data de recebimento do seu pedido, você receberá os folhetins
+solicitados.
+
+OBS.: É permitida a reprodução total ou parcial
+
+deste folhetim, desde que citada a fonte.
+

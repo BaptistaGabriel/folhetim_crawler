@@ -1,0 +1,286 @@
+FOLHETIM DE EDUCAÇÃO
+MATEMÁTICA
+
+Folhetim Educ. Mat., Ano 7, n. 87, fev. 2000
+
+UNIVERSIDADE
+* ESTADUAL DE
+FEIRA DE
+
+ISSN 1415-8779
+
+“AEIOU
+
+OBJETIVO
+
+Este Folhetim é um veículo de divulgação,
+circulação de idéias e de estímulo ao estudo e à
+curiosidade intelectual. Dirige-se a todos os
+interessados pelos aspectos pedagógicos,
+filosóficos e históricos da Matemática. Pretende construir uma ponte para unir os que
+estão próximos e os que estão distantes.
+
+EDITORIAL
+
+O movimento internacional denominado
+"Matemática Moderna" sem dúvida deixou
+suas marcas, e entre nós não foi diferente.
+Talvez o que nos diferenciou de outros países,
+e que ainda está presente, é a lentidão no processo de reorganização diante do fracasso do
+referido movimento.
+
+No momento estamos em meio a um processo de adequação do sistema educacional,
+desencadeado pela novas Leis de Diretrizes e
+Bases, que no seu contexto reconhece o valor
+da matemática e define as finalidades do ensino
+dessa Ciência. É preciso então a adoção de
+políticas sérias para a formação dos professores, pois qualquer mudança que se deseje
+no ensino só pode ser concretizada com a
+participação destes.
+
+COMITÊ EDITORIAL
+
+Carloman Carlos Borges (Doutor)
+Inácio de Sousa Fadigas (Mestre)
+
+PERGUNTE QUE O NEMOC RESPONDE
+
+Pergunta. Muitos colegas ainda perguntam:
+porque a Matemática Moderna fracassou? A culpa foi dos
+professores?
+
+R. No final da década de 60, André Lichnerowicz,
+grande matemático francês, foi encarregado, na França, de dirigir
+uma comissão para a reforma do ensino de matemática naquele
+País. Era oinício da Matemática Moderna, também iniciada na
+Bélgica pelas mãos de Papy, matemático belga, que escreveu
+sobre o assunto obra em vários volumes, e na qual expõe diversos
+tópicos de matemática do ensino fundamental e médio dentro de
+um enfoque "moderno". Em seguida, alguns matemáticos, nos
+Estados Unidos, muitos deles sem qualquer preocupação
+pedagógica, elaboraram novos programas dentro da mesma
+orientação. Quem não se recorda do já citado Papy, percorrendo várias partes do mundo, inclusive o Brasil, a fim de ensinar
+a"verdadeira" matemática? Em virtude dessas inúmeras viagens
+muitos o apelidaram de "o caixeiro viajante da matemática”... E
+aqui no Brasil, quem não se lembra de Oswaldo Sangiorgi com
+os seus manuais escolares falando sobre axiomas e estruturas
+algébricas logo nas séries iniciais, isto é, nas que vão de 5*a 8º
+séries? E o saudoso Prof. Omar Catunda, liderando um grupo de
+professores do estado da Bahia, com os seus 7 volumes, quatro
+para as séries mencionadas e o restante destinado ao ensino
+médio”? Em um desses volumes, o determinante é definido como
+uma função bilinear e daí são deduzidas as suas conhecidas
+
+propriedades. No 7º volume, o capítulo 1 trata de Noções de
+
+
+
+Folhetim Educ. Mat., Ano 7, n. 87, p. 2, fev. 2000.
+
+Topologia nareta, continuidade e limite e o capítulo 3,
+de Equações Diferenciais. Todos os citados estavam
+imbuidos das melhores intenções. Muitos deles, como o
+prof. Catunda, possuiam um grande idealismo de uma
+pureza incontestável. Apesar de tudoisso, o movimento
+fracassou (vide, porexemplo,o Fracasso da Matemática
+Moderna, do matemático norte-americano Morris Kline,
+IBRASA). Por que fracassou? Na época alguns desses
+idealistas explicaram o fracasso no despreparo dos
+professores. Realmente, estes não tinham sido formados
+em matemática moderna. Então foram criados cursos de
+capacitação para o corpo docente. Tais cursos, refirome aos cursos de capacitação não necessariamente
+voltados só para a matemática moderna, são bem
+elaborados no papel e aprovados pelos órgãos
+competentes acompanhados de pareceres laudatórios.
+Na prática, o que vemos”? Professores também
+despreparados "capacitando" outros docentes às vezes
+com igual despreparo. Para não perder a rota, voltemos
+ao preparo dos professores encarregados de levar aos
+alunos as luzes da assim chamada matemática moderna.
+O resultado final todos sabemos: na essência o movimento fracassou. Claro que o fracasso não foi total.
+Ele serviu para denunciar o conteúdo obsoleto e inútil
+de muitos tópicos da matemática tradicional. Serviu,
+
+também, para que a linguagem dos conjuntos fosse
+
+apreciada logo nas séries iniciais pelos estudantes,
+criando, assim, a possibilidade de uma apresentação
+mais rigorosa dos primeiros conceitos matemáticos.
+Porém, repetimos, no essencial, esse movimento
+fracassou. Finalmente, qual é essa idéia fundamental?
+A prevalência do formal, do abstrato, do geral sobre
+os processos heurísticos. Estes processos devem prevalecer e prevalecem de fato no início de qualquer
+aprendizagem, pois aprende-se a partir do concretofamiliar, do particular dirigindo-se em direção ao geral.
+É a partir de exemplos familiares, de sua ação sobre
+eles, que se cria a motivação, a qual, naturalmente,
+deve preceder à compreensão. Um entendimento sobre
+esses dois conceitos é indispensável ao professor. Evitaria, por exemplo, a maioria das "oficinas", nas quais
+os incautos pensam ensinar matemática apenas com
+cartolina e tesoura, sem que os princípios lógicos do que
+se quer ensinar estejam subjacentes à praxis adotada.
+Outro erro a evitar-se na prática pedagógica relaciona-se com os conceitos: essencial e geral. Podemos
+identificar uma propriedade comum diversos objetos;
+daí, contudo, não se pode deduzir que essa propriedade seja essencial a esses objetos. A fertilidade da
+Matemática se encontra na generalização das
+propriedades essenciais dos objetos. Os processos
+
+inventivos, as redescobertas, enfim, a heurística deve
+
+NEMOC - NÚCLEO DE EDUCAÇÃO MATEMÁTICA OMAR CATUNDA
+
+Folhetim Educ. Mat., Ano 7 ,n. 87, fevereiro 2000 - Editores: Carloman e Inácio - Secretária: Josenildes Oliveira
+Venas Almeida - Editoração: Evandro Vaz e Nivaldo de Assis - Impressão: Imprensa Gráfica Universitária Periodicidade: mensal - Tiragem: 1.500 exemplares - Distribuição gratuita - Endereço: Av. Universitária, s/n km 03 - BR 116 - Campus Universitário - Telefone: (075)224-8115 - Fax: (075)224-8085 - CEP 44031-460 - Feira
+
+de Santana - Ba - BRASIL - E-mail: nemocQuefs.br
+
+
+
+Folhetim Educ. Mat., Ano 7, n. 87, p. 3, fev. 2000.
+
+preceder o geral; este surgirá naturalmente após a
+prática daqueles. Assim, um livro escolar, dedicado a
+estudantes em nível de graduação, digamos de Álgebra,
+não deve - em nosso entendimento - apresentar como
+princípio metodológico o esquema: do geral para o
+particular. A chamada Matemática Moderna - por
+violar princípios básicos da aprendiza-gem - pagou o
+preço do fracasso. Parece, porém, que a lição não foi
+aprendida por alguns autores de manuais escolares,
+pois eles fazem suas explanações postulando que a
+compreensão de um determinado assunto (e portanto,
+o geral) deve preceder a motivação, a qual é adquirida
+na ação com problemas familiares pertencentes à
+experiência pessoal. Deve-se, primeiro, raciocinar com
+fatos, em seguida, raciocinar com hipóteses,
+pertencentes à idealidade que é o modo matemático
+de pensar.
+
+Raciocinar com fatos é o que a maioria das
+pessoas faz durante toda a vida. E não é por isso que
+elas deixam de ser bem sucedidas e venturosas...
+Pensar no ponto e na reta, como entes sem dimensão
+(o ponto) e apenas com uma dimensão (areta) e pensar
+esses mesmos entes, o primeiro como a marca deixada
+no papel pela ponta de um lápis e o segundo como
+a marca deixada pelo mesmo lápis apoiado numa
+régua e ligando dois pontos, são duas maneiras de
+pensar: a primeira faz parte do modo matemático de
+pensar e a segunda é como a maioria das pessoas pensa.
+
+No ensino da Matemática deve-se considerar os dois modos de pensamento. O aluno educado
+matematicamente deve saber ir e vir de um pensamento ao outro, conforme as suas conveniências, enquanto
+
+o educador deve inicialmente, privilegiar aquilo que é
+comum a todo o mundo: o pensar não matemático.
+Isolar o ensino de cada ciência de suas bases intuitivas
+é em erro de danosas consegiiências.
+
+A assim denominada Matemática Moderna
+sofreu grande influência de Bourbaki - pseudônimo
+coletivo de ilustres matemáticos franceses que a partir
+da década de 30 sonhavam com a unificação do saber
+matemático em torno das chamadas "estruturas mães":
+as estruturas algébricas, cujo protótipo é o grupo, as
+"estruturas de ordem", cujo protótipo é a "rede" e
+finalmente as "estruturas topológicas" fundamentadas
+em conceitos como de vizinhança, continuidade e
+limite.
+
+Essa utopia contou com o apoio do grande
+psicólogo J Piaget, cujos trabalhos sugeriam um forte
+enlace entre o raciocínio lógico-matemíático e as estruturas algébricas. Quando, nos debates realizados entre
+10e 13 de outubro de 1975 na abadia de Royaumont,
+do qual participaram ilustres personalidades, entre elas
+Piaget, Chomsky, François Jacob (Nobel de Medicina),
+René Thom e muitos outros, este último sugeriu a
+responsabilidade de Piaget no aspecto axiomático
+assumido pelo ensino da Matemática Moderna, e Piaget
+assim reagiu: "No que diz respeito as aplicações
+pedagógicas das minhas idéias (e que não sou responsável de modo algum) uma entrevista recente é de
+natureza a acalmar Thom sobre as minhas reservas e
+sobre a minha pouca simpatia pela axiomática. Quanto
+a este último ponto, penso como ele (há, pois, áreas
+
+de acordo!) que ainda há muito a esperar do estudo
+
+das limitações do formalismo, e esse é mesmo um
+
+
+
+Folhetim Educ. Mat., Ano 7, n. 87, p. 4, fev. 2000.
+
+PÇ si RR ERR S S SPEO T ER  gcaee
+
+argumento essencial da minha epistemologia construtivista”. Essa utopia de unificação parece possuir uma
+forte componente psicológica e persiste desde tempos
+imemoriais.
+
+Que é a idéia de Deus senão uma grande ou
+melhor, a maior das unificações possíveis, uma síntese
+perante a qual a mente humana fica perturbada? Aquele
+que é considerado um dos grandes sábios de todas as
+épocas, A. Einstein, passou algumas dezenas de anos de
+sua vida, trabalhando nessa mesma utopia, aqui, com
+relação a Física. Desenvolvimentos posteriores realizados em Matemática, sugerem que Bourbaki sonhou
+alto... embora nessa tentativa tenha produzido obras
+admiráveis. A fecundidade - talvez sem limites - da
+Matemática, reside no seu alto grau de abstração. Aqui
+são construídas abstrações sobre abstrações num
+processo que não parece ter fim e, sabemos pelos
+estudos dos especialistas, que quanto mais abstrato é
+um conceito maior a sua área de aplicação. A matemática parece a ciência ideal para fornecer modelos
+às outras ciências. No seu ensino, principalmente nos
+estágios até a graduação, a modelagem deve ocupar um
+lugar de destaque. E aqui colocamos um ponto finalem
+nossas palavras transcrevendo o trecho abaixo extraído
+do admirável livro Mecânica Racional de John L.
+Synge, Editora Globo, Porto Alegre: "Despindo
+gradualmente os objetos materiais de seus atributos
+que, para a questão em mira, não têm importância,
+chega-se à maneira matemática de pensar sobre a
+natureza. O modelo matemático particular a serempregado em cada caso depende desse. Considere-se a
+
+Terra, por exemplo. O modelo mais simples para a
+
+terra é uma partícula, um ponto matemático com massa.
+Esse modelo é suficiente para determinar a órbita da
+Terra ao redor do sol, mas evidentemente não serve
+para a explicação das marés ou dos eclipses lunares.
+Para esses dois fenômenos deve-se considerar a Terra
+como uma esfera rígida - o que não serve para explicar
+a precessão dos equinócios (que só pode ser explicada
+como um corpo rígido elipsoidal) ou os tremores da
+Terra (para os quais se requer uma esfera elástica).
+Assim, há muitos modelos matemáticos para a Terra;
+o que se escolhe depende da questão que se estuda
+no momento”.
+
+É essa direção que deve ser privilegiada no
+ensino da Matemática - e nunca a postulada pela
+
+Matemática Moderna. e
+
+Pergunte que o NEMOC Responde é uma
+
+coluna de autoria do prof. Dr. Carloman Carlos
+Borges e objetiva atingir ao público interessado em
+Matemática nos seus múltiplos aspectos.
+
+Caso o leitor queira fazer alguma pergunta
+
+escreva-nos.
+
+PRÓXIMO NÚMERO
+
+Aguardem!
+
+NÚMEROS ATRASADOS
+
+Envie para cada folhetim um selo de postagem nacional de 1º porte. Dentro de no máximo
+quatro semanas, contadas a partir da data de recebimento do seu pedido, você estará recebendo os
+folhetins solicitados.
+
+OBS.: É permitida a reprodução total ou parcial
+
+desse folhetim, desde que citada a fonte.
+

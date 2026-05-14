@@ -1,0 +1,329 @@
+FOLHETIM DE EDUCAÇÃO
+MATEMÁTICA
+
+Folhetim Educ. Mat., Ano 10, n. 116, set. / out. 2003
+
++ UNIVERSIDADE
+ESTADUAL DE
+FEIRA DE
+
+ISSN 1415-8779
+
+OBJETIVO
+
+Este Folhetim é um veículo de divulgação,
+circulação de idéias e de estímulo ao estudo e à
+curiosidade intelectual. Dirige-se a todos os
+interessados pelos aspectos pedagógicos,
+filosóficos e históricos da Matemática. Pretende construir uma ponte para unir os que
+
+estão próximos e os que estão distantes.
+
+EDITORIAL
+
+Anexo ao Folhetim de número 111, leitor
+recebeu uma Ficha de Pesquisa de Satisfação, na
+qual algumas informações sobre a nossa
+publicação foram solicitadas. Desde já,
+agradecemos a você que está recebendo este
+número, pois certamente foi uma das centenas
+de pessoas que nos ajudaram a avaliar nosso
+trabalho. Nomes conhecidos ou não, a todos
+demos a mesma importância, acolhendo a
+avaliação, as críticas e sugestões, na perspectiva
+de cada vez melhorar.
+
+Em média, o Folhetim obteve 55,2% de
+conceito ótimo e 38,1% de conceito bom.
+
+Os resultados detalhados encontram-se na
+
+coluna RESULTADOS DA PESQUISA.
+
+COMITÊ EDITORIAL
+
+Carloman Carlos Borges (Doutor)
+
+Inácio de Sousa Fadigas (Mestre)
+
+PERGUNTE QUE O NEMOC RESPONDE
+
+Pergunta. Um aluno da graduação diz que leu em uma
+revista de divulgação uma notinha na qual se lia: Arranca do seu
+caderno duas folhas de papéis iguais, colocando-as uma em
+cima da outra. A cada ponto P da de cima corresponde um
+ponto P'na de baixo (que se encontra exaamente embaixo da
+folha constítuida pelos pontos daquela que se acha sobre ela).
+Em seguida, deixando a folha que se encontra embaixo
+exatamente no seu lugar, suspende a folha de cima e amarrota-a à sua vontade sem no entanto rasgá-la. Coloque essa
+folha assim amarrotada dobrada várias vezes, por cima da
+outra folha. Com um objeto como um livro comprima essa
+folha amarrotada de maneira que toda ela fique dentro das
+margens da de baixo. Você sabe que podemos ter certeza de
+que pelo menos um ponto P da folha de cima ocupa o mesmo
+lugar que ocupava antes da folha ser amarrotada, ou seja
+esse mesmo ponto P está por cima do mesmo ponto P'?"
+
+R. Antes de tentarmos aexplicação paratal correspondência
+pontual, vejamos outro exemplo: no seu café da manhã, quando
+sua xícara estiver cheia de café mexa o conteúdo da xícara com
+acolher durante, digamos, meio minuto, tendo apenas o cuidado
+denehuma gota do líquido cair fora. Quandoo líquido imobilizarse, você pode ter a certeza de que pelo menos uma partícula de
+
+
+
+Folhetim de Educação Matemática, Ano 10, n. 116, p. 2, set. / out. 2003.
+RS EE ASR STS ENTER
+
+seu café ocupa exatamente o mesmo lugar que ocupava
+no início, antes de você ter começado a mexer.
+Começaremos nossa explicação pelo conceito de ponto
+
+fixo de uma transformação. Veja a figura abaixo:
+
+Ela mostra que se uma função (uma
+transformação...) fdefinida no intervalo [0,1] é contínua
+e toma seus valores nesse mesmo intervalo, sua
+representação gráfica (C) intercepta a primeira bissetriz
+(D) de equação y =x, em pelo menos um ponto. Logo,
+tem-se f(a) = a e o ponto a é chamado de ponto fixo da
+transformação f. A certeza da existência desse ponto fixo
+dentro das condições mencionadas, é dada pelo famoso
+teorema de Brouwer que afirma que, se uma função é
+definida e contínua em um disco do plano e toma seus
+valores nesse disco, então existe um ponto fixo para f. A
+
+importância desse teorema é decisiva em diversas
+
+situações. Vejamos a seguinte: consideremos o conjunto
+de todas as trajetórias da Terra à Lua como uma curva de
+determinado espaço cujos elementos são curvas.
+Pergunta-se: existe algum ponto nesse espaço (uma
+trajetória) que nos leve de um ponto a outro com um
+determinado custo fixo de energia”? Pelo teorema de
+Brouwer podemos assegurar que aresposta é afirmativa.
+Atenção: consideremos agora a questão de, dado um
+palheiro, nele, procurarmos uma agulha. Nessa questão
+a primeira coisa a ser esclarecida antes da busca é se,
+realmente, existe uma agulha nesse palheiro. O teorema
+citado lida com questões desse tipo: ele assegura a
+existência da agulha porém não nos diz como encontrála. Ele assegura que determinadas equações possuem
+soluções (pontos fixos), porém não nos diz como
+encontrá-las.
+
+É preciso observar que existem situaçõesnas quais
+não existem pontos fixos. Assim, uma roda girando de
+acordo com um ângulo fixo. Veja que todos os pontos se
+movimentam para novas posições, o que caracteriza a
+inexistência de pontos fixos. Na resolução de equações,
+para efeito de aplicação do teorema de Brouwer, temos
+
+de mostrar a existência de um ponto fixo para a
+
+NEMOC - NÚCLEO DE EDUCAÇÃO MATEMÁTICA OMAR CATUNDA
+
+Folhetim Educ. Mat., Ano 10,n. 116, set./out. 2003 - Editores: Carloman e Inácio - Secretária: Josenildes Oliveira
+Venas Almeida - Digitação: Manoel Aquino dos Santos - Editoração: Evandro Vaz - Impressão: Imprensa Gráfica
+Universitária - Periodicidade: bimestral - Tiragem: 500 exemplares - Distribuição gratuita - Endereço:
+Av. Universitária, s/n - km 03 - BR 116 - Campus Universitário - Telefone: (75)224-8115 - Fax: (75)224-8086 CEP 44031-460 - Feira de Santana - Ba - BRASIL - E-mail: nemoc Quefs.br
+
+
+
+Folhetim de Educação Matemática, Ano 10, n. 116, p. 3, set. / out. 2002.
+
+ps e ci Sc
+
+transformação C(x). Por que”? Ora, tal procedimento é o
+mesmo que encontrar a solução da equação G(x) = 0,
+quando você coloca, por definição G(x) = C(x) - x.
+Agora, se desejarmos resolver a equação G(x)=0, basta
+introduzir o operador identidade 1, isto é (x) =x. Logo,
+teremos anovatransformação H=1- G, donde a equação
+original G(x) = 0 assume a forma G(x)=(1- H)(x)=0ou
+H(x) = Kx) =x. Conclusão: determinar pontos fixos é o
+mesmo que resolver equações. Vejamos um exemplo
+mais palpável.
+
+Seja o sistema de duas equações com duas
+
+incógnitasx, y:
+
+x + sen(xy) + cos*y = O
+
+» + sen(x2 + y?) + cos(x+ y) = O
+
+Esse sistema terá solução” Inicialmente, coloquemo-lona forma:
+
+x = - sen(xy) - cos*y
+
+y=-sen'(x? + y?) - cos(x+ y)
+Agora: que significa o sistema possuir solução?
+Significa que algumponto (x,y) doplanocartesiano,
+
+quando substituído em
+
+- senZ(xy) - cos*y
+
+- sen'(x? + y?) - cos(x+ y)
+
+leva-nos aos valores xe y respectivamente. O que
+realmente acontece é que cada ponto P(x, y)é
+transformado no ponto T(P) = - senxy) - cos?y,
+-sen'(º +?) - cos(x+ y). A existência de uma solução
+
+(x,y) dosistema é equivalente a existência de um ponto
+
+P'=(x',y)talque T(P)=P.istoé aexistênciadealgum
+
+ponto fixo para a transformação T. Um simples cálculo
+mostra a existência de pelo menos um ponto fixo nessa
+transformação.
+
+Para mais detalhes, consultar Miguel de Guzmán,
+Aventuras Matemáticas, Gradiva. e Cinco Regras de
+Ouro, de John L. Casti, Gradiva.
+
+Luitzen Egbertus Jan BROUWER nasceu a 27 de
+fevereiro de 1881,na Holanda.
+Em 1907, ele defende sua tese
+de doutorado sobre os
+"Fundamentos da Matemática”,
+
+criando, assim, uma nova
+
+vertente filosófica, denominada
+de Intuicionismo, quando pretende interpretar a
+Matemática como pensamento construtivo a partir de
+uma obscura intuição primordial. Ainda nessa linha de
+raciocínio, BROUWER rejeita o Princípio do Terceiro
+Excluído da Lógica Clássica - quando se trata de aplicálo a conjuntos infinitos. Como consequência dessa
+rejeição, não aceita as chamadas "demonstrações por
+
+absurdo". Isso fica bem claro em seu trabalho
+
+
+
+Folhetim de Educação Matemática, Ano 10, n. 116, p. 4, set. / out. 2003.
+
+"Fundamentos de uma teoria de conjuntos, independente
+do princípio do terceiro excluído" apresentadoem 1917,
+na Real Academia Holandesa.
+
+Hoje, o intuicionismo é uma página virada da
+História da Matemática - uma vez que sua aplicação
+afetaria profundamente alguns valiosos resultados da
+
+“nálico Clássica. Ademais, a assim denominada
+
+matemática intuicionista, através de sua produção
+
+científica, revelou-se aquém das expectativas construidas
+
+em torno dela pelos seus principais mentores.
+BROUWER faleceu em 2 de dezembro 1961 na
+
+Holanda. º
+RESULTADOS DA PESQUISA
+
+Apresentamos aqui os resultados da pesquisa de
+satisfação, cujo questionário foi parte integrante do
+
+“olhetim nº 111.
+
+r Quanto ao formato e diagramação do F olhetim |
+53,8% ótimo
+42,0% bom
+4,2% regular
+
+Quanto ao conteúdo
+
+Abrangência 55,3% ótimo
+40,5% bom
+4,2% regular
+
+Profundidade 56,8% ótimo
+37,5% bom
+5,7% regular
+
+Ataulidade ótimo
+
+bom
+
+regular
+
+ruim
+
+não se aplica
+
+54,9%
+36,0%
+6,4%
+1,5%
+1,2%
+
+Importância
+
+68,9% ótimo
+
+bom
+
+regular
+
+não se aplica
+
+27,1%
+3,1%
+0,4%
+
+Quanto a linguagem
+
+Clareza 58,7% ótimo
+36,0% bom
+4,9% regular
+0,4% ruim
+
+Objetividade 59,8% ótimo
+33,3% bom
+6,8% regular
+
+Exemplos 43,9% ótimo
+45,8% bom
+9,1% regular
+1,1% ruim
+
+uanio ao aproveitamento por parte do leitor
+
+44,7% ótimo
+
+44,3% bom
+
+10,2% regular
+
+0,4% ruim
+
+0,4% não se aplica m
+
+Pergunte que o NEMOC Responde é uma
+
+coluna de autoria do prof. Dr. Carloman Carlos
+Borges e objetiva atingir ao público interessado em
+Matemática nos seus múltiplos aspectos.
+
+Caso o leitor queira fazer alguma pergunta
+
+escreva-nos.
+
+PRÓXIMO NÚMERO
+
+Aguardem!
+
+NÚMEROS ATRASADOS
+
+Envie para cada folhetim um selo de postagem nacional de ” porte. Dentro de no máximo
+quatro semanas, contadas a partir da data de recebimento do seu pedido, você estará recebendo os
+folhetins solicitados.
+
+OBS.: É permitida a reprodução total ou parcial
+
+deste folhetim, desde que citada a fonte.
+

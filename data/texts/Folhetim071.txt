@@ -1,0 +1,300 @@
+FOLHETIM DE EDUCAÇÃO
+MATEMÁTICA
+
+Folhetim de Educação Matemática, Ano 6, n.71, out.1998
+
+ISSN 1415-8779
+
+Ena mnpag. cesntao o mm ma
+
+OBJETIVO
+
+Este Folhetim é um veículo de divulgação,
+circulação de idéias e de estímulo ao estudo e à
+curiosidade intelectual. Dirige-se a todos os
+interessados pelos aspectos pedagógicos,
+filosóficos e históricos da Matemática. Pretende construir uma ponte para unir os que
+
+estão próximos e os que estão distantes.
+
+EDITORIAL
+
+Dois assuntos de particular interesse para
+os professores que ensinam 2º grau (mas também de interesse geral) são tratados na coluna
+"Pergunte que o NEMOC Responde". O primeiro trata de uma aplicação de transformação
+no plano, à determinação, de forma elementar,
+da área da elipse. O segundo envolve conceitos
+que muitas vezes não são claramente entendidos
+pelos alunos (ou até por professores) do 2ºgrau.
+
+Chamamos a atenção do leitor para a notícia, nacoluna própria, sobre livros da SBM.
+
+Para aqueles mais curiosos, alguns
+problemas desafiantes estão na coluna
+
+"Divertimentos Matemáticos".
+
+COMITÊ EDITORIAL
+
+Carloman Carlos Borges (Doutor)
+
+Inácio de Sousa Fadigas (Mestre)
+
+PERGUNTE QUE O NEMOC RESPONDE
+
+1º Pergunta. J. N. Brito de Sousa, de Maceió
+indaga sobre a possibilidade do cálculo da área da elipse
+por processos elementares, partindo da área do círculo.
+
+R. Quando se trata do cálculo de áreas de figuras
+planas, é razoável afirmar que o lugar adequado para tratar
+essas questões é o Cálculo Diferencial e Integral. Contudo,
+a nível elementar, isto é, nível do atual 2º grau, essa questão
+pode ser apresentada da seguinte maneira. Sejam a e b
+os dois semi-eixos da elipse E considerada e o sistema
+de eixos cartesianos conhecido dos nossos alunos do 2º grau.
+Seja, ainda, o círculo de centro na origem, tudo conforme
+a figura abaixo:
+
+Quando a > b, o círculo C é chamado de círculo
+principal da elipse E. Consideremos a aplicação f do plano,
+nele mesmo, que a cada ponto P associa o ponto M tal que
+
+
+
+Folhetim de Educação Matemática, Ano 6, n.71, p. 2, out.1998.
+
+HM = b/a HP (H é a projeção ortogonal de P sobre o eixo das abscissas). C é o conjunto de pontos
+tais que:
+
+x'=x=acos0,y' = b/a (a sen6)
+0 el0; 2x [
+pela transformação f, o círculo é transformado na
+
+=b senô,
+- Esta imagem é a elipse E. Assim,
+
+elipse E. Resumindo:
+
+Equações do círculo:
+R+y=a
+
+)
+x=acos6
+y=asen9,0€ [0;27[.
+
+A tranformação f, leva o círculo na elipse:
+x'=x=acos6
+y'=b/a (a sen0 )=b sen9,0€ [0;27].
+
+)
+
+x/92+ y'/b= 1
+
+Há diversas aplicações do que foi mostrado
+acima. Vamos nos limitar àquela que pode servir
+
+x
+
+de resposta à pergunta formulada pelo colega.
+
+Notemos que uma área qualquer ABCD do círculo,
+após ser submetida à transformação estudada
+acima é transformada na área A'B'C'D', na elipse,
+isto é, área A'B'C'D' = área ABCD . b/a. Como
+
+a área do círculo é tta2, a área da elipse:
+
+A =tna? .b/a=tab.e
+
+2º Pergunta. Por diversas vezes, os alunos
+nos perguntam qual a diferença entre o gráfico
+de movimento e a trajetória.
+
+R. Consideremos uma bola lançada verticalmente para cima e a que cai a partir de uma certa
+altura h. Nesse caso a bola move-se em uma
+trajetória representada por uma reta, enquanto seus
+gráficos são diferentes, considerando a natureza
+diferente do movimento (o movimento para cima é
+diferente do movimento para baixo). Estudemos
+os seguintes movimentos:
+
+a) movimento uniforme. Por movimento
+uniforme retilíneo deve-se entender um movimento
+retilíneo com velocidade constante. A lei do
+movimento apresenta o seguinte aspecto:
+
+Xx=x, + vt, onde X, é coordenada do ponto
+no instante t=0 e v = constante.
+
+b) movimento uniformemente variado. Por
+este movimento se entende um movimento retilíneo
+com aceleração constante ( w = constante). A lei
+desse movimento é a seguinte:
+
+x=x +vt+ 2 wÊ, onde v, é a velocidade
+inicial do ponto (velocidade parat=0).
+
+c) Oscilações harmônicas. Vejamos o movimento retilíneo do ponto quando sua distância x à
+origem das coordenadas varia com o tempo de
+conformidade com a lei x = a cos kt, onde a e k
+são grandezas constantes. O ponto M (veja figura
+abaixo) durante este movimento oscila entre as
+posições M (+a) e M (-a).
+
+M, 0 MM
+
+——>————s—s
+€ a SEE SS x
+
+de Santana - Ba - BRASIL - E-mail: nemocQuefs.br
+
+NEMOC - NÚCLEO DE EDUCAÇÃO MATEMÁTICA OMAR CATUNDA
+
+Folhetim de Educação Matemática, Ano 6, n. 71, out. 1998 - Editores: Carloman e Inácio - Secretária: Josenildes |
+Oliveira Venas - Editoração: Evandro Vaz e Nivaldo de Assis Periodicidade: mensal - Tiragem: 1.200 exemplares - Distribuição gratuita - Endereço: Av. Universitária, s/n - |
+km 03 - BR 116 - Campus Universitário - Telefone: (075)224-8115 - Fax: (075)224-2284 - CEP 44031-460 - Feira |
+
+Impressão: Imprensa Gráfica Universitária 
+
+Folhetim de Educação Matemática, Ano 6, n.71, p. 3, out.1998.
+
+Observemos os gráficos do movimento,
+da velocidade e aceleração do ponto em questão e
+cujas leis foram dadas acima.
+
+a b Cc
+
+Em todos os casos estudados, a trajetória
+é uma linha reta enquanto os gráficos desses
+movimentos estão exibidos nas figuras logo acima.
+Observemos que eles são representados por curvas
+no plano que liga os pontos representativos no plano
+coordenada - tempo. É preciso lembrar que um
+sistema de referência é um corpo rígido no qual são
+tomados os eixos coordenados e que a trajetória
+é a curva produzida pelo ponto material ao mover-se
+no sistema de referência. Nos exemplos estudados
+acima, como se trata do movimento retilíneo de
+
+um ponto, a linha reta é considerada como sistema
+
+de referência respeito ao qual é examinado o
+movimento de um ponto. Mais um exemplo: seja o
+movimento de um ponto no plano Oxy e determinado pelas equações:
+
+f=X4,y=12€
+
+A trajetória do ponto pode ser encontrada
+com a eliminação de t nessas equações. Assim, da
+primeira delas vem t = x/2; colocando esse valor de t
+na segunda equação, obtem-se:
+
+y = 3 x?, que representa uma parábola com
+vértices na origem de coordenadas. €
+
+Pergunte que o NEMOC Responde é uma
+coluna de autoria do prof. Dr. Carloman Carlos
+Borges e objetiva atingir ao público interessado em
+Matemática nos seus múltiplos aspectos.
+
+Caso o leitor queira fazer alguma pergunta
+escreva-nos.
+
+PRÓXIMO NÚMERO
+
+Aguardem!
+
+DIVERTIMENTOS MATEMÁTICOS
+
+Thomaz de Jesus Ramos
+
+1. Um automóvel cobre a distância entre duas
+cidades a 60 km por hora e faz a viagem de retorno a
+40 km por hora. Qual foi a velocidade média percorrida pelo automóvel? Generalizar o problema. (Atenção:
+a velocidade média não é 50km por hora).
+
+
+
+Folhetim de Educação Matemática, Ano 6, n.71, p. 4, out.1998.
+
+2. Demonstre que os números da forma a* + 4
+(a * 1) podem ser escritos na forma de dois fatores
+que não sejam iguais a ele e nem à unidade, isto é,
+é um número composto.
+
+3. Quanto valem:
+
+a) “log, log, VV v2 =?
+
+2 =?
+c) log, log, 1... 2 =?
+gua?
+
+p vezes
+
+b) — log, log,
+
+p, um número, inteiro e positivo.
+
+NOTÍCIAS
+
+Acontecerá em Goiânia - GO, a V Jornada
+Educação Matemática, entre os dias 05 e 07 de
+novembro de 1998.
+
+Informações:
+
+UFG - IME - LEMAT
+Caixa Postal 131
+Goiânia - GO
+
+CEP: 74001-970
+
+FAX: (062)821-8180
+E-mail: lemat Omat.ufg.br
+
+O professor Carloman Carlos Borges como
+Representante de Vendas da Sociedade Brasileira
+de Matemática (SBM) informa aos leitores do
+
+Folhetim de Educação Matemática e aos interessados
+que está responsável pela venda das publicações
+da SBM.
+
+Os interessados deverão comparecer ao
+Núcleo de Educação Matemática na UEFS para
+adquirir os exemplares. Dispomos de livros das
+seguintes coleções:
+
+Coleção Matemática Universitária -CMU
+Coleção Projeto Euclides - CPE
+
+Coleção Computação e Matemática - CCM
+Coleção Professor de Matemática - CPM
+Coleção Olimpíadas - CO
+
+Ensaios Matemáticos - EM
+
+Matemática Contemporânea - MC
+
+Os preços variam entre R$ 9,00 e R$ 25,00
+dependendo do livro.
+
+Atenção!
+
+Aos prováveis candidatos ao Curso de
+Especialização em Educação Matemática, avisamos:
+a próxima turma terá início em Março de 1999,
+sempre com aulas as segundas, terças e quartas-feiras
+às tardes.
+
+NÚMEROS ATRASADOS
+
+Envie para cada folhetim um selo de postagem nacional de 1º porte. Dentro de no máximo
+quatro semanas, contadas a partir da data de recebimento do seu pedido, você estará recebendo os
+folhetins solicitados.
+
+OBS.: É permitida a reprodução total ou parcial
+desse folhetim, desde que citada a fonte.
+

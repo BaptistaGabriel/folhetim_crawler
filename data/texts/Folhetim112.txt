@@ -1,0 +1,388 @@
+FOLHETIM DE EDUCAÇÃO
+MATEMÁTICA
+
+Ano 10, n. 112, jan. / fev. 2003
+
+Folhetim Educ. Mat.,
+
+UNIVERSIDADE
+ESTADUAL DE
+FEIRA DE
+
+ISSN 1415-8779
+
+OBJETIVO
+
+Este Folhetim é um veículo de divulgação,
+circulação de idéias e de estímulo ao estudo e à
+curiosidade intelectual. Dirige-se a todos os
+interessados pelos aspectos pedagógicos,
+filosóficos e históricos da Matemática. Pretende construir uma ponte para unir os que
+
+estão próximos e os que estão distantes.
+
+EDITORIAL
+
+Ainda sobre coisas elementares .... o
+Folhetim nº 112 prossegue com a tentativa de
+esclarecer dúvidas que são comuns àqueles que
+lidam diretamente com a matemática, sejam
+professores e/ou alunos. O exemplo envolvendo
+limite nos alerta sobre a necessidade de não
+deixar que as intermináveis listas de exercícios
+muitas vezes repetitivos e mecânicos, venham
+encobrir a essência desse importante conceito.
+Em outra discussão, as relações produzidas por
+homomorfismo são mostradas de forma clara,
+
+comaplicações bastante interessantes.
+
+Agradecemos desde já aos leitores que
+nosretornaram a ficha com críticas e sugestões
+
+sobre o Folhetim, estamos aguardando a sua.
+
+COMITÊ EDITORIAL
+
+Carloman Carlos Borges (Doutor)
+
+Inácio de Sousa Fadigas (Mestre)
+
+PERGUNTE QUE O NEMOC RESPONDE
+
+Pergunta. Coisas elementares de Matemática provocam
+dúvidas no alunado (continuação).
+
+R. Após a resolução de centenas de exercícios sobre
+limites, alguns até por eles chamados de "cavernosos”", tal a
+quantidade de "macetes" empregados, nossos alunos, vítimas de
+um ensino bastante defeituoso, sentem-se incapazes de resolver
+questões ligadas a velocidade limite de um corpo de massa m que
+cai, a partir dorepouso, em um meio que apresenta uma resistência
+proporcional à magnitude da velocidade instantânea, na suposição
+de que a força da gravidade é constante. Trata-se de um curso
+onde o cálculo é dado através de equações diferenciais ordinárias
+
+(geralmente, o chamado Cálculo II). Pois bem, após a tradução
+
+matemática do problema que leva à equação diferencial:
+
+Es a DA & (1) de 1ºordem, linear que tem um fator integrante
+
+kr
+e” chega-se à solução:
+
+kt
+
+v(o=—" É ice”
+
+Para achar a velocidade-limite faz-se t —» co em (II)
+m
+quando chega-se ao resultado v. amo Verifica-se que a
+
+velocidade limite não depende das condições iniciais, senão
+
+apenas da massa do objeto e do coeficiente de resistência do
+
+meio. Ora, se o conceito de limite fosse anteriormente bem
+
+trabalhado se chegaria ao mesmo resultado por maneira mais
+dv :
+cômoda e elegante anulando a na equação diferencial, na
+
+chamada passagem ao limite, que é oresultado da interdependência
+
+
+
+Folhetim Educ. Mat., Ano 10, n. 112, p. 2, jan. / fev. 2003.
+
+da infinidade de termos da expressão (II);
+
+kr
+v(t) = re + ce”
+
+,
+
+não há mais nenhuma variação, e como esta, nesse
+
+. ) dv
+fenômeno, é simbolizada pelo termo E ,estetem de ser
+anulado. A expressão
+m
+k
+
+é oresultado da interdependência dos termos de (II); O
+limite é uma constante. Na passagem ao limite, toda
+variação cessa. Essa é a idéia grandiosa de limite, à qual,
+infelizmente poucos alunos têm acesso em virtude de um
+ensinocaricatural.
+
+Nos cursos de graduação em matemática, outra
+idéia importante é a de homomorfismo cuja definição é
+dada a seguir. Sejam dois conjuntos E e F munidos,
+respectivamente, por duas leis de composição interna, T
+e *. Chama-se homomorfismo de E dentro de F, pelas
+leis Te * toda aplicação f: E — F tal que
+
+(Vabe E) f(aT b)= fla) * f(b)
+
+Um homomorfismo bijetivo é chamado de
+isomorfismo. Quando fé um homomorfismo de (E, T)
+dentro dele mesmo, recebe o nome de endomorfismo.
+Além disso, se ele é bijetivo, toma o nome de
+
+automorfismo, isto é, todo isomorfismo de E em E. Veja
+
+o quadro:
+Automorfismo = | Isomorfismo
+y y
+Endomorfismo =>  Homomorfsmo
+
+Exemplos: 1) Homomorfismo n a” (a 0).
+Qualquer que sejaoreal anãonuloe qualquer que
+seja o inteiro relativon, a”é não nulo: seja a aplicação:
+f:b SR
+n>5a”
+Quaisquer que sejam os inteiros relativos n e p,
+temos:
+
+F(n+p)=a"”” =a"x a” =f(n)x f(p).
+
+Assim, somos levados a considerar fcomo uma
+aplicação de Z, munido da adição em R munido da
+multiplicação:
+
+E 5 R'
+
+n> a”
+p>a” as
+n+tp> a”? =a" x a?
+
+If) Isomorfismo entre os inteiros positivos e os
+númerosracionais positivos.
+
+Consideremos os números racionais a e b primos
+entre sina forma (a, 1),o qual será designado por Q. As
+operações de adição e multiplicação, como sabemos são
+definidas pelas igualdades:
+
+(a 1) +(b1)=(a+b,1)
+(a, 1) . (b, 1) = (a.b, 1)
+
+NEMOC - NÚCLEO DE EDUCAÇÃO MATEMÁTICA OMAR CATUNDA
+
+Folhetim Educ. Mat., Ano 10,n.112,jan./fev.2003 - Editores: Carloman e Inácio - Secretária: Josenildes Oliveira
+Venas Almeida - Editoração: Evandro Vaz e Nivaldo de Assis - Impressão: Imprensa Gráfica Universitária Periodicidade: bimestral - Tiragem: 1.900 exemplares - Distribuição gratuita - Endereço: Av. Universitária,
+s/n - km 03 - BR 116 - Campus Universitário - Telefone: (75)224-8115 - Fax: (75)224-8086 - CEP 44031-460 - Feira |
+de Santana - Ba - BRASIL - E-mail: nemoc Quefs.br |
+
+
+
+Folhetim Educ. Mat., Ano 10, n. 112, p. 3, jan. / fev. 2003.
+
+Vamos estabelecer uma correspondência entre 2”
+eQ” : ao inteiroa faça corresponder o racional (a, 1)e
+reciprocamente. Claramente tal correspondência, além
+
+de biunívoca, conserva as duas operações envolvidas, a
+
+adição e amultiplicação. Vejam os dois quadros abaixo:
+
+a «> (a,l)
+pa
+SS eternos
+a.bes (ab)
+
+Qualo significado de tudo isso?
+
+Quando escrevemos por exemplo a = (a, 1),
+significamos que se trata de uma igualdade para efeitos
+operacionais. Osinteirosa não são iguais aos números
+(a, 1)no sentido de igualdade lógica, isto é, de identidade,
+pois ambos pertencem a conjuntos diferentes. Para
+convencer-se disso, basta notar que entre os inteiros 3 e
+4, não existe nenhum outro inteiro, enquanto que, entre os
+racionais (3, 1) e (4, 1) existe uma infinidade de outros
+
+racionais, além de outra infinidade de irracionais.
+
+HI) Isomorfismo entre progressões aritméticas e
+progressões geométricas: consideremos a progressão
+geométrica infinita de termos estritamente positivos:
+
+= | as Bem n
+
+Mo=1 M=q,...»M=q
+essa segiiência pode ser indexada "à esquerda" com
+índices pertencentes a Z:
+
+se-m<b0,coloquemos yu, =qg”
+
+Chegamos, assim, a seguinte sequência:
+
+À a a im
+
+(UC, gas TA EE sf
+
+Consideremos, agora a progressão aritmética (v),
+também indexada por Z:
+
+(Va): (..s—mr,..,—r,0,r,...,nr,...)
+
+Chamemos de U o conjunto dos termos de (H, ) e
+
+V o conjunto dos termos de (v ). A aplicação f de
+U=(u,;ineZ)emV=(v,ne Z)talque(Vne Z)
+(F(u,) =v,), isto é (F(a”) = nr) é bijetora, pois se
+trata da composta da bijeção que, à |, faz corresponder
+ne da que, àn faz corresponder v . Claramente (U, .) é
+um grupoe igualmente (V, +).
+
+Além disso: (V(m,n)e &?),
+
+FU M)= fUnin)=
+
+=(m+n)yr=mr+nr= f(u)+f(u,).
+
+Fm Mo) = fUn)+ fu)
+
+Logo, a aplicação f é um isomorfismo de (U, .)
+sobre (V, +).
+
+Examinemos essa questão mais concretamente.
+
+Sejam as duas progressões:
+
+1,3,9,27,81,... (Progressão geométrica de razão
+iguala3)
+
+O, 1, 2, 3,4, ... (Progressão aritmética de razão
+iguala)
+
+Elas formam um sistema de logaritmos. Basta
+observar que os logaritmos de cada termo da progressão
+geométrica são dados, respectivamente, pelos termos
+correspondentes na progressão aritmética:
+
+log; 1=0; log; 3=1; log, 9=2; l0g, 27 =3;
+
+log, 81 =4;...
+
+Prolonguemos indefinidamente, tanto os termos da
+progressão geométrica quanto os termos da progressão
+
+aritmética para "o lado esquerdo". Temos:
+
+0<-..., 1,3,9,27,81, ... > +00
+
+14
+93
+
+—o€-...,—2,-1,0,1,2,3,4, ... +00
+
+Observe que os termos da progressão aritmética
+
+sãos logarítmos, na base 3, dos termos correspondentes
+
+da progressão geométrica. Podemos, ainda acrescentar,
+
+
+
+Folhetim Educ. Mat., Ano 10, n. 112, p. 4, jan. / fev. 2003.
+
+seguindo, aliás, a ordem histórica, que os termos da
+progressão geométrica são os antilogaritmos dos termos
+correspondentes na progressão aritmética. Logo, no
+sistema considerado, o antilogaritmo de 1 é 3 e o
+antilogaritmo de 4 é 81. A base de um sistema de
+logaritimos é dada pela razão da correspondente
+progressão geométrica, ou - o que é mesmo - é o termo,
+na progressão geométrica que corresponde ao termo "1"
+na progessão aritmética. Veja que dada a base da
+progressão geométrica, fica caracterizado o sistema de
+logaritmos. Agora, se conservarmos a progressão
+aritmética e variarmos a base da progressão geométrica,
+obtém-se o quê? Quem cursou o segundo grau há poucas
+décadas não deve estranhar a apresentação de logaritmos
+por intermédio de progressões, pois os livros da época
+costumavam fazer tal desenvolvimento. Basta consultar o
+Curso de Álgebra de Sinésio de Farias, autor muito
+popular na época. Como já escrevemos diversas vezes,
+afalha maior, dos manuais escolares é a falta de unidade
+metodológica. Fala-seem logaritmos semqualquermenção
+à progressões...
+
+A importância do conceito de isomorfismo
+transborda o espaço matemático e invade todas as áreas
+do saber humano, pois trata-se de uma das mais
+importantes categorias epistemológicas. Citemos alguns
+casos: 1)o filósofo Ludwig Wittgenstein que em virtude de
+suas metáforas e extrema obscuridade está fadado a ficar
+muito tempo ainda sendo considerado como grande
+filósofo, falou muito sobre o "isomorfismo mundolinguagem"comoacondição de possibilidade da linguagem:
+alguns incautos sonham pela formulação (colocar numa
+fórmula) desse isomorfismo. Tentam, até mesmo,
+apresentar uma suposta "demonstração matemática"
+dele... como se tal fosse possível. ii) na modelagem
+matemática, esse conceito é de granderelevância; iii) ele
+se encontra mesmo na sugestão de grandes viagens
+
+metafísicas com um suposto isomorfismo entre o mundo
+
+absoluto (formado pelas "coisas em si") e o mundo
+fenomenológico. A matemática mostra abundantemente
+o seguinte: por meio do descobrimento de relações
+isomórficas pode-se transferir o conhecimento de um
+espaço cognitivo para outro. €
+
+ATENÇÃO
+
+NÃO ESQUEÇA DE NOS
+RETORNAR A FICHA DE
+PESQUISA ANEXA AO
+FOLHETIM Nº 111
+PR ti Sa e RÃ
+
+Pergunte que o NEMOC Responde é uma
+
+coluna de autoria do prof. Dr. Carloman Carlos
+Borges e objetiva atingir ao público interessado em
+Matemática nos seus múltiplos aspectos.
+
+Caso o leitor queira fazer alguma pergunta
+
+escreva-nos.
+
+PRÓXIMO NÚMERO
+
+Coisas elementares de Matemática provocam
+dúvidas no alunado (continuação).
+
+Aguardem!
+
+NUMEROS ATRASADOS
+
+Envie para cada folhetim um selo de postagem nacional de 1º porte. Dentro de no máximo
+quatro semanas, contadas a partir da data de recebimento do seu pedido, você estará recebendo os
+folhetins solicitados.
+
+OBS.: É permitida a reprodução total ou parcial
+deste folhetim, desde que citada a fonte.
+
+ERRATA
+
+No Folhetim 111:
+pág. 4, PERGUNTE QUE O NEMOC RESPONDE, 2º
+
+mx-—10
+
+mx-10
+coluna, 3 * linha, onde se lê rr:
+x—3m
+
+0 .
+
+, leia-se
+
+x—3m
+

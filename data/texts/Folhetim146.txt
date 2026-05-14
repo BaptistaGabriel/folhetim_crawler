@@ -1,0 +1,430 @@
+FOLHETIM DE EDUCAÇÃO
+MATEMÁTICA
+
+Folhetim Educ. Mat., Ano 14, n. 146, set. / out. 2008
+
+UNIVERSIDADE
+ESTADUAL DE
+FEIRA DE
+SANTANA
+
+ISSN 1415-8779
+
+OBJETIVO
+
+Este Folhetim é um veículo de divulgação,
+circulação de idéias e de estímulo ao estudo e à
+curiosidade intelectual. Dirige-se a todos os
+interessados pelos aspectos pedagógicos,
+filosóficos e históricos da Matemática. Pretende
+construiruma ponte paraunir os que estão próximos
+e os que estão distantes.
+
+EDITORIAL
+
+Neste número são tratadas questões
+introdutórias - como definições de Estruturas
+Matemáticas, Grupos, etc - à compreensão de
+uma primeira e elementar aproximação à Teoria
+de Galois. Ainda como questão preliminar,
+discutiremos o conceito de Simetria.
+
+Logo nas primeiras linhas deste Folhetim,
+demonstramos o Teorema de Pitágoras, com os
+poderososrecursos da Análise Dimensional.
+
+Esperamos que nossos leitores possam
+usar a Análise Dimensional em outras
+
+demonstrações.
+
+COMITÊ EDITORIAL
+
+Carloman Carlos Borges (UEFS)
+
+Inácio de Sousa Fadigas (UEFS)
+Marcos Grilo Rosa (UEFS)
+
+Trazíbulo Henrique Pardo Casas (UEFS)
+
+PERGUNTE QUE O NEMOC RESPONDE
+
+Conversas sobre o ensino da matemática
+(Continuação)
+
+Agora, voltemos à demonstração do célebre Teorema de
+
+Pitágoras (TP). Sejam as figuras abaixo, que servirão na
+"visualização" dessa simples demonstração.
+
+A
+2
+
+Triângulo ABC de área S
+
+A A
+
+(o| |€
+Em =
+
+S,S'eS"representam, respectivamente, as áreas dostriângulos
+ABC, ABH e AHC
+
+Umtriângulo retângulo, quanto à sua forma, é determinado,
+como nesse caso, por dois dados: a hipotenusa eo ângulo 0. Logo,
+
+podemos escrever.
+
+
+
+Folhetim de Educação Matemática, Ano 14, n. 146, p.2, set. / out. 2008
+
+área do triângulo retângulo = função dahipotenusa
+e do ângulo 0, isto é, S = f(a,0). Mas, como vimos no
+folhetim anterior, "uma grandeza física pode sempre ser
+posta, a menos de um fator puramente numérico, sob
+forma de produto de potências de grandeza das quais a
+considerada dependa, isto é, se a grandeza G depende
+das grandezas X, Y, Z, ... pode-se sempre escrever
+
+G=kXºYºZ..., onde k, a, b, c, são constantes
+puramentenuméricas". Esse é o espírito do teorema de
+Bridgman (TB). Logo, como S= f(a,9), podemos escrever
+
+S=a.f(0)
+
+Tendo em vista a dimensionalidadeemrelaçãoas,
+que é igual a 2 e, também, o PHD, Princípio da
+Homogeneidade Dimensional: uma equação físicanão
+pode ser verdadeira se não for dimensionalmente
+homogênea. A equação S =a.f(0) pode ser escrita
+
+S=a2.1(0)
+
+Dos triângulos ABC, ABH e AHC, podemos
+escrever:
+
+S=S'+S" (1)
+
+Área de S = Quadrado da hipotenusa x função do
+ângulo (2). De(2), vem: S=a?.f(0) (3). Analogamente,
+S'=b2.1(0) (4)eS"=c?.f(0) (5). No Folhetim anterior,
+exercício (IV), quando foi calculado o trabalho realizado
+por uma força vimos que f(0) é adimensional, isto é,
+igualal.
+
+Finalmente,
+
+q =b+c
+
+Osexemplos exibidosnos quatroúltimos Folhetins,
+poderão servir de motivação aos professores de
+matemática quanto à busca de novos instrumentais
+metodológicos. Além disso, poderão servir pararelembrar
+a importância das recomendações dos parâmetros
+curriculares. No caso presente, a tão decantada
+transversalidade salta à vista, por intermédio da Física,
+pois, historicamente, diversas teorias da Matemática
+foram inspiradas por essa ciência. Oslaços entre Física
+e Matemática nunca devem ser menosprezados,
+principalmente quando se trata do ensino dessas
+disciplinas.
+
+Simetria
+
+Queremos, agora, discutir com nossos colegas, alunos
+e professores de matemática, um tema fascinante, chamado
+Simetria. Essetemarecebe, na matemática, um tratamento
+privilegiado: a Teoria de Galois, a qual, em nosso
+entendimento, poderia, também, chamar-se Teoria da
+Simetria, da mesma forma como a Teoria dos Conjuntos
+criada pelo grande matemático Cantor, poderia chamar-se
+Teoria do Infinito. Tanto lá (Teoria de Galois) como cá
+(Teoria dos Conjuntos), esses novos nomes ora sugeridos
+seriam aproximações mais finas ao objeto das duasteorias.
+
+Primeiramenterelembraremos algumas idéias básicas.
+
+Leis de Composições Internas:
+
+Consideremos o conjunto N = (0,1,2,3,4,5,6,...),
+e sobre este conjunto uma regra ou correspondência que,
+a cada par de elementos pertencentes aN x N, associa ou faz
+corresponder um terceiro elemento c, de N, definido
+univocamente. Se convencionarmos esta regra ou
+correspondência pelo símbolo "*" teremos:
+
+a*b=c
+
+Um exemplo familiar que se enquadra comoregra ou
+correspondência no sentido dado anteriormente, é aregra
+simbolizada pelo sinal "+".
+
+Para esta regra, teremos a associação:
+
+(a b)>sa+b
+
+Como (a, b) é considerado um par ordenado, se
+estivermos trabalhando no conjunto A, podemos dizer que
+(a, b) pertencea Ax A.
+
+Outra correspondência usual é aquela designada pelo
+sinal " - ", que faz corresponder a cada par de elementos
+pertencente a um conjunto E x Eumterceiro elemento:
+
+(ab)5a-b
+
+Observemos mais de perto as duas regras acima.
+A primeira, damos o nome de adição; ao par ordenado
+(a, b), o nome de parcelas e ao resultado chamamos de
+soma. (Alguns autores não fazem qualquer diferença entre
+adição e soma). A segundaregra damos onomede subtração.
+Para melhor fixar idéias, consideremos que estamos
+trabalhando no conjunto N = (0, 1, 2,3, 4,5, ...Ique
+chamaremos de conjunto dos números naturais. A adição
+
+NEMOC - NÚCLEO DE EDUCAÇÃO MATEMÁTICA OMAR CATUNDA
+
+Folhetim Educ. Mat., Ano 14,n. 146, set./out. 2008 - Editores: Carloman, Inácio, Grilo e Trazíbulo - Digitação:
+Josenildes Oliveira Venas Almeida e Manoel Aquino dos Santos - Editoração: Evandro Vaz e Nivaldo Assis Impressão: Imprensa Gráfica Universitária - Periodicidade: bimestral - Tiragem: 1.300 exemplares Distribuição gratuita - Endereço: Av. Universitária, s/n - km 03 - BR 116 - Campus Universitário - Telefone:
+(75)3224-8115 - Fax: (75)3224-8086 - CEP: 44031-460 - Feira de Santana - Ba - BRASIL - E-mail: nemoc(Quefs.br
+
+
+
+Folhetim de Educação Matemática, Ano 14, n. 146, p. 3, set. / out. 2008
+
+PS 6 et DDD E GIO SO Ss Opa
+
+usual neste conjunto, é sempre possível, isto é, o resultado
+a+ bé sempreum número natural. Jánão podemos afirmar
+o mesmo com relação à regra de subtração pois, por
+exemplo, ao par (3, 5) não podemos associar nenhum
+número natural (3 - 5).
+
+A conclusão a tirar-se das observações acima é a
+seguinte: a regra denominada de adição, conforme
+expusemos acima, é perfeitamente definida no
+conjunto dos números naturais, isto é, ao par ordenado
+(a, b) e Nx N é sempre possível fazer corresponder
+um terceiro número c =a + b. Quanto a correspondência
+que chamamos de subtração, esta possibilidade é menos
+ampla, isto é, nem sempre é possível associar ao
+par (a, b) e N x N um terceiro número c=a-beN.
+Somente teremos tal possibilidade quando a > b. Em
+virtude dessarestrição, costuma-se afirmar quea subtração
+é uma regra parcialmente definida no conjunto dos
+númerosnaturais.
+
+Leis de Composições Internas: as duas regras
+mencionadas acima, a adição e a subtração, são chamadas
+de leis de composições internas, com uma diferença
+básica: a adição é uma lei de composição interna
+perfeitamente definida e, por isso, échamadade operação
+interna ou simplesmente operação, enquanto que, a
+subtração, sendo uma lei de composição interna
+parcialmentedefinida em N, não é chamada de operação
+sobre este conjunto. Temos, assim, o esquema:
+
+completamente definidas ou
+
+operações internas
+leis de composições
+internas parcialmente definidas (não
+
+são operações internas)
+
+Portanto, toda operação é uma lei de composição
+interna; a recíproca é que nem sempre é verdadeira, isto
+é, uma lei de composição interna somente é chamada de
+operação interna, quando é completamente definida
+para um conjunto dado; quando é parcialmente definida,
+é chamada simplesmente de composição interna.
+
+Seja o conjunto A e S um subconjunto de A x A.
+À toda aplicação " *"
+
+f:SCAxXASA
+damos o nome de lei de composição interna. Quando
+S= AxA, aleide composição interna é completamente
+definida e, então, é chamada de operação interna.
+
+Considere o conjunto Z = f... -3,-2,-1,0,1,2,
+3,...;+, chamado conjunto dos números inteirosrelativos.
+A subtração usual, neste conjunto, éumalei de composição
+
+completamente definida pois, para qualquer par ordenado
+(a, b) pertencente a Z, é possível encontrar um terceiro
+elemento c, pertencente a Z, tal que c=a - b. Aqui, não há
+mais a restrição imposta quando o conjunto era o dos
+númerosnaturais, isto é, não émaisnecessário quea seja igual
+oumaior do que b. Como setrata de uma lei de composição
+definida completamente, dizemos que a subtração em Z é
+uma operação.
+
+À correspondência, em N, que leva cada
+
+(a, b),b=0 em a?
+
+é uma lei de composição completamente definida pois, o
+número c = a” é sempre um número natural. (É claro que
+consideramos a, b, números naturais). Esta regra define,
+portanto, uma operação deN xN- (0JemN. Estaoperação
+é chamada de potenciação.
+
+Chamamos de tabuada ou tábua de uma lei de
+composição interna " * "a um dispositivo como o abaixo:
+
+*
+
+”
+
+xXx >>—>—— x*y
+
+Consideremos a tabuada abaixo e seja a nossa
+lei" *" ausual adição:
+
+Evidentemente, a adição, no conjunto (0, 1, 2,3)
+não é uma operação e sim, apenas uma lei de composição,
+pois, por exemplo, 1 + 3 = 4 não pertence ao conjunto em
+questão.
+
+A propriedade de que, a composição de dois elementos
+deum conjunto Ex E, seja sempre um elemento de E, damos
+o nome de fechamento. Dizemos, então, que o conjunto E
+é fechado em relação a lei de composição considerada.
+
+Definição de Estrutura Algébrica
+
+Seja dado o conjunto E, sobre o qual se define uma ou
+mais leis de composição interna, gozando esta(s) lei(s) de
+determinadas propriedades. Ao sistema formado pelo
+conjunto E e a lei de composição interna, damos o nome de
+estrutura algébrica.
+
+Anotação: Simbolizando por * a operação associada
+ao conjunto E, denotaremos por
+
+(E, *)
+o conjunto E associado à operação *.
+
+
+
+Folhetim de Educação Matemática, Ano 14, n. 146, p. 4, set. / out. 2008
+
+Com a anotação (R, +), queremos simbolizar o
+conjunto dos números reais munido da operação usual de
+adição.
+
+É conveniente observar queuma estrutura algébrica
+não é um conjunto, porém, é um conjunto munido deuma
+ou mais operações algébricas nela definidas; isto, aliás,
+ficoubem claro na definição.
+
+Principais Estruturas Algébricas
+
+Faremos, agora, o estudo elementar das principais
+estruturas algébricas, alertando ao principiante para que
+não desanime ante o formalismo empregado pois, este,
+uma vez perfeitamente assimilado, servirá para conduzirnosrapidamente e com segurança portodas as etapas do
+nosso estudo.
+
+a) semi-grupo: um conjunto E tem estrutura de
+semi-grupo em relação a uma operação * se vale a
+propriedade associativa, isto é, para quaisquer x, y,z < E,
+tem-se:
+
+x*(y*z)=(x*y)*z
+
+Exemplos:
+
+-(N, +), (Q, +) são exemplos de semi-grupos, que
+chamaremos de semi-grupos aditivos;
+
+-(N,.), (R, .) são exemplos de semi-grupos, que
+chamaremos de semi-grupos multiplicativos.
+
+Por semi-grupo aditivo entendemos o sistema
+(E, +) e por semi-grupo multiplicativo, entendemos o
+sistema (E, .), quando ambas as operações "+" e". "são
+associativas.
+
+Contra-Exemplos:
+
+- À subtração usual em N não é associativa; porisso,
+podemos afirmar que a subtração não define em N, uma
+estrutura de semi-grupo;
+
+- À divisão em N não é associativa; por isso,
+podemos afirmar que a divisão não define em N uma
+estrutura de semi-grupo;
+
+- À operação de média aritmética, definida por:
+
+1
+XxX. y= FU A
+
+não é associativa; por isso, podemos afirmar que esta
+operação não define em R uma estrutura de semi-grupo.
+
+b) monóide: se (E, *) é um semi-grupo e, ainda,
+aoperação * possui elemento neutro, então diremos que
+(E, *) é um monoide.
+
+Portanto, uma operação * defineem E uma estrutura
+de monóide, quando:
+
+-éassociativa: x * (py *z)=(x*y) *zVx, ),
+ze E
+
+- possui elemento neutro: 3 e e Etalquev xe E,
+
+xte =etx=x
+
+Exemplos:
+
+-(N, +), (Z, +), (Q, +), (R, +), são exemplos de
+monóides aditivos;
+
+-(N,.), (Z, , (Q, .), (R, .), são exemplos de
+monóidesmultiplicativos;
+
+- as operações de intersecção e reunião sobre o
+conjunto das partes P(E) definem em P(E) estruturas de
+monóides.
+
+c) grupo: seja E um conjunto munido de uma
+operação *. Diz-se que esta operação * define sobre E
+uma estrutura de grupo (ou queo conjunto E éum grupo
+em relação à referida operação) se, e somente se, se
+verificam os seguintes axiomas:
+
+D Para quaisquer elementos x, y, z em E, tem-se
+(x *y) *z=x*(y *z) (Propriedade associativa)
+
+ID Existência em E do elemento e, tal que:
+
+efx=x*te=e,
+para qualquer x em E (Existência do elemento neutro).
+
+HT) Para qualquer x pertencente a E, existe, um
+elemento x”, tal que:
+
+x'*x =x *x' = e (Existência do elemento
+simétrico).
+
+PRÓXIMO NÚMERO
+
+Conversas sobre o ensino da matemática
+(continuação).
+
+Aguardem!
+
+NÚMEROS ATRASADOS
+
+Envie para cada folhetim um selo de postagem nacional de 1º porte. Dentro de no máximo
+quatro semanas, contadas a partir da data de recebimento do seu pedido, você receberá os folhetins
+solicitados.
+
+OBS.: É permitida a reprodução total ou parcial
+deste folhetim, desde que citada a fonte.
+

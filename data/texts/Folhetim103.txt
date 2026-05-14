@@ -1,0 +1,509 @@
+FOLHETIM DE EDUCAÇÃO
+MATEMÁTICA
+
+Folhetim Educ. Mat., Ano 8/ 9, n. 103, jul. / ago. 2001
+
+UNIVERSIDADE
+ESTADUAL DE
+É FEIRADE
+tas SANTANA
+
+ISSN 1415-8779
+
+ans oro cm o ci RED rr ças
+
+OBJETIVO
+
+Este Folhetim é um veículo de divulgação,
+circulação de idéias e de estímulo ao estudo e à
+curiosidade intelectual. Dirige-se a todos os
+interessados pelos aspectos pedagógicos,
+filosóficos e históricos da Matemática. Pretende construir uma ponte para unir os que
+estão próximos e os que estão distantes.
+
+EDITORIAL
+
+No mês de agosto, completamos mais um
+ano de publicação do Folhetim de Educação
+Matemática. Já se passaram 8 anos desde o
+primeiro número, o que para nós é, sem
+dúvida, uma vitória, sobretudo pelo
+reconhecimento e aceitação do Folhetim.
+
+Nesse número, concluímos a abordagem
+sobre a Geometria, iniciada no número 102.
+
+A partir do questionamento de vários alunos,
+a coluna Pergunte que o NEMOC Responde
+trata dos paradoxos, em particular daqueles
+tipos que suscitaram investigações de caráter
+matemático/filosófico. Vale a pena a leitura,
+principalmente pela clareza como o assunto é
+tratado.
+
+COMITÉ EDITORIAL
+
+Carloman Carlos Borges (Doutor)
+Inácio de Sousa Fadigas (Mestre)
+
+PERGUNTE QUE O NEMOC RESPONDE
+
+Pergunta. Geometrias (Continuação).
+
+R. O duplo caráter de transformação e invariância contido
+no conceito de grupo, transforma-o em um instrumento
+extraordinário de construtividade e consequentemente de
+fecundidade. Veja o que o grande psicólogo Jean Piagetescreveu
+em seu livrinho (apenas 125 páginas) O Estruturalismo: "... É
+assim que o grupo dos deslocamentos deixa invariantes, além
+das dimensões das figuras deslocadas (portanto distâncias), os
+seus ângulos, paralelas, retas, etc.. Pode-se então variar as
+dimensões mas conservando todo o resto, e obtém-se um grupo
+mais geral de que o grupo dos deslocamentos, que se torna um
+subgrupo: é odas similitudes, que permite aumentar umafigura
+sem lhe modificar a forma. Pode-se depois modificar os ângulos,
+mas conservando as paralelas e as retas, etc.; obtém-se, assim,
+um grupo ainda mais geral do qual o das similitudes se torna
+subgrupo: é o da geometria afim... Continuar-se-á modificando
+as paralelas mas conservando as retas: chega-se, então, ao grupo
+projetivo (perspectiva, etc.) do qual os precedentes se tornam
+subgrupos encaixados. Finalmente, pode-se não conservar já as
+próprias retas e considerar figuras de certo modo elásticas de que
+só são mantidas as correspondências biunívocas e bicontínuas
+entre os seus pontos e será este o grupo mais geral ou grupo dos
+“homeomorfismos”", próprio da Topologia. Assim, as diferentes
+geometrias, que pareciam constituir o modelo de descrições
+estáticas, puramente figurativaserepartidas porcapítulos disjuntos,
+não formam já, utilizando a estrutura de grupo, senão uma vasta
+construção cujas transformações permitem, pelo encaixe de
+subgrupos, passar de uma estrutura a outra (sem falar na métrica
+geral que podemos apoiar na topologia para daí tirar as métricas
+particulares, não euclidianas ou euclidianas, e voltar por aí ao
+grupo dos deslocamentos)."
+
+
+
+Folhetim Educ. Mat., Ano 8/ 9, n. 103, p. 2, jul. / ago. 2001.
+
+Essa interessante citação do grande psicólogo é
+pertinente, pois ele sustenta uma tese bastante repetida
+pelos educadores que lhe seguem os passos. Qualé essa
+tese? Para Piaget, a criança adquire, primeiro, as noções
+topológicas e, em seguida, as métricas.
+
+Inicialmente (dos três aos sete anos, aproximadamente) a criança experimenta ausência dos princípios
+de invariância com relação às dimensões dos objetos
+quando eles sofrem deslocamentos. Nesse estágio de
+representação topológica, como é denominado por
+alguns psicólogos, a criança, exemplificando, faz
+"confusão" entre um losango e um quadrado. Supondo
+verdadeira essa tese, suas implicações no ensino da
+matemática são importantes. A primeira delas e talvez a
+mais importante é a seguinte: noções que os matemáticos
+consideram como elementares como a de número, por
+exemplo, precisaria de um longo período para ser
+construida pela criança. Tal observação é válida para
+outras noções euclidianas, consideradas elementares:
+conservação e distâncias, dimensões, etc. Isso aliás é
+intuido por muitas mães pobres, as quais para "enganarem"
+seus filhos na faixa etária mencionada (dos três aos sete
+anos aproximadamente), costumam espalhar a comida
+(que é muito pouca) no prato, dando-lhes ailusão de mais
+comida. Comessa última observação, bastante dolorosa,
+porque verdadeira, encerramos nossaresposta ao colega
+J. dos Santos Almeida de Salvador, que nos previlegiou
+com asuapergunta.e
+
+Pergunta. Muitos alunos perguntam qual o
+significado da palavra paradoxo e qual a relação
+dela com a matemática.
+
+R. A palavra paradoxo está muitorelacionada
+com a matemática, a lógica e até mesmo com a filosofia.
+Isso é compreensível, pois ela gravita em torno de uma
+idéia bastante perturbadora e criadora de problemas,
+alguns dos quais até hoje insolúveis: a idéia de infinito.
+Nesta exposição teremos oportunidade de abeirarmos
+não só dessas idéias como de outras, de certa forma
+pertencentes ao mesmo campo semântico das idéias de
+paradoxo e infinito. A palavra paradoxo não possui um
+significado unívoco. De acordo coma suaraizetimológica
+significa um enunciado à margem da opinião aceita.
+É aquilo que choca o senso comum. Exemplificando:
+o seguinte enunciado é paradoxal: "Carlos atingiu 23
+anos, passando por apenas cinco aniversários". Para
+desfazero "absurdo" acima bastarecordar, que, enquanto
+aidade de uma pessoa é medida pelo tempo decorrido,
+os aniversários coincidem com o dia do nascimento.
+Logo concluimos que Carlos nasceu em 29 de fevereiro;
+desfaz-se assim, o "mistério". Dentro desse mesmo
+significado pode-se considerar paradoxala afirmativa de
+que há o mesmo número de número pares e ímpares.
+Com outro significado, ficamos chocados quando um
+argumento legítimo nos conduz a uma conclusão
+inteiramente falsa. Aqui, incluimos os famosos paradoxos de Zenão no seu empenho em mostrar a
+incompreensibilidade do movimento (Vide Folhetins
+76 e 77). Existe, ainda, um outro significado para a
+palavra paradoxo: quando, aparentemente, de maneira
+legítima, mostra-se que alguma coisa pode ser verdadeira
+ou falsa, ao mesmo tempo. Alguns autores chamam esse
+tipo de paradoxo de antinomia.
+
+Um exemplo histórico dessa situação é dada
+
+NEMOC - NÚCLEO DE EDUCAÇÃO MATEMÁTICA OMAR CATUNDA
+
+Folhetim Educ. Mat., Ano 8/9,n. 103, jul./ago. 2001 - Editores: Carloman e Inácio - Secretária: Josenildes Oliveira
+Venas Almeida - Editoração: Evandro Vaz e Nivaldo de Assis - Impressão: Imprensa Gráfica Universitária Periodicidade: bimestral - Tiragem: 1.500 exemplares - Distribuição gratuita - Endereço: Av. Universitária,
+s/n - km 03 - BR 116 - Campus Universitário - Telefone: (075)224-8115 - Fax: (075)224-8086 - CEP: 44031-460 Feira de Santana - Ba - BRASIL - E-mail: nemocQOuefs.br
+
+
+
+Folhetim Educ. Mat., Ano 8/ 9, n. 103, p. 3, jul. / ago. 2001.
+
+pelo paradoxo de Epimênides, cretense, que afirmava:
+todos os cretenses são mentirosos. Ora, afirmar que
+todos os cretenses mentem, ele, Epimênides, também
+cretense, mente ou fala a verdade”? Suponha, primeiro,
+que Epimênides fala a verdade; logo, sua afirmativa é
+falsa. Suponha, agora, que ele é mentiroso; logo, ele falou
+a verdade. É uma situação complicada: a assertiva de
+Epimênides parece ser verdadeira e falsa, ao mesmo
+tempo. Outra situação paradoxal c afim com essa é dada
+pelo paradoxo do barbeiro: numa aldeia A existe um
+barbeiro que faz a barba de todos os homens de A que
+não se barbeiam a si mesmos. Veja que situação
+absurda na qual foi colocado o pobre do barbeiro: ele não
+pode barbear-se e, igualmente, não pode deixar de fazer
+asua própria barba. Em qualquer dessas duas alternativas,
+adecisão que o barbeiro tomar irá contra a definição que
+lhe foi dada: fazer a barba de todos os homens de A que
+não se barbeiam a si mesmos. Se ele se barbeia, não
+mais faz parte dos homens que não se barbeiam a si
+mesmos, e esses são os únicos homens que ele pode
+barbeiar. Se ele não se barbcia. então. pertence ao
+conjunto de pessoas que ele precisa barbeiar, isto é,
+daqueles que se barbeiam sozinhos. E então: ele se
+barbeia ou não”... Paradoxos desse tipo são bemantigos
+e serviam até de gracejos na idade media. Os lógicos não
+os olhavam com a seriedade devida c foi preciso o
+desabrochar do século XX. quando cles retornaram a
+cena, “pipocando” na Teoria dos Contuntos. elaborada
+por Cantor, para que seu estudo assumisse o destaque
+merecido, embora os problemas por eles levantados
+ainda continuem sem uma solução consensual da
+comunidade matemática.
+
+Como dissemos, a Teoria dos Conjuntos,
+elaborada por Cantor, o foi de maneira ingênua e intuitiva. Vejacomoele "define" conjunto: "Por conjunto
+compreendemos uma coleção C, de determinados
+objetos c, bem distintos, de nossa concepção ou
+pensamento - chamados de elementos de C - dentro de
+
+uma totalidade." Claramente, isso não é uma definição
+
+pois permite a construção dos mais extravagantes
+monstrinhos... Nessa mesma inha de idéias, encontra-se
+a definição de conjunto dada por Dedekind. São
+"definições" que fazem lembrar as do ponto e reta dados
+por Euclides: inúteis, porque obscuras e sem nenhuma
+operacionalidade. Dedekind chega mesmo a “provara
+existência de conjuntos infinitos" ao considerar o
+“conjunto dos pensamentos". Veja o início dessa
+"demonstração": "O mundo das minhas idéias, isto é, a
+totalidade, S, de todas as coisas que podem ser objeto
+do meu pensamento, é infinito. Pois, se sé um elemento
+deS, então o pensamento s', digamos, de que s pode ser
+objeto do meu pensamento, é ele mesmo um elemento de
+S...". Essa "demonstração" foge a qualquer padrão
+demonstrativo, pela sua densidade subjetiva, não pode
+ser considerada como uma demonstração, mas, sim,
+como uma construção barroca sem nenhum suporte
+lógico. Ante o exposto, não é de se estranhar a
+"construção"dos mais bizarros conjuntos. O primeiro
+paradoxo publicado modernamente foi o do matemático
+italiano Cesar Burali-Forti. Vejamos ele mais de perto.
+Seja a segiiência de números naturais: 0,1,2,3,4,5,6,
+7,8, 9, 10, 11. O ordinal 11 (décimo segundo da
+sequência ) representa o último elemento desse conjunto.
+Assim, considerando a sequência 0, 1,2,3,4,5,6,...de
+todos os naturais, corresponderia ao último elemento m
+dessa sequência o ordinal m + 1, donde se conclui que
+m não é o último, o que levou o matemático italiano a
+escrever: "O conceito de todos os números ordinais é um
+conceito em si mesmo contraditório, pois o último ordinal
+da série (começando com zero) é sempre maior que o
+último elemento”. Nessa mesmalinha háo "paradoxo de
+Cantor”. Ele diz respeito ao conjunto de todos os
+números cardinais, finitos e infinitos. Esse conjunto
+possui um número cardinal ou não? Comona Teoria dos
+Conjuntos Cantoriana, cada conjunto devia possuir um
+número cardinal, então, o conjunto mencionado o possui.
+Ora, tal resposta leva à seguinte situação: o número
+correspondente a todos os cardinais deve ser maior do
+
+
+
+Folhetim Educ. Mat., Ano 8/ 9, n. 103, p. 4, jul. / ago. 2001.
+
+que qualquer cardinal. Ainda, nessa mesma linha de
+raciocínio há a famosa "antinomia russeliana" devida ao
+grande filosofo, lógico e matemático inglês Bertrand
+Russelle constante de uma carta dirigida por Russellao
+outronotável Frege, em 1902. Essa antinomia diz respeito
+ao conceito: "conjunto de todos os conjuntos"o qual
+levaa sérias contradições. Segundo anebulosa definição
+de conjunto dada por Cantor, temos uma grande liberdade
+de criar diversos tipos de conjunto. Por exemplo: um
+conjunto composto exatamente de todos aqueles
+conjuntos que não contém a si mesmos como
+elementos. A propósito, Russel formulou a seguinte
+questão: "Será que este conjunto de todos os conjuntos,
+que não contém a simesmos como elementos, contém
+a si mesmo como elemento ou não"? Procuremos
+aclarar melhor essa "confusão". Nossa imaginação pode
+ser conduzida a dois tipos de conjuntos: aqueles que
+sejam elementos de si mesmos e aqueles que não o sejam.
+Exemplificando: o conjunto de todas as árvores, não é
+uma árvore. Logo, ele serve para ilustrar o segundo tipo
+acima. Quanto ao primeiro tipo, ele pode ser ilustrado
+pelo conjunto de todos os nossos pensamentos”, pois ele
+mesmo, é um pensamento.
+
+Retornemos à pergunta formulada por Russell:
+"Será que este conjunto de todos os conjuntos, que
+não contém a si mesmos como elementos, contém a si
+mesmo como elemento, ou não”? "Qualquer que seja a
+resposta, entramos num beco sem saída, isto é, nos
+batemos com uma contradição, pois, se esse conjunto
+contém a si mesmo como elemento, então ele entra em
+choque com a sua definição de conjunto de todos os
+conjuntos que não contém a si próprios como elementos.
+Aqui, há, portanto uma contradição. Logoele não contém
+asi próprio como elemento.
+
+Mas, se ele não contém a si mesmo como
+elemento, então (como conjunto que não é elemento de
+simesmo) ele deve ser elemento dele mesmo. Entramos,
+assim, naquilo que é designado pelos lógicos de "círculo
+vicioso" ou raciocínio circular. Para firmar melhor o
+
+entendimento dessa questão, compare-a com o paradoxo
+
+do barbeiro. Agora, talvez, um pouco de formalização
+possa aclarar ainda mais a antinomia russelliana... Seja
+Ro "conjunto de todos os conjuntos que não pertencem
+asi mesmos”. Como R é um conjunto, se ele pertence a
+simesmo, isto é, se R e R, então ele não é elemento de R,
+ou seja R é R. Da mesma forma, se R& R, então R ER
+(tenha sempre em mente a definição de R). Podemos
+resumir: Re Rsee somente se R € R, isto é, alguma coisa
+éverdadeira se e somente se não for verdadeira.Parece
+que o surgimento desse tipo de paradoxo se acha ligado
+ao emprego - sem maiores cuidados - da palavra todos,
+o que nos leva, naturalmente a outro conceito, o do
+infinito, objeto da Teoria dos Conjuntos, pelo que vale a
+pena escrever algo acerca dessa extraordinária teoria.
+Desde o antigo ginásio estamos acostumados com o
+axioma euclidiano: "o todo é maior que a parte”
+considerado evidente por simesmo ... Antes de mais nada
+vejamos a diferença entre dois tipos de infinitos: o infinito
+potencial e o infinito acabado. O infinito potencial
+está ligado à possibilidade de repetição ilimitada,
+mentalmente, de uma mesma operação. Exemplificando:
+dado um número natural por maior que seja, temos a
+possibilidade de ultrapassá-lo através da operação de
+"sempre juntar-lhe mais um". O infinito atual ou
+infinito acabado é a tomada de consciência de todos os
+elementos de um conjunto infinito. Exemplificando: a
+totalidade dos números naturais, a totalidade dos números
+reais, etc. É como se seus elementos (uma infinidade)
+fossem dados simultaneamente, enquanto, no infinito
+potencial, seus elementos são dados sucessivamente.
+Neste infinito temos devir: a série infinita de mudanças,
+em oposição ao ser imutável, que seria o infinito acabado,
+atualizado.
+
+A existência do infinito acabado sofre
+contestações desde a antiguidade. Aristóteles, por
+exemplo, admitia apenas aexistência doinfinito potencial
+e mais perto de nós, Gauss, em 1831, escreveu: "sou
+contra o emprego de uma grandeza infinita como algo já
+realizado, o que nunca é permitido em Matemática. O
+infinito é apenas uma maneira de falar (une façon de
+
+
+
+Folhetim Educ. Mat., Ano 8/ 9, n. 103, p. 5, jul. / ago. 2001.
+
+ess east
+
+parler). Narealidade, falam de limites, aos quais podem
+aproximar-se certas quantidades, na medida que se
+desejar, ao passo que outros têm permissão de crescer
+sem barrreiras." Enquanto isso, Cantor, com a sua
+extraordinária coragem intelectual, a qual talvez tenha
+faltado ao notável Gauss no caso das geometrias não
+euclidianas, escreveu: "Fui forçado, no decurso de muitos
+anos de esforços e experiências científicas, quase contra
+a minha vontade, pois contraria as tradições que me são
+valiosas, a pensar matematicamente emtermos de números
+de grandezas infinitas, não só na forma do crescente
+ilimitado, como também na forma determinada do
+infinito acabado". Para se ter uma idéia da coragem
+intelectual de Cantor, é pertinente lembrar que as idéias
+de Gauss sobre esse assunto eram aceitas tanto por
+filósofos como por matemáticos. Em torno delas existia
+quase uma unanimidade. E todos nós sabemos como é
+penoso investir contra a tradição. Ademais, quem não se
+lembra da geometria euclidiana com o seu famoso
+axioma: "O todo é maior que qualquer uma de suas
+partes"? Claro, que partes próprias! O rompimento de
+Cantor contra toda a tradição filosófica e matemática ao
+trataro infinito, causou-lhe dolorosos sofrimentos, como
+é sabido portoaos. Quem poderia imaginar uma totalidade
+equivalente a uma de suas parte:? A não ser que uma
+dessas partes fosse a própria totalidade. O axioma
+euclidiano estava acima de qualquer discussão! E,
+repetindo, durante séculos, em todas as escolas do
+mundo inteiro, como uma verdade "evidente por si
+mesma". Hoje, sua validade se restringe apenas quando
+atotalidade representa um conjunto finito. Quando ela
+representa uma infinidade acabada, o evidente é que ela
+pode ser equivalente a uma de suas partes. Pelo menos
+nós, assim, o aceitamos, embora sem deixar de
+experimentar um sentimento de espanto envolvido em
+grande fascinação. Cantor retoma uma das idéias mais
+simples e humilde da humanidade, a idéia de
+
+correspondência - como associação mental entre dois
+
+entes - e mostra que em conjuntos infinitos, o todo pode
+
+ser equivalente a uma de suas partes. Vai mais além e
+define: "um conjunto é infinito sempre que for equivalente a um subconjunto próprio de si mesmo. Caso
+contrário, o conjunto é finito". Hoje, o estudante de
+graduação em matemática sabe estabelecer uma correspondência biunívoca entre a totalidade dos números
+
+naturais (como infinito acabado) e a totalidade dos
+números pares - que é uma parte dos números naturais:
+
+VI 4 sa RT
+a RR na E ap; y
+2 4 6 8 10 12 14 16 18 20 .. 2
+
+De uma só vez, esse eminente matemático
+questiona o célebre axioma euclidiano e postula a
+existência do infinito acabado. Enveredando
+decididamente por novos caminhos, ele generaliza o
+conceito de cardinalidade de conjuntos finitos; agora,
+esse conceito é estendido para conjuntos infinitos.
+O primeiro cardinal passa a ser o do conjunto dos
+númerosnaturais, designado por N, (aleph-zero primeira
+letra do alfabeto hebraico). Enquanto a cardinalidade de
+um conjunto com um número finito de elementos é
+representado simplesmente por um número natural, a
+cardinalidade de um conjunto infinito é representado por
+umnúmero transfinito. Assim, o primeiro transfinito é
+oaleph-zeroe, doravante qualquer conjunto que possa
+ser colocado em correpondência biunívoca com os
+números naturais é chamado de conjunto enumerável
+e de mesma potência (mesma cardinalidade) do conjunto
+dos naturais. Enumerar, contar os elementos de uma
+coleção, é colocá-los em correpondência biunívoca com
+uma parte ou com a totalidade dos números naturais.
+Cantor demonstrou serem os conjuntos dos números
+pares, dos números ímpares, dos números racionais, da
+mesma grandeza, da mesma potência dos naturais. Todos
+eles são enumeráveis infinitos. Eo conjunto dos números
+
+reais? Ele é enumerável? Seus elementos podem ser
+
+
+
+Folhetim Educ. Mat., Ano 8/ 9, n. 103, p. 6, jul. / ago. 2001.
+
+Bee cr o ORE SEO e or
+
+postos em correspondência biunívoca com os números
+naturais? Essas duas totalidades infinitas possuem amesma
+potência? Tentemos comparar as propriedades dos
+números racionais com as propriedades dos números
+reais.
+
+1) O conjunto dos pontos de uma reta (isto é, o
+que é o mesmo, em certo sentido, o conjunto dos
+números reais) é infinito; o dos racionais também o é.
+
+IH) Ambos os conjuntos são ordenados: dado um
+ponto P dareta e outro ponto A, este precede àquele se
+estiver a sua esquerda; dados dois racionais x e y, x
+precede y quando x for menor que y.
+
+HT) Dados dois racionais distintos quaisquer
+entre eles há uma infinidade de outrosracionais; omesmo
+acontece com dois reais distintos quaisquer. Conjuntos
+com essa propriedade são chamados de densos. Mais
+formalmente um conjunto C é denso se nele existe uma
+relação de ordem % com a seguinte característica:
+sempre que x % z (supondo x £ z), existe um y tal que
+x Ryey Rz,ouseja, dados dois elementos distintos,
+xez, deC, háumelemento y entre eles. Apesar de ambos
+possuirem essas três propriedades, seus elementos não
+podem ser postos em correspondência biunívoca. O
+conjunto dos pontos dareta ou o conjunto dos reais, não
+é enumerável. A potência dos reais é de outro tipo. A
+cardinalidade dos reais é maior que a cardinalidade dos
+naturais. Na realidade, chamando de c a cardinalidade
+dosreais, demonstra-se que:
+
+EA”
+
+Mas, o que impede a correspondência biunívoca
+entre os dois conjuntos? A resposta é dada pela notável
+propriedade dos reais: a continuidade, propriedade
+inexistente tanto nos naturais como nosracionais. Como
+se não bastasse tantos resultados admiráveis, essa teoria
+nos surpreende com este: pode-se estabelecer uma
+correspondência biunívoca entre os pontos de umareta
+e os pontos de um segmento. Seja AB um segmento »
+uma reta qualquer paralela à AB. Liguemos A e B ao
+
+pontoC, daretar, de tal maneira que o ângulo ACB seja
+
+reto. A projeção C sobre AB é C'. Seja D um ponto
+qualquer de r à esquerda de C e o liguemos ao ponto B.
+Sobre o segmento AC, temos o ponto p, cuja projeção
+sobre AB, será D'. Do exposto se conclui: a qualquer
+ponto D (à esquerda de C) corresponde outro ponto D'
+aesqueda de C'. Analogamente, seja um ponto qualquer
+E de r à direita de C e o liguemos ao ponto A. Sobre o
+segmento BC determinamos o ponto m cuja projeção
+sobre AB é E'. Logo: a qualquer ponto (à direita de C)
+correponde o ponto E' à direita de C'. De uma maneira
+inteiramente analóga, o que acabamos de fazer pode ser
+estendido para todos os pontos da reta, ficando, desta
+forma, estabelecida uma correspondência biunívoca entre
+os pontos da reta r e o segmento AB.º
+
+Pergunte que o NEMOC Responde é uma
+coluna de autoria do prof. Dr. Carloman Carlos
+Borges e objetiva atingir ao público interessado em
+Matemática nos seus múltiplos aspectos.
+
+Caso o leitor queira fazer alguma pergunta
+escreva-nos.
+
+PRÓXIMO NÚMERO
+
+Aguardem!
+
+NÚMEROS ATRASADOS
+
+Envie para cada folhetim um selo de postagem nacional de 1º porte. Dentro de no máximo
+quatro semanas, contadas a partir da data de recebimento do seu pedido, você estará recebendo os
+folhetins solicitados.
+
+OBS.: É permitida a reprodução total ou parcial
+desse folhetim, desde que citada a fonte.
+

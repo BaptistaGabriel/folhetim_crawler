@@ -1,0 +1,299 @@
+FOLHETIM DE EDUCAÇÃO
+MATEMÁTICA
+
+Folhetim de Educação Matemática, Ano 6, n. 78, maio 1999
+
+é UNIVERSIDADE
+ESTADUAL DE
+FEIRA DE
+
+| SANTANA
+
+ISSN 1415-8779
+
+OBJETIVO
+
+Este Folhetim é um veículo de divulgação,
+circulação de idéias e de estímulo ao estudo e à
+curiosidade intelectual. Dirige-se a todos os
+interessados pelos aspectos pedagógicos,
+filosóficos e históricos da Matemática. Pretende construir uma ponte para unir os que
+
+estão próximos e os que estão distantes.
+
+EDITORIAL
+
+O tema principal tratado neste Folhetim
+refere-se aos quadrados mágicos. Estes aparecem por volta de 2.200 a.C., quando os chinêses
+os chamavam de lo-shu. Daí foram para a Índia
+e difundidos no ocidente através dos árabes.
+
+Cornélius Agripa (1486-1535) constuiu quadrados
+mágicos para 9, 16, até 81 números. Em seu
+famoso quadro Melancolia, de 1514, Albrecht
+Diirer apresenta um quadrado mágico ao fundo,
+cujo detalhe apresentamos na figura abaixo.
+
+32353
+
+ão,
+
+COMITÊ EDITORIAL
+
+Carloman Carlos Borges (Doutor)
+
+Inácio de Sousa Fadigas (Mestre)
+
+PERGUNTE QUE O NEMOC RESPONDE
+
+Pergunta. Muitos colegas se mostram curiosos a
+respeito dos famosos quadrados mágicos.
+
+Ê R. Os quadrados mágicos são conhecidos há centenas
+de anos e estão ligados a supostas "virtudes" de determinados
+números. Como a história registra, trata-se de uma crença muito
+cultivada pela Escola Pitagórica, cujos primeiros registros datam
+do século VIa.C. Como se sabe, a crença maior dos pitagóricos
+seresumiana divisa: tudo é número: há uma medida para tudo.
+Na Idade Média eles serviam de amuletos e suas supostas
+virtudes foram exploradas pelos sabidos astrólogos da época.
+Assim, o quadrado de ordem 1 simbolizava a unidade e a
+eternidade, enquanto o de ordem 2 representava o pecado
+original... Comecemos comalgumas definições:
+
+a) um quadrado mágico de ordemn é um arranjo, uma
+disposição, em forma de quadrado de n? inteiros distintos
+distribuídos de modo tal que os números de uma linha
+qualquer, de uma coluna qualquer ou diagonal principal têm
+a mesma soma, chamada constante mágica do quadrado.
+Exemplo de um quadrado mágico:
+
+O quadrado mágico representado acima é denominado normal, porque os n? números que o formam são
+os nº primeiros números inteiros positivos. Sua constante
+mágica é igual a 15. Logo, as horizontais dão as somas:
+8+1+6=3+5+7=4+9+42=15, as verticais:
+8+3+4=1+5+9=6+7+2=15e as diagonais:
+4+5+6=8+5+2=15.
+
+
+
+Folhetim de Educação Matemática, Ano 6, n. 78, p. 2, maio 1999.
+
+Ele é de ordem 3, pois possui apenas 3 linhas
+
+(e 3 colunas). Estas (linhas e colunas) são chamadas
+ortogonais;
+
+b) um quadrado semi-mágico é aquele no qual a
+
+soma de uma diagonal ou as somas de ambas as diagonais
+
+principais diferem das somas ortogonais. Exemplo:
+
+c) a constante mágica de um quadrado mágico
+
+n(1+n?)
+
+de ordem normal n é iguala . De fato, temos:
+
+n(l+nê)
+12+..+7 — q “nd+nn andem).
+n “no Wo
+
+d) acelacentral de un quadrado mágico normal
+de ordem três é sempre ocupada pelo número 5. Seja o
+quadrado abaixo:
+
+Como ele é normal e de ordem três, então a
+sua constante mágica é igual a 15. Desse modo temos:
+(ar+e+D)+(g+e+o)+(d+e+D+(b+e+h)=60=
+=3e+(a+d+g)+(i+f+c)+rb+e+h)=3e+45 alo
+e=5.
+
+Seja, ainda, o quadrado (III). Dizemos que os
+números representados por: a, c, g e i ocupam os
+
+NA
+
+ângulos" do quadrado mágico. De uma simples inspeção visual de ( III ) e levando em conta (d), podemos
+escrever:
+
+a+i=b+h=c+g=d+f
+
+Agora, podemos demonstrar que o número 1
+não pode ocupar nenhum desses quatro ângulos. Para
+fixar idéias, suponhamos a = 1; então, 1 = 9. Neste
+caso, nenhum dos números 2, 3 e 4 poderão ocupar a
+mesma ortogonal que 1. Por quê? Pelo simples fato de
+que se assim fosse, teríamos as situações seguintes:
+
+1+2+12;1+3+11;1+4+10.
+
+Ora, o maior número, no caso do quadrado
+examinado é 9. Como consegiiência dessa impossibilidade, restariam apenas duas casas para serem
+ocupadas por três números (2, 3, 4), o que é impossível. A figura abaixo ilustra a situação (as casas
+assinaladas com X, não podem, claramente serem
+preenchidas por qualquer dos números 2, 3 ou 4).
+
+Raciocínio análogo
+vale para 1 ocupando
+os restantes três
+
+ângulos.
+
+Uma pergunta: e o número 3 pode ocupar a
+
+mesma fila do número 97 A resposta é negativa, pois
+se assim fora, teríamos: 3 + 9 + 3 = 15, impossível
+devido à repetição do 3. Consideremos, agora, o Grupo
+de Rotações e Simetrias do quadrado. Suponhamos
+o quadrado ABCD, feito de um plástico transparente
+colocado num plano onde haja um sistema ortogonal
+cartesiano, de modo que seus lados sejam paralelos
+aos conhecidos eixos OX e OY e o seu centro coincida
+
+NEMOC - NÚCLEO DE EDUCAÇÃO MATEMÁTICA OMAR CATUNDA
+
+Folhetim de Educação Matemática, Ano 6 , n. 78, maio 1999 - Editores: Carloman e Inácio - Secretária: Josenildes
+Oliveira Venas - Editoração: Evandro Vaz e Nivaldo de Assis - Impressão: Imprensa Gráfica Universitária Periodicidade: mensal - Tiragem: 1.200 exemplares - Distribuição gratuita - Endereço: Av. Universitária, s/n km 03 - BR 116 - Campus Universitário - Telefone: (075)224-8115 - Fax: (075)224-2284 - CEP 44031-460 - Feira
+
+de Santana - Ba - BRASIL - E-mail: nemoc Quefs.br
+
+
+
+Folhetim de Educação Matemática, Ano 6, n. 78, p. 3, maio 1999.
+
+com a origem das coordenadas. O quadrado poderá As demais correspondências são as seguintes:
+ser levado a coincidir consigo mesmo através de rotações
+e simetrias, pois existem oito isometrias que o deixam
+globalmente invariante. Ei-las:
+
+Ro
+Movimento Símbolo Posição Posição
+Inicial Final
+Nenhum
+movimento
+Ro o
+Rotação de 90º no Roo A B D A
+sentido horário
+D € Cc B
+Rotação de 180º no | Rygo A B Cc D
+sentido horário D C B A Rap >
+Rotação de 270º no R$70º o x B K
+sentido horário D € A D
+Reflexão no eixo Reflexãono s
+horizontal eixohorizontal
+Reflexão no eixo a E B A
+vertical D|. € E | D
+L E Reflexãono
+Reflexão na : : . . =>
+diagonal dos eixovertical
+quadrantes Ile IV É q
+Reflexão na - - E diagonal dos : Ê Reflexão na
+quadrantes Ie II p p diagonal dos
+És
+quadrantes |
+HeIV E
+Essas transformações nos ajudarão a construir
+oito quadrados mágicos normais. Suponhamos a = 8, Reflexãona
+c=6,g=4ei=2,istoé, A=8;B=6;C=2e diagonaldos ||
+D=4. quadrantes |
+Ie HI
+
+Nesta altura, como é fácil observar, vemos que
+há tão somente um quadrado mágico normal fundamental, de ordem 3, o qual, submetido às transformações
+
+
+
+Folhetim de Educação Matemática, Ano 6, n. 78, p. 4, maio 1999.
+
+isométricas acima mencionadas, produz 7 quadrados
+equivalentes. O quadrado abaixo:
+
+pode, assim, ser considerado como o quadrado
+mágico normal fundamental de ordem 3.
+
+Construção de um quadrado de ordem ímpar,
+devida ao francês De la Loubére. Vamos ilustrar o
+método considerando um quadrado de ordem 5:
+
+r=2--r > —+€ linhaauxiliar
+
+1181251 21. 1X
+
+T Tcolunaauxiliar
+5º coluna
+
+ERRA
+
+1) Partindo de 1, que é colocado na casa mediana da primeira linha, começamos a contar, para cima e
+em diagonal: 1, 2; como 2 caiu fora do quadrado numa
+casa enfileirada com a 4º coluna, ele é deslocado, nesta
+mesma coluna para a casa 4, da 5º linha;
+
+2) Novamente, contamos, para cima (sempre em
+diagonal): 2, 3, 4; como 4 caiu fora do quadrado, ele é
+deslocado, nessa linha, para a primeira casa (3º linha);
+
+3) Analogamente, contamos, para cima: 4,5,6;
+como a suposta casa do 6, está ocupada pelo 1, ele é
+colocado logo abaixo do 5; e o processo continua como
+nas casas já explicadas.
+
+4) Quando um número "cai" na casa X, ele é
+colocado imediatamente abaixo do que lhe precedeu,
+na diagonal. Neste exemplo (6 fica logo abaixo de 15).
+
+Quadrado mágico de ordem 7:
+
+Domo Td CRC CRY
+
+(311 401491 2/11/20] X
+
+I
+Boss] 1 [roiofas]
+o E:
+46/6|8 [17] 26/35] 37] 46!
+
+DEDE ONA
+BEBA
+BEBER
+
+Ex. Construir o quadrado mágico normal de
+ordem 9.
+
+Mais informações, pode-se consultar:
+
+Matemáticas Recreativas
+
+Maurício Kraitchik
+
+"El Ateneo" - Buenos Aires (1946). e
+
+Pergunte que o NEMOC Responde é uma
+coluna de autoria do prof. Dr. Carloman Carlos
+Borges e objetiva atingir ao público interessado em
+Matemática nos seus múltiplos aspectos.
+
+Caso o leitor queira fazer alguma pergunta
+escreva-nos.
+
+PRÓXIMO NÚMERO
+
+Quadrados Mágicos (continuação).
+Aguardem!
+
+NÚMEROS ATRASADOS
+
+Envie para cada folhetim um selo de postagem nacional de 1º porte. Dentro de no máximo
+quatro semanas, contadas a partir da data de recebimento do seu pedido, você estará recebendo os
+folhetins solicitados.
+
+OBS.: É permitida a reprodução total ou parcial
+desse folhetim, desde que citada a fonte.
+
+ERRATA
+
+Na 1º coluna, página 3 do Folhetim nº 77, na linha 19,
+onde se lê X, leia-se 2.
+

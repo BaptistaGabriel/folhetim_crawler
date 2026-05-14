@@ -1,0 +1,391 @@
+FOLHETIM DE EDUCAÇÃO
+MATEMÁTICA
+
+Folhetim Educ. Mat., Feira de Santana, Ano 17, Número 157, nov./dez., 2010
+
+UNIVERSIDADE
+ESTADUAL DE
+FEIRA DE
+SANTANA
+
+ISSN 1415-8779
+
+OBJETIVO
+
+Este Folhetim é um veículo de divulgação,
+circulação de ideias e de estímulo ao estudo
+e à curiosidade intelectual. Dirige-se a todos
+os interessados pelos aspectos pedagógicos,
+filosóficos e históricos da Matemática. Pretende construir uma ponte para unir os que
+estão próximos e os que estão distantes.
+
+EDITORIAL
+
+Prosseguimos com a transcrição das notas
+intituladas “A Matemática: suas origens, seu
+objeto e seus métodos - Parte [”, de autoria
+do professor Carloman, publicada em janeiro
+de 1983, pelo Departamento de Ciências Exatas da UEFS. Neste número, nosso professor
+emérito trata das origens do conhecimento
+matemático, abordando o desenvolvimento
+da Geometria e da Aritmética.
+
+Tópicos como sistemas de numeração, as
+leis formais da adição e multiplicação e
+o método axiomático são expostos com a
+visão peculiar do nosso saudoso professor.
+Neste folhetim, teremos a oportunidade de
+lidar com um conceito capital: o infinito
+matemático. Aliás, dois tipos deste conceito
+são tratados neste número: o infinito potencial e o infinito atual ou acabado.
+
+Por fim, desejamos aos nossos estimados
+leitores um ótimo Natal, além de um Ano
+Novo próspero e repleto de realizações.
+
+COMITÊ EDITORIAL
+
+Carloman Carlos Borges (UEFS) - im memoriam
+Inácio de Sousa Fadigas (UEFS)
+
+Marcos Grilo Rosa (UEFS)
+
+Trazíbulo Henrique(UEFS)
+
+PERGUNTE QUE O NEMOC RESPONDE
+
+A Matemática: suas origens, seu objeto e seus
+métodos (continuação)
+
+Carloman Carlos Borges
+
+1.5 Fontes do Conhecimento Matemático Antigo
+
+Criado os números racionais e irracionais, das relações entre eles deve ter surgido a operação inversa da multiplicação,
+a divisão. A operação de subtração deve ter surgido depois
+desta. No Egito Antigo, por exemplo, através do Papiro de
+Ahmes, verificamos que a operação fundamental da aritmética
+dos egípcios era a adição. Uma multiplicação como 54 por 17
+poderia ser efetuada do seguinte modo: primeiro adicionava 54
+a ele mesmo, dando como resultado 108, depois somava 108 a
+ele próprio, dando 216, em seguida somava-se o 216 a ele mesmo
+para achar 432 e, novamente, a 432 era somado 432 para dar
+864. Ora, 864 é 16 vezes 54; mas, como, 17 = 16 + 1, o resultado final dessa operação é: 864 + 54 = 918. Este processo de
+sucessivas duplicações também era aplicado na divisão, quando
+se dobrava o divisor sucessivas vezes.
+
+O Papiro de Ahmes, assim chamado em homenagem ao escriba que o copiou por volta de 1650 a.C. é, também conhecido como Papiro de Rhind, nome de um antiquário escocês,
+Henri Rhind que o comprou em 1858 numa cidade do rio Nilo.
+Além de informar que os egípcios sabiam manejar as primeiras
+operações algébricas, esse papiro sugere, inclusive, que eles
+sabiam, possivelmente, resolver algo parecido com o que hoje
+conhecemos como “regra de três”. Vejamos o seu problema de
+número 72: qual o número de pães de força 45 que são equivalentes a 100 de força 10? Força neste problema “é o inverso
+da densidade de grão, sendo o quociente do número de pães ou
+de unidades de volume dividido pela quantidade de grão”. A
+solução deste problema é dada por o x 45 = 450 pães.
+
+À criação dos números irracionais, sendo uma criação dos
+gregos, já implica em um pensamento matemático abstrato.
+Deste ponto, é conveniente recuarmos ao marco no qual os
+antigos tinham terminado de criar a série dos números naturais, estabelecido relações entre eles, estruturado as primeiras
+operações aritméticas e efetuado a primeira extensão do
+número: a criação dos números racionais.
+
+
+
+Folhetim Educ. Mat., Feira de Santana, Ano 17, Número 157, p.2, nov./dez. 2010
+
+O desenvolvimento de suas vidas econômicas, de
+suas relações sociais, o aparecimento de novas culturas, o aumento do volume de seus negócios - tudo
+isto deve ter criado a necessidade de se achar um
+meio através do qual fosse possível a materialização
+desse conceito; daí surgiram os primeiros símbolos
+numéricos, os quais, talvez, tenham precedido as
+palavras para os números, pois aqueles são relativamente fáceis de serem criados, se pensarmos que basta
+algumas incisões feitas em ossos para fixar a quantidade de ovelhas de um rebanho, por exemplo.
+
+A criação de tais símbolos marca o início de uma
+nova etapa do conhecimento matemático; inicialmente, esses símbolos variavam de uma cultura para
+outra e os princípios para os quais eram fundamentados diferiam do sistema decimal atual. Após a criação
+desses símbolos, surgiu, então a linguagem escrita
+paralelamente ao uso dos metais - isto ao redor de
+4.000 anos antes de nossa era.
+
+1.6 Sistemas de Numeração e Regras
+Operacionais
+
+Dos diferentes sistemas de numeração criados pelo
+homem, prevaleceu o sistema decimal e isto porque,
+desde os tempos pré-históricos, a principal coleção de
+objetos sempre à disposição dele no processo de contagem era formada pelos dez dedos das mãos; antes,
+contudo, desta prevalência, os povos antigos empregaram diversos outros sistemas de numeração. Os
+astecas e os maias usavam o sistema de base vinte, os
+antigos babilônios, o de base sessenta e o de base decimal; algumas tribos africanas fizeram uso do sistema
+quinário e entre os ingleses notamos, ainda, resquícios
+dos sistemas duodecinal e vigesimal, (1 pé = 12 polegadas; 1 xelim = vigésima parte da libra esterlina).
+
+Os atuais símbolos empregados por nós são os
+“arábicos” trazidos para a Europa da Índia, pelos
+árabes em torno do século X; nestes, já existe um
+símbolo bem definido para o zero, embora em algumas escrituras cuneiformes dos babilônios - do tempo
+de Alexandre, o Grande - apareça duas cunhas postas
+inclinadas para a direita entre cunhas verticais, a fim
+
+de significar o “nada”. Em alguns manuscritos elaborados na Índia, no século IX, esse símbolo aparece exatamente como nós o conhecemos hoje em dia. Alguns
+historiadores acreditam que ele já era conhecido dos
+hindus por volta do século VI. De qualquer forma,
+o zero surgiu após a numeração escrita, quando esta
+já estava elaborada e foi possivelmente imposto por
+exigência daquela. O zero serve para evidenciar muito
+bem que um número tem a sua maior importância em
+suas relações recíprocas com os outros números pois,
+em si mesmo, o zero não significa nada. Relacionado
+com os outros números, o zero torna-se atuante.
+
+Quais as características principais do nosso sistema
+decimal? Salientemos apenas uma delas, a mais importante: a posicional. Que significa dizer que o nosso
+sistema decimal é posicional? Significa o seguinte:
+considere o número 555; neste, o mesmo algarismo 5
+possui significados diferentes: da direita para a esquerda, o primeiro cinco representa 5 unidades, o segundo, dezenas e o último, centenas. No número 384,
+seguindo o mesmo esquema: o quatro representa as
+unidades, o oito, dezenas e o três, centenas. Vemos assim, cada algarismo apresentar significados diferentes,
+dependendo de suas posições. Esta propriedade, aliada às regras operacionais, facilita enormemente os
+cálculos aritméticos. Para sentir isto, basta alguém
+procurar operar com os algarismos romanos, sistema
+onde a propriedade posicional é desconhecida.
+
+Das relações mútuas entre os números nasceram as
+operações aritméticas e as regras operacionais. É de
+supor que este desenvolvimento esteja ligado aos progressos da numeração escrita e da própria linguagem
+escrita.
+
+A experiência de muitos e muitos anos com os
+números naturais sugeriu ao homem a criação das leis
+formais. Dados a, b, c, números naturais quaisquer:
+
+a+b=b+a (lei comutativa da adição)
+
+ab = ba (lei comutativa da multiplicação)
+
+a+(b+c) = (a+b)+c (lei associativa da adição)
+
+a(bc) = (ab)c (lei associativa da multiplicação)
+
+a(b + c) = ab + ac (lei distribuitiva)
+
+Observamos a última destas leis, a lei distributiva:
+ela estabelece uma relação estreita entre a adição e a
+
+NEMOC - NÚCLEO DE EDUCAÇÃO MATEMÁTICA OMAR CATUNDA
+
+Folhetim Educ. Mat., Feira de Santana, Ano 17, Número 157, nov./dez. 2010 - Editores: Inácio, Grilo e Trazíbulo Digitação: Josenildes Oliveira Venas Almeida e Manoel Aquino dos Santos - Editoração: Evandro Vaz e Nivaldo Assis
+
+- Impressão: Imprensa Gráfica Universitária - Periodicidade: bimestral - Tiragem: 1.500 exemplares - Distribuição
+
+gratuita - Endereço: Avenida Transnordestina s/n, Módulo Prof. Carloman Carlos Borges, bairro Novo Horizonte, Feira
+de Santana, BA, Brasil. CEP 44.036-900. - Telefone: (75)3224-8115 - Fax: (75)3224-8086 - E-mail: nemocQuefs.br Home-Page: www.uefs.br/nemoc
+
+
+
+Folhetim Educ. Mat., Feira de Santana, Ano 17, Número 157, p.3, nov./dez. 2010
+
+multiplicação, ligação esta que reflete corretamente
+as atividades práticas do homem com esses números,
+conforme vimos na seção 1.5 ao mencionar o Papiro
+de Rhind; neste, há problemas, os quais revelam o
+uso, pelos egípcios, de algumas fatorações. Por ligar
+duas operações fundamentais, a lei distribuitiva possui
+uma importância à parte nas diversas manipulações
+aritméticas.
+
+A criação dos números racionais coloca o problema:
+eles devem possuir também, essas leis? Claramente
+que sim pois, ao admitirmos o contrário, estaremos
+indo de encontro ao espírito de harmonia que rege
+toda a Matemática; aliás, se cada nova extensão de
+número violasse as leis anteriores estabelecidas, simplesmente, a Matemática deixaria de existir. Mas, se
+os novos números devem possuir as mesmas leis dos
+números naturais, então, suas definições, relacionando
+essas operações devem ser tais que não entrem em contradições com tais regras formais de operações. Para
+isto, quaisquer que sejam a, b, c e d naturais, definimos:
+
+a
+a
+a c
+a, c ad+be
+b do bd
+ae a
+bd bd
+
+Provemos a lei comutativa da multiplicação, isto é,
+
+a igualdade:
+c
+
+ac
+bd db
+Temos:
+
+ac ac caca
+bd bd dh db
+
+Analogamente, prova-se as demais leis. Criados os
+números naturais, em seguida, os racionais e depois, os
+irracionais, faltava ainda, completá-los, considerando,
+também, a sua negatividade; temos, assim, o conjunto dos números reais, isto é, a reunião dos números
+racionais com os números irracionais. É evidente que
+as propriedades citadas acima são conservadas no sistema real. Agora, a operação da subtração é conhecida
+e equações do tipo: a+ ax = b são resolvíveis para
+quaisquer valores.
+
+O fundamental em todas essas extensões numéricas
+é que as leis formais sejam conservadas. Devido a isto,
+justifica-se a regra:
+
+através da conservação da lei distributiva; a qual seria
+
+desprezada se considerássemos: (—1).1 = 1. Real
+mente, paraa = 1,b= —l e c= 1, temos, aplicando
+a distributividade:
+
+MM A+D=L1+1(-1)
+L0=1+1
+0=2
+
+Analogamente para: (—1).(-1) = 1. A Aritmética, tanto dos babilônios como dos egípcios era inseparável de suas atividades práticas; servia para resolver
+problemas práticos. Foi somente com os gregos que
+a palavra demonstração entrou na Matemática. As
+simples “provas” que mencionamos logo acima eram
+completamente desconhecidas daqueles povos. Outra
+notável invenção dos gregos foi a do método axiomático.
+
+A formação da Aritmética Prática ou Aritmética
+Aplicada, exposta nas linhas anteriores rejeita as teses
+dos racionalistas, dos aprioristas e dos logicistas, confirmando plenamente a tese central dos realistas, qual
+seja, a de que o conhecimento matemático e, por
+extensão, todo conhecimento humano, qualquer se
+origina de uma realidade bem concreta, da prática
+econômica, social, etc, dos homens. Porém, não basta
+somente isto no processo do conhecimento: temos de
+considerar, também, as forças criadoras da razão humana e a existência de uma certa intuição intelectual;
+finalmente, estas três coisas, a realidade, a razão e
+a intuição, no processo do conhecimento - não são
+independentes uma das outras, todas elas se relacionam entre si mesmas em ações recíprocas, produzindo transformações que constituem o desenvolvimento do conhecimento, o qual se efetua por meio
+de saltos qualitativos e do jogo de ideias contrárias,
+porém, inseparáveis.
+
+A transição da Aritmética Aplicada para a
+Aritmética Pura é feita a partir dos gregos; nesta
+passagem tem enorme importância a ideia do infinito
+matemático reconhecida pelos gregos no século II
+a.C. Como, porém, o desenvolvimento da Aritmética
+foi juntamente com a da Geometria, falaremos um
+pouco sobre esta na próxima seção.
+
+1.7 Origem da Geometria
+
+A contemplação desse mundo acenava-me
+como uma força libertadora, e percebi que
+muitos daqueles a quem aprendera a respeitar
+e admitir haviam encontrado, por esse meio, a
+liberdade interior e a segurança. À conquista
+mental desse mundo extra-individual dentro
+dos limites da capacidade humana se me apresentava meio consciente e meio inconsciente
+como o objetivo supremo. Os homens do pre
+
+Folhetim Educ. Mat., Feira de Santana, Ano 17, Número 157, p.4, nov./dez. 2010
+
+sente e do passado, similarmente motivados, bem como os conhecimentos que tinham
+adquirido, eram dignos de serem cultivados
+como amigos.
+
+Albert Einstein
+
+As ideias de número e forma tiveram muita importância na origem do conhecimento matemático.
+Nossa vivência física espacial e temporal, leva-nos,
+naturalmente, à ideia de forma. Estamos circundados
+por formas, figuras geométricas das mais variadas e é
+da contemplação de tudo isso, através do seu manuseio quando possível e da sua feitura para as próprias
+necessidades do dia a dia, que o homem efetua suas
+primeiras abstrações com o fim de criar outro ramo
+da Matemática, a Geometria. Aqui a similitude com
+o processo de contar e, deste, pela abstração, para a
+ideia de número, é total...
+
+O problema da medida leva, igualmente, o homem
+ao mesmo caminho. A Aritmética e a Geometria
+aparecem juntas no Papiro de Rhind; lá são resolvidos
+problemas referentes à área do círculo, fala-se sobre o
+cálculo da circunferência e inclusive sobre triângulos
+semelhantes. Já no Papiro de Moscou vemos que os
+egípcios sabiam calcular o volume de um tronco de
+pirâmide, porém, não temos nenhuma fonte, nenhum
+documento que nos assegure que eles tivessem preocupações teóricas no sentido de generalizar seus resultados práticos.
+
+Ao chegar à Grécia é que a Geometria experimentou importantes mudanças na sua apresentação e foi
+aqui que se criou o método axiomático e muitos resultados dessa ciência são demonstrados elegantemente
+no mais famoso livro de Geometria que se conhece:
+Os Elementos, de Euclides.
+
+Segundo A. D. Aleksandrov, “A Geometria tem
+como objeto as forma espaciais e as relações entre os
+corpos reais, deles eliminando as demais propriedades
+e considerando-os a partir de um ponto de vista puramente abstrato”. É justamente este alto nível de abstração o traço que distingue a Geometria das outras
+ciências que também se ocupam das formas espaciais
+e das relações entre os corpos celestes; em Geodésia, é
+a forma da Terra o que se estuda; em Cristalografia, a
+forma dos cristais, etc. Em todas essas outras ciências,
+a forma e a posição dos corpos concretos se estudam
+em função de outras propriedades suas.
+
+As conclusões tiradas com respeito à Aritmética
+anteriormente são igualmente válidas para a Geometria e, por isso, deixamos de repeti-las, procurando,
+agora, focalizar nossa atenção para o problema da passagem crucial para todo o posterior desenvolvimento
+da Matemática. Vejamos, primeiro, como os gregos
+
+tiveram a primeira ideia do infinito matemático.
+
+Naturalmente, os processos úteis na prática são
+processos finitos; não é possível, da prática de contar chegar-se a tal ideia. Aqui, mais uma vez, entra o
+poder criador da razão humana. A contemplação, no
+plano teórico, da série dos números naturais, leva-nos,
+naturalmente a ideia de que, dado qualquer número
+natural, por maior que seja, resta-nos a possibilidade
+de ultrapassá-lo, bastando para tal, acrescentar-lhe
+mais uma unidade; e esta operação: acrecentar mais
+uma unidade pode ser repetida ilimitadamente. À esta
+possibilidade de repetição ilimitada, damos o nome de
+infinito potencial.
+
+O infinito potencial está subjacente à bela demonstração de Euclides de que a sequência dos números
+primos é ilimitada. Ao lado do infinito potencial há
+outro tipo de infinito: o infinito atual ou infinito
+acabado, isto é, a tomada de consciência de todos
+os elementos de um conjunto infinito; o primeiro
+tipo citado de infinito opera no plano finito, por
+assim dizer, com a possibilidade, porém, de repetir
+indefinidamente uma mesma operação.
+
+PRÓXIMO NÚMERO
+
+A Matemática: suas origens, seu objeto e seus
+métodos. (Continuação)
+
+NOTÍCIAS
+
+Mini-Curso
+
+O NEMOC realizou nos dias 29 de setembro e 06
+de outubro de 2010, no LABMAT, o mini-curso “O
+Ensino de Geometria Usando o Régua e Compasso”.
+O evento foi ministrado por alunos do Curso de Especialização em Educação Matemática e contou com
+a participação de discentes do Curso de Licenciatura
+em Matemática da UEFS.
+
+NÚMEROS ATRASADOS
+
+Envie para cada folhetim um selo de postagem nacional de 1º porte. Dentro de no máximo quatro semanas, contadas a partir da data de recebimento do seu
+pedido, você receberá os folhetins solicitados. OBS.:
+É permitida a reprodução total ou parcial deste folhetim, desde que citada a fonte.
+

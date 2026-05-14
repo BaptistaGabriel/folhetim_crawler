@@ -1,0 +1,279 @@
+FOLHETIM DE EDUCAÇÃO
+MATEMÁTICA
+
+Folhetim Educ. Mat., Ano 14, n. 147, nov. / dez. 2008
+
+UNIVERSIDADE
+ESTADUAL DE
+FEIRA DE
+SANTANA
+
+ISSN 1415-8779
+
+OBJETIVO
+
+Este Folhetim é um veículo de divulgação,
+circulação de idéias e de estímulo ao estudo e à
+curiosidade intelectual. Dirige-se a todos os
+interessados pelos aspectos pedagógicos,
+filosóficos e históricos da Matemática. Pretende
+construiruma ponte parauniros queestão próximos
+
+e os que estão distantes.
+
+EDITORIAL
+
+Neste número são dadas definições de
+algumas importantes estruturas algébricas monóide, semi-grupo e grupo. O propósito de
+relembrar as definições é preparar o leitor à
+compreensão de outros conceitos, como o de
+simetria e sua articulação coma Teoria de Galois
+para, e, finalmente, prepará-lo a uma pequena
+
+introdução à Teoria de Galois.
+
+COMITÉ EDITORIAL
+
+Carloman Carlos Borges (UEFS)
+
+Inácio de Sousa Fadigas (UEFS)
+Marcos Grilo Rosa (UEFS)
+
+Trazíbulo Henrique Pardo Casas (UEFS)
+
+PERGUNTE QUE O NEMOC RESPONDE
+
+Conversas sobre o ensino da matemática
+(Continuação)
+
+Observemos que um grupo nada mais é do queum monóide
+acrescido da propriedade de que todo elemento possui inverso, isto
+é, ésimetrizável.
+
+Nesse sentido, o conceito de grupo é uma extensão do
+conceito de monóide, do mesmo modo, que o conceito demonóide
+é uma extensão do conceito de semi-grupo, pois, um monóide éum
+semi-grupo que satisfaz a condição de existência do elemento
+neutro. Vale notar que este método construtivo de conceitos é
+característico da Matemática. Partiu-se de um conceito simples, o de
+semi-grupo e, sobre ele, pela adjunção de novas propriedades,
+foram elaborados dois novos conceitos, o demonóide e o de grupo.
+Não deve ter passado despercebido o fato importante de que os
+novos conceitos, além de novas propriedades, trazem, em seu
+conteúdo, as propriedades pertencentes aos conceitos mais simples
+sobre os quais eles foram construídos. Nesse sentido, podemos
+afirmar que o conceito demonóide "herdou" do conceito de semigrupo, a propriedade associativa, e o conceito de grupo, "herdou" do
+conceito demonóide a própria propriedade associativa ea existência
+deelemento neutro.
+
+O conceito de grupo é de fundamental importânciana Teoria
+
+de Galois, pelo que vale a pena observá-lo mais de perto, através de
+
+
+
+Folhetim de Educação Matemática, Ano 14, n. 147, p.2, nov. / dez. 2008
+
+alguns exemplos ilustrativos. Vejamos, inicialmente o
+exemplo: seja o conjunto (-1, 1. A operação usual de
+multiplicação definenesseconjunto umaestrutura algébrica
+de grupo. Paramais clareza dessa afirmativa, façamos a
+
+"tábua" seguinte:
+
+, temos:
+
+1) Fechamento, isto é, a operação "e" aplicada ao
+conjunto (-1, 1 ; produz sempre um elemento pertencente
+a esse conjunto;
+ii) aoperação "e" éassociativa;
+ili) existência do elemento neutro: 1;
+iv) todo elemento é simetrizável. Assim, o inverso
+multiplicativo de 1 é 1 eo inverso multiplicativo de-1 é
+1:
+Observemos, ainda, que:
+v)(-1lel)=(1)e(-1)=-l1, isto é, a operação é
+comutativa. Embora a comutatividade não seja uma
+propriedade indispensável à caracterização da estrutura
+de grupo, quando este a possui, damos-lhe o nome de
+grupo comutativo ou grupo abeliano.
+
+Consideremos um triângulo equilátero ABC, e
+estudemos as diversas rotações em tôrno do seu centro,
+capazes de fazê-lo coincidir com elemesmo. Após um
+
+rápido exame, verificamos que existem apenas 3
+
+rotações em torno do seu centro e queo levam à coincidência
+com elemesmo. A primeira rotação será, evidentemente, ade
+0º; a segunda, será a de 120 graus e a terceira será a de 240
+graus. Estamos considerando estestrêsmovimentosno sentido
+anti-horário. Como consideramos duasrotações iguais quando
+produzem o mesmo efeito, as outras três rotações no sentido
+horário não serão levadas em conta.
+
+Temoso seguinte esquema:
+
+—D—D—————p
+
+A
+Ri50º
+emitir entao
+
+B Ê
+pi“
+
+NEMOC - NÚCLEO DE EDUCAÇÃO MATEMÁTICA OMAR CATUNDA
+
+Folhetim Educ. Mat., Ano 14,n. 147, nov./dez. 2008 - Editores: Carloman, Inácio, Grilo e Trazíbulo - Digitação:
+Josenildes Oliveira Venas Almeida e Manoel Aquino dos Santos - Editoração: Evandro Vaz e Nivaldo Assis Impressão: Imprensa Gráfica Universitária - Periodicidade: bimestral - Tiragem: 1.300 exemplares Distribuição gratuita - Endereço: Av. Universitária, s/n - km 03 - BR 116 - Campus Universitário - Telefone:
+(75)3224-8115 - Fax: (75)3224-8086 - CEP: 44031-460 - Feira de Santana - Ba - BRASIL - E-mail: nemoc(Duefs.br
+
+
+
+Folhetim de Educação Matemática, Ano 14, n. 147, p. 3, nov. / dez. 2008
+
+Estabeleçamos neste conjunto de rotações a
+operação "adição de rotações", lembrando que duas
+rotações são iguais quando produzem o mesmo efeito ou,
+o que é o mesmo, quando diferem de múltiplo de 360º;
+ainda vamos estabelecer o seguinte:
+
+R+B,=Ry,
+significando R + R,, que devemos, primeiro, efetuar R,
+e, em seguida, efetuar R, . Assim, porexemplo:R,.+R ,,,.
+
+=R na
+
+0º +120º
+
+Ro a Roso us Rio ni Roo
+
+120º
+
+Temos aseguintetábua:
+
+0º 240º
+
+R,
+0º R, ?
+
+120º 120º 240º 0º
+
+R
+240º mo Ryo Ro
+
+Mostremos que o sistema formado por estas três
+rotações ea operação adição derotações, forma um grupo
+abeliano:
+
+- a operação "+" atuando sobre dois quaisquer
+elementos do conjunto em questão, produz um terceiro
+elemento sempre do mesmo conjunto; expressamos este
+fato dizendo que o conjunto das rotações do triângulo
+equilátero é fechado em relação a esta operação;
+
+- existência do elemento neutro, que é arotação Ro
+
+- a operação é, evidentemente, associativa, pela
+própria definição;
+
+-a simetria emrelação à diagonal principal, assegura
+
+a comutatividade da operação;
+-todo elemento é simetrizável:
+i)o inverso de R,.é R,,:
+1) o inverso de R é R$,
+
+li) o inverso de Ré R so
+
+Este grupo é chamado de grupo das rotações do
+triângulo equilátero.
+
+No exercício anterior, o triângulo equilátero pode ser
+levado a coincidir consigo mesmo através detrêsmovimentos
+de rotação em tôrno do seu centro; portanto, o triângulo
+equilátero goza de simetriarotacional.
+
+Por simetria deuma figura entendemos um conjunto de
+movimentos que a levam a coincidir com ela mesma, sem
+deformação, isto é, simetria de uma figura é uma
+transformação um a um (injetora).
+
+Vejamos, agora, quais são os outros movimentos
+capazes de levarem o triângulo equilátero a coincidir consigo
+mesmo.
+
+O triângulo equilátero possui três alturas
+correspondentes aos seus três vértices. Podemos, portanto,
+através de três reflexões, levá-lo a coincidir consigo
+mesmo.
+
+Lembramos que reflexão é a transformação que
+associa a cada ponto do plano o seu simétrico - em relação
+a umareta dada. A reflexão em relação a umareta, chamasereflexão axial, enquanto que a reflexão em relação a um
+ponto, chama-se de reflexão pontual.
+
+Para o triângulo equilátero, temos as seguintes
+
+reflexões em relação as suas três alturas:
+
+
+
+Folhetim de Educação Matemática, Ano 14, n. 147, p. 4, nov. / dez. 2008
+
+> Db
+bb Efácil observar queo conjunto destes movimentos,
+emrelação à composição demovimentos, não forma um
+grupo; para isto, basta notar a inexistência do elemento
+
+neutro.
+
+NOTÍCIAS
+
+Site do Nemoc
+
+ONEMOC colocou recentementenaintemeta sua
+Home-Page. Acessando www2.uefs.br/nemoc você
+obterá informações sobre o Curso de Especialização em
+Educação Matemática, o Folhetim, além de outras
+atividades desenvolvidas pelo NEMOC. Você também
+
+terá acesso a um texto publicado na RPM contendo uma
+
+biografia do Prof. Omar Catunda além de uma entrevista
+concedida pelo Prof. Carloman publicada no Caderno de
+
+Física da UEFS, em 2004.
+
+Curso de Aperfeiçoamento de Professores 2009
+
+ONEMOC ofereceráno período de maio a outubro
+de 2009 um Curso de Aperfeiçoamento de Professores,
+com duração de 120h, dividido em 04 módulos de 30h
+cada, que tratarão dos seguintes tópicos: Trigonometria,
+Geometria, Funções e Tópicos de Álgebra. Esse curso é
+destinado a Professores de Matemática do Ensino
+Fundamental (6º ao 9º ano) e Ensino Médio da Região de
+Feira de Santana. As inscrições ocorrerão no período de
+16 de maio a 15 de abril. Maiores informações no
+NEMOC, pelo telefone 3224-8115, pelo e-mail
+
+nemoc(duefs.br, ou pelo site www2 .uefs.br/nemoc.
+
+PRÓXIMO NÚMERO
+
+Conversas sobre o ensino da matemática
+(continuação).
+
+Aguardem!
+
+NÚMEROS ATRASADOS
+
+Envie para cada folhetim um selo de postagem nacional de 1º porte. Dentro de no máximo
+quatro semanas, contadas a partir da data de recebimento do seu pedido, você receberá os folhetins
+solicitados.
+
+OBS.: É permitida a reprodução total ou parcial
+deste folhetim, desde que citada a fonte.
+

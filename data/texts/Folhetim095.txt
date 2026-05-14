@@ -1,0 +1,371 @@
+FOLHETIM DE EDUCAÇÃO
+MATEMÁTICA
+
+Folhetim Educ. Mat., Ano 8, n. 95, out. 2000
+
+UNIVERSIDADE
+ESTADUAL DE
+
+ISSN 1415-8779
+
+OBJETIVO
+
+Este Folhetim é um veículo de divulgação,
+circulação de idéias e de estímulo ao estudo e à
+curiosidade intelectual. Dirige-se a todos os
+interessados pelos aspectos pedagógicos,
+filosóficos e históricos da Matemática. Pretende construir uma ponte para unir os que
+
+estão próximos e os que estão distantes.
+
+EDITORIAL
+
+Não sendo uma ciência empírica, a
+matemática necessita da demonstração formal
+para validar seus resultados. Os métodos de
+demonstração portanto ganham umaimportância
+vital dentro desta ciência. Este Folhetim, procura
+apresentar em um mesmo texto, as diversas
+formas de demonstração utilizadas na matemática,
+comexemplos de aplicação.
+
+Esperamos que o artigo se preste, entre outras,
+para minimizar o pavor de alunos (e de professores também) quando se trata de demonstrar
+
+algumas afirmações em matemática.
+
+COMITÊ EDITORIAL
+
+Carloman Carlos Borges (Doutor)
+
+Inácio de Sousa Fadigas (Mestre)
+
+PERGUNTE QUE O NEMOC RESPONDE
+
+Pergunta. Carlos Moreira S. da Silva, de Alagoinhas e
+muitos estudantes do curso de Licenciatura em Matemática nos
+indagam: Como aprender a demonstrar em matemática?
+
+R. Quem ensina Matemática nos diversos cursos de
+licenciatura dessa ciência, não deixa de constatar esta coisa
+absurda: "os alunos de Matemática, na sua maioria, detestam
+demonstrações e aqueles que as fazem, fazem-nas com grande
+insegurança, pois não têm certeza se elas estão certas e, até
+mesmo se chegaram ao seu final". Mas, que é mesmo uma
+demonstração? Dentro de uma teoria J, a elaboração de um
+enunciado verdadeiro a partir de outro suposto verdadeiro H, é
+chamada de dedução. Sempre que de H pode-se deduzir T,
+anota-se H => T. Isso significa dizer que a implicação H => T é
+verdadeira. Parachegara T, usando H, empregamos o chamado
+raciocínio lógico, isto é, aquele que é justificado pelas regras da
+lógicausual (a lógica clássica). Mas, que é a lógica clássica? Para
+nosso propósito é a lógica baseada nos três princípios:
+I) Princípio da Não Contradição: p e não p não podem
+ser simultaneamente verdadeiros num mesmo contexto;
+IH) Princípio do 3º Excluído: uma das duas proposições: p, ou
+não p, é verdadeira; III ) Princípio da Identidade: p <> p
+(p equivalente a p, emnível de cálculo proposicional). As três
+formulações acima sofrem sérias restrições por parte dos
+lógicos, inclusive nas apresentações dadas - assunto que foge,
+repetimos, aos nossos propósitos. As demonstrações matemáticas
+são geralmente baseadas em tautologias. Que é uma tautologia ?
+Considere a implicação [p A (p => q)] = q. Essa implicação
+
+é uma tautologia. Veja sua tabela-verdade:
+
+
+
+Folhetim Educ. Mat., Ano 8, n. 95, p. 2, out. 2000.
+
+pr(p>qDI=>a
+
+ip>a |ps(p>9)
+Vi
+
+mmi<<
+
+q
+V
+E
+V
+F
+
+<< tm
+«4 Sms
+<<<<
+
+Aúltimacoluna contém apenaso valorlógico V;
+eisso caracteriza uma tautologia.
+
+Aliás, aimplicação acima, pela sua importância,
+recebe o nome de Modus Ponens e é de amplo uso na
+Matemática. Muitos teoremas da Geometria Elementar,
+aquela estudada no curso médio, podem ser demonstrados
+porintermédio dela. Exemplificando, seja a proposição
+p: dois lados de um triângulo são congruentes e seja q: os
+
+ângulos opostos a esses lados são congruentes.
+À proposição q salta à vista quando traçamos umareta
+
+a partir do terceiro ângulo até o ponto médio do terceiro
+lado. Logo, pelo Modus Ponens podemos assegurar
+que aimplicação p => gé verdadeira. Assim, acabamos
+de demonstrar o teorema: "Se o triângulo ABC possui
+dois lados congruentes, então, os ângulos da base são
+congruentes. "Outro exemplo: p: 5 = 4. Subtraindo de
+ambos osmembros 2 unidades, temos: 3=2. Adicionando
+membro a membro, vem a proposição q: 8 = 6.
+A implicação p => q é correta, porém, como p é falsa,
+nada podemos saber sobre o valor lógico da proposição
+q, apenas baseado nessa implicação; nosso conhecimento
+da falsidade da proposição q não provém da veracidade
+da implicação em estudo, mas, sim, de outras fontes.
+
+Um segundo Método de Demonstração é baseado
+no Modus Tollens; isto é, na tautologia:
+
+plal-pl-a p>allp>dr-a ] lp>Dral>-p
+VIVIF- E: V F | V
+VIF|IFIV| F F V
+FIVIVI|IF| V F V
+FIFIVIV| v V V
+
+Seja a seguinte questão: "Se um número é ímpar,
+então seu quadrado é ímpar; x? representa um número
+par”. Pergunta-se: que se pode afirmar sobre a paridade
+do número x? Pelo Modus Tollens, podemos afirmar
+que x é um número par, pois tem-se: p: x é um número
+ímpar; q: x? é ímpar; logo, a implicação p > q é
+verdadeira (o quadrado de todo número ímpar é ímpar),
+a proposição x? é par é a negação de q; logo, pela Regra do Modus Tollens, podemos afirmar que x é par.
+
+3º Método de Demonstração: Disjunção
+de Casos. É baseada na seguinte tautologia
+[(Pp> q)A-pS q)]=> q]. Exemplificando: seja n um
+número natural; mostrar que n? 2. Sejam:p:n<1;-p:
+n>22. Temos: Sen< 1 então, nº< 1 donde nº £2; se
+
+22 então nº > 4, donde nº £ 2. Fica, assim,
+demonstrada a proposição q: n 2. Outro exemplo:
+sejam A, Be C conjuntos. Mostre que:
+
+AUVBCAUC (1)
+
+AnBcAncC (H)
+
+Demonstração: Seja x um elemento de B:
+Sexe A, então, xe A NB; segundo (II), xe A nc,
+
+Sa Bo €
+
+donde, x eC
+Sex&A,então,xe AU B; segundo (1I),xe AUC;
+
+ecomo xgA,xeC.
+
+4º Método de Demonstração: O método que
+
+NEMOC - NÚCLEO DE EDUCAÇÃO MATEMÁTICA OMAR CATUNDA
+
+Folhetim Educ. Mat., Ano 8,n.95, out. 2000 - Editores: Carloman e Inácio - Secretária: Josenildes Oliveira Venas |
+Almeida - Editoração: Evandro Vaz e Nivaldo de Assis - Impressão: Imprensa Gráfica Universitária - Periodicidade: |
+mensal - Tiragem: 1.700 exemplares - Distribuição gratuita - Endereço: Av. Universitária, s/n - km 03 - BR 116. |
+- Campus Universitário - Telefone: (75)224-8115 - Fax: (75)224-8086 - CEP 44031-460 - Feira de Santana - Ba - |
+
+BRASLL - E-mail: nemoc Quefs.br
+
+
+
+Folhetim Educ. Mat., Ano 8, n.95, p. 3, out. 2000.
+
+vamos descrever serve para mostrar a irracionalidade de
+muitos números, inclusive a irracionalidade de certos
+valores de funções trigonométricas. Ele é fundamentado
+
+no seguinte teorema: se a equação algébrica
+ax + ax!+...+a x+a =0 cujos coeficientes são
+n-1 n
+
+números inteiros possui uma raiz racional - (men
+
+primos entre si ), então o número m é divisor do número
+a eo número é divisor do número a,- Do enunciado
+acima fica claro que aequação: x" +a x"! +... +a x+
++a =0Ode coeficientes inteiros, sendo a, iguala 1, não
+possuiraízes fracionárias e suas possíveis raízesracionais
+estão entre os divisores de a . Exemplificando: mostrar
+
+que a raiz quadrada de 2 é um número irracional. Temos
+
+X= (2 - Elevando ambos os membros ao quadrado,
+tem-se aequação x?- 2=0, na qual seus coeficientes são
+
+inteiros e a,= 1 ea =2. Essa equação, portanto, não
+
+possui raízes fracionárias (pois a = 1 )e suas possíveis
+
+raízes inteiras estão entre os divisores de 2, que são +1
+e +2. A substituição direta desses números na equação
+revela que eles não podem serraízes dela. Ora, a equação
+emfoconão possuiraízes inteiras enemraízesfracionárias,
+logo suas raízes são irracionais, uma vez que ela possui
+raízes reais, pois sua construção partiu do número /2
+
+que é uma de suas raízes.Outro exemplo: mostremos
+
+que o número x = V2+5 é irracional. Construindo a
+equação correspondente chegamos na seguinte
+xX-6x2+ 1 =0,a qual não possui raízes fracionárias e
+suas possíveis raízes inteiras se encontram entre os
+divisores de 1. A substituição direta desses números na
+
+equação revela que nenhum deles é raiz, donde, a
+
+irracionalidade de x = /2++/5 . Finalmente, um terceiro
+
+exemplo: demonstraremos que cos 20º é um número
+
+irracional. Segundo fórmula da trigonometria tem-se:
+cos 60º = 4cos*20º - 3 cos 20º
+
+comocos 60º=1/2e fazendo x=cos 20º nessa relação,
+
+obtemos a equação algébrica de coeficientes inteiros:
+
+8% - 6x-1=0ou(2x*-3(2x)-1=0
+Novamente, fazendo a transformação 2x=z, obtemos a
+equação equivalente zº - 3z- 1 =0 que não possuiraízes
+fracionárias e suas possíveisraízes inteiras estão entre os
+divisores de 1: +1. A substituição direta mostra que
+nenhum deles é solução dela; logo, x = cos20º é um
+número irracional. Devemos observar que a fórmula do
+arco triplo dada acima não serve para calcular, por
+exemplo, cos10º, uma vez que a construção de uma
+equação de raiz x=cos 10º leva a uma equação de 3º
+grau porém de coeficientes irracionais e não inteiros.
+Nesse caso e em outros similares, usa-se a seguinte
+observação: toda vez que o ângulo O possui determinado
+valor tal que cos20 é um número irracional, então cosO,
+sen0, tgO são também números irracionais. Vejamos
+como tudo isso funciona. Primeiro: da Trigonometria
+sabemos que:
+
+—l+ecos 20 =2-cos?0 (1)
+
+1-cos20=2 sen?0 (II)
+
+1 +tg'0=1/cos0 (II)
+
+As três fórmulas acima são facilmente deduzidas
+comosimplesexercíciotrigonométrico. Assim, asfórmulas
+(I)e(II) derivam da fórmula: cos(a+b) = cosa.cosb -sena.senb, fazendo a = b = 0 enquanto a fórmula (III)
+pode ser derivada da conhecida fórmula fundamental:
+sen?0+cos?0= 1, dividindo-se ambos os membros por
+cos*0. Mostremos, agora, a irracionalidade de cos10º.
+Jásabemos, peloexemplo anterior que cos20ºé irracional,
+donde basta em (1) fazer O igual a 10º para chegar à
+expressão: 1 +cos20º=2 cos?10º. Examinando-se essa
+expressão notamos que: no primeiro membro aparece a
+soma de umnúmeroracional | com umnúmeroirracional
+que é cos20º, logo temos um número irracional (isso será
+demonstrado brevemente...). Se o primeiro membro de
+uma igualdade é um número irracional, claramente o
+segundo membro também o é. Assim, 2cos?10º deve ser
+
+irracional. Como2 éracional, cos10º temde serirracional,
+
+
+
+Folhetim Educ. Mat., Ano 8, n.95 p. 4, out. 2000.
+
+pois se fosse racional ao ser elevado ao quadrado
+permaneceria racional e ao ser multiplicado por 2
+continuariaracional. Ora, umnúmeroirracional (primeiro
+membro) não pode ser igual a um número racional.
+Conclusão: cos10º é um número irracional. (Lembre-se
+que um número racional diferente de zero - no caso 2 multiplicado por umirracional -no caso cos?10º - produz
+um número irracional. Isso, também será demonstrado
+logo mais). É claro que cos5º também é um número
+irracional, bem como sen5º e tgSº. O leitor é
+convidado para exercitar-se nessa direção.
+
+5º Método de Demonstração: A Descida Infinita.
+Esse método é geralmente atribuído a Fermat, grande
+matemático amador francês do século XVII. Ele é uma
+consegiência do Princípio do Menor Inteiro ou Princípio
+de Boa Ordem: qualquer conjunto C de inteiros positivos,
+diferente do vazio, deve conter um elemento mínimo m.
+Isso quer dizer que não se pode ter uma série infinita de
+números inteiros positivos decrescentes, pois ela sendo
+um subconjunto de inteiros positivos deve terumelemento
+mínimo. Se nossoreferencial é o conjunto Q dosracionais
+positivos, temos a seguinte descida infinita: 50, 25,25/2,
+25/4,...25/2". No conjunto dos naturais ficaria: 50, 25,
+e a descida (que não é infinita...) pararia em 25. Outro
+exemplo: em IN, com a instrução dividir por 3, temos
+810, 270, 90, 30, 10. A descida pararia em 10, pois
+10/3 não pertence a IN. Claro que em Q ela seria infinita:
+10/3, 10/32,... 10/3". Exemplifiquemos a aplicação da
+
+descida infinita para mostrar que X = V2é um número
+irracional. Mais uma vez empregamos a demonstração
+por absurdo, a qual será tratada com detalhes mais
+adiante. Por enquanto, lembremos seu princípio: para
+demonstrar a verdade de uma proposição p, faz-se a
+hipótese de que — p(a negação de p é verdadeira). Em
+seguida desenvolve-se uma cadeia de raciocínios lógicos
+que desemboca numa evidente contradição com - p.
+
+Daí, e fazendo uso do princípio do 3º excluído, a
+
+falsidade de - p mostra a verdade de p. No caso
+específico da raiz quadrada de 2, temos: supõe-se que
+elaéracional, istoé: 2 5 (T) (a, binteiros positivos,
+bz0, primos entre si).
+
+1
+Sabe-se que V2+1= q21( H ); substituindo
+
+Lib: CC a--S2b=a
+ay ab b a-b
+
+Ora, sabe-se que I< V2< 2 ( IV). Como V2=5,
+
+(1) em ()p+I- (UI).
+
+(IV )fica: I< ç <2oub<a<2b(V).De(V)vem:
+
+)a>b,a-b>0eii)2b-a>0;logo,a-be 2a-b, são
+inteiros positivos iguaisrespectivamente a a eb, donde
+a
+(MI) passa a ser reescrita: V2= rã - E , com a < a.
+Repetindo-se o processo, chega-se a: Do
+com a, inteiro positivo menor do que a, . Como o processo pode ser repetido, por iteração, indefinidamente,
+temos a “descidainfinita":a>a >a,>a >...>a >...
+
+o que é um absurdo. Logo V2 éirracional. e
+
+Pergunte que o NEMOC Responde é uma
+coluna de autoria do prof. Dr. Carloman Carlos
+Borges e objetiva atingir ao público interessado em
+Matemática nos seus múltiplos aspectos.
+
+Caso o leitor queira fazer alguma pergunta
+escreva-nos.
+
+PRÓXIMO NÚMERO
+
+Como aprender a demonstrar em matemática?
+
+(continuação ).
+
+NÚMEROS ATRASADOS
+
+Envie para cada folhetim um selo de postagem nacional de 1º porte. Dentro de no máximo
+quatro semanas, contadas a partir da data de recebimento do seu pedido, você estará recebendo os
+folhetins solicitados.
+
+OBS.: É permitida a reprodução total ou parcial
+
+desse folhetim, desde que citada a fonte.
+

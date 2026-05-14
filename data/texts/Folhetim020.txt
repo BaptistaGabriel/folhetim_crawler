@@ -1,0 +1,187 @@
+UNIVERSIDADE ESTADUAL
+DE FEIRA DE SANTANA
+DEPARTAMENTO DE CIÊNCIAS EXATAS
+
+NEMOC - Núczgo DE EDucação MaremÁriCA OMaR CATUNDA
+
+Folhetim de Educação Matemática.
+
+Ano 1. n.20. 13.12.93
+
+Editores: Carloman e Wilson
+Editoração Eletrônica - C.E.EI. - (CPD).
+
+Impressão: Setor de Reprografia
+
+Endereço: Km 3 BR 116 CAMPUS UNIVERSITÁRIO
+CEP 44031-460 - Feira de Santana-BA.
+Fax: (075) 224.2284
+
+Objetivo
+
+Este Folhetim é um veículo de divulgação, circulação de idéias e de estímulo ao estudo e à curiosidade
+intelectual. Dirige-se a todos os interessados pelos
+aspectos pedagógicos, filosóficos e históricos da Matemática. Pretende construir uma ponte para unir os que
+estão próximos e os que estão distantes.
+
+Comitê Editorial
+
+Carloman Carlos Borges (Doutor)
+Inácio de Sousa Fadigas (Mestre)
+Wilson Pereira de Jesus (Mestre)
+
+Editorial
+
+Dando continuidade às publicações da coluna
+Pergunte que o NEMOC responde de autoria do professor Carloman Carlos Borges, editada aos domingos no
+Feira Hoje, aqui estamos com o número 20.
+
+
+Pergunta. Lucimar M. Nunes, aluno do Curso de
+Matemática da Faculdade de Formação de Professores
+de Alagoinhas, escreve: Se aceitamos a Relatividade, o
+que dizer do ressuscitamento do infinitésimo? Que
+relacionamento há com a idéia filosófica em Matemática do zero? E se fosse possível ir mais longe, que tal
+incrementar uma trindade coma tão abominada mónada”
+(Os grifos são do leitor).
+
+Í R. Ao olharmos em torno de nós, o que mais nos
+espanta é a diversidade, a imensa variedade de fenômenos, de formas, de propriedades por meio das quais os
+objetos se nos apresentam. Imediatamente uma pergunta assalta o nosso espirito: atrás de tudo isto, existe um
+princípio único criador de toda essa pluralidade?
+Respostas a esta pergunta foram dadas por filosófos
+jônicos (de Jônia, região da Ásia Menor). Uma das
+principais cidades dessa região era Mileto, centro comercial importante, na Magna Grécia nos séculos VII
+eVla.C.; nesta cidade nasceram Thales, Anaximandro,
+Anaximenes, entre outros; o primeiro desses filósofos
+respondia âquela pergunta afirmando: tudo é água!.
+para o segundo, a matriz de tudo era uma substância
+indeterminada, sem morte e sem corrupção, começo e
+origem do existente, e para o último, Anaximenes, este
+princípio era o ar. Na cidade de Éfeso, outra colônia
+greco-jônica, nasceu o filósofo Heráclito, ao redor do
+ano 530 a.C. De uma maneira completamente diferente
+daquela esposada pelos filósofos citados anteriormente, este afirmava que a essência de tudo é a transformação. São famosas essas suas afirmativas: O fogo vive a
+morte do ar e o ar vive a morte do fogo; a água vive a
+“morte da terra e a terra vive a morte da água, tu não
+- podes descer duas vezes ao mesmo rio, porque novas
+águas correm sobre ti. Em Samos, ilha do Mar Ergeu,
+nasceu o filósofo e matemático Pitágoras, no século V]
+
+”
+
+
+a.C. Fundou a Escola Pitagórica que se confundia com
+uma seita secreta. Nessa Escola a Matemática se mesclava com religião e política. Uma de suas teses fundamentais afirmava que o mundo dos sentidos émenos real
+que o mundo da mente, idéia essa plenamente desenvolvida posteriormente por Platão; porém, a tese que nos
+interessa nesse contexto é aquela definida por Filolaus
+(morreu em 390 a.C.) discípulo da Escola Pitagórica
+que afirmava: todas as coisas têm um número e nada se
+pode compreender sem o número. Para os pitagóricos,
+portanto, o princípio gerador de tudo era o número uma idéia grandiosa e um dos eixos principais em torno
+do qual ainda gira grande parte do conhecimento científico atual. Os pitagóricos concebiam toda grandeza
+contínua positiva como se fosse a soma de uma infinidade de grandezas infinitamente pequenas, mas não
+nulas, estas grandezas foram denominadas de
+infinitésimos, mónadas e também indivisíveis. Segundo Rodolfo Mondolfo, em sua obra O Infinito no
+Pensamento da Antiguidade Clássica, Editora Mestre
+Jou, página 243, cabe a Anaxágoras, a primeira formulação clara e cientifica do princípio infinitesial surgida
+na história da humanidade: no pequeno não existe um
+mínimo, mas sempre um menor. Porque o que existe
+não pode ser mudado em inexistente pela divisão.
+Assim, o primeiro conceito de infinitesial refere-se
+âquilo que é menor que qualquer grandeza apreciável.
+Veja bem, caro colega, como, entre as diversas respostas dadas pelos gregos antigos à pergunta do princípio
+unificador ou gerador de toda essa pluralidade que nos
+cerca - leva-nos, pelas mãos de Pitágoras e seus discipulos, ao primeiro conceito de infinitesimal. Assimilando-se esse conceito ao do átomo, reduz-se, então, a este
+princípio gerador de toda essa diversidade - tese bastante questionável. Mas, a teoria das mônadas ou do
+
+
+infinitesimal dos pitagóricos sofre uma arrasadora critica de Zenão de Eléia, discípulo de Parmênides; para
+isto, você pode consultar Conceitos Fundamentais da
+Matemática de Bento de Jesus Caraça, Livraria Sá da
+Costa Editora página 77 e seguintes. Zenão nascido em
+Eléia (490-430 a.C.) não foi matemático, porém, filósofo; seus paradoxos se refletiram profundamente na
+Matemática e pode-se mesmo acrescentar que foi a
+Matemática que resolveu alguns problemas filosóficos
+colocados por ele. Os problemas principais levantados
+por esses paradoxos dizem respeito a:
+
+a) impossibilidade lógica de conceber a
+multiplicidade das coisas; e,
+
+b) a aceitação do movimento conduz a uma contradição.
+
+A Matemática com os intrumentos de variável e
+limite, principalmente, clarificou bastante os dois problemas acima - os quais perturbaram, durante mais de
+2 mil anos todos os pensadores que deles se acercaram!
+O conceito de infinitésimo sofreu mais algumas reviravoltas: nos séculos XVII e XVIII ele era considerado
+como um número fixo, ora muito pequeno ora como um
+zero; O curioso é que, partindo de noções tão vagas,
+obscuras e, às vezes contraditórias - os matemáticos
+chegavam a resultados certos; assim para obter a área
+do círculo, a circunferência era considerada como um
+poligono com um número infinito de lados infinitamente pequenos e, então, o círculo se compunha de uma
+infinidade de tiângulos infinitesimais, de base igual ao
+lado 1, daquele polígono e de altura igual ao raio r, do
+circulo. No século XIX, o matemático francês Augustin
+Cauchy (1789-1857) define infinitésimo não como um
+número, porém, como uma variável da seguinte maneira: Diz-se que uma quantidade variável se torna infi
+
+nitamente pequena quando o seu valor numérico decresce indefinidamente de modo a convergir para o
+limite zero. Em 1966, o matemático norte-americano
+Abraham Robinson publica a obra Non-Standard
+Analysis, na qual o conceito de infinitésimo sofre outra
+reviravolta: agora ele é considerado um número e não
+uma variável; segundo esse matemático, um infinitésimo
+ou infinitamente pequeno é um número maior que -a e
+menor que a, para cada número real positivo a. Então,
+o único número real que é um infinitésimo é o zero.
+Criam-se, assim, os números hiperreais, conjunto composto de todos os números reais e também dos
+infinitesimais diferentes do número zero. O caro colega,
+que nos prestigiou com uma pergunta tão inteligente,
+pode, do exposto, extrair preciosas lições; uma delas,
+seria a interdependência entre a Filosofia e a Matemática; outra, não menos importante, qual seja, de como
+o saber matemático se desenvolve através de tentativas
+e erros, de sombras e luzes, predominando, quase
+sempre, nas suas maiores criações, a fantasia com a sua
+temeridade - o que nos faz lembrar os versos do grande
+poeta alemão Schiller:
+
+Alado, corajosamente,
+Bem acima do teu tempo,
+Na fantasia do teu espelho,
+Possa o futuro despontar.
+
+e e he Me a
+
+Obs.: É permitida a reprodução total ou parcial
+desse folhetim desde que citada a fonte.
+
+Caso vocêtenha interesse em receber esta publicação escreva para o NEMOC.
+
+He a ae he ak
+
+
+Números atrasados - envie para cada folhetim
+um selo de postagem nacional de 1º porte. Dentro de no
+máximo quatro semanas, contadas a partir da data de
+recebimento do seu pedido, você estará recebendo os
+folhetins solicitados.
+
+e ok e e ak
+
+No próximo número, as respostas para:
+
+- Qual o motivo de empregarmos a base decimal?
+
+- Dentro do volumoso conhecimento matemático
+dos egípcios antigos, que já conheciam o
+Teorema de Pitágoras, existe algum teorema
+por eles demonstrado?
+
+AAAAA
+
+Aguardem!
+
+OSSTAdINT
+OTAS

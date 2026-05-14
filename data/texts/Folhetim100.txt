@@ -1,0 +1,341 @@
+FOLHETIM DE EDUCAÇÃO
+MATEMÁTICA
+
+Folhetim Educ. Mat., Ano 8, n. 100, mar. 2001
+
+UNIVERSIDADE
+ESTADUAL DE
+FEIRA DE
+
+ia SANTANA
+
+ISSN 1415-8779
+
+OBJETIVO
+
+Este Folhetim é um veículo de divulgação,
+circulação de idéias e de estímulo ao estudo e à
+curiosidade intelectual. Dirige-se a todos os
+interessados pelos aspectos pedagógicos,
+filosóficos e históricos da Matemática. Pretende construir uma ponte para unir os que
+estão próximos e os que estão distantes.
+
+EDITORIAL
+
+Chegamos ao número 100. Earespeito desse
+número, vários fatos curiosos encontramos: cem
+ou cento, no latim aparece como centum, no
+grego como hecaton. Hecatombe, que significa
+cembois, origina a hecatombe que erao sacrifício
+de cem animais imolados ao poder dos deuses.
+Nos nossos dias, ainda encontramos certos
+provérbios alusivos ao cem: Ladrão que rouba
+ladrão tem cem anos de perdão; Cesteiro que faz
+umcesto, faz um cento. Essas e outras curiosidades
+constam do Livro Folclore de Matemática, se
+não centenário, pelo menos do século passado,
+do Professor Melloe Souza, publicado em 1954
+pela Editora Conquista.
+
+Chegamos ao número 100. Principal veículo
+de comunicação do NEMOC - Núcleo de
+Educação Matemática Omar Catunda, o 1º
+Folhetim de Educação Matemática foi publicado
+em 01/08/93. Inicialmente com uma periodicidade
+semanal,nos últimos anos o estabelecemos como
+mensal, pelo menos até este número.
+
+Durante o período de publicação, recebemos
+
+muitas correspondências de incentivo ao nosso
+
+trabalho. A maioria delas endereçada ao prof. Carloman Carlos
+Borges, autor de quase a totalidade dos artigos publicados e
+juntamente com a equipe do NEMOC, que em seu incansável
+trabalho e dedicação, faz com que o Folhetim aconteça. Além
+disso, fomos presenteados em duas oportunidades: a primeira
+pelo prof. Elon Lages Lima, no Folhetim nº 83 (outubro/99) e
+a segunda pelo prof. Geraldo Ávila, no Folhetim nº 92 Qulho/
+2000).
+
+Chegamos ao nº 100. E tratamos de vários assuntos nos
+Folhetins; Teoria dos números, álgebra, combinatória, geometria,
+lógica, história filosofia da matemática, jogos, dentre outros. Por
+essa diversidade, oferecemos ao leitor (nº 101) mais umarelação
+de perguntas feitas aa NEMOC, a que complementa aquela
+publicada no número 73.
+
+Chegamos aonº 100. Enossos colegas aqui da Universidade
+Estadual de Feira de Santana, têm algumas palavras que aqui
+transcrevemos.
+
+Desde sua criação, Resolução do Consad nº 05/92, o
+Professor Carloman Carlos Borges e o NEMOC (Núcleo de
+Educação Matemática Omar Catunda) vêm instigando
+intelecto de jovens e velhos amigos de matemática. Além
+desse salutar embate, se projeta num nível pedagágico,
+procurando perscrutar os conhecimentos básicos da
+matemática de forma pormenorizada e clara. Buscando fazer
+constantemente o casamento entre a ferramenta técnica e o
+ambiente sob a qual emergia assim como suas diferentes
+perspectivas.
+
+As notas publicadas neste Folhetim de Educação
+Matemática hoje já alcançam outros países (obviamente já
+está bastante conhecido no território nacional) como
+Portugal, Chile, França, México e Colômbia.
+
+Como frizado, sua instigante motivação tem levado os
+alunos do curso de Matemática da UEFS a interpretarem a
+matemática não como uma atividade puramente acadêmica,
+
+mas uma construção diária e imersa na sua realidade.
+
+
+
+Folhetim Educ. Mat., Ano 8, n. 100, p. 2, mar. 2001.
+
+Como um dado relevante, cerca de oitenta por
+cento dos alunos do curso de Matemática recebem o
+Folhetim de Educação Matemática, assim como todos
+os profissionais formados por este curso e os
+professores do Departamento de Ciências Exatas
+que ministram disciplinas no curso de Matemática.
+
+A qualidade do Folhetim é reconhecida
+nacionalmente por grandes "mestres" em matemática.
+O desafio do Folhetim confirma e sem dúvida, e com
+muito trabalho, atingirá muitas gerações de futuros
+profissionais desta universidade.
+
+Maria Hildete de Magalhães França - Coordenadora
+do Colegiado do Curso de Licenciatura em Matemática.
+
+Cristiano Henrique de Oliveira Mascarenhas - ViceCoordenador do Colegiado do Curso de Licenciatura
+em Matemática.
+
+É com muita satisfação que acompanhamos este
+momento do Folhetim de Educação Matemática do
+NEMOC. Suas contribuições para a educação
+matemática são indiscutíveis como têm atestado tantos
+de seus leitores entre estudantes, professores e público
+em geral. Parabenizamos seus editores professores
+Carloman Borges e Inácio Fadigas, ao mesmo tempo
+que os encorajamos a prosseguir neste valioso
+trabalho.
+
+Haroldo Gonçalves Benatti - Professor Doutor da
+Área de Fundamentos de Matemática.
+
+COMITÊ EDITORIAL
+
+Carloman Carlos Borges (Doutor)
+Inácio de Sousa Fadigas (Mestre)
+
+PERGUNTE QUE O NEMOC
+RESPONDE
+
+1 * Pergunta. O colega J. dos Santos de
+Almeida, de Salvador, pede para que seja demonstrada a igualdade:
+
+Pas ini
+
+2
+
+=(1+2+3+ e +n).
+que ele viu proposta em Introdução à História da
+Matemática de Howard Eves, Editora da Unicamp.
+
+R. Recordemos, inicialmente, a Relação de Stifel
+(RS), a qual mereceu alguns comentários no Folhetim
+anterior:
+
+Ch=Ck1+ C?'j e procuremos demonstrar
+a fórmula:
+
+C++ adoece. (1)
+
+Como resultado da aplicação RS, temos:
+
+Cisr=Ch""+Ct
+
+Ae Chi +CÊ.,
+Chi =CRiz+CR.»
+Chr+2=CBH+CBa
+
++1 P —
+C5+1= p=1
+
+NEMOC - NÚCLEO DE EDUCAÇÃO MATEMÁTICA OMAR CATUNDA
+
+Folhetim Educ. Mat., Ano 8, n. 100, mar. 2001 - Editores: Carloman e Inácio - Secretária: Josenildes Oliveira
+Venas Almeida - Editoração: Evandro Vaz e Nivaldo de Assis - Impressão: Imprensa Gráfica Universitária Periodicidade: mensal - Tiragem: 1.700 exemplares - Distribuição gratuita - Endereço: Av. Universitária, s/n km 03 - BR 116 - Campus Universitário - Telefone: (75)224-8115 - Fax: (75)224-8086 - CEP 44031-460 - Feira de
+
+Santana - Ba - BRASIL - E-mail: nemoc Quefs.br
+
+
+
+Folhetim Educ. Mat., Ano 8, n. 100, p. 3, mar. 2001.
+
+Somando membro a membro tem-se oresultado 1 2 n n+1
+Ele ef)
+desejado. p p p p+1
+Apliquemos, agora, esseexercícionocálculoda | melhor aceita pelo alunado.
+soma dos cubos dosn primeiros números inteiros. Assim: Em (2 ) supondo p = 1, obtemos o conhecido
+c “n+] n(n-1) nê-n resultado:
+n+1 6 6
+, 1 2 n n+1
+donde: | +| | + -|
+1 1 1 2
+nº =6C5a+C)
+n(n+]
+Logo: > 1+2+3+...+n= 2
+
+(n-1º =6C)+C |
+
+Para p = 2, obtém-se esse outro resultado:
+
+2) [5] n n+1
+P=6C3+Cl (o) lo) + +[5)- 3 )S
+2 =6C5+C! 1
+o ==>(n4Dnfn-D:
+P=ci 6
+donde
+
+n
+Como nº = | i
+
+n
++2 | y
+P+X+FP+.+nº=
+Vem:
+
+P+2+4+3+...+nº=
+
+= 6[Ci+.. + Ci) +[Ci+Ci+..+Ci] =
+=6/C3+...+Ci) +[Ci+ Ci+...+CI] =
+=6Cn2+Ciu= =5ln+0 n + ln+2 n(n-D=
+(conforme exercício anterior)
+
+eln+d n(2n+])
+
+= 611+2(n+Dn(n-1) nln+)
+hi 2 e RT
+Bis pit ias bao)
+ae 2 *
+
+E, assim, sucessivamente.
+
+2º Pergunta. Recebemos o seguinte e-mail:
+
+"Meu nome é Tertuliano Franco; sou aluno de
+
+n(n+] |”
+
+graduação da UFBa e leio o Folhetim de Educação
+
+2)
+=|1+2+3+...4n Md : E ge
+| | Matemática.Gostaria de tirar uma dúvida sobre
+
+E útil observar que cada um dos coeficientes | Geometria com vocês. Quantos e quais os tipos de
+
+n Geometria existem? Quais suas respectivas áreas de
+
+binomiais
+
+é ma ido e dl Ara aplicação? Antecipadamente agradeço-lhe. Umabraço,
+
+Claramente, se pode considerar arelação (1 )naforma: | Tertuliano. PS. Parabéns pelo trabalho competente
+
+
+
+Folhetim Educ. Mat., Ano 8, n. 100, p. 4, mar. 2001.
+
+realizado.”
+
+R. A geometria nasceu a fim de satisfazer às
+necessidades do homem na sua labuta diária para resolver
+oproblema da própria sobrevivência - que ainda continua
+sendo seu problema principal, aindanãoresolvido. Quando
+se viu obrigado a efetuar medidas, comparar distâncias,
+demarcar terras, enfim quando se viu compelido a praticar
+aquilo hoje denominado de agrimensura, o homem criou
+esse modelo denominado de Geometria. De origem tão
+humilde, a Geometria tornou-se um dos grandes campos
+da matemática. De sofisticação em sofisticação, a
+Geometria foi definida como "o estudo das propriedades
+de um conjunto de qualquer número de dimensões que
+são invariantes respeito às transformações de um grupo
+dado."Essa é a famosa definição dada pelo matemático
+Félix Klein, em 1872 na sua aula inaugural na Universidade de Erlanger. Observe a grande originalidade de
+Klein: considerar, quando se trata de geometria, como
+conceitos fundamentais, o conceito de grupoe invariância.
+Exemplificando para tornar a exposição mais clara: a
+geometria euclidiana, essa que nos é familiar desde os
+
+primeiros anos escolares. €
+
+Geometrias (continuação no nº 102).
+
+Pergunte que o NEMOC Responde é uma
+
+coluna de autoria do prof. Dr. Carloman Carlos
+Borges e objetiva atingir ao público interessado em
+Matemática nos seus múltiplos aspectos.
+
+Caso o leitor queira fazer alguma pergunta
+
+escreva-nos.
+
+NOTÍCIAS
+
+Acontecerá na UEFS no período de 02 a 06
+de julho, o IX EBEM - Encontro Baiano de Educação
+
+Matemática / 1º Fórum do Nordeste em Educação
+
+Matemática 2001 - Uma Odisséia na Matemática.
+Informações:
+= (75)224-8086 (Ana Cláudia)
+= (75)224-8070 (Jaidê)
+
+http://www uefs.br/sbemba
+
+Será ralizado de 19 a 23 de julho, no Rio de
+Janeiro, o VII ENEM - Encontro Nacional de
+
+Educação Matemática / Educação Matemática e
+
+Novas Tecnologias.
+Informações:
+a (21)590-0940
+http://www.sbem.com.br
+
+http://www .vilenem.ufr).com.br
+
+PRÓXIMO NÚMERO
+
+Aguardem!
+
+NÚMEROS ATRASADOS
+
+Envie para cada folhetim um selo de postagem nacional de 1º porte. Dentro de no máximo
+quatro semanas, contadas a partir da data de recebimento do seu pedido, você estará recebendo os
+folhetins solicitados.
+
+OBS.: É permitida a reprodução total ou parcial
+
+desse folhetim, desde que citada a fonte.
+
+ERRATA
+
+No Folhetim 99:
+
+pág. 3, Pergunte que o NEMOC Responde, 1º coluna,
+ondeselê(11)'= 114641 leia-se 14641.
+
+pág. 4, 1º coluna, onde se lê ... um a racional ..., leia-se
+
+... aum racional....
+

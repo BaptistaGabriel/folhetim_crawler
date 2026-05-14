@@ -1,0 +1,158 @@
+UNIVERSIDADE ESTADUAL
+DE FEIRA DE SANTANA
+DEPARTAMENTO DE CIÊNCIAS EXATAS
+
+NEMOC - Núczso DE Ebucação MarEmáÁTICA OMAR CATUNDA
+
+Folhetim de Educação Matemática.
+Ano 1. n.18. 29.11.93
+
+Editores: Carloman e Wilson
+Editoração Eletrônica - C.E.EI. - (CPD).
+
+Impressão: Setor de Reprografia
+
+Endereço: Km 3 BR 116 CAMPUS UNIVERSITÁRIO
+CEP 44031-460 - Feira de Santana-BA.
+Fax: (075) 224.2284
+
+Objetivo
+
+Este Folhetim é um veículo de divulgação, circulação de idéias e de estímulo ao estudo e à curiosidade
+intelectual. Dirige-se a todos os interessados pelos
+aspectos pedagógicos, filosóficos e históricos da Matemática. Pretende construir uma ponte para unir os que
+estão próximos e os que estão distantes.
+
+Comitê Editorial
+
+Carloman Carlos Borges (Doutor)
+Inácio de Sousa Fadigas (Mestre)
+Wilson Pereira de Jesus (Mestre)
+
+Editorial
+
+Dando continuidade às publicações da coluna
+Pergunte que o NEMOC responde de autoria do Professor Carloman Carlos Borges, editada aos domingos
+no Feira Hoje, aqui estamos com o número 18.
+
+
+Pergunta: Um colega de Feira de Santana deseja
+saber o significado da palavra Álgebra.
+
+R. Álgebra é uma palavra genérica de sentido
+bastante amplo. O algebrista árabe Al-Khawarizmi
+(século IX) de cujo nome, por deformação, derivaram
+os termos algoritmo - que significa qualquer processo
+de cálculo - e algarismo, publicou um livro muito
+importante intitulado 41-Jabr wa"! mugabalah; é do
+título desse livro que provém a palavra álgebra. Até o
+século XVII esta disciplina era kpenas uma simples
+generalização da aritmética, um algoritmo para lidar
+com números desconhecidos como se fossem conhecidos. Podemos dividí-la em dois ramos: Álgebra Clássica e Álgebra Moderna; aquela trata de análise de
+equações e o seu problema central era o de resolver
+equações algébricas empregando radicais. Desde nossos primeiros estudos de matemática tomamos contato
+com a fórmula de resolução de uma equação algébrica
+do 2º grau; posteriormente, estudamos equações do 3º
+e 4º graus. A resolução desses tipos de equações pode.
+ser efetuada por intermédio de fómulas envolvendo
+seus coeficientes, as operações racionais (i.é., as operações de adição, subtração, multiplicação e divisão) e
+a utilização, iterada ou não, de radicais de índices 2, 3
+e 4. O êxito obtido na resolução dessas equações
+através de fórmulas, como mencionado, leva os matemáticos a indagarem acerca ia extensão desse método
+à equação, por exemplo, do 5º grau. Em 1824, ABEL
+(1802-29) mostrou que a equação geral do quinto grau
+não pode ser resolvida por radicais; em seguida, outro
+grande matemático GALOIS (1811-32), mortalmente
+ferido em um duelo com apenas 20 anos de idade,
+apresenta uma resposta definitiva ao problema central
+da Álgebra Clássica numa teoria que passou a chamarse Teoria de Galois; nesta, aquele infeliz matemático
+
+
+mostra como o problema de resolução de equações
+algébricas por radicais é completamente solucionado.
+Inicia-se, assim, com a Teoria de Galois, a chamada
+Álgebra Moderna. Na segunda metade do século XIX,
+a álgebra tem por objeto o estudo das estruturas
+algébricas e, por intermédio destas, alguns eminentes
+matemáticos como Nicolas Bourbaki (pseudônimo coletivo) busca a unificação dos diversos ramos da Matemática. Com N. Bourbaki já estamos no século XX
+(suas primeiras obras foram publicadas na década de
+30), as teorias matemáticas são, agora. encaradas de
+uma maneira bastante geral; a idéia de estrutura tornase central no desenvolvimento da Matemática.
+
+Aqui se mistura mais uma vez a Matemática com
+a Filosofia, ambas preocupadas com o estruturalismo;
+mais uma vez aquela parece alimentar esta em suas
+especulações. Afirma-se que não podemos conhecer os
+objetos mas tão somente suas relações; da constatação
+dessa impossibilidade - que é questionável - conclui-se
+que não podemos conhecer a realidade, mas apenas os
+fenômenos. Em uma teoria matemática são as relações
+entre os objetos matemáticos e não a natureza desses
+objetos, o que deve ser preocupação dos matemáticos.
+Através do surgimento de uma mesma estrutura em
+teorias diferentes ressalta-se a unidade básica da Matemática e, atualmente, grandes progressos desta devese precisamente a esta nova abordagem. Mas, que é uma
+estrutura? Quando se impõe a um conjunto abstrato
+determinadas condições às quais seus elementos devem
+obedecer, dizemos que esse conjunto, juntamente com
+tais condições, formam uma estrutura. Estamos, finalmente, capacitados para entender o significado moderno da palavra álgebra. Numa primeira aproximação,
+uma álgebra é um sistema munido de duas operações
+binárias, que podem ser chamadas de adição e multipli
+
+cação e também de uma multiplicação por um número;
+o sistema assim munido é, simultaneamente, um anel e
+um espaço vetorial. Considere, para exemplificar, as
+funções numéricas fe g e o corpo dos números reais R
+e sejam as operações seguintes: (a) Adição: (£ + g)(x)
+= f(x) + g(x); (b) Multiplicação: (af)(x) = a. f(x); (c)
+Multiplicação (trata-se de uma operação diferente
+daquela mencionada no item (b): (fe)(x) = f(x). g(x). De
+nossos estudos iniciais de álgebra abstrata sabemos
+que: (d): a organização de fe g com as operações (a) e
+(b) otornamum espaço vetorial sobre o corpodos reais
+e a organização de fe g com as operações (a) e (c) o
+tornam um anel. Assim, podemos falar na álgebra das
+funções numéricas. Outros exemplos: (i): o corpo dos
+números complexos é uma álgebra sobre R; (ii): o
+conjunto P dos polinômios em x com coeficientes reais
+munido das operações: 4 + B, um escalar vezes 4 e AB
+é uma álgebra sobre R; (iii): o estudo das propriedades
+das operações algébricas de reunião, interseção e
+complementação forma a chamada Álgebra dos ConJuntos; (iv) o conjunto das proposições lógicas munido
+das operações de conjunção, disjunção e negação
+também é uma álgebra; (v) o conjunto das matrizes
+quadradas munido das operações de adição e multiplicação matriciais e da multiplicação por escalar, forma
+também uma álgebra. Os exemplos poderiam multiplicar-se. E importante observar, caro colega, que nos
+exemplos mencionados, os elementos formativos dos
+conjuntos apresentam natureza bem diferente quando
+confrontados uns com os outros, isto é, seus objetos são
+de natureza diferente (exemplificando: a natureza do
+objeto matriz é diferente da natureza do objeto proposição lógica) porém, ambos os conjuntos quando munidos das condições indicadas, constituem uma álgebra,
+isto é, possuem a mesma estrutura. Quando a multipli
+
+cação envolvida é não associativa, a álgebra é dita
+álgebra não associativa, a qual é largamente empregada em alguns modelos matemáticos extraídos das ciências, as álgebras não associativas, exemplificando, em
+genética e em mecânica quântica (uma das maiores
+revoluções científicas do século XX).
+
+Obs.: É permitida a reprodução total ou parcial
+desse folhetim desde que citada a fonte.
+*Casovocêtenha interesse emreceber esta publicação escreva para o NEMOC.
+
+Números atrasados - envie para cada folhetim um
+selo de postagem nacional de 1º porte. Dentro de no
+máximo quatro semanas, contadas a partir da data de
+recebimento do seu pedido, você estará recebendo os
+folhetins solicitados.
+
+No próximo número, as respostas para:
+
+- Como funciona a prova dos nove?
+
+- Que é uma operação racional?
+
+AAAAA
+
+Aguardem!
+
+
+IMPRESSO

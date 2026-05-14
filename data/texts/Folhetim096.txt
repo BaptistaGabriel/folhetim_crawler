@@ -1,0 +1,378 @@
+FOLHETIM DE EDUCAÇÃO
+MATEMÁTICA
+
+Folhetim Educ. Mat., Ano 8, n. 96 nov. 2000
+
+OBJETIVO
+
+Este Folhetim é um veículo de divulgação,
+circulação de idéias e de estímulo ao estudo e à
+curiosidade intelectual. Dirige-se a todos os
+interessados pelos aspectos pedagógicos,
+filosóficos e históricos da Matemática. Pretende construir uma ponte para unir os que
+
+estão próximos e os que estão distantes.
+
+EDITORIAL
+
+Em prosseguimento à exposição dos métodos de demonstração em matemática, este
+Folhetim traz outros métodos dedutivos.
+Apresenta mais um exemplo da Descida Infinita,
+cujaexposição foi iniciada no Folhetim anterior.
+Chamamos a atenção do leitor para a Demonstração por Absurdo, que é bastante utilizada,
+sem que sua fundamentação lógica seja, na
+maioria das vezes, explicada. Em seguida, é
+apresentado o Método de Demonstração por
+
+Recorrência ou por Indução Matemática.
+
+COMITÊ EDITORIAL
+
+Carloman Carlos Borges (Doutor)
+
+Inácio de Sousa Fadigas (Mestre)
+
+UNIVERSIDADE
+à ESTADUAL DE
+" FEIRADE
+e SANTANA
+
+ISSN 1415-8779
+
+PERGUNTE QUE O NEMOC RESPONDE
+
+Pergunta. Como aprender a demonstrar em
+matemática? (continuação).
+
+R. Outroexemplo: o célebre Algoritmo de Euclides para
+cálculo do máximo divisor comum entre dois inteirosae bnão
+conjuntamente nulos. Dos primeiros estudos escolares sabemos
+que existem e são únicos os inteiros q e r que satisfazem às
+condições a=bqg+re0<r<b.
+
+A aplicação repetida do conhecimento desse fato,
+também denominado de algoritmo da divisão, produz as
+seguintes desigualdades:
+
+a=bq, +r,,0<r, <b
+
+b=rq,+L,0<r<r,
+
+L=80,+[,,0<r<r,
+
+2 =1,,+7,,0<r<r,
+
+r = om PIE
+
+n-1 n+1º
+
+The E 0
+
+Como sabemos que este processo chega realmente ao
+fim? Basta observar que O<r <r <...< r,<b forma uma
+segiiênciaestritamente decrescente de inteiros positivos, conjunto
+noqual, como já vimos, não há uma descida infinita. Desta forma,
+chegamos a um resto nulo e o primeiro resto anterior a ele é
+chamado de máximo divisor comum de a e b. No caso, réo
+máximo divisor comum de aeb.
+
+6º Processo de Demonstração: Demontração por
+Absurdo. Estaé, provavelmente, amaisempregadadetodasas
+demonstrações matemáticas e, do ponto de vista do aluno, amais
+absurda... Vamos tentar esclarecê-la. Em primeiro lugar, devese aceitar a tautologia
+
+(ASDoS(Ha-D=>f] (A)
+
+
+
+Folhetim Educ. Mat., Ano 8, n.96, p. 2, nov. 2000.
+
+A sua comprovação pode ser verificada por
+intermédio da Tabela-Verdade e o seu uso vai ser,
+agora, ilustrado por vários exemplos. 1º exemplo:
+Sendo a um número racional e b um número irracional,
+então: i)c=a+béirracionalec = ab (a dif. de zero) é,
+tambémirracional. Para (i ) temos:
+
+H N racional
+
+b, irracional
+
+T<c=a+b, irracional
+
+a, racional
+H=(HA-T) < b, irracional
+-T, c=a+b, racional
+Tt
+
+Temosc=a+b=>c-a=b. Essa igualdade é
+falsa (absurdo), pois, no primeiro membro temos (c - a),
+um número racional, por hipótese, enquanto que no
+segundo membro, temos b, um número irracional. A
+demonstração de ii) é análoga. 2ºexemplo: mostre que
+x=2+5 éirracional. Conforme a tautologia ( A ),
+temos o seguinte esquema:
+
+H( x=/2+45 T (xé irracional;
+
+x=/2+/5
+
+T'4f
+é racional E
+
+H=(HA-T) !
+
+Ora, se x=2+5, que por H' é racional,
+seuquadrado x? =7++/10 tambéméracional (oquadrado
+de um número racional é um número racional). Vimos,
+anteriormente que a soma de um númeroracionalcom um
+númeroirracionaléum númeroirracional (7+/10) como
+x? éracional porH', ele não pode seriguala 7+v10, que
+
+éirracional.
+
+7º Processo de Demonstração: Demonstração
+porcontra-exemplo: Para mostrar que uma determinada
+proposição é falsa, basta a exibição de contra-exemplo.
+Mas, que significa a exibição de um contra-exemplo?
+As coisas se passam da seguinte maneira, do ponto de
+vista lógico: para mostrar que a implicação p => q não é
+tautologicamente verdadeira, basta exibir um exemplo
+que torne a negação da implicação, que é dada por
+(p A — q) verdadeira. A situação abaixo serve para
+ilustração: se n é divisível por 4 e por 6, então n é divisível por 24. Temos a implicação:
+
+(vn) [(4ln A 6ln) >> 24In]
+
+A suanegação (4136, 6136€ 24/36) é verdadeira.
+Logo, aimplicação dada é falsa (veja, aqui, mais uma vez,
+a aplicação do terceiro excluído). 2º exemplo: veja a
+implicação [(ac = bc) = (a = b)] (nos reais). Para
+mostrar sua falsidade basta mostrar que a sua negação,
+[(ac = bc) A (a £ b)] é verdadeira exibindo números
+adequados. Nesse caso paraa = 4,b=2 ec = O temos
+que (ac = bc) é verdadeiro, enquanto a = b é falso.
+3ºexemplo: A relação "perpendicular" no conjunto das
+retas do plano: [(A | A)e(A' À A')], então (A L AM.
+A figurinha abaixo é suficiente para mostrar que anegação
+dessa implicação é verdadeira, donde, ela (a implicação,
+
+é falsa).
+
+NEMOC - NÚCLEO DE EDUCAÇÃO MATEMÁTICA OMAR CATUNDA
+
+Folhetim Educ. Mat., Ano 8,n. 96, nov. 2000 - Editores: Carloman e Inácio - Secretária: Josenildes Oliveira Venas
+Almeida - Editoração: Evandro Vaz e Nivaldo de Assis - Impressão: Imprensa Gráfica Universitária - Periodicidade:
+mensal - Tiragem: 1.700 exemplares - Distribuição gratuita - Endereço: Av. Universitária, s/n - km 03 - BR 116
+- Campus Universitário - Telefone: (75)224-8115 - Fax: (75)224-8086 - CEP 44031-460 - Feira de Santana - Ba -.
+
+BRASLL - E-mail: nemocQuefs.br
+
+
+
+Folhetim Educ. Mat., Ano 8, n. 96, p. 3, nov. 2000.
+
+8º Método de Demonstração: A Contrapositiva.
+Este tipo de demonstração é baseado na tautologia:
+
+(HSDSCT>-H)]
+
+Exemplificando: considere o teorema: "se x? é
+divisível por 5, então x também o é. Temos:
+
+H:x?é divisível por5; Tese: x é divisívelpor5;
+
+-T:x não é divisível por 5; -H: x? não é divisível
+por 5. Podemos, pois, escrever a equivalência:
+
+"x? é divisível por5, implica x também é divisível
+por5"<>"x não é divisível por 5, implicax? também não
+édivisívelpor5".Nessecaso, segue a seguinte arrumação:
+
+E RE a ( 2=5Sp+r,
+
+r=1,2,3,4 r=1,2,3,4
+
+Agoraé considerar, separadamente, cada um dos
+quatro tipos de hipótese (—T) e verificar se, partindo dafí,
+chega-se a um dos tipos representados pela tese (-H).
+2º exemplo: Sejam A, B, e C três conjuntos, f uma
+aplicação de A dentro de B e g uma aplicação de B dentro
+de C. Demonstrar: se gof é injetora então f é injetora. No
+Teorema direto tem-se: H: gof é injetorae T: fé injetora.
+Então, podemos escrever: -T: fnão é injetorae -H: gof
+não é injetora. Demonstração: se f não é injetora, então,
+por definição, existem em A dois elementos ae a' coma
+mesma imagem y por f, donde se conclui que ae a'terão
+mesma imagem g( y ) por gof, o que implica a função
+composta ser não injetora.
+
+9º Método de Demonstração: A Demonstração
+Construtiva. Esta demonstração é baseada nos princípios
+intuicionistas, recentemente ressurgidos com novaforça
+pelostrabalhos de Bishop, antigo professor da Universidade
+da Califórnia, nos Estados Unidos da América do Norte.
+Em seu trabalho publicado em 1967, Os Fundamentos
+das Matemáticas Construtivistas, Bishop apresenta-se
+
+com o firme propósito de mostrar que os resultados
+
+obtidos através dos métodos intuicionistas nada ficam a
+
+dever àqueles obtidos pelos formalistas. Sobre o
+intuicionismo, escreveremos mais adiante em
+
+Comentários Gerais. Agora, exemplo de uma
+
+demonstração construtivista. Seja o sistema de equaçãoes lineares abaixo:
+aX,t+ax,+..ta x =b,
+
+AX tax+..+ax=b (1)
+
+ax t+ax+..+a x =b
+noqualos a eosb são constantes reais. Demonstremos
+o seguinte teorema: "Seb = b=...=b =0em(I)eo
+determinante dos coeficientes é A=0, então o sistema
+(T) tem uma solução diferente datrivial".
+
+Demonstração paran=2:
+
+ax, +a,x,=0
+
+a,X,+a,x,=0,
+
+donde; a a
+
+-a
+. = 8 E
+"1 2" 4/2, =0. Se a,ãoO, ro agi! K, 1,
+
+-a
+22 =1é
+sã =
+da
+uma solução. Se a,=a,=0,x, =le x, = O é uma
+
+é uma solução. Se a,=0 e a, O, x; =
+
+solução. Outro exemplo: vamos mostrar de modo
+construtivo que existem infinitos números primos.
+Sejam: N = 2.3 + 1 =7 (novo número primo);
+N=2.3.5+ 1 = 31(novo número primo). Quando N,
+não for primo, evidentemente ele conterá entre seus
+divisores, pelo menos um número primo não achado
+anteriormente. Para muitos ilustres matemáticos, a
+existência de um "objeto matemático" está associada a
+um método que permita a construção desse objeto.
+Dentro dessa perspectiva, a tão famosa demonstração
+
+£Z
+
+“porabsurdo" é rejeitada liminarmente. Ri
+
+10º Método de Demonstração: Demonstração
+por Recorrência ou por Indução Matemática. Ela diz
+respeito a uma forma proposicional na qualintervenha
+
+uma variável n, inteiro natural. Para mostrar que a
+
+
+
+Folhetim Educ. Mat., Ano 8, n. 96 p. 4, nov. 2000.
+
+mais ado mo amo ca E SEER PE a CT
+
+proposição p(n) é verdadeira é suficiente estabelecer:
+para n = 1 a proposição obtida é verdadeira; se, para
+todo inteiro n a proposição p(n) é verdadeira, então ela
+é verdadeira para (n + 1), isto é, da veracidade de
+p(n) mostra-se a veracidade de p(n + 1). Se isso for
+possível, então a proposição em apreço, p (n) é verdadeira. Exemplo: Um torneio de xadrez temn jogadores.
+Cada jogador joga uma partida, e uma só, contra todos
+os outros. Mostre que o número total de partidas do
+torneio é iguala (n - 1)n/2. Seja p(n) a proposição sea
+é o número de partidas jogadas num torneio com n
+Jogadores, então a = (n - 1)n/2. A proposição é
+verificada para n = 1 (nenhuma partida) e n = 2 (uma
+só partida). Suponhamos que a proposição é verificada
+paran=1,2,3,...,n. Mostremos, então que ela conti= n(n + 1/2.
+
+Num torneio de (n + 1) jogadores, temos as jogadas por
+
+nua verdadeira para (n + 1), isto é a
+n jogadores (a ) mais aquelas do (n + 1)-ésimo jogador. Logo podemos escrever: a =a +n. Como, por
+hipótese a = (n - 1)n / 2, obtemos a=n(n+ 1/2.
+Logo P(n) é verdadeira paran >1.
+
+Éumen gano pensar que qualquer proposição na
+qualintervenhaa variávelinteiran (n>0) possatera sua
+veracidade comprovada por esse método de
+demonstração. O exemplo abaixo ilustra o ponto em
+
+questão: seja a proposição
+Po: 1,1 1 1
+(n) a ni
+Como emprego da indução; temos:
+
+D P(I): 5 < E: » O que é verdadeiro,
+11) supondo a verdade de P(n), tentemos, daí,
+
+demonstrar a veracidade de P(n + 1), isto é, supondo
+
+verdadeira a proposição
+
+1 E
+
+[do
+
+Comomostrar que:
+
+a 1 Lica
+
+1 |
+
+A” (+93)? é verdadeira ?
+
+Esse exemplo mostra que nem sempre uma
+proposição na qual figura a variável inteira n (n>0)
+pode ser demonstrada pelo método de Indução
+
+Matemática.e
+
+NOTÍCIAS
+
+A UEEFS, através do NEMOC, vai oferecer
+novamente à comunidade o CURSO DE ESPECIALIZAÇÃO EM EDUCAÇÃO MATEMÁTICA.
+Inscrições:
+26 de dezembro de 2000 a 16 de janeiro de 2001.
+Informações:
+PPPG: (75)224-8257; e-mail: pppg Quefs.br
+
+DEXA: (75)224-8086; e-mail: exa Quefs.br
+NEMOC: (75)224-8115; e-mail: nemocQuefs.br
+
+2
+
+Pergunte que o NEMOC Responde é uma
+coluna de autoria do prof. Dr. Carloman Carlos
+Borges e objetiva atingir ao público interessado em
+Matemática nos seus múltiplos aspectos.
+
+Caso o leitor queira fazer alguma pergunta
+escreva-nos.
+
+PRÓXIMO NÚMERO
+
+Como aprender a demonstrar em matemática?
+(continuação).
+Aguardem!
+
+NÚMEROS ATRASADOS
+
+Envie para cada folhetim um selo de postagem nacional de 1º porte. Dentro de no máximo
+quatro semanas, contadas a partir da data de recebimento do seu pedido, você estará recebendo os
+folhetins solicitados.
+
+OBS.: É permitida a reprodução total ou parcial
+desse folhetim, desde que citada a fonte.
+
