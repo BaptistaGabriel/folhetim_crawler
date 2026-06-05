@@ -1,0 +1,83 @@
+## UNIVERSIDADE ESTADUAL DE FEIRA DE SANTANA DEPARTAMENTO DE CIÊNCIAS EXATAS
+
+NEMOC - Núcleo de Educação Matemática Omar Catunda
+
+Folhetim de Educação Matemática.
+
+Ano 1. n.6. 05.09.93
+
+Editores: Carloman e Wilson
+
+Editoração Eletrônica - C.E.El. - (CPD).
+
+Impressão: Setor de Reprografia
+
+Tiragem: 500 exemplares
+
+Endereço: Km 3 BR 116 CAMPUS UNIVERSITÁRIO
+
+CEP 44031-460 - Feira de Santana-BA.
+
+ $e^{\frac{i\pi i}{2}(m+1)} = f(m)$ 
+
+Fax: (075) 224.2284
+
+## Objetivo
+
+Este Folhetim é um veículo de divulgação, circulação de idéias e de estímulo ao estudo e à curiosidade intelectual. Dirige-se a todos os interessados pelos aspectos pedagógicos, filosóficos e históricos da Matemática. Pretende construir uma ponte para unir os que estão próximos e os que estão distantes.
+
+## Comitê Editorial
+
+Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre) Wilson Pereira de Jesus (Mestre)
+
+## Editorial
+
+Este é o nosso sexto número, dando continuidade à publicação da coluna Pergunte que o Nemoc Responde de de autoria do professor Carloman Carlos Borges, editada aos domingos no Feira Hoje, jornal local. A repercussão desse trabalho já nos faz pensar em uma revistinha semestral. A necessidade de ir mais longe nos
+
+provoca a necessidade de dotar o Nemoc de uma estrutura maior. Somos um Núcleo cravado numa Micro-região de 26 municípios. A sorte está lançada.
+
+食食食
+
+Uma colega de Salvador escreve-nos falando das grandes dificuldades por ela experimentadas no ensino do conceito do conjunto vazio. Seus alunos estão na faixa etária de 10 a 15 anos.
+
+Resposta - A idéia de conjunto está ligada à idéia de pluralidade, a qual é familiar à criança: a sua familia como um conjunto de pessoas, os dias da semana, o conjunto dos números naturais, etc.. É fácil portanto para a criança, assimilar o conceito de conjunto como uma coleção de coisas. A dificuldade começa quando desejamos tirar a criança de sua familiaridade forçando-a a engolir um conceito - o de conjunto vazio - para designar entes que não existem. Assim procedendo, além de violarmos preceitos pedagógicos elementares, porém importantes, incorremos no risco de produzir traumas na estrutura psicológica da criança, os quais vão servir futuramente de vertentes para a tão falada ansiedade matemática. Fala-se demais em conjuntos para crianças nessa faixa etária. Muitos livros definem uma variável como um símbolo representativo de qualquer um dos elementos de um conjunto dado. Se esse conjunto é unitário diz-se que essa variável possui um único valor e, assim, passa a chamar-se de constante. A transformação de uma variável em constante afigurase, na cabeça das crianças como um puro passe de magia. Mais uma vez o familiar da criança é abandonado em nome de um suposto rigor. Como bem assinala o professor Morris Kline em seu livro O fracasso da matemática moderna: "O conjunto que possui como seu único elemento o conjunto vazio, não é vazio porque contém o conjunto vazio". E, jocosamente,
+
+acrescenta: "Podemos, assim, construir algo de nada e erguer-nos da pobreza para a riqueza". É necessário repetir que uma linguagem - no caso a empregada em Matemática - deve possuir antes de mais nada, clareza e que o rigor, muitas vezes, obscurece esta. A construção do conjunto vazio responde à necessidade lógica no desenvolvimento do conhecimento matemático e nehuma criança, deste conceito, tem alguma necessidade. Nosso ponto de vista: não se deve ensinar, a crianças, nessa faixa etária, conceitos como o de conjunto vazio ou mesmo de conjunto unitário.
+
+Um colega de Juazeiro da Bahia escreve-nos: "Tenho um livro sobre Matemática no qual o autor escreve que "os números racionais são criações nossas e as regras que definem as operações entre eles dependem de nossa vontade". Eu pergunto: se é assim, se existe tal voluntarismo, por que não definimos a adição de duas frações desta maneira: basta somar os numeradores e os denominadores entre si, deste modo teríamos:
+
+$$\frac{a}{b} + \frac{c}{d} = \frac{a+c}{b+d}$$
+ e, respectivamente
+
+$$\frac{1}{3} + \frac{1}{3} = \frac{1+1}{3+3} = \frac{2}{6}$$
+
+Resposta: Claramente, qualquer conhecimento e, no caso, o conhecimento matemático, é uma criação humana. As regras atinentes à manipilação sobre os números, sejameles naturais, racionais reais ou complexos foram criadas pelo ser humano. Assim, elas possuem uma certa dose de arbitrariedade visto que, toda criação implica - por definição - uma determinada liberdade por parte do criador. Quando se trata de
+
+Ciência, a influência reguladora da experiência é indispensável - o que, muitas vezes, não acontece na criação artística. As regras estipuladas devem ser úteis e são elaboradas tendo por base o uso multimilenar que a humanidade vem fazendo dos números. Como escreve Morris Kline, no livro já citado na resposta anterior, é a "utilidade que determina a abordagem lógica e não o contrário". E mais adiante, do mesmo autor: "... a lógica não dita o conteúdo da matemática o uso determina a estrutura lógica. A organização lógica é uma reflexão tardia e, num sentido real, não passa de uma redundância". A adição de números racionais conforme sugestão do colega pode ser justificada pela lógica, porém, é um conhecimento inútil pois contraria a nossa experiência.
+
+Um colega de Feira de Santana escreve-nos: "Acho que se deve possuir, em primeiro lugar, uma compreensão exata (o grifo é nosso) dos conceitos matemáticos para, então, em seguida, eles serem manipulados. Qual a sua opinião a respeito?"
+
+Resposta: Respeito o seu ponto de vista e tenho consciência de que ele é defendido por eminentes matemáticos, porém, dele discordo. A História da Matemática nos ensina: primeiro vem a ação, o fazer e somente bem depois, a compreensão, que nunca é exata, mas aproximada. O saudoso fisico Mário Schenberg, de renome internacional, nos últimos anos de sua vida gostava de dizer: "só agora, estou tendo uma compreensão melhor dos conceitos fundamentais da Física". A compreensão de um conceito vai se refinando com o seu emprego. Não se aprende, primeiro, as leis da mecânica de Newton, para, em seguida andar de bicicleta, embora, neste andar estejamos empregando vários de seus conceitos. A propósito, ainda, gostaria de mencionar o caso de uma centopéia
+
+que estava dando seus passeios despreocupadamente quando encontrou uma rã que lhe observou: "Olha só: que beleza! Apesar de você possuir cem pés, não se atrapalha quando anda". Após o dito, imediatamente a centopéia começou a pensar como usar cada um deles e então ficou imobilizada, sem poder mover-se.
+
+\*\*\*
+
+No próximo folhetim serão respondidas as seguintes perguntas:
+
+- (a) Ha um modelo para o ensino da 'regra dos sinais''?
+- (b) Qual a melhor maneira de passar ao aluno o conceito de número primo?
+
+\* \* \* \*
+
+Obs.: Perguntas para Pergunte que o Nemoc Responde podem ser encaminhadas para o endereço na capa desse folhetim.
+
+Interessados em receber esse folhetim devem escrever para o NEMOC. A distribuição é gratuita. É permitida a reprodução desde que citada a fonte.
+
+![](_page_4_Picture_8.jpeg)
+
+is a rate for the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of the property of
+
+IMPRESS
+
+SELO

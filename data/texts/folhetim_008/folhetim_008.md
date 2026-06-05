@@ -1,0 +1,69 @@
+# UNIVERSIDADE ESTADUAL DE FEIRA DE SANTANA DEPARTAMENTO DE CIÊNCIAS EXATAS
+
+NEMOC - Núcleo de Educação Matemática Omar Catunda
+
+Folhetim de Educação Matemática.
+
+Ano 1. n.8. 19.09.93
+
+Editores: Carloman e Wilson
+
+Editoração Eletrônica - C.E.El. - (CPD).
+
+Impressão: Setor de Reprografia
+
+Tiragem: 500 exemplares
+
+Endereço: Km 3 BR 116 CAMPUS UNIVERSITÁRIO
+
+CEP 44031-460 - Feira de Santana-BA.
+
+Fax: (075) 224.2284
+
+### Objetivo
+
+Este Folhetim é um veiculo de divulgação, circulação de idéias e de estímulo ao estudo e à curiosidade intelectual. Dirige-se a todos os interessados pelos aspectos pedagógicos, filosóficos e históricos da Matemática. Pretende construir uma ponte para unir os que estão próximos e os que estão distantes.
+
+#### Comitê Editorial
+
+Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre) Wilson Pereira de Jesus (Mestre)
+
+#### Editorial
+
+Dando continuidade às publicações da coluna Pergunte que o NEMOC responde de autoria do Professor Carloman Carlos Borges, editada aos domingos no Feira Hoje, aqui estamos com o número 8. Parece que vamos chegar a bom termo. Alguns leitores já começam a nos enviar cartas com sugestões interessantes e críticas ao nosso trabalho. Dentre elas queremos destacar as do Prof. Ubiratam D'Ambrósio, Presidente da Sociedade Brasileira de História da Ciência, e do Prof. Eugênio Antonio de Paula, Chefe do Departamento de Matemática da Universidade Federal de Uberlândia-MG. Só nos resta agradecer a esses colegas.
+
+非辛申
+
+## 1º Pergunta: A Matemáticà é uma ciência exata. Por quê?
+
+Resposta: A Matemática não é uma ciência exata; aliás, não existe ciência exata. Apenas no nome de "departamentos" de algumas universidades ela aparece como exata... Sendo uma criação humana, seria paradoxal que ela fosse exata e perfeita; bem ao contrário, a sua história nos revela as mesmas vacilações e fraquezas do ser humano. Através de rodeios, erros e muitos tropeços - tal qual como uma criança aprendendo a andar - assim se desenvolveu o conhecimento matemático. A falácia da exatidão desta ciência é reforçada nas exposições dos livros "didáticos" adotados em nossas escolas; neles, a ordem apresentada é a ordem lógica, com um desprezo quase total ao caminho histórico - este sim, repleto de armadilhas. A exposição lógica da Matemática lhe esconde os traços humanos e é criadora de muitas tolices e falsos privilégios: fala-se até em uma inteligência privilegiada para aqueles que a ela se dedicam. Existe um estereótipo reservado aos matemáticos e mesmo aos professores desse saber: eles são donos de um saber esotérico, acessivel apenas a uma privilegiada minoria. Quantos de nós, na sala de aula, através de posturas cultivadas, não o reforçamos?...
+
+2º Pergunta: Quem é Bourbaki?
+
+Resposta: Em 1933 um grupo de jovens matemáticos franceses egressos da Escola Normal Superior
+
+criaram uma utopia: "...dar conta dos principais fatos da matemática moderna que constituam um núcleo central a partir do qual se desdobre tudo o mais, o que comporta, evidentemente, a eliminação de muitos argumentos...". "A idéia base sobre a qual se desenvolveu o programa bourbakista é a de estrutura matemática. Eles desejavam mostrar a unidade da Matemática tornando-a solidária às estruturas mães - estruturas algébricas, topológicas e de ordem -. Para uma utopia tão grandiosa escolheram um pseudônimo coletivo: Nicolas Bourbaki. Os membros fundadores são H. Cartan, C. Chevalley, J. Delsarte, J. Dieudonné e André Weil. Trata-se de um sonho até o momento impossível - em que pese a alta qualidade dos livros já publicados, apresentados dentro de um modelo lógico e ultraformalista. A incorporação do rigor na abordagem da Matemática tornou-se de vital importância a partir do século XIX, com os trabalhos de Cauchy, Weierstrass: era preciso "arrumar a casa"... Porém, dentro do nosso entendimento, houve um erro de perspectiva quando se estendeu esse mesmo rigor à pedagogia da Matemática através de um simbolismo carregado, o qual, na prática, tem servido para substituir a clareza - principal vetor em qualquer pedagogia. Como professores dessa ciência devemos procurar inspiração em sua história e em sua filosofia, a fim de que a matemática não seja embalsamada tornando-se uma verdadeira múmia! Querer inspirar-se em Bourbaki para a apresentação do conhecimento matemático aos alunos dessa ciência em nossas salas de aula é, no mínimo, o máximo de tolice!
+
+3\* Pergunta: Qual foi o matemático que inventou os números naturais: 1, 2, 3, 4, 5, etc?
+
+Resposta: A idéia de número natural é algo de tão grandioso que não pode caber na cabeça - como criador único - de nenhum matemático. Como outras grandes
+
+criações matemáticas, o número natural é a elaboração de milhares de gerações de seres humanos na sua luta pela própria sobrevivência. Esta se constitui no problema basilar da espécie humana; cada vez mais atual, este problema, hoje em dia, se reveste de grande complexidade e de uma urgência urgentissima. Sendo uma criação coletiva, o nascimento do número natural se perde nas brumas de um passado remotissimo constituido de diversos espaços e vários tempos. Quando olho para a sequência: 1, 2, 3, 4, 5, etc., dela posso fazer duas leituras: (a): um, dois, três, quatro, cinco, etc.; (b): primeiro, segundo, terceiro, quarto, quinto, etc. Na primeira leitura temos o aspecto cardinal do número baseado no princípio de correspondência, isto é, associação mental entre dois entes - enquanto que na segunda, temos o aspecto ordinal do número - baseado, simultaneamente, no processo de agrupamento e sucessão. Assim, anteriores ao conceito de número, temos as idéias de correspondência ou equiparação, agrupamento e sucessão, estas idéias demoraram milhares de anos para se fixarem no arcabouço da estrutura mental do ser humano.
+
+4º Pergunta: Posso somar duas laranjas com duas bananas?
+
+Resposta: Depende do resultado ao qual você quer chegar, se desejar um resultado em termos de bananas ou de laranjas, claramente, você não pode efetuar tal soma; porém se em um cesto, há duas laranjas e duas bananas e alguém lhe perguntar: quantas frutas existem dentro do cesto? Você prontamente responderá: há quatro frutas e, nesta sua resposta, existe já a soma de duas laranjas com duas bananas. Veja como numa coisa tão simples, o resultado depende do referencial no qual nos colocamos; no caso, temos três referenciais: o das laranjas, o das bananas e o das frutas
+
+e somente este último apresenta uma resposta positiva à sua pergunta. Não se espante, tal tipo de colocação se apresenta nos diversos dominios do "fazer humano". Geralmente, nosso ponto de vista, isto é, nosso referencial, é o mais privilegiado para avaliar a conduta le nossos alunos e, aí, provavelmente, reside a vertente de muitos abusos praticados contra eles. O procedimento que consiste em sair de nosso referencial e colocar--nos no do nosso semelhante deve ser um hábito salutar a ser cultivado sistematicamente. Os entendidos chamam a isto de empatia, a origem mais segura, talvez, de outro grande sentimento humano: a compaixão. A empatia ainda pode gerar outra postura de igual significância: aquela que nos leva a rir de nos mesmos, considerando o nosso referencial, não o mais privilegiado entre os demais, porém, apenas, mais um. Não pense que estou querendo poetar. Se você ja estudou a Relatividade de Einstein - uma das maiores revoluções no pensamento científico do século XX - e incorporou os seus ensinamentos, verá que a empatia e seus produtos mencionados surgem como consequências naturais dessa grande revolução científica.
+
+\* \* \*
+
+Obs.: É permitida a reprodução total ou parcial desse folhetim desde que citada a fonte.
+
+Caso você tenha interesse em receber esta publicação escreva para o NEMOC.
+
+No próximo número, as respostas para: É correto afirmar que a Matemática, como ciência, foi uma invenção dos gregos? Há alguma relação entre a religião e a Matemática?
+
+Aguardem!
+
+ $\{(a,b)\}^{n}(a,b) = \{(a,b)\}^{n}(a,b)$

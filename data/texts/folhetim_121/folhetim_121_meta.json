@@ -1,0 +1,635 @@
+{
+  "table_of_contents": [
+    {
+      "title": "FOLHETIM DE EDUCA\u00c7\u00c3O \nMATEM\u00c1TICA",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          85.12451171875,
+          63.7255859375
+        ],
+        [
+          442.64520263671875,
+          63.7255859375
+        ],
+        [
+          442.64520263671875,
+          127.46954345703125
+        ],
+        [
+          85.12451171875,
+          127.46954345703125
+        ]
+      ]
+    },
+    {
+      "title": "OBJETIVO",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          49.970703125,
+          180.4873046875
+        ],
+        [
+          129.40757751464844,
+          180.4873046875
+        ],
+        [
+          129.40757751464844,
+          194.31219482421875
+        ],
+        [
+          49.970703125,
+          194.31219482421875
+        ]
+      ]
+    },
+    {
+      "title": "EDITORIAL",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          50.84228515625,
+          363.44140625
+        ],
+        [
+          135.0739288330078,
+          363.44140625
+        ],
+        [
+          135.0739288330078,
+          377.7287902832031
+        ],
+        [
+          50.84228515625,
+          377.7287902832031
+        ]
+      ]
+    },
+    {
+      "title": "COMIT\u00c9 EDITORIAL",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          50.84228515625,
+          706.326171875
+        ],
+        [
+          198.76837158203125,
+          706.326171875
+        ],
+        [
+          198.76837158203125,
+          724.1505432128906
+        ],
+        [
+          50.84228515625,
+          724.1505432128906
+        ]
+      ]
+    },
+    {
+      "title": "PERGUNTE QUE O NEMOC RESPONDE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          291.39892578125,
+          192.095947265625
+        ],
+        [
+          575.4116821289062,
+          192.095947265625
+        ],
+        [
+          575.4116821289062,
+          207.77593994140625
+        ],
+        [
+          291.39892578125,
+          207.77593994140625
+        ]
+      ]
+    },
+    {
+      "title": "ABORDAGEM COM O USO DO CABRI-G\u00c9OM\u00c8TRE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          300.11474609375,
+          317.283935546875
+        ],
+        [
+          584.5903930664062,
+          317.283935546875
+        ],
+        [
+          584.5903930664062,
+          330.55078125
+        ],
+        [
+          300.11474609375,
+          330.55078125
+        ]
+      ]
+    },
+    {
+      "title": "Aspecto geral do Cabri",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          31.08642578125,
+          107.0694580078125
+        ],
+        [
+          148.46731567382812,
+          107.0694580078125
+        ],
+        [
+          148.46731567382812,
+          119.228515625
+        ],
+        [
+          31.08642578125,
+          119.228515625
+        ]
+      ]
+    },
+    {
+      "title": "Constru\u00e7\u00e3o de c\u00edss\u00f3ides e estrof\u00f3ides .",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          29.92431640625,
+          593.3095245361328
+        ],
+        [
+          289.44403076171875,
+          593.3095245361328
+        ],
+        [
+          289.44403076171875,
+          605.2995147705078
+        ],
+        [
+          29.92431640625,
+          605.2995147705078
+        ]
+      ]
+    },
+    {
+      "title": "NEMOC - N\u00daCLEO DE EDUCA\u00c7\u00c3O MATEM\u00c1TICA OMAR CATUNDA",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          104.0087890625,
+          677.9580078125
+        ],
+        [
+          494.2402038574219,
+          677.9580078125
+        ],
+        [
+          494.2402038574219,
+          693.5810546875
+        ],
+        [
+          104.0087890625,
+          693.5810546875
+        ]
+      ]
+    },
+    {
+      "title": "Podarias da par\u00e1bola",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          324.8095703125,
+          111.06097412109375
+        ],
+        [
+          431.4471740722656,
+          111.06097412109375
+        ],
+        [
+          431.4471740722656,
+          124.984375
+        ],
+        [
+          324.8095703125,
+          124.984375
+        ]
+      ]
+    },
+    {
+      "title": "Constru\u00e7\u00e3o da par\u00e1bola",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          323.93798828125,
+          348.9010009765625
+        ],
+        [
+          436.1097106933594,
+          348.9010009765625
+        ],
+        [
+          436.1097106933594,
+          365.908203125
+        ],
+        [
+          323.93798828125,
+          365.908203125
+        ]
+      ]
+    },
+    {
+      "title": "PR\u00d3XIMO N\u00daMERO",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          314.64111328125,
+          533.650390625
+        ],
+        [
+          459.5862731933594,
+          533.650390625
+        ],
+        [
+          459.5862731933594,
+          550.095703125
+        ],
+        [
+          314.64111328125,
+          550.095703125
+        ]
+      ]
+    },
+    {
+      "title": "N\u00daMEROS ATRASADOS",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          314.06005859375,
+          609.298828125
+        ],
+        [
+          494.3080139160156,
+          609.298828125
+        ],
+        [
+          494.3080139160156,
+          625.744140625
+        ],
+        [
+          314.06005859375,
+          625.744140625
+        ]
+      ]
+    },
+    {
+      "title": "DETALHES CONSTRUTIVOS DA CISS\u00d3IDE E \nESTROF\u00d3IDE COM O CABRI",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          42.12646484375,
+          79.3486328125
+        ],
+        [
+          270.6595458984375,
+          79.3486328125
+        ],
+        [
+          270.6595458984375,
+          107.3853759765625
+        ],
+        [
+          42.12646484375,
+          107.3853759765625
+        ]
+      ]
+    },
+    {
+      "title": "C\u00daBICAS ASSOCIADAS AO TRI\u00c2NGULO PQ,M",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          40.96435546875,
+          259.8359375
+        ],
+        [
+          281.9164733886719,
+          259.8359375
+        ],
+        [
+          281.9164733886719,
+          274.09954833984375
+        ],
+        [
+          40.96435546875,
+          274.09954833984375
+        ]
+      ]
+    },
+    {
+      "title": "PODARIAS DA PAR\u00c1BOLA",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          317.255859375,
+          76.8818359375
+        ],
+        [
+          459.1820983886719,
+          76.8818359375
+        ],
+        [
+          459.1820983886719,
+          90.6197509765625
+        ],
+        [
+          317.255859375,
+          90.6197509765625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          143
+        ],
+        [
+          "Line",
+          68
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          190
+        ],
+        [
+          "Line",
+          64
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          194
+        ],
+        [
+          "Line",
+          80
+        ],
+        [
+          "ListItem",
+          13
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          197
+        ],
+        [
+          "Line",
+          84
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          221
+        ],
+        [
+          "Line",
+          88
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          53
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/folhetim_121"
+}

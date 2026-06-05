@@ -1,0 +1,317 @@
+{
+  "table_of_contents": [
+    {
+      "title": "UNIVERSIDADE ESTADUAL\n\nDE FEIRA DE SANTANA\n\nDEPARTAMENTO DE CI\u00caNCIAS EXATAS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          377.2154438032427,
+          1152.48046875
+        ],
+        [
+          2330.7864798021437,
+          1152.48046875
+        ],
+        [
+          2333.786205001374,
+          1554.6156339123672
+        ],
+        [
+          380.2151690024732,
+          1562.8649209229973
+        ]
+      ]
+    },
+    {
+      "title": "- Objetivo",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          1131.30908203125,
+          2576.1328125
+        ],
+        [
+          1544.39013671875,
+          2576.1328125
+        ],
+        [
+          1544.39013671875,
+          2666.5234375
+        ],
+        [
+          1131.30908203125,
+          2666.5234375
+        ]
+      ]
+    },
+    {
+      "title": "- Comit\u00ea Editorial -",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          995.9087661445452,
+          3290.78369140625
+        ],
+        [
+          1707.5935696619952,
+          3290.78369140625
+        ],
+        [
+          1707.5935696619952,
+          3369.4587762509723
+        ],
+        [
+          995.9087661445452,
+          3369.4587762509723
+        ]
+      ]
+    },
+    {
+      "title": "- Editorial -",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          1127.8966749106899,
+          3694.7167968750005
+        ],
+        [
+          1580.1052486946965,
+          3694.7167968750005
+        ],
+        [
+          1580.1052486946965,
+          3769.1742286751364
+        ],
+        [
+          1127.8966749106899,
+          3769.1742286751364
+        ]
+      ]
+    },
+    {
+      "title": "OMAR CATUNDA",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          263.9758175322891,
+          4218.385403163081
+        ],
+        [
+          985.4097279472384,
+          4220.1123046875
+        ],
+        [
+          983.1599340478153,
+          4296.378662172673
+        ],
+        [
+          262.4759549326738,
+          4293.378921441536
+        ]
+      ]
+    },
+    {
+      "title": "O ENSINO DA MATEM\u00c1TICA - CONCEITO E CARICATURA",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          509.2033525693872,
+          3762.5097656250005
+        ],
+        [
+          2240.0447925254193,
+          3762.5097656250005
+        ],
+        [
+          2240.0447925254193,
+          3967.157116930257
+        ],
+        [
+          509.2033525693872,
+          3967.157116930257
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          47
+        ],
+        [
+          "Span",
+          16
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          5
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          49
+        ],
+        [
+          "Span",
+          15
+        ],
+        [
+          "Text",
+          6
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          54
+        ],
+        [
+          "Span",
+          19
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          48
+        ],
+        [
+          "Span",
+          9
+        ],
+        [
+          "Text",
+          8
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          38
+        ],
+        [
+          "Span",
+          9
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Text",
+          9
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "Span",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/folhetim_001"
+}

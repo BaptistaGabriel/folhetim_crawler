@@ -1,0 +1,496 @@
+{
+  "table_of_contents": [
+    {
+      "title": "FOLHETIM DE EDUCA\u00c7\u00c3O MATEM\u00c1TICA",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          83.18010075566751,
+          73.47818343722173
+        ],
+        [
+          415.4541015625,
+          73.47818343722173
+        ],
+        [
+          415.4541015625,
+          134.4404296875
+        ],
+        [
+          83.18010075566751,
+          134.4404296875
+        ]
+      ]
+    },
+    {
+      "title": "O ENSINO DA MATEM\u00c1TICA*",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          228.64501953125,
+          186.69456812110417
+        ],
+        [
+          481.8450881612091,
+          186.69456812110417
+        ],
+        [
+          481.8450881612091,
+          206.7998046875
+        ],
+        [
+          228.64501953125,
+          206.7998046875
+        ]
+      ]
+    },
+    {
+      "title": "Objetivo",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          123.47412109375,
+          243.8017578125
+        ],
+        [
+          168.60831234256926,
+          243.8017578125
+        ],
+        [
+          168.60831234256926,
+          256.1357421875
+        ],
+        [
+          123.47412109375,
+          256.1357421875
+        ]
+      ]
+    },
+    {
+      "title": "Editorial",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          124.39546599496222,
+          420.5888671875
+        ],
+        [
+          167.8589420654912,
+          420.5888671875
+        ],
+        [
+          167.8589420654912,
+          429.6337890625
+        ],
+        [
+          124.39546599496222,
+          429.6337890625
+        ]
+      ]
+    },
+    {
+      "title": "Comit\u00ea Editorial",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          105.1708984375,
+          668.501953125
+        ],
+        [
+          188.09193954659952,
+          668.501953125
+        ],
+        [
+          188.09193954659952,
+          679.2983081032947
+        ],
+        [
+          105.1708984375,
+          679.2983081032947
+        ]
+      ]
+    },
+    {
+      "title": "2. A aprendizagem em Matem\u00e1tica",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          414.2919921875,
+          394.2763671875
+        ],
+        [
+          553.7846347607053,
+          394.2763671875
+        ],
+        [
+          553.7846347607053,
+          404.1300089047195
+        ],
+        [
+          414.2919921875,
+          404.1300089047195
+        ]
+      ]
+    },
+    {
+      "title": "3. Matem\u00e1tica e teoria do conhecimento",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          235.3022670025189,
+          390.63401602849507
+        ],
+        [
+          394.91813602015117,
+          390.9873046875
+        ],
+        [
+          394.91813602015117,
+          411.5439453125
+        ],
+        [
+          235.3022670025189,
+          411.5439453125
+        ]
+      ]
+    },
+    {
+      "title": "4. Conclus\u00f5es finais",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          413.1298828125,
+          277.92578125
+        ],
+        [
+          497.5818639798489,
+          277.92578125
+        ],
+        [
+          497.5818639798489,
+          287.79296875
+        ],
+        [
+          413.1298828125,
+          287.79296875
+        ]
+      ]
+    },
+    {
+      "title": "Notas Bibliogr\u00e1ficas",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          241.1376953125,
+          538.9951171875
+        ],
+        [
+          326.72544080604536,
+          538.9951171875
+        ],
+        [
+          326.72544080604536,
+          548.8370436331255
+        ],
+        [
+          241.1376953125,
+          548.8370436331255
+        ]
+      ]
+    },
+    {
+      "title": "Bibliografia Complementar",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          411.404282115869,
+          164.453125
+        ],
+        [
+          523.8098236775819,
+          164.453125
+        ],
+        [
+          523.8098236775819,
+          174.6981300089047
+        ],
+        [
+          411.404282115869,
+          174.6981300089047
+        ]
+      ]
+    },
+    {
+      "title": "NEMOC - N\u00daCLEO DE\nEDUCA\u00c7\u00c3O MATEM\u00c1TICA\nOMAR CATUNDA",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          423.29833984375,
+          589.1533203125
+        ],
+        [
+          528.3060453400504,
+          589.1533203125
+        ],
+        [
+          528.3060453400504,
+          616.3170080142476
+        ],
+        [
+          423.29833984375,
+          616.3170080142476
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          145
+        ],
+        [
+          "Span",
+          108
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          158
+        ],
+        [
+          "Span",
+          127
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          179
+        ],
+        [
+          "Span",
+          159
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          166
+        ],
+        [
+          "Span",
+          144
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          170
+        ],
+        [
+          "Span",
+          99
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          188
+        ],
+        [
+          "Span",
+          88
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "ListItem",
+          13
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/folhetim_045"
+}

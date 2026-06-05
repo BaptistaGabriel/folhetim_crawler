@@ -1,0 +1,397 @@
+{
+  "table_of_contents": [
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          52.96484375,
+          42.7578125
+        ],
+        [
+          425.46484375,
+          42.7578125
+        ],
+        [
+          425.46484375,
+          101.9609375
+        ],
+        [
+          52.96484375,
+          101.9609375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          30.556640625,
+          184.1875
+        ],
+        [
+          100.982421875,
+          184.1875
+        ],
+        [
+          100.982421875,
+          194.0546875
+        ],
+        [
+          30.556640625,
+          194.0546875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          32.302734375,
+          332.6064453125
+        ],
+        [
+          105.056640625,
+          332.6064453125
+        ],
+        [
+          105.056640625,
+          343.2958984375
+        ],
+        [
+          32.302734375,
+          343.2958984375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          30.84765625,
+          712.08203125
+        ],
+        [
+          157.73046875,
+          712.08203125
+        ],
+        [
+          157.73046875,
+          721.94921875
+        ],
+        [
+          30.84765625,
+          721.94921875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          275.8828125,
+          196.9326171875
+        ],
+        [
+          543.6171875,
+          196.9326171875
+        ],
+        [
+          543.6171875,
+          207.6220703125
+        ],
+        [
+          275.8828125,
+          207.6220703125
+        ]
+      ]
+    },
+    {
+      "title": "1.4 O Realismo (continua\u00b8c\u02dcao)",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          269.29095458984375,
+          297.2490234375
+        ],
+        [
+          442.8804931640625,
+          297.2490234375
+        ],
+        [
+          442.8804931640625,
+          311.0927734375
+        ],
+        [
+          269.29095458984375,
+          311.0927734375
+        ]
+      ]
+    },
+    {
+      "title": "NEMOC - N\u00daCLEO DE EDUCA\u00c7\u00c3O MATEM\u00c1TICA OMAR CATUNDA",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          103.01953125,
+          673.8466796875
+        ],
+        [
+          490.91183879093194,
+          673.8466796875
+        ],
+        [
+          490.91183879093194,
+          686.1806640625
+        ],
+        [
+          103.01953125,
+          686.1806640625
+        ]
+      ]
+    },
+    {
+      "title": "Geraldo Severo de Souza Avila \u00b4",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          95.0459976196289,
+          63.5040283203125
+        ],
+        [
+          284.322265625,
+          63.5040283203125
+        ],
+        [
+          284.322265625,
+          81.47625732421875
+        ],
+        [
+          95.0459976196289,
+          81.47625732421875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          314.587890625,
+          610.943359375
+        ],
+        [
+          451.365234375,
+          610.943359375
+        ],
+        [
+          451.365234375,
+          627.388671875
+        ],
+        [
+          314.587890625,
+          627.388671875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          312.55078125,
+          688.6474609375
+        ],
+        [
+          482.50390625,
+          688.6474609375
+        ],
+        [
+          482.50390625,
+          702.6259765625
+        ],
+        [
+          312.55078125,
+          702.6259765625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          266
+        ],
+        [
+          "Line",
+          74
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          152
+        ],
+        [
+          "Line",
+          92
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          109
+        ],
+        [
+          "Span",
+          88
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          201
+        ],
+        [
+          "Line",
+          101
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/folhetim_156"
+}

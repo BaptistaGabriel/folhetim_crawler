@@ -1,0 +1,377 @@
+{
+  "table_of_contents": [
+    {
+      "title": "FOLHETIM DE EDUCA\u00c7\u00c3O \nMATEM\u00c1TICA",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          72.05078125,
+          46.869140625
+        ],
+        [
+          408.56103515625,
+          46.869140625
+        ],
+        [
+          408.56103515625,
+          105.6295166015625
+        ],
+        [
+          72.05078125,
+          105.6295166015625
+        ]
+      ]
+    },
+    {
+      "title": "OBJETIVO",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          39.51171875,
+          154.9970703125
+        ],
+        [
+          111.38532257080078,
+          154.9970703125
+        ],
+        [
+          111.38532257080078,
+          167.949951171875
+        ],
+        [
+          39.51171875,
+          167.949951171875
+        ]
+      ]
+    },
+    {
+      "title": "EDITORIAL",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          39.80224609375,
+          336.306640625
+        ],
+        [
+          114.95443725585938,
+          336.306640625
+        ],
+        [
+          114.95443725585938,
+          349.86993408203125
+        ],
+        [
+          39.80224609375,
+          349.86993408203125
+        ]
+      ]
+    },
+    {
+      "title": "COMIT\u00c9 EDITORIAL",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          39.51171875,
+          645.0673828125
+        ],
+        [
+          178.84873962402344,
+          645.0673828125
+        ],
+        [
+          178.84873962402344,
+          659.8826599121094
+        ],
+        [
+          39.51171875,
+          659.8826599121094
+        ]
+      ]
+    },
+    {
+      "title": "PERGUNTE QUE O NEMOC RESPONDE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          266.123046875,
+          170.13262939453125
+        ],
+        [
+          532.12744140625,
+          170.13262939453125
+        ],
+        [
+          532.12744140625,
+          183.00262451171875
+        ],
+        [
+          266.123046875,
+          183.00262451171875
+        ]
+      ]
+    },
+    {
+      "title": "NEMOC - N\u00daCLEO DE EDUCA\u00c7\u00c3O MATEM\u00c1TICA OMAR CATUNDA",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          160.66162109375,
+          631.0888671875
+        ],
+        [
+          520.340087890625,
+          631.0888671875
+        ],
+        [
+          520.340087890625,
+          643.4228515625
+        ],
+        [
+          160.66162109375,
+          643.4228515625
+        ]
+      ]
+    },
+    {
+      "title": "PR\u00d3XIMO N\u00daMERO",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          81.63818359375,
+          388.931640625
+        ],
+        [
+          213.88233947753906,
+          388.931640625
+        ],
+        [
+          213.88233947753906,
+          405.482666015625
+        ],
+        [
+          81.63818359375,
+          405.482666015625
+        ]
+      ]
+    },
+    {
+      "title": "NOT\u00cdCIAS",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          80.47607421875,
+          518.4384765625
+        ],
+        [
+          153.3374481201172,
+          518.4384765625
+        ],
+        [
+          153.3374481201172,
+          532.20263671875
+        ],
+        [
+          80.47607421875,
+          532.20263671875
+        ]
+      ]
+    },
+    {
+      "title": "Informa\u00e7\u00f5es adicionais:",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          352.119140625,
+          426.4364929199219
+        ],
+        [
+          470.55633544921875,
+          426.4364929199219
+        ],
+        [
+          470.55633544921875,
+          438.6787109375
+        ],
+        [
+          352.119140625,
+          438.6787109375
+        ]
+      ]
+    },
+    {
+      "title": "N\u00daMEROS ATRASADOS",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          338.7548828125,
+          546.3955078125
+        ],
+        [
+          506.700439453125,
+          546.3955078125
+        ],
+        [
+          506.700439453125,
+          562.0185546875
+        ],
+        [
+          338.7548828125,
+          562.0185546875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          135
+        ],
+        [
+          "Line",
+          63
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          180
+        ],
+        [
+          "Line",
+          65
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          160
+        ],
+        [
+          "Line",
+          70
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          120
+        ],
+        [
+          "Line",
+          55
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/folhetim_072"
+}

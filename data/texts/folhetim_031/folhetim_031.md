@@ -1,0 +1,70 @@
+### UNIVERSIDADE ESTADUAL DE FEIRADE SANTANA DEPARTAMENTO DE CIÊNCIAS EXATAS
+
+## NEMOC - Núclbo de Educação Matemática OmarCatunda
+
+Folhetim de Educação Matemática
+
+Ano 2. n.31. Maio/95
+
+Editores: Carloman e Wilson
+
+Editoração e Impressão: Núcleo de Editoração Gráfica - NUEG
+
+Endereço: Av. Universitária, s/n - Km 03 BR 116
+
+Campus Universitário - Fax:(075)224-2284
+
+CEP 44031-460 Feira de Santana-BA
+
+### Objetivo
+
+Este Folhetim é um veículo de divulgação, circulação de idéias e de estímulo ao estudo e à curiosidade intelectual. Dirige-se a todos os interessados pelos aspectos pedagógicos, filosóficos e históricos da Matemática. Pretende construir uma ponte para unir os que estão próximos e os que estão distantes.
+
+### Comitê Editorial
+
+Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre) Wilson Pereira de Jesus (Mestre)
+
+(1) 10 10 10 10 10 10 10 10 10 10 10 10 10
+
+# PERGUNTE QUE O NEMOC RESPONDE
+
+#### Editorial
+
+O Pergunte que o NEMOC responde é de autoria do Prof. Dr. Carloman Carlos Borges e objetiva atingir ao público interessado em Matemática nos seus múltiplos aspectos.
+
+1º Pergunta. Fabíola de Oliveira Pedreira, aluna do Curso de Matemática, na UEFS, indaga: Qual a origem da designação de ordinárias para frações como 2/3, 3/5, etc.? Porque ordinária?
+
+R. A generalização do conceito de número natural, isto é, as primeiras ampliações dos números naturais foram feitas pelos babilônios e egípcios antigos. Esta primeira generalização recebe o nome de fração; esta surgiu para satisfazer à necessidade de encontrar uma expressão numérica para a medida de certas grandezas. Isto acontece, exemplificando, quando da comparação de dois segmentos que tenham uma medida comum, ou seja, que sejam comensuráveis. Referências aos números fracionários podem ser achadas no Papiro de Rhind, que data de entre 1500 a 2000 anos antes de Cristo; neste importante documento, juntamente com o Papiro de Moscou, tomamos conhecimento do saber matemático dos egípcios antigos, o qual, diga-se de passagem, nunca consegiu ultrapassar um estágio extremamente elementar segundo o historiador Asger Aaboe, em Episódios da Histótia Antiga da Matemática, Coleção Fundamentos de Matemática Elementar, Sociedade Brasileira de Matemática. Ainda segundo o mesmo historiador, os egípcios, fora da geometria, não ultrapassaram a aritmética elementar. A explicação disso é, sem dúvida, que eles tiveram a idéia natural mas infeliz de admitir somente frações com numerador 1, isto é, frações da forma 1/m, com uma exceção, ou seja 2/3. Assim, eles representariam 2/5 = 1/3 + 1/15 ou 9/10 = 2/3 + 1/5 + 1/30...
+
+Ouso das frações como 1/5, 2/5, 7/8, etc., tornou-se comum e bastante empregado tanto por essas duas civilizações citadas como pelos gregos antigos. Esse tipo de fração é denominado de fração comum ou, o que é a mesma coisa, fração ordinária. Como você vê, a palavra ordinária, aqui, é empregada no sentido de comum, habitual, usual, etc., sem nenhuma conexão como ruim, de pouco valor, etc. Fenômeno semelhante surge com a palavra complexo. Nós empregamos a denominação de números complexos logo nos primeiros anos escolares nas medidas de tempo e de ângulo, analisando o tempo por intermédio de anos,
+
+meses, dias, etc., enquanto o ângulo é medido em graus, minutos e segundos. Já em um grau mais elevado, empregamos a palavra complexo para designar números da forma a + bi. Em ambos os casos (a) medida de tempo ou de ângulo; (b) números da forma a + bi, a palavra complexo é empregada no sentido daquilo que abrange ou encerra muitos elementos ou partes, sem qualquer ligação com o sentido de complicado. Em (a) observe que as partes são anos, meses, dias, horas, minutos, segundos, etc. enquanto que em a + bi são a e b, isto é, as partes real que é a e a parte imaginária, que é b. Lembre-se que além das frações ordinárias, isto é, as frações comuns, há, também, outros tipos de frações como frações contínuas, frações decimais, etc. e que, frequentemente, empregase tanto o termo número racional como o termo fração ordinária como sinônimos, entendendo-se por número racional ou fração ordinária um número que pode ser colocado na forma a/b, onde a e b são inteiros e b não é zero.
+
+2º Pergunta. O colega Lucimar M. Nunes, do Curso de Matemática da Faculdade de Formação de Professores de Alagoinhas, indaga: A divisibilidade infinita é possível, quer no mundo físico, quer no mundo da Matemática?
+
+R. Comecemos pelo mundo da Matemática. Um dos modelos básicos desta ciência é aquilo que se convencionou chamar-se de números reais. Como você sabe, as propriedades ligadas aos fatos da natureza podem ser mensuradas; assim, falamos na medida do tempo, da distância, da velocidade e de muitas outras grandezas geométricas e físicas. Os números reais, como qualquer outro modelo matemático, é uma idealização sugerida por uma realidade que alguns filósofos chamam de objetiva, e dessa forma, é o modelo mais adequado para a solução de problemas de mensuração ligados a numerosos fatos da natureza com as suas características correspondentes. Entre as propriedades do sistema dos números reais há uma que distinguimos pela sua importância: a continuidade. Que significa afirmar que o sistema dos números reais possui a propriedade da continuidade? Consideremos a reta como o modelo geométrico desses números; se a dividirmos em duas partes A e B,
+
+tais que qualquer ponto da parte A esteja colocado à esquerda de qualquer ponto da parte B, então, existe ou um ponto final na parte A ou um ponto inicial na parte B. Não há nenhum buraco nesta separação da reta em duas partes A e B e. certamente, todos os pontos da reta são abrangidos por essa separação. Quando se pode efetuar, em um dado conjunto, a separação acima mencionada, dizemos que esse conjunto é contínuo, possui a propriedade da continuidade. Pois bem. a propriedade da continuidade implica na divisibilidade infinita da reta ou o que é a mesma coisa, esta divisibilidade infinita é possível no mundo da Matemática. A segunda parte de sua pergunta fica, portanto, respondida. Vamos, agora, à primeira parte: é possível a divisibilidade infinita no mundo físico? As distâncias ou os tempos físicos são contínuos? Se não for possível, no mundo físico, este tipo de divisibilidade, isto significa que existem limites físicos ao conhecimento? Isto significa que não podemos conhecer a coisa em si? Transcrevemos, abaixo, trechos do livro DEUS E A CIÊN-CIA, Editora Nova Fronteira. Ele narra uma conversa com três pessoas: Jean Guitton, o maior filósofo cristão vivo na França e os irmãos Bogdanov, físicos teóricos. Um caso particularmente significativo de uma tal barreira física foi posto em evidência, em dezembro de 1900, pelo físico alemão Max Planck. Trata-se do quantum de ação, mais conhecido como a constante de Planck. Extremamente pequena (seu valor é de 6,625 x 11<sup>-34/44</sup>); esta última representa a menor quantidade de energia existente em nosso mundo físico... Eis-nos face a uma barreira dimensional: a constante de Planck marca o limite da divisibilidade da radiação e, conseguentemente, o limite extremo de toda divisibilidade. Mais adiante, há o seguinte trecho: ... iremos esbarrar, entre outras coisas, num comprimento limite, chamado comprimento de Planck, que representa o menor intervalo possível entre dois objetos aparentemente separados. Do mesmo modo, o tempo de Planck designa a menor unidade possível.
+
+Obs.: É permitida a reprodução total ou parcial desse folhetim desde que citada a fonte.
+
+Caso você tenha interesse em receber esta publicação escreva para o NEMOC.
+
+### \*\*\*
+
+Números atrasados - envie para cada folhetim um selo de postagem nacional de 1º porte. Dentro de no máximo quatro semanas, contadas a partir da data de recebimento do seu pedido, você estará recebendo os folhetins solicitados.
+
+### \*\*\*
+
+No próximo número, as respostas para:
+
+- Há outra Geometria além daquela nossa conhecida, a Geometria de Euclides?
+- Existe algum número que não seja nem real nem imaginário?
+
+**米米米米** 
+
+Aguardemi
+
+(2) (2) (2) (2) (2) (2) (3) (3) (4) (4) (4) (4) (4) (4) (4) (4) (4) (4
+
+SETS

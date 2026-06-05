@@ -1,0 +1,314 @@
+{
+  "table_of_contents": [
+    {
+      "title": "UNIVERSIDADE ESTADUAL\n\nDE FEIRA DE SANTANA\n\nDEPARTAMENTO DE CI\u00caNCIAS EXATAS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          412.46221489420174,
+          824.814453125
+        ],
+        [
+          2426.027754877714,
+          824.814453125
+        ],
+        [
+          2418.5284418796373,
+          1268.14039408867
+        ],
+        [
+          404.2129705963177,
+          1254.169921875
+        ]
+      ]
+    },
+    {
+      "title": "Objetivo",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          1150.394613904919,
+          2844.47998046875
+        ],
+        [
+          1580.1052486946965,
+          2844.47998046875
+        ],
+        [
+          1580.1052486946965,
+          2963.11767578125
+        ],
+        [
+          1150.394613904919,
+          2963.11767578125
+        ]
+      ]
+    },
+    {
+      "title": "Comit\u00ea Editorial",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          959.1621324539709,
+          3804.8803710937505
+        ],
+        [
+          1741.3404781533388,
+          3804.8803710937505
+        ],
+        [
+          1741.3404781533388,
+          3912.411848586985
+        ],
+        [
+          959.1621324539709,
+          3912.411848586985
+        ]
+      ]
+    },
+    {
+      "title": "Editorial",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          1247.23828125,
+          4576.025390625
+        ],
+        [
+          1643.8494091783457,
+          4576.025390625
+        ],
+        [
+          1639.3498213794999,
+          4689.013671875
+        ],
+        [
+          1247.23828125,
+          4689.013671875
+        ]
+      ]
+    },
+    {
+      "title": "* * * *",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          1233.9130859375,
+          779.619140625
+        ],
+        [
+          1766.9208984375,
+          779.619140625
+        ],
+        [
+          1766.9208984375,
+          881.3085937500001
+        ],
+        [
+          1233.9130859375,
+          881.3085937500001
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          54
+        ],
+        [
+          "Span",
+          26
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          4
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Span",
+          4
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          34
+        ],
+        [
+          "Span",
+          5
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Equation",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          37
+        ],
+        [
+          "Span",
+          8
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Equation",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          44
+        ],
+        [
+          "Span",
+          29
+        ],
+        [
+          "Text",
+          5
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          27
+        ],
+        [
+          "Span",
+          10
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/folhetim_023"
+}

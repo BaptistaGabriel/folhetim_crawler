@@ -1,0 +1,71 @@
+# FOLHETIM DE EDUCAÇÃO MATEMÁTICA
+
+![](_page_0_Picture_1.jpeg)
+
+Folhetim de Educação Matemática, Ano 6, n. 70, set.1998
+
+ISSN 1415-8779
+
+#### **OBJETIVO**
+
+Este Folhetim é um veículo de divulgação, circulação de idéias e de estímulo ao estudo e à curiosidade intelectual. Dirige-se a todos os interessados pelos aspectos pedagógicos, filosóficos e históricos da Matemática. Pretende construir uma ponte para unir os que estão próximos e os que estão distantes.
+
+#### **EDITORIAL**
+
+A partir deste Folhetim, estamos integrados aos sistemas standards de identificação mundial, através do ISSN (International Standard Serial Number).
+
+Isto constitui-se numa importante ferramenta para ingresso nos mercados cada vez mais globalizados, bem como para atender à necessidade da linguagem comum e de parceria entre as relações de mercado dentro do país.
+
+No presente Folhetim, o prof. Carloman Carlos Borges trata da matemática para todos os cidadãos. É uma questão ainda aberta e crucial, dentro de Educação Matemática, e sugestões dos leitores podem surgir a partir da leitura do texto.
+
+# **COMITÉ EDITORIAL**
+
+Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
+
+### PERGUNTE QUE O NEMOC RESPONDE
+
+Pergunta. Muitos colegas perguntam: Qual a matemática que deve ser ensinada para todos os cidadãos?
+
+R. Na maioria dos países, até poucos anos atrás, o chamado ensino da escola obrigatória atingia alunos entre 5 a 12 anos de idade. Os assuntos estudados abrangiam: operações fundamentais com os números inteiros e racionais. proporções (regra de três, porcentagens), sistema métrico decimal, algumas propriedades elementares de figuras geométricas planas (aquelas mais simples). Atualmente, o ensino obrigatório foi acrescido de mais alguns anos, entre 5 e 15 anos de idade. Assim, chamamos de matemática para todos aquela que deve ser ensinada obrigatoriamente aos cidadãos compreendidos nessa faixa etária. Em primeiro lugar, alguns temas aqui sugeridos vão exigir da parte dos professores, discernimento metodológico superior ao atual que vemos hoje nas salas de aula. Aliás, bem superior. Tópicos de probabilidade, estatística e teoria dos jogos podem e devem ser introduzidos com elementaridade e com os recursos do computador. Justificativa: vivemos em um mundo estocástico, isto é, um mundo no qual fenômenos evolutivos dependentesao menos parcialmente - do acaso nos cercam por todos os lados: a evolução de uma população, a trajetória de uma molécula de gás, as votações, as amostragens, as prévias eleitorais - são baseadas nos temas sugeridos. Até mesmo uma das principais revoluções científicas do século, a Mecânica Quântica, é probabilística. Tomemos, exemplificando, as prévias eleitorais: com meses de antecedência elas são capazes de levarem candidatos tanto à euforia como à depressão. Seus "caixas" de campanha eleitoral podem ser abarrotados de barras de ouro como permanecerem vazios. A comprovação disto é verificada com um simples olhar
+
+sobre os processos eleitorais ocorridos em nosso país. A matemática tradicional, isto é, aquela constituída de problemas com soluções sempre "exatas" e constituída dos primeiros tópicos já citados, parte do pressuposto de que os fenômenos do mundo são regidos por um férreo determinismo - corrente filosófica que considera os fenômenos como consegüências necessárias de condições estabelecidas antes de seu aparecimento. Essa corrente filosófica, reforçada pela mecânica de Newton, vem influenciando o conhecimento científico há quase três séculos. Na vida diária e na natureza, situações determinísticas estão em minoria quando comparadas com as situações aleatórias. A tão badalada Teoria de Conjuntos, tão mal ensinada quanto desconhecida, deve-se dar - em nosso entendimento - em um nível linguístico e no desenvolvimento dos diversos tópicos aqui mencionados. O mesmo se aplica ao ensino da lógica. Em sua conferência inaugural do I Congresso Ibero-Americano de Educação Matemática, Sevilha, Espanha, setembro de 1990, o matemático argentino Luis A. Santaló, defende, além dos pontos já citados, os seguintes: " a) elementos da teoria da mostragem, para que o aluno possa entender as bases das pesquisas de opinião pública ou os graus de audiência de determinados programas de televisão e apreciar seu grau de confiabilidade; b) já que a vida é uma contínua sequência de decisões, que cada pessoa deve tomar frequentemente e que influi ou pode influir muito no seu futuro, a escola deve informar sobre a existência de uma teoria da decisão, construindo algumas matrizes simples referentes a problemas elementares que chamem a atenção do aluno; c) também deve ser de uso generalizado a medida da quantidade de informação das mensagens (entropia, códigos, ruído) e, portanto, sem pretender técnicos especializados, a idéia da unidade de informação (bit) e sua aplicação a exemplos simples devem incluir-se entre os conteúdos do ensino obrigatório. "Apenas algumas observações sobre o item (b) logo acima. Concordamos ser a vida uma contínua sequência de decisões; devemos acrescentar, porém, que muitas delas, senão a maioria, são irracionais. Se o ser humano passasse o dia inteiro tomando apenas decisões racionais, levando em conta a teoria da decisão, rapidamente ele se desumanizaria... Aliás, tomar decisões apenas racionais, nos parece uma utopia jamais realizável. Os tópicos da matemática tradicional, como cálculo literal, expressões algébricas, polinômios, etc. devem continuar sendo ensinados, porém, de maneira extraordinariamente simplificada. Uma criança na faixa etária em foco, envolver-se em trabalhosos cálculos algébricos, um dos pilares da matemática tradicional, é, no mínimo, uma insensatez. Explico-me melhor: uma insensatez do professor. É claro que as quatro operações fundamentais, tanto com inteiros como com racionais, devem ser bem sabidas. Gráficos, também, devem ser ensinados. Quais os tipos de gráficos? Aqueles que servem para modelar fenômenos da vida cotidiana. Para uma mudança desse tipo, é razoável postular uma mudança radical na postura do professor. Assim - é nosso entendimento - permeando os tópicos apontados, o mestre, em todos eles, deve tê-los como uma oportunidade para que a criança desenvolva a iniciativa individual, a capacidade de pensamento
+
+# NEMOC - NÚCLEO DE EDUCAÇÃO MATEMÁTICA OMAR CATUNDA
+
+Folhetim de Educação Matemática, Ano 6., n. 70, set. 1998 - Editores: Carloman e Inácio - Secretária: Josenildes Oliveira Venas - Editoração: Evandro Vaz e Nivaldo de Assis - Impressão: Imprensa Gráfica Universitária - Periodicidade: mensal - Tiragem: 1.200 exemplares - Distribuição gratuita - Endereço: Av. Universitária, s/n - km 03 - BR 116 - Campus Universitário - Telefone: (075)224-8115 - Fax: (075)224-2284 - CEP 44031-460 - Feira de Santana - Ba - BRASIL - E-mail: nemoc@uefs.br
+
+crítico e de "aprender a aprender". Um simples olhar sobre a história da matemática - desde os séculos anteriores à nossa era - mostra que o eixo de seu desenvolvimento consiste na resolução de problemas. Aliás, não se trata apenas de resolução mas, também, de proposição de problemas. Assim, não deixa de ser estranho (para não dizer escandaloso) que algumas pessoas apresentem a metodologia de resolução de problemas, como um resultado moderno de recentes pesquisas educacionais. O problema de saber qual a matemática a ser ensinada para todos é um dos mais importantes da educação matemática. A proposta acima pode e deve ser enriquecida por outras sugestões. Indubitavelmente, o saber matemático se constitui em um importante valor cultural em nossa época. A aplicação de um bom programa de matemática para todos, poderá trazer outros benefícios para os jovens além daqueles decorrentes do contacto com tópicos modernos dessa ciência. Por exemplo: nos ciclos básicos de algumas universidades brasileiras, o ensino de matemática é obrigatório - durante um semestre - em todos os cursos; essa obrigatoriedade não teria mais sentido. Aliás, mesmo hoje em dia, não tem sentido alunos de Odontologia, Geografia, História, Enfermagem e outros afins, estudarem essa disciplina. A propósito, lembro-me bem de um colega justificar esse ensino no curso de Enfermagem da seguinte maneira: "uma enfermeira, para acompanhar o desenvolvimento de um processo febril em um paciente, precisa saber fazer gráficos". Igualmente, é um absurdo, o vestibulando, para ter acesso a esses cursos ser submetido à prova de matemática. Esse cartesianismo vem persistindo há mais de três séculos. Com o reconhecimento hoje em dia da importância da subjetividade humana e da Biologia (provavelmente chegou a hora da Física repartir sua liderança com a Biologia) o ensino da matemática deve ser colocado em seu devido lugar, por pessoas altamente compe-
+
+tentes. Na parte referida acima sobre Probabilidade e Teoria dos Jogos, o professor se beneficiaria muito consultando o livro Introduccion a las matemáticas finitas (Introduction to Finite Mathematics) Compania Editorial Continental, S.A. México, escrito por John G. Kemeny, J. Laurie Snelle, Gerard L. Thompson. Oprimeiro dos autores mencionados, John G. Kemeny, além de um conhecido matemático é, também, um consagrado pedagogo, preocupado com a educação de jovens gerações. Essa observação se estende aos tópicos Conjuntos e Lógica, tratados, ali, inseparavelmente. Finalmente, nunca é demais repetir: muitas das dificuldades sentidas pelo aluno na aprendizagem da matemática são devidas à sua apresentação pelo professor. Basicamente, no ensino dessa ciência há duas concepções: a primeira delas, denominada de concepção formal, apresenta a matéria dentro daquilo que pode ser denominado de inversão histórica. Em que consiste tal inversão? Primeiro, é admitida a premissa - bastante questionável - de que o lógico é sempre compreensível (não se esclarece: por quem é sempre compreensível? É evidente que é sempre compreensível, talvez, pelos próprios lógicos...). Admitida essa premissa, o assunto é apresentado axiomaticamente através de conceitos primitivos, axiomas, definições e teoremas. Ora, historicamente, o desenvolvimento da matemática culminou na axiomática, sendo essa fase precedida por muitos séculos de tentativas e falta de rigor na construção de importantes resultados matemáticos. A segunda concepção, denominada de intuitiva, substitui o formal pela clareza, estabelecendo conexões com outros ramos do conhecimento como a Física, a Biologia, etc. Desta forma, essa concepção se aproxima mais do modo como a matemática foi historicamente construída. Exemplo da primeira concepção: o livro Álgebra Linear e Geometria Elementar, do erudito matemático francês con-
+
+temporâneo Jean Dieudonné. Logo em suas primeiras páginas o autor se vangloria de não introduzir, no texto, nenhuma figura. É interessante destacar que esse eminente matemático sempre participou ativamente de congressos internacionais sobre o ensino da matemática... Exemplo da segunda concepção: o livro Introdução ao Cálculo e à Análise Matemática, de R. Courant e F. John. Aqui, o assunto é tratado a partir de exemplos físicos e geométricos e, com a ajuda da intuição, vai sendo paulatinamente, formalizado. Pela sua grande importância em qualquer discussão sobre aprendizagem, transcrevemos o seguinte trecho devido a Albert Einstein (Veja Notas Biográficas, do mesmo, Rio de Janeiro, Nova Fronteira, 1982): "Dos doze aos dezesseis anos, familiarizei-me com os elementos da Matemática, incluindo o príncipio do cálculo diferencial e cálculo integral. Tive a sorte de encontrar livros que não se preocupavam com o rigor lógico, mas que permitiam a apresentação clara das idéias principais. Era um trabalho verdadeiramente fascinante; certos pontos extremos me impressionava tanto quanto da geometria elementar - a idéia básica da geometria analítica, as séries infinitas, os conceitos de derivadas e integrais. Tive a sorte também de aprender os resultados essenciais e os métodos de todo o campo das ciências naturais, numa excelente obra popular que se limitava quase que exclusivamente aos aspectos qualitativos (Bernstein, Popular Books on Natural Science, em cinco ou seis volumes), e que li com absorvente atenção. Já estudara também um pouco de física teórica quando, com dezessete anos, entrei para a Escola Politécnica de Zurique para estudar matemática e física". (Os grifos são nossos).
+
+Apresentação clara das idéias principais - eis o ponto sobre o qual devemos refletir - pois ele deve se constituir no eixo de toda metodologia de ensino.
+
+Pergunte que o NEMOC Responde é uma coluna de autoria do prof. Dr. Carloman Carlos Borges e objetiva atingir ao público interessado em Matemática nos seus múltiplos aspectos.
+
+Caso o leitor queira fazer alguma pergunta escreva-nos.
+
+## PRÓXIMO NÚMERO
+
+Resposta para a pergunta:
+
+Há uma maneira elementar para o cálculo da área da elipse, conhecendo-se a área do círculo?
+
+Aguardem!
+
+## **NÚMEROS ATRASADOS**
+
+Envie para cada folhetim um selo de postagem nacional de 1º porte. Dentro de no máximo quatro semanas, contadas a partir da data de recebimento do seu pedido, você estará recebendo os folhetins solicitados.
+
+OBS.: É permitida a reprodução total ou parcial desse folhetim, desde que citada a fonte.
+
+![](_page_3_Picture_12.jpeg)
+
+Catunda, Omar
+
+engenharia civil com relativa facilidade, principalmente nas matérias que dependiam de Matemática, pois o meu sistema de estudo consistia em repassar diariamente os apontamentos de aula, ..."
+
+"Fiz os seis anos de
+
+23 de setembro de 1909 12 de agosto de 1986

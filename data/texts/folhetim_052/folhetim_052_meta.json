@@ -1,0 +1,872 @@
+{
+  "table_of_contents": [
+    {
+      "title": "FOLHETIM DE EDUCA\u00c7\u00c3O MATEM\u00c1TICA",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          50.957178841309826,
+          76.0595703125
+        ],
+        [
+          397.1662468513854,
+          76.0595703125
+        ],
+        [
+          397.1662468513854,
+          136.0849609375
+        ],
+        [
+          50.957178841309826,
+          136.0849609375
+        ]
+      ]
+    },
+    {
+      "title": "OBJETIVO",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          24.69482421875,
+          201.6901157613535
+        ],
+        [
+          99.6662468513854,
+          201.6901157613535
+        ],
+        [
+          99.6662468513854,
+          213.68655387355298
+        ],
+        [
+          24.69482421875,
+          213.68655387355298
+        ]
+      ]
+    },
+    {
+      "title": "EDITORIAL",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          27.72670025188917,
+          355.21875
+        ],
+        [
+          107.15994962216625,
+          355.21875
+        ],
+        [
+          107.15994962216625,
+          367.3909171861086
+        ],
+        [
+          27.72670025188917,
+          367.3909171861086
+        ]
+      ]
+    },
+    {
+      "title": "COMIT\u00c9 EDITORIAL",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          26.227959697733,
+          658.3045414069456
+        ],
+        [
+          164.11209068010078,
+          660.279296875
+        ],
+        [
+          164.11209068010078,
+          677.0489759572573
+        ],
+        [
+          26.227959697733,
+          676.724609375
+        ]
+      ]
+    },
+    {
+      "title": "PERGUNTE QUE O NEMOC RESPONDE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          264.52770780856423,
+          218.72265625
+        ],
+        [
+          555.2833753148615,
+          218.72265625
+        ],
+        [
+          555.2833753148615,
+          233.5234375
+        ],
+        [
+          264.52770780856423,
+          233.5234375
+        ]
+      ]
+    },
+    {
+      "title": "PR\u00d3XIMO N\u00daMERO",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          310.98866498740557,
+          104.427734375
+        ],
+        [
+          450.3715365239295,
+          104.427734375
+        ],
+        [
+          450.3715365239295,
+          119.96438112199465
+        ],
+        [
+          310.98866498740557,
+          119.96438112199465
+        ]
+      ]
+    },
+    {
+      "title": "N\u00daMEROS ATRASADOS",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          311.73583984375,
+          342.884765625
+        ],
+        [
+          481.095717884131,
+          342.884765625
+        ],
+        [
+          481.095717884131,
+          357.685546875
+        ],
+        [
+          311.73583984375,
+          357.685546875
+        ]
+      ]
+    },
+    {
+      "title": "NEMOC - N\u00daCLEO DE\nEDUCA\u00c7\u00c3O MATEM\u00c1TICA\nOMAR CATUNDA",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          367.8076171875,
+          530.7724609375
+        ],
+        [
+          521.5617128463476,
+          530.7724609375
+        ],
+        [
+          521.5617128463476,
+          569.4189453125
+        ],
+        [
+          367.8076171875,
+          569.4189453125
+        ]
+      ]
+    },
+    {
+      "title": "OLIMP\u00cdADAS DE MATEM\u00c1TICA(*)",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          176.85138539042822,
+          106.072265625
+        ],
+        [
+          420.39672544080605,
+          106.072265625
+        ],
+        [
+          420.39672544080605,
+          124.46304541406946
+        ],
+        [
+          176.85138539042822,
+          124.162109375
+        ]
+      ]
+    },
+    {
+      "title": "Parte I. A Bandeira Ol\u00edmpica e seus an\u00e9is",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          30.7958984375,
+          187.8876953125
+        ],
+        [
+          245.04408060453403,
+          187.8876953125
+        ],
+        [
+          245.04408060453403,
+          200.2216796875
+        ],
+        [
+          30.7958984375,
+          200.2216796875
+        ]
+      ]
+    },
+    {
+      "title": "Atividades",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          29.92431640625,
+          301.3603515625
+        ],
+        [
+          87.67632241813602,
+          301.3603515625
+        ],
+        [
+          87.67632241813602,
+          311.15761353517365
+        ],
+        [
+          29.92431640625,
+          311.15761353517365
+        ]
+      ]
+    },
+    {
+      "title": "Desenhos da Bandeira",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          31.376953125,
+          315.75
+        ],
+        [
+          147.62594458438286,
+          315.75
+        ],
+        [
+          147.62594458438286,
+          326.15316117542295
+        ],
+        [
+          31.376953125,
+          326.15316117542295
+        ]
+      ]
+    },
+    {
+      "title": "A L\u00f3gica da Bandeira",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          31.08642578125,
+          617.521484375
+        ],
+        [
+          143.12972292191438,
+          617.521484375
+        ],
+        [
+          143.12972292191438,
+          627.5636687444345
+        ],
+        [
+          31.08642578125,
+          627.5636687444345
+        ]
+      ]
+    },
+    {
+      "title": "Quebra-cabe\u00e7as de an\u00e9is",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          38.9306640625,
+          146.7744140625
+        ],
+        [
+          166.36020151133502,
+          146.7744140625
+        ],
+        [
+          166.36020151133502,
+          159.1083984375
+        ],
+        [
+          38.9306640625,
+          159.1083984375
+        ]
+      ]
+    },
+    {
+      "title": "Parte II. A Tocha Ol\u00edmpica",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          38.967254408060455,
+          332.1513802315227
+        ],
+        [
+          150.6234256926952,
+          332.1513802315227
+        ],
+        [
+          150.6234256926952,
+          343.2958984375
+        ],
+        [
+          38.967254408060455,
+          343.2958984375
+        ]
+      ]
+    },
+    {
+      "title": "ATIVIDADES",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          39.51171875,
+          511.8603515625
+        ],
+        [
+          98.91687657430731,
+          511.8603515625
+        ],
+        [
+          98.91687657430731,
+          521.0952804986642
+        ],
+        [
+          39.51171875,
+          521.0952804986642
+        ]
+      ]
+    },
+    {
+      "title": "Trajeto da Tocha na Escola",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          40.46599496221663,
+          524.0943900267141
+        ],
+        [
+          151.07421875,
+          524.0943900267141
+        ],
+        [
+          151.07421875,
+          534.5912733748887
+        ],
+        [
+          40.46599496221663,
+          534.5912733748887
+        ]
+      ]
+    },
+    {
+      "title": "A Corrida da Tocha",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          32.222921914357684,
+          105.6611328125
+        ],
+        [
+          113.15491183879094,
+          105.6611328125
+        ],
+        [
+          113.15491183879094,
+          115.46571682991986
+        ],
+        [
+          32.222921914357684,
+          115.46571682991986
+        ]
+      ]
+    },
+    {
+      "title": "Olympia Santita\n\nPortlant\nEugene\n\nSan\nPousser\n\nChayers\n\nCoder Rantita\nDescript\n\nSan Chayers\n\nCoder Rantita\nDescript\n\nSan Chayers\n\nCoder Rantita\nDescript\n\nSan Chayers\n\nCoder Rantita\nDescript\n\nSan Chayers\n\nCoder Rantita\nDescript\n\nSan Chayers\n\nCoder Rantita\nDescript\n\nSan Diego\n\nTallahassee\n\nFile San Diego\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee\n\nTallahassee",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          27.890625,
+          288.6642920747996
+        ],
+        [
+          541.54296875,
+          288.6642920747996
+        ],
+        [
+          541.54296875,
+          554.20703125
+        ],
+        [
+          27.890625,
+          554.20703125
+        ]
+      ]
+    },
+    {
+      "title": "PARTEIII A Cerim\u00f4nia de Abertura",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          34.47103274559194,
+          658.634765625
+        ],
+        [
+          184.34508816120908,
+          658.634765625
+        ],
+        [
+          184.34508816120908,
+          668.501953125
+        ],
+        [
+          34.47103274559194,
+          668.501953125
+        ]
+      ]
+    },
+    {
+      "title": "Atividades",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          37.468513853904284,
+          106.072265625
+        ],
+        [
+          81.68136020151134,
+          106.072265625
+        ],
+        [
+          81.68136020151134,
+          114.71593944790739
+        ],
+        [
+          37.468513853904284,
+          114.71593944790739
+        ]
+      ]
+    },
+    {
+      "title": "Tome o seu lugar na fila",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          36.6064453125,
+          118.40625
+        ],
+        [
+          137.88413098236776,
+          118.40625
+        ],
+        [
+          137.88413098236776,
+          128.2734375
+        ],
+        [
+          36.6064453125,
+          128.2734375
+        ]
+      ]
+    },
+    {
+      "title": "Desenhando a Pista e a \u00e1rea interna",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          37.1875,
+          547.62890625
+        ],
+        [
+          186.59319899244332,
+          547.62890625
+        ],
+        [
+          186.59319899244332,
+          559.3339269813
+        ],
+        [
+          37.1875,
+          557.8343722172751
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          92
+        ],
+        [
+          "Span",
+          74
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          121
+        ],
+        [
+          "Line",
+          92
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          104
+        ],
+        [
+          "Line",
+          93
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          98
+        ],
+        [
+          "Span",
+          59
+        ],
+        [
+          "Text",
+          17
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          64
+        ],
+        [
+          "Span",
+          24
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          57
+        ],
+        [
+          "Span",
+          21
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          42
+        ],
+        [
+          "Span",
+          10
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          46
+        ],
+        [
+          "Span",
+          14
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/folhetim_052"
+}

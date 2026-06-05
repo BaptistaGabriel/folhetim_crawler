@@ -1,0 +1,424 @@
+{
+  "table_of_contents": [
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          52.96484375,
+          42.7578125
+        ],
+        [
+          425.46484375,
+          42.7578125
+        ],
+        [
+          425.46484375,
+          101.9609375
+        ],
+        [
+          52.96484375,
+          101.9609375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          30.556640625,
+          185.009765625
+        ],
+        [
+          100.982421875,
+          185.009765625
+        ],
+        [
+          100.982421875,
+          194.876953125
+        ],
+        [
+          30.556640625,
+          194.876953125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          32.01171875,
+          331.7841796875
+        ],
+        [
+          105.34765625,
+          331.7841796875
+        ],
+        [
+          105.34765625,
+          342.4736328125
+        ],
+        [
+          32.01171875,
+          342.4736328125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          30.84765625,
+          678.7802734375
+        ],
+        [
+          157.73046875,
+          678.7802734375
+        ],
+        [
+          157.73046875,
+          689.4697265625
+        ],
+        [
+          30.84765625,
+          689.4697265625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          275.591796875,
+          197.7548828125
+        ],
+        [
+          543.908203125,
+          197.7548828125
+        ],
+        [
+          543.908203125,
+          208.4443359375
+        ],
+        [
+          275.591796875,
+          208.4443359375
+        ]
+      ]
+    },
+    {
+      "title": "7. Natureza do Racioc\u00b4\u0131nio Matem\u00b4atico",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          269.29095458984375,
+          299.7158203125
+        ],
+        [
+          498.509765625,
+          299.7158203125
+        ],
+        [
+          498.509765625,
+          312.18682861328125
+        ],
+        [
+          269.29095458984375,
+          312.18682861328125
+        ]
+      ]
+    },
+    {
+      "title": "NEMOC - NUCLEO DE EDUCAC\u00b8 \u00b4 AO MATEM \u02dc ATICA OMAR CATUNDA \u00b4",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          103.892578125,
+          672.0052795410156
+        ],
+        [
+          490.943359375,
+          672.0052795410156
+        ],
+        [
+          490.943359375,
+          684.3758850097656
+        ],
+        [
+          103.892578125,
+          684.3758850097656
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          315.4609375,
+          324.3837890625
+        ],
+        [
+          451.65625,
+          324.3837890625
+        ],
+        [
+          451.65625,
+          338.3623046875
+        ],
+        [
+          315.4609375,
+          338.3623046875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          311.677734375,
+          400.8544921875
+        ],
+        [
+          382.103515625,
+          400.8544921875
+        ],
+        [
+          382.103515625,
+          414.8330078125
+        ],
+        [
+          311.677734375,
+          414.8330078125
+        ]
+      ]
+    },
+    {
+      "title": "CEEM Semipresencial",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          310.8046875,
+          438.267578125
+        ],
+        [
+          434.21112060546875,
+          438.267578125
+        ],
+        [
+          434.21112060546875,
+          449.76129150390625
+        ],
+        [
+          310.8046875,
+          449.76129150390625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          313.1328125,
+          547.62890625
+        ],
+        [
+          483.0859375,
+          547.62890625
+        ],
+        [
+          483.0859375,
+          560.78515625
+        ],
+        [
+          313.1328125,
+          560.78515625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          157
+        ],
+        [
+          "Line",
+          71
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          258
+        ],
+        [
+          "Line",
+          96
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          212
+        ],
+        [
+          "Line",
+          108
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          167
+        ],
+        [
+          "Line",
+          87
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/folhetim_170"
+}

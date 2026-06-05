@@ -1,0 +1,281 @@
+{
+  "table_of_contents": [
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          52.091796875,
+          42.7578125
+        ],
+        [
+          424.009765625,
+          42.7578125
+        ],
+        [
+          424.009765625,
+          101.9609375
+        ],
+        [
+          52.091796875,
+          101.9609375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          30.556640625,
+          184.1875
+        ],
+        [
+          100.982421875,
+          184.1875
+        ],
+        [
+          100.982421875,
+          194.0546875
+        ],
+        [
+          30.556640625,
+          194.0546875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          32.01171875,
+          344.1181640625
+        ],
+        [
+          105.34765625,
+          344.1181640625
+        ],
+        [
+          105.34765625,
+          354.8076171875
+        ],
+        [
+          32.01171875,
+          354.8076171875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          30.84765625,
+          655.345703125
+        ],
+        [
+          157.73046875,
+          655.345703125
+        ],
+        [
+          157.73046875,
+          665.212890625
+        ],
+        [
+          30.84765625,
+          665.212890625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          276.755859375,
+          196.521484375
+        ],
+        [
+          543.908203125,
+          196.521484375
+        ],
+        [
+          543.908203125,
+          208.033203125
+        ],
+        [
+          276.755859375,
+          208.033203125
+        ]
+      ]
+    },
+    {
+      "title": "NEMOC - NUCLEO DE EDUCAC\u00b8 \u00b4 AO MATEM \u02dc ATICA OMAR CATUNDA \u00b4",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          104.50202941894531,
+          685.1952972412109
+        ],
+        [
+          491.234375,
+          685.1952972412109
+        ],
+        [
+          491.234375,
+          697.5659027099609
+        ],
+        [
+          104.50202941894531,
+          697.5659027099609
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          76
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          251
+        ],
+        [
+          "Line",
+          98
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          218
+        ],
+        [
+          "Line",
+          110
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          210
+        ],
+        [
+          "Line",
+          110
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/folhetim_153"
+}

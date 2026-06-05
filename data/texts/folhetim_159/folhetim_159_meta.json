@@ -1,0 +1,498 @@
+{
+  "table_of_contents": [
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          52.673828125,
+          42.3466796875
+        ],
+        [
+          425.755859375,
+          42.3466796875
+        ],
+        [
+          425.755859375,
+          102.3720703125
+        ],
+        [
+          52.673828125,
+          102.3720703125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          30.556640625,
+          185.009765625
+        ],
+        [
+          100.982421875,
+          185.009765625
+        ],
+        [
+          100.982421875,
+          194.876953125
+        ],
+        [
+          30.556640625,
+          194.876953125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          31.720703125,
+          344.9404296875
+        ],
+        [
+          104.474609375,
+          344.9404296875
+        ],
+        [
+          104.474609375,
+          355.6298828125
+        ],
+        [
+          31.720703125,
+          355.6298828125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          30.84765625,
+          646.30078125
+        ],
+        [
+          157.73046875,
+          646.30078125
+        ],
+        [
+          157.73046875,
+          656.16796875
+        ],
+        [
+          30.84765625,
+          656.16796875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          275.009765625,
+          197.7548828125
+        ],
+        [
+          544.490234375,
+          197.7548828125
+        ],
+        [
+          544.490234375,
+          208.4443359375
+        ],
+        [
+          275.009765625,
+          208.4443359375
+        ]
+      ]
+    },
+    {
+      "title": "2.1 L\u00b4ogica (continua\u00b8c\u02dcao)",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          269.29095458984375,
+          298.8935546875
+        ],
+        [
+          412.669677734375,
+          298.8935546875
+        ],
+        [
+          412.669677734375,
+          312.18682861328125
+        ],
+        [
+          269.29095458984375,
+          312.18682861328125
+        ]
+      ]
+    },
+    {
+      "title": "NEMOC - NUCLEO DE EDUCAC\u00b8 \u00b4 AO MATEM \u02dc ATICA OMAR CATUNDA \u00b4",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          103.01953125,
+          678.3499145507812
+        ],
+        [
+          490.7033386230469,
+          678.3499145507812
+        ],
+        [
+          490.7033386230469,
+          690.7205200195312
+        ],
+        [
+          103.01953125,
+          690.7205200195312
+        ]
+      ]
+    },
+    {
+      "title": "O : Algum X n\u02dcao \u00b4e Y",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          27.064453125,
+          67.8369140625
+        ],
+        [
+          132.412109375,
+          67.8369140625
+        ],
+        [
+          132.412109375,
+          79.68927001953125
+        ],
+        [
+          27.064453125,
+          79.68927001953125
+        ]
+      ]
+    },
+    {
+      "title": "PR\u00d3XIMO N\u00daMERO",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          313.7632241813602,
+          280.8037109375
+        ],
+        [
+          452.6297229219143,
+          280.8037109375
+        ],
+        [
+          452.6297229219143,
+          295.41228851291186
+        ],
+        [
+          313.7632241813602,
+          295.41228851291186
+        ]
+      ]
+    },
+    {
+      "title": "NOT\u00cdCIAS",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          310.7607052896725,
+          358.0966796875
+        ],
+        [
+          382.8211586901763,
+          358.0966796875
+        ],
+        [
+          382.8211586901763,
+          373.38913624220834
+        ],
+        [
+          310.7607052896725,
+          373.38913624220834
+        ]
+      ]
+    },
+    {
+      "title": "Carloman 80 anos",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          310.7607052896725,
+          395.0986328125
+        ],
+        [
+          412.095717884131,
+          395.0986328125
+        ],
+        [
+          412.095717884131,
+          404.1435546875
+        ],
+        [
+          310.7607052896725,
+          404.1435546875
+        ]
+      ]
+    },
+    {
+      "title": "Lan\u00e7amento",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          310.7607052896725,
+          572.080142475512
+        ],
+        [
+          379.8186397984887,
+          572.080142475512
+        ],
+        [
+          379.8186397984887,
+          581.7529296875
+        ],
+        [
+          310.7607052896725,
+          581.7529296875
+        ]
+      ]
+    },
+    {
+      "title": "N\u00daMEROS ATRASADOS",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          313.0125944584383,
+          664.390625
+        ],
+        [
+          484.15617128463475,
+          664.390625
+        ],
+        [
+          484.15617128463475,
+          679.19140625
+        ],
+        [
+          313.0125944584383,
+          679.19140625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          220
+        ],
+        [
+          "Line",
+          66
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          193
+        ],
+        [
+          "Line",
+          60
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PictureGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          221
+        ],
+        [
+          "Line",
+          57
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          99
+        ],
+        [
+          "Span",
+          72
+        ],
+        [
+          "ListItem",
+          14
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/folhetim_159"
+}

@@ -1,0 +1,435 @@
+{
+  "table_of_contents": [
+    {
+      "title": "FOLHETIM DE EDUCA\u00c7\u00c3O \nMATEM\u00c1TICA",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          68.85498046875,
+          58.7919921875
+        ],
+        [
+          428.8545227050781,
+          58.7919921875
+        ],
+        [
+          428.8545227050781,
+          123.19171142578125
+        ],
+        [
+          68.85498046875,
+          123.19171142578125
+        ]
+      ]
+    },
+    {
+      "title": "OBJETIVO",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.73486328125,
+          175.142578125
+        ],
+        [
+          112.60456085205078,
+          175.142578125
+        ],
+        [
+          112.60456085205078,
+          189.2445068359375
+        ],
+        [
+          35.73486328125,
+          189.2445068359375
+        ]
+      ]
+    },
+    {
+      "title": "EDITORIAL",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          36.025390625,
+          342.0625
+        ],
+        [
+          121.29960632324219,
+          342.0625
+        ],
+        [
+          121.29960632324219,
+          357.0887756347656
+        ],
+        [
+          36.025390625,
+          357.0887756347656
+        ]
+      ]
+    },
+    {
+      "title": "COMIT\u00c9 EDITORIAL",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          34.2822265625,
+          711.259765625
+        ],
+        [
+          183.9514617919922,
+          711.259765625
+        ],
+        [
+          183.9514617919922,
+          728.2305450439453
+        ],
+        [
+          34.2822265625,
+          728.2305450439453
+        ]
+      ]
+    },
+    {
+      "title": "PERGUNTE QUE O NEMOC RESPONDE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          276.0009765625,
+          187.86309814453125
+        ],
+        [
+          557.6348876953125,
+          187.86309814453125
+        ],
+        [
+          557.6348876953125,
+          202.8431396484375
+        ],
+        [
+          276.0009765625,
+          202.8431396484375
+        ]
+      ]
+    },
+    {
+      "title": "NEMOC - N\u00daCLEO DE EDUCA\u00c7\u00c3O MATEM\u00c1TICA OMAR CATUNDA",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          91.806640625,
+          677.1357421875
+        ],
+        [
+          480.52825927734375,
+          677.1357421875
+        ],
+        [
+          480.52825927734375,
+          692.7587890625
+        ],
+        [
+          91.806640625,
+          692.7587890625
+        ]
+      ]
+    },
+    {
+      "title": "PR\u00d3XIMO NUMERO",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          296.62841796875,
+          485.958984375
+        ],
+        [
+          442.4334716796875,
+          485.958984375
+        ],
+        [
+          442.4334716796875,
+          502.404296875
+        ],
+        [
+          296.62841796875,
+          502.404296875
+        ]
+      ]
+    },
+    {
+      "title": "N\u00daMEROS ATRASADOS",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          298.37158203125,
+          610.12109375
+        ],
+        [
+          480.3630065917969,
+          610.12109375
+        ],
+        [
+          480.3630065917969,
+          626.56640625
+        ],
+        [
+          298.37158203125,
+          626.56640625
+        ]
+      ]
+    },
+    {
+      "title": "UNIVERSIDADE ESTADUAL DE FEIRA DE SANTANA \nDEPARTAMENTO DE CI\u00caNCIAS EXATAS \nNEMOC - N\u00daCLEO DE EDUCA\u00c7\u00c3O MATEM\u00c1TICA OMAR CATUNDA",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          161.533203125,
+          91.6826171875
+        ],
+        [
+          485.4966125488281,
+          91.6826171875
+        ],
+        [
+          485.4966125488281,
+          133.6181640625
+        ],
+        [
+          161.533203125,
+          133.6181640625
+        ]
+      ]
+    },
+    {
+      "title": "FICHA DE PESQUISA DE SATISFA\u00c7\u00c3O",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          199.3017578125,
+          147.5966796875
+        ],
+        [
+          451.5281066894531,
+          147.5966796875
+        ],
+        [
+          451.5281066894531,
+          166.5087890625
+        ],
+        [
+          199.3017578125,
+          166.5087890625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          165
+        ],
+        [
+          "Line",
+          71
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Equation",
+          4
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          216
+        ],
+        [
+          "Line",
+          75
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          188
+        ],
+        [
+          "Line",
+          85
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          130
+        ],
+        [
+          "Line",
+          59
+        ],
+        [
+          "TableCell",
+          33
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          67
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "TableCell",
+          33
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Form",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/folhetim_111"
+}

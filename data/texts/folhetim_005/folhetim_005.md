@@ -1,0 +1,65 @@
+# UNIVERSIDADE ESTADUAL DE FEIRA DE SANTANA DEPARTAMENTO DE CIÊNCIAS EXATAS
+
+NEMOC - Nucleo de Educação Matemática Omar Catunda
+
+Folhetim de Educação Matemática.
+
+Ano 1. n.5. 29.08.93
+
+Editores: Carloman e Wilson
+
+Editoração Eletrônica - C.E.El. - (CPD).
+
+Impressão: Setor de Reprografia
+
+Tiragem: 500 exemplares
+
+Endereço: Km 3 BR 116 CAMPUS UNIVERSITÁRIO
+
+CEP 44031-460 - Feira de Santana-BA.
+
+Fax: (075) 224.2284
+
+## Objetivo
+
+Este Folhetim é um veículo de divulgação, circulação de idéias e de estímulo ao estudo e à curiosidade intelectual. Dirige-se a todos os interessados pelos aspectos pedagógicos, filosóficos e históricos da Matemática. Pretende construir uma ponte para unir os que estão próximos e os que estão distantes.
+
+#### Comitê Editorial
+
+Carloman Carlos Borges (Doutor) Inácio de S. Fadigas (Mestre) Wilson Pereira de Jesus (Mestre)
+
+### Editorial
+
+Com esse quinto número damos continuidade à publicação da coluna *Pergunte que o NEMOC responde* de autoria do Professor Carloman Carlos Borges, editada aos domingos no Feira Hoje, jornal local.
+
+Dispomos já de mais de dez folhetins à espera de composição. Resta-nos agora a esperança de que ele
+
+esteja atingindo o seu alvo: professores de 1° e 2° graus, principalmente. Para isso precisamos de retorno desses colegas. Que os Diretores das 160 escolas do municipio que estão recebendo o *Folhetim* estejam encaminhando esse nosso incipiente trabalho aos colegas de Matemática.
+
+# 1º Pergunta: O mimero zero é um número natural?
+
+- A vida de qualquer ser vivo enfrenta um grande desafio, qual seja o de sua própria sobrevivência. O ser humano não foge à regra. Um dos primeiros desafios que ele teve que enfrentar foi o da contagem. Mesmo que levasse uma vida de eremita, ele teria necessidade de contar, porém, ele leva uma vida social que lhe exige respostas imediatas e adequadas. Para o problema da necessidade de contagem, o homem inventou os números naturais: 1, 2, 3, 4,.... Veja que o numero zero não faz parte dessa coleção simplesmente porque ninguem começa a contar de nada. O zero foi criado dentro da era cristà e sua criação se constitui numa das grandes realizações humanas. Agora, a resposta à pergunta: de um ponto de vista histórico, o zero não é um número natural; a sua inclusão no conjunto dos naturais tem motivação lógica. Assim, em livros de Análise, ele não é incluido como número natural enquanto em livros de Algebra costuma-se incluí-lo como tal.
+- 2º Pergunta: Em alguns livros que tenho em casa, o zero é considerado um número par, enquanto em outros o primeiro número par é o 2. Onde se encontra a certeza?
+- Em lugar nenhum você encontrará a certeza. Atingi-la, seja em Matemática ou em qualquer outra ciência é uma utopia. Veja a pergunta anterior e a resposta correspondente: a inclusão do zero como
+
+natural ou não, depende do ponto de vista lógico ou histórico: naquele, ele é um número par e neste não o é. Um número par é igual a duas vezes um número natural; ora, iniciando-se a série dos naturais assim: 1, 2, 3, 4,... claramente o primeiro número par é 2, o imediatamente seguinte é 4, etc.. Iniciando-se a série dos naturais assim: 0, 1, 2, 3,..., o primeiro número par é 0, o imediatamente seguinte, é 2, etc.. Por conseguinte, quando você folhear um livro que trate dessas questões, procure logo verificar o ponto de vista do autor.
+
+- 3ª Pergunta: A pergunta abaixo, que se desdobra em cinco outras, foi formulada pela garotinha Camila Gonçalves de Jesus, de 9 anos de idade. Ei-la: O que é a Matemática? Quando a Matemática foi inventada? Quantos anos a Matemática tem? Por quem a Matemática foi inventada? Quantos sinais existem na Matemática?
+- Camila, parabéns pela inteligente pergunta. Ela revela uma boa curiosidade intelectual. Vamos responder cada pergunta na ordem indicada por você. Pergunta (a): O que é a Matemática?
+- Existem dezenas de respostas a esta pergunta e nehuma delas satisfatória. Até hoje, ninguém, nem filósofo nem matemático, conseguiu definir a contento o que é a Matemática. Onde se encontra a dificuldade em elaborar uma definição da Matemática? Acredito que algumas das dificuldades nesta direção podem ser identificadas com aquilo que a Matemática estuda: ela estuda uma imensidão de coisas e, provavelmente, no futuro, será objeto seu "coisas" que, atualmente, nenhum matemático poderá exatamente adivinhar, logo, no momento, não é possível definir o que é a Matemática. Não se sinta frustrada, Camila, pois existem outras "coisas" para as quais ainda não existem definições
+
+satisfatorias e aceitas pela comunidade científica. Você quer alguns exemplos? Aqui vão alguns: O que é a vida? O que é a morte? O que é, finalmente, o amor, este acontecimento extraordinário, sem o qual a própria vida perde todo o seu sentido? Pergunta (b): quando a Matemática foi inventada? Quantos anos a Matemática tem? - Resposta - A Matemática, em suas formas mais rudimentares (como contar, medir, etc.) existe desde que a espécie humana existe na terra. Como ninguém sabe, precisamente, desde quando o ser humano existe na face da terra, não se pode responder desde quando a Matemática existe. Pergunta (c): Por quem a Matemática foi inventada? Resposta - Camila, as grandes relizações humanas nunca foram feitas por uma só pessoa. Certamente, foram os homens e as mulheres, na luta pela sobrevivência que, conjuntamente, inventaram a Matemática. Pergunta (d): Quantos sinais existem em Matemática? Resposta - E importante destacar que os sinais "+", "-", "x", ":" e "=", possuem importância em Matemática; outros sinais existem, como, por exemplo, o sinal para designar a negação de uma proposição é de uso universal, mesmo fora da Matemática.
+
+4ª Pergunta: No ensino da Matemática, o que é mais importante - o rigor ou a clareza?
+
+Resposta: A clareza. Veja o que escreve o prof. Morris Kline, da Universidade de Nova York: "O estilo lógico e formal é uma das influências mais desvitalizadoras no ensino da Matemática. A apresentação lógica e ordenada da Matemática pode ter uma atração estética para o matemático, mas serve como anestésico para o estudante... O rigor pode salvar a Matemática, mas seguramente perderá os alunos". Um dos importantes guias pedagógicos para o professor de uma ciência é a própria história desta ciência. Que nos
+
+ensina a História da Matemática a tal respeito? Durante centenas de anos a Matemática foi criada sem preocupações com o rigor. As preocupações eram de cunho pragmático. Assim aconteceu, exemplificando, com o Cálculo, usado por ilustres matemáticos que desconheciam seus fundamentos lógicos.
+
+\*\*
+
+Obs.: Perguntas para o Nemoc podem ser encaminhadas para o endereço na capa desse folhetim.
+
+Os interessados em receber esse folhetim devem escrever para o NEMOC. A distribuição é gratuita. É permitida a reprodução desde que citada a fonte.
+
+![](_page_4_Picture_3.jpeg)
