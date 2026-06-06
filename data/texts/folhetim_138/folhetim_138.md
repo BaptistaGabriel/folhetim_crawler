@@ -2,17 +2,17 @@
 
 ![](_page_0_Picture_1.jpeg)
 
-**Folhetim Educ. Mat., Ano 13, n. 138, maio / jun. 2007** 
+**Folhetim Educ. Mat., Ano 13, n. 138, maio / jun. 2007**
 
-**ISSN 1415-8779** 
+**ISSN 1415-8779**
 
 ## **OBJETIVO**
 
-Este *Folhetim* é um veículo de divulgação, circulação de ideias e de estímulo ao estudo e à curiosidade intelectual. Dirige-se a todos os interessados pelos aspectos pedagógicos, filosóficos e históricos da Matemática. Pretende construir uma ponte para unir os que estão próximos e os que estão distantes.
+Este _Folhetim_ é um veículo de divulgação, circulação de ideias e de estímulo ao estudo e à curiosidade intelectual. Dirige-se a todos os interessados pelos aspectos pedagógicos, filosóficos e históricos da Matemática. Pretende construir uma ponte para unir os que estão próximos e os que estão distantes.
 
 ## **EDITORIAL**
 
-No *Folhetim* n° 137 foi apresentado um exemplo numérico da dimensão da Curva de Koch, bem como algumas explicações da Geometria Fractal. O *presente Folhetim* trata, de umaformadetalhada,docálculodecomprimentoda Curva Floco de Neve. Mais especificamente mostra que tal curva tem comprimento infinito, embora possua uma superfície finita. Tais propriedades causaram embarços a grandes matemáticos como Poincaré e Hermita que consideram os obj etos íractais como anomalias, não merecendo portanto seu estudo muita dedicação. Hoj e porém tais obj etos j á fazem parte até do ensino fiindamental e médio, mesmo que no nível de divulgação e curiosidade. A propósito da divulgação, é interessante a concepção da artista plástica Fayga Ostrwer sobre as figuras fi^actais.
+No _Folhetim_ n° 137 foi apresentado um exemplo numérico da dimensão da Curva de Koch, bem como algumas explicações da Geometria Fractal. O _presente Folhetim_ trata, de umaformadetalhada,docálculodecomprimentoda Curva Floco de Neve. Mais especificamente mostra que tal curva tem comprimento infinito, embora possua uma superfície finita. Tais propriedades causaram embarços a grandes matemáticos como Poincaré e Hermita que consideram os obj etos íractais como anomalias, não merecendo portanto seu estudo muita dedicação. Hoj e porém tais obj etos j á fazem parte até do ensino fiindamental e médio, mesmo que no nível de divulgação e curiosidade. A propósito da divulgação, é interessante a concepção da artista plástica Fayga Ostrwer sobre as figuras fi^actais.
 
 # **COMITÉ EDITORIAL**
 
@@ -20,17 +20,17 @@ Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre) Trazíbulo Hen
 
 ## **PERGUNTE QUE O NEMOC RESPONDE**
 
-*^raciais* 
+_^raciais_
 
-*por Caríoman Garfos OBoryes e Inácio <fe Sousa ^aJiyas* 
+_por Caríoman Garfos OBoryes e Inácio <fe Sousa ^aJiyas_
 
-A curva do Floco de Neve. Como escrevemos no *Folhetim*  anterior, essa curva é fundamentada na Curva de Koch, pois basta partir de um tirângulo eqiiilátero e sobre cada lado contruirmos uma curva de Koch. Mostremos, agora, que seu comprimento é infinito.
+A curva do Floco de Neve. Como escrevemos no _Folhetim_ anterior, essa curva é fundamentada na Curva de Koch, pois basta partir de um tirângulo eqiiilátero e sobre cada lado contruirmos uma curva de Koch. Mostremos, agora, que seu comprimento é infinito.
 
 Comecemos nossa exposição com um tirângulo equilátero de lado unitário de comprimento:
 
 ![](_page_0_Picture_15.jpeg)
 
-**Primeiro estágio da Curva Floco de Neve - E i** 
+**Primeiro estágio da Curva Floco de Neve - E i**
 
 Chamaremos esse triângulo de Curva E j .
 
@@ -56,19 +56,19 @@ Quarto estágio da Curva Floco de Neve - E4
 
 Quinto estágio da Curva Floco de Neve - E<sub>5</sub>
 
-E, assim, sucessivamente. Para mostrar que o Floco de Neve possui um comprimento infinito, é suficiente verificar (baseado no seu processo construtivo) que o perímetro do triângulo de partida  $(E_1)$  é 3;
+E, assim, sucessivamente. Para mostrar que o Floco de Neve possui um comprimento infinito, é suficiente verificar (baseado no seu processo construtivo) que o perímetro do triângulo de partida $(E_1)$ é 3;
 
 o perímetro de E, é 3 + 1;
 
-o de 
+o de
 $$E_3$$
-,  $3+1+\frac{4}{3}$ ;
+, $3+1+\frac{4}{3}$ ;
 
-o de E<sub>4</sub>, 
+o de E<sub>4</sub>,
 $$3 + 1 + \frac{4}{3} + \frac{4^2}{3^2}$$
 ;
 
-o de  $E_5$ ,  $3 + 1 + \frac{4}{3} + \frac{4^2}{3^2} + \frac{4^3}{3^3}$ . Enfim, o perímetro de
+o de $E_5$ , $3 + 1 + \frac{4}{3} + \frac{4^2}{3^2} + \frac{4^3}{3^3}$ . Enfim, o perímetro de
 
 $$E_n \notin 3 + 1 + \frac{4}{3} + \frac{4^2}{3^2} + \frac{4^3}{3^3} + ... + \frac{4^{n-2}}{3^{n-2}}$$
 .
@@ -99,7 +99,7 @@ No Folhetim n" 129, anunciamos a publicação do Livro A Matemática para Todos,
 
 # **PRÓXIMO NÚMERO**
 
-*Sobre Fractais (continuação). Aguardem!* 
+_Sobre Fractais (continuação). Aguardem!_
 
 ## **NÚMEROS ATRASADOS**
 

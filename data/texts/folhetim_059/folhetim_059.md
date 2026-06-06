@@ -32,7 +32,7 @@ R. Acho e, desde que tenho consciência do problema venho lutando por isso. No m
 
 ![](_page_0_Picture_18.jpeg)
 
-A condição para a corrente passar através do circuito  $\acute{e} A_1 \wedge A_2 \wedge A_3 \wedge ... \wedge A_n$ 
+A condição para a corrente passar através do circuito $\acute{e} A_1 \wedge A_2 \wedge A_3 \wedge ... \wedge A_n$
 
 Em nossa metáfora a corrente é o conhecimento e os pré-requisitos são os diversos A; assim, o aluno somente alcançará o estágio A, se, necessariamente, passar pelo A, e, analogamente, acontecerá o mesmo com os demais estágios. Ninguém-criança ou animal superior-aprende desta maneira. O modo usual de compreender o que é um determinado objeto é apreender-lhe o significado e este é apreendido quando o objeto é contextualizado, quando ele é visto imerso numa verdadeira teia de aranha, isto é, com o maior número de ligações possíveis; o contrário desse ponto de vista é apresentado ao aluno de matemática: assim, lhe é apresentada a aritmética, depois a álgebra, a trigonometria, geometria analítica como compartimentos bem separados uns dos outros. Você só aprende quando se enrola numa rede de contradições e, no meio delas, consegue discernir a contradição fundamental, a qual servirá de bússola para conduzí-lo a uma vizinhança do conhecimento desejado; b) emprego de uma linguagem confusa e quase sempre errada. Será que é preciso salientar coisa tão óbvia: nada se aprende corretamente fora do quadro da Língua Materna? Assistir a uma aula de matemática a partir desse ponto de vista é um verdadeiro suplício. Estou me referindo à Língua Materna e não a linguagem técnica empregada nessa ciência. Aqui, o desastre é total ou como diria o grande poeta Pablo Neruda: tudo ... foi naufrágio. Lembro-me bem de um concurso de Cálculo Diferencial e Integral, a nível elementar. O ponto sorteado foi o chamado teorema fundamental do cálculo integral (TFCI): se f é contínua em [a,b] e F' = f, então:
 
@@ -54,29 +54,29 @@ seguida, guardas armados os recapiturando. Este é o exemplo para levar as crian
 
 ![](_page_3_Picture_4.jpeg)
 
-Em símbolos:  $a^2 = b^2 + c^2$ . Na figura acima há três triângulos, dois a dois semelhantes: BAH (de área  $A_1$ ), AHC (de área  $A_2$ ) e ABC (de área A). A razão de semelhança do 1° para o 2° triângulo é dada por:  $\frac{c}{b}$  e o segundo AHC para ABC é dada
+Em símbolos: $a^2 = b^2 + c^2$ . Na figura acima há três triângulos, dois a dois semelhantes: BAH (de área $A_1$ ), AHC (de área $A_2$ ) e ABC (de área A). A razão de semelhança do 1° para o 2° triângulo é dada por: $\frac{c}{b}$ e o segundo AHC para ABC é dada
 
-por: 
+por:
 $$\frac{b}{a}$$
- . Ambas ao quadrado dão:  $\frac{c^2}{b^2}$  e  $\frac{b^2}{a^2}$  .
+. Ambas ao quadrado dão: $\frac{c^2}{b^2}$ e $\frac{b^2}{a^2}$ .
 
 Logo aplicando o primeiro teorema acima citado, vem:
 
 $$\frac{A_1}{A_2} = \frac{c^2}{b^2}$$
- ou  $\frac{A_1}{c^2} = \frac{A_2}{b^2}$ ;
+ou $\frac{A_1}{c^2} = \frac{A_2}{b^2}$ ;
 
 $$\frac{A_2}{A} = \frac{b^2}{a^2}$$
- ou  $\frac{A_2}{b^2} = \frac{A}{a^2}$ 
+ou $\frac{A_2}{b^2} = \frac{A}{a^2}$
 
 Devido a uma conhecida propriedade das proporções, podemos escrever:
 
 $$\frac{A_1}{c^2} = \frac{A_2}{b^2} = \frac{A}{a^2} \iff \frac{A_1 + A_2}{c^2 + b^2} = \frac{A}{a^2}$$
 
-Como, por hipótese:  $A = A_1 + A_2$ , concluímos que:  $a^2 = b^2 + c^2$ . Se considerarmos  $A_1$ ,  $A_2$  e A como áreas de figuras semelhantes construídas sobre os catetos e a hipotenusa - na ordem indicada acima - então:  $A_1 + A_2 = A$  (TP generalizado).
+Como, por hipótese: $A = A_1 + A_2$ , concluímos que: $a^2 = b^2 + c^2$ . Se considerarmos $A_1$ , $A_2$ e A como áreas de figuras semelhantes construídas sobre os catetos e a hipotenusa - na ordem indicada acima - então: $A_1 + A_2 = A$ (TP generalizado).
 
 É claro que o privilégio do quadrado não se funda em qualquer suporte técnico. O Teorema de
 
-Pitágoras, generalizado, é o seguinte: Se figuras semelhantes são construídas sobre a hipotenusa e sobre os catetos de um triângulo retângulo, então a área da figura maior é igual à soma das áreas das outras duas. Sabemos que dois círculos quaiquer são figuras semelhantes e a razão de semelhança é a razão entre seus raios. Uma aplicação simples de TP é a quadratura das *luas* de Hipócrates de Chio (matemático grego do século IV a.C.). Sobre os lados de um triângulo retângulo, tomados como diâmetro, são traçados semi-círculos; as figuras curvilíneas P e Q, formadas pelos semi-círculos são chamadas luas de Hipócrates de Chio. A área T do triângulo é igual à soma das áreas das duas luas P e Q, conforme figura e explicação abaixo:
+Pitágoras, generalizado, é o seguinte: Se figuras semelhantes são construídas sobre a hipotenusa e sobre os catetos de um triângulo retângulo, então a área da figura maior é igual à soma das áreas das outras duas. Sabemos que dois círculos quaiquer são figuras semelhantes e a razão de semelhança é a razão entre seus raios. Uma aplicação simples de TP é a quadratura das _luas_ de Hipócrates de Chio (matemático grego do século IV a.C.). Sobre os lados de um triângulo retângulo, tomados como diâmetro, são traçados semi-círculos; as figuras curvilíneas P e Q, formadas pelos semi-círculos são chamadas luas de Hipócrates de Chio. A área T do triângulo é igual à soma das áreas das duas luas P e Q, conforme figura e explicação abaixo:
 
 ![](_page_3_Picture_15.jpeg)
 
@@ -96,31 +96,31 @@ Aguardem!
 
 ## **EDUCAÇÃO E ENSINO**
 
-Com a autorização do colega professor Ernesto Rosa Neto, em recente estada em nossa Instituição, vamos transcrever o artigo *A Lógica nas Embalagens*, publicado na Revista do Professor de Matemática (RPM) da Sociedade Brasileira de Matemática n° 34, página 21.
+Com a autorização do colega professor Ernesto Rosa Neto, em recente estada em nossa Instituição, vamos transcrever o artigo _A Lógica nas Embalagens_, publicado na Revista do Professor de Matemática (RPM) da Sociedade Brasileira de Matemática n° 34, página 21.
 
 ## A Lógica nas Embalagens
 
 Ernesto Rosa Neto\*
 
-Comprei um sorvete Misty e ia lendo a mensagens da caixinha, enquanto saboreava a iguaria. Assim, tratava simultaneamente da mente e do corpo. Estava escrito: *Temperatura de conservação: -15°C* (ou mais). Não é interessante? O fabricante resolveu inverter a orientação da reta real, o que é muito bom para quebrar a rotina! Segundo esse modo, ficamos, por exemplo, com -20>-15. Espero que ele aumente o preço do sorvete!
+Comprei um sorvete Misty e ia lendo a mensagens da caixinha, enquanto saboreava a iguaria. Assim, tratava simultaneamente da mente e do corpo. Estava escrito: _Temperatura de conservação: -15°C_ (ou mais). Não é interessante? O fabricante resolveu inverter a orientação da reta real, o que é muito bom para quebrar a rotina! Segundo esse modo, ficamos, por exemplo, com -20>-15. Espero que ele aumente o preço do sorvete!
 
 No supermercado comprei um pão diet da
 
 Wick Bold e lá está escrito: Sem adição de açúcar e gorduras. O que está escrito é que não foi adicionado "açúcar e gorduras". Os dois juntos, não, portanto pode ter sido adicionado açúcar ou gorduras (ou exclusivo).
 
-A frase é do tipo:  $\sim$  (p  $\wedge$ q), que é equivalente a  $\sim$  p  $\vee$   $\sim$  q, o que significa sem adição de açúcar ou sem adição de gorduras, podendo ser: ou açúcar sem gorduras ou gorduras sem açúcar, ou nem açúcar nem gorduras. Depois fiquei pensando: pode ser que tenha açúcar e gorduras sem ter sido adicionados. A afirmação sem adição de açúcar e gorduras não é equivalente a não contém açúcar e gorduras. Do mesmo modo, nas balas *No Sugar*, e em vários outros produtos, está escrito: sem adição de açúcar.
+A frase é do tipo: $\sim$ (p $\wedge$ q), que é equivalente a $\sim$ p $\vee$ $\sim$ q, o que significa sem adição de açúcar ou sem adição de gorduras, podendo ser: ou açúcar sem gorduras ou gorduras sem açúcar, ou nem açúcar nem gorduras. Depois fiquei pensando: pode ser que tenha açúcar e gorduras sem ter sido adicionados. A afirmação sem adição de açúcar e gorduras não é equivalente a não contém açúcar e gorduras. Do mesmo modo, nas balas _No Sugar_, e em vários outros produtos, está escrito: sem adição de açúcar.
 
-O mau uso do e e do ou é muito comum. No restaurante estava escrito: *Proibido fumar charuto e cachimbo*. Mas quem vai fumar charuto e cachimbo?
+O mau uso do e e do ou é muito comum. No restaurante estava escrito: _Proibido fumar charuto e cachimbo_. Mas quem vai fumar charuto e cachimbo?
 
 Veja um exemplo simples do uso do e e do ou na Matemática:
 
 $$x^{2} + 5x + 6 = 0 \Rightarrow x = 2$$
- ou  $x = 3$   
- $\Rightarrow x_{1} = 2$  e  $x_{2} = 3$ .
+ou $x = 3$  
+ $\Rightarrow x_{1} = 2$ e $x_{2} = 3$ .
 
 Dizendo de outra maneira: podemos substituir x por 2 **ou** 3, isto é, as raízes são 2 **e** 3.
 
-Na embalagem do pão Pullman está: *Pão de forma* (sic) *para sanduíche com semolina*. Devo entender que o pão não serve para sanduíche sem semolina? Isso me lembra do pente para cabelo de plástico.
+Na embalagem do pão Pullman está: _Pão de forma_ (sic) _para sanduíche com semolina_. Devo entender que o pão não serve para sanduíche sem semolina? Isso me lembra do pente para cabelo de plástico.
 
 Nas garrafas de água aparece escrito: Água mineral natural. Se é água, é mineral e não animal ou vegetal. Água de torneira é mineral e natural. Água mineral natural é pleonasmo duplo.
 
@@ -134,7 +134,7 @@ Thomaz de Jesus Ramos
 
 Um milionário americano convencionou com seu banqueiro um determinado código telegráfico que seria empregado toda vez que ele solicitasse dinheiro ao Banco. Cada algarismo 0, 1, 2, 3, 4, ..., 9, seria representado por uma letra do alfabeto e, ainda, o telegrama deveria conter sempre três grupos de letras, as quais quando traduzidas dariam três números, sendo o último igual à soma dos dois primeiros. Exemplificando: se o milionário telegrafasse: 120 355 475 estaria, então. pedindo a remessa de 475 dólares. Após dois meses de celebrado o acordo exposto acima, o banqueiro recebeu de seu cliente o seguinte telegrama Send more money cuja tradução é mande mais dinheiro. Aturdido, o banqueiro pensou que seu privilegiado cliente houvera esquecido o código combinado e, sem saber qual quantia deveria mandar, solicitou mais explicações. Como resposta, o cliente confirmou que houvera empregado o código combinado. Qual a quantia que o banqueiro deveria enviar?
 
-As respostas ao problema proposto nesta coluna serão publicadas no *Folhetim* nº 61. Qualquer leitor poderá enviar soluções.
+As respostas ao problema proposto nesta coluna serão publicadas no _Folhetim_ nº 61. Qualquer leitor poderá enviar soluções.
 
 ### NOTÍCIAS
 
@@ -152,7 +152,7 @@ Tel.: (031)559-1700 Telefax: (031)559-1692
 
 E-mail: demat@iceb.ufop.br
 
-O professor Clóvis Pereira da Silva lançou a 2ª edição do livro *A Matemática no Brasil. Uma história de seu desenvolvimento* (versão em disquete 3.5′-Windows Word 2.0), 145 páginas.
+O professor Clóvis Pereira da Silva lançou a 2ª edição do livro _A Matemática no Brasil. Uma história de seu desenvolvimento_ (versão em disquete 3.5′-Windows Word 2.0), 145 páginas.
 
 Pedidos e envio de cheque nominal a:
 

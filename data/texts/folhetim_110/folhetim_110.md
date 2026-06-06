@@ -12,9 +12,9 @@ Este Folhetim é um veículo de divulgação, circulação de idéias e de estí
 
 ### **EDITORIAL**
 
-A maioria dos livros, em particular os de geometria, usa com bastante freqüência enunciados bicondicionais e definições empregando "se", porém não trazem explicações (com algumas exceções) dos seus significados nos contextos citados. É oportuna e exclarecedora a coluna deste *Folhetim*, e esperamos que a partir dela o leitor tenha um outro olhar sobre teoremas e definições, relacionados ao emprego do "se, e somente se". O tema não está finalizado, e no próximo número outras informações e discussões serão feitas.
+A maioria dos livros, em particular os de geometria, usa com bastante freqüência enunciados bicondicionais e definições empregando "se", porém não trazem explicações (com algumas exceções) dos seus significados nos contextos citados. É oportuna e exclarecedora a coluna deste _Folhetim_, e esperamos que a partir dela o leitor tenha um outro olhar sobre teoremas e definições, relacionados ao emprego do "se, e somente se". O tema não está finalizado, e no próximo número outras informações e discussões serão feitas.
 
-A propósito, o próximo *Folhetim* (111) será acompanhado do questionário de satisfação do leitor a ser respondido e enviado, para que possamos implementar ações que visem a melhorar nossa publicação.
+A propósito, o próximo _Folhetim_ (111) será acompanhado do questionário de satisfação do leitor a ser respondido e enviado, para que possamos implementar ações que visem a melhorar nossa publicação.
 
 # COMITÉ EDITORIAL
 
@@ -27,12 +27,12 @@ Pergunta. Muitos alunos nos perguntam sobre o emprego correto da expressão "se,
 R. Comecemos com a expressão "se, e somente se". Ela é freqüentemente empregada e falada sem a conjunção "e": "se somente se". Alguns livros trazem a abreviatura dessa expressão assim: "sse". Procuremos o esclarecimento dessa questão. Enunciados formados com a expressão "se, e somente se" são denominados de enunciados bicondicionais, isto é, a conjunção de dois enunciados condicionais. Para uma visão melhor veja o seguinte teorema da Teoria dos Números: "Um terno (a,b,c) é um terno pitagórico se e somente se existem inteiros u e v que verifiquem as seguintes condições:
 
 - (1) u, v > 0;
-- (2)  $u \equiv v \pmod{2}$  (isto é u e v possuem a mesma paridade);
+- (2) $u \equiv v \pmod{2}$ (isto é u e v possuem a mesma paridade);
   - (3) u.v é um quadrado perfeito e
 
-(4) 
+(4)
 $$a = \sqrt{uv}$$
-,  $b = \frac{u - v}{2}$  e  $c = \frac{u + v}{2}$ 
+, $b = \frac{u - v}{2}$ e $c = \frac{u + v}{2}$
 
 Claramente, podemos reescrever o teorema acima na seguinte variante:
 
@@ -47,7 +47,7 @@ Na expressão (IV) substituamos provisoriamente, a frase "o terno (a, b, c) é p
 
 Vejamos, agora, a questão relativa às definições. Seja a relação de divisibilidade em Z (conjunto dos
 
-inteiros). Definição: Sejam a e b dois inteiros com  $a \neq 0$ . Diz-se que a divide b se existe um inteiro q tal que b = aq. O "se" que aparece nesse definição e em outras definições matemáticas, deve ser entendido como "se, e somente se". Apenas por uma questão de convenção "se, e somente se" não é usado a não ser nos teoremas. Não esqueçam: Numa definição, na qual duas afirmações são ligadas por "se", isso significa que as afirmações são equivalentes e, a rigor, deveria ser empregado o "se, e somente se", que é reservado mais para teoremas do que para definições. Vejam esta definição: "Bestá entre A e C se (1) A, B e C são pontos distintos de uma reta e (2)  $\overline{AB} + \overline{BC} = \overline{AC}$ ". Como o "se" numa definição significa "se, e somente se" e de acordo com o explicado acima, esta definição deve ser entendida como: "Se(1)e(2) são satisfeitas, então, B está entre A e C e se B está entre A e C, então (1) e (2) são satisfeitas". Só que não é usado o "se, e somente se"nas definições. Assim, aplica-se a palavra definição ao enunciado de uma equivalência entre um termo definido e um conjunto de termos constituintes da definição. A definição deve caracterizar, sem ambigüidade, a compreensão do novo conceito por ela introduzido na teoria T. Ela possui duas partes: o definido e o definidor. Vejam a definição de determinante nulo (o definido). Um determinante é nulo (definido) se suas fileiras ou colunas são linearmente dependentes (definidor). Mais uma vez chamamos a atenção para o significado da partícula "se" empregado nessa definição: ela significa "se, e somente se". Mais uma definição: um número par (definido) é um número divisível por dois (definidor). Pede-se ao aluno colocá-la numa forma empregando o
+inteiros). Definição: Sejam a e b dois inteiros com $a \neq 0$ . Diz-se que a divide b se existe um inteiro q tal que b = aq. O "se" que aparece nesse definição e em outras definições matemáticas, deve ser entendido como "se, e somente se". Apenas por uma questão de convenção "se, e somente se" não é usado a não ser nos teoremas. Não esqueçam: Numa definição, na qual duas afirmações são ligadas por "se", isso significa que as afirmações são equivalentes e, a rigor, deveria ser empregado o "se, e somente se", que é reservado mais para teoremas do que para definições. Vejam esta definição: "Bestá entre A e C se (1) A, B e C são pontos distintos de uma reta e (2) $\overline{AB} + \overline{BC} = \overline{AC}$ ". Como o "se" numa definição significa "se, e somente se" e de acordo com o explicado acima, esta definição deve ser entendida como: "Se(1)e(2) são satisfeitas, então, B está entre A e C e se B está entre A e C, então (1) e (2) são satisfeitas". Só que não é usado o "se, e somente se"nas definições. Assim, aplica-se a palavra definição ao enunciado de uma equivalência entre um termo definido e um conjunto de termos constituintes da definição. A definição deve caracterizar, sem ambigüidade, a compreensão do novo conceito por ela introduzido na teoria T. Ela possui duas partes: o definido e o definidor. Vejam a definição de determinante nulo (o definido). Um determinante é nulo (definido) se suas fileiras ou colunas são linearmente dependentes (definidor). Mais uma vez chamamos a atenção para o significado da partícula "se" empregado nessa definição: ela significa "se, e somente se". Mais uma definição: um número par (definido) é um número divisível por dois (definidor). Pede-se ao aluno colocá-la numa forma empregando o
 
 # NEMOC - NÚCLEO DE EDUCAÇÃO MATEMÁTICA OMAR CATUNDA
 
@@ -60,7 +60,7 @@ Folhetim Educ. Mat., Ano 10, n. 110, set./out. 2002 - Editores: Carloman e Inác
 Seja o semicírculo com centro em O e diâmetro BC, conforme figura. Seja A um ponto qualquer da circunferência. O teorema afirma que o ângulo BAC é um ângulo reto. Vamos substituir o definido (a circunferência) pelo definidor: conjunto de todos os pontos do plano cuja distância a O é igual a r (raio). Para isso, desenhamos o raio AO e definimos BÂO = t, CÂO = s. Como AO e BO são raios da circunferência o triângulo ABO é isós celes, donde os ângulos da base são iguais, AÂO = BÂO = t. Igualmente, o triângulo AOC é isós-celes e por isso, AĈO = CÂO = s. Em virtude da soma dos ângulos internos de um triângulo ser igual a 180 graus, temos para o triângulo ABC:
 
 $$t + s + (t + s) = 180^{\circ}$$
-, donde,  $t + s = 90^{\circ}$ 
+, donde, $t + s = 90^{\circ}$
 
 Seguindo o mesmo princípio lógico, o leitor pode
 

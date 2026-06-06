@@ -30,9 +30,9 @@ Desejamos - com este folhetim - conversar com nossos leitores acerca do ensino d
 
 Esse procedimento o livrará daquele outro procedimento tão danoso quanto persistente, qual seja, o de mostrar uma fórmula (de que sacola o professor tirou a fórmula...?) e, em seguida, aplicá-la nas mais esquisitas situações. É preciso destacar: o aluno vem revelando, com suficiente clareza, que não aguenta mais tal tipo de magia; não se rebela desafiadoramente, em virtude do vestibular, em função do qual, todo o ensino fundamental e médio é dirigido.
 
-Pensemos que estas questões devem ser refletidas profundamente: a) relacionamento entre o *concreto* e o *abstrato*; b) relacionamento entre o *familiar* e o *concreto*; c) como reconhecer que se aprendeu uma determinada informação transformando-a em conhecimento?
+Pensemos que estas questões devem ser refletidas profundamente: a) relacionamento entre o _concreto_ e o _abstrato_; b) relacionamento entre o _familiar_ e o _concreto_; c) como reconhecer que se aprendeu uma determinada informação transformando-a em conhecimento?
 
-É claro que o conhecimento parte do *concreto*, porém, de qual concreto? Aqui, em nosso entendimento, deve-se distinguir entre esse ponto de partida - o qual chamaríamos de *concreto sensorial*, até mesmo de familiar-do *concreto conceitual*, quando são formalizados os conceitos pertinentes à investigação em apreço. Evitase, é nosso entendimento - a confusão tão persistente entre o concreto e o abstrato, culminando com a tolice de que sempre é mais fácil raciocinar no concreto (qual concreto?) do que no abstrato... A análise do mecanismo psicológico da pesquisa, mostra que a compreensão
+É claro que o conhecimento parte do _concreto_, porém, de qual concreto? Aqui, em nosso entendimento, deve-se distinguir entre esse ponto de partida - o qual chamaríamos de _concreto sensorial_, até mesmo de familiar-do _concreto conceitual_, quando são formalizados os conceitos pertinentes à investigação em apreço. Evitase, é nosso entendimento - a confusão tão persistente entre o concreto e o abstrato, culminando com a tolice de que sempre é mais fácil raciocinar no concreto (qual concreto?) do que no abstrato... A análise do mecanismo psicológico da pesquisa, mostra que a compreensão
 
 parte da não compreensão.
 
@@ -50,7 +50,7 @@ A demonstração dessa generalidade do TP baseia-se em conhecimentos adquiridos 
 
 Folhetim Educ. Mat., Ano 14, n. 143, mar./abr. 2008 - Editores: Carloman, Inácio e Trazíbulo - Digitação: Josenildes Oliveira Venas Almeida e Manoel Aquino dos Santos - Editoração: Evandro Vaz - Impressão: Imprensa Gráfica Universitária - Periodicidade: bimestral - Tiragem: 1.200 exemplares - Distribuição gratuita - Endereço: Av. Universitária, s/n - km 03 - BR 116 - Campus Universitário - Telefone: (75)3224-8115 - Fax: (75)3224-8086 - CEP: 44031-460 - Feira de Santana - Ba - BRASIL - E-mail: nemoc@uefs.br
 
-Vejamos, agora, um teste para saber se o aluno realmente compreendeu o TP. Para isso, apresentemos as *lúnulas de Hipócrates*:
+Vejamos, agora, um teste para saber se o aluno realmente compreendeu o TP. Para isso, apresentemos as _lúnulas de Hipócrates_:
 
 ABC é um triângulo retângulo isósceles inscrito em um semi-círculo com diâmetro AC. Tracemos outros semi-círculos com diâmetros AB eBC. A figura resultante Ldetudo isso chama-se lúnulas de Hipócrates (hachuriadas).
 
@@ -66,11 +66,11 @@ De acordo com o TP:
 
 Como a área construída sobre a hipotenusa = área construída sobre o cateto AB mais a área construída sobre o cateto BC, vem:
 
-T+T+S+S = S+L+S+L : L = T, isto é, a área da lúnula L é igual a área T do triângulo. Esse exemplo é um bom teste à compreensão do TP - ele mostra a *quadratura* de uma área limitada por "segmentos curvilíneos", isto é, mostra que dada uma figura limitada por "segmentos curvilíneos" (alúnula de Hipócrates) é possível a construção de outras figuras limitadas por "segmentos retilíneos" (o triângulo de área T) cuja área é a mesma da figura dada (lúnula de Hipócrates). Já escutei de alguns professores de Cálculo o seguinte: na primeira aula sobre Cálculo Integral tenho por hábito dizer aos meus alunos que o Cálculo
+T+T+S+S = S+L+S+L : L = T, isto é, a área da lúnula L é igual a área T do triângulo. Esse exemplo é um bom teste à compreensão do TP - ele mostra a _quadratura_ de uma área limitada por "segmentos curvilíneos", isto é, mostra que dada uma figura limitada por "segmentos curvilíneos" (alúnula de Hipócrates) é possível a construção de outras figuras limitadas por "segmentos retilíneos" (o triângulo de área T) cuja área é a mesma da figura dada (lúnula de Hipócrates). Já escutei de alguns professores de Cálculo o seguinte: na primeira aula sobre Cálculo Integral tenho por hábito dizer aos meus alunos que o Cálculo
 
 Integral surgiu da necessidade de calcular áreas "limitadas por curvas", pois tal cálculo é impossível com a matemática do ensino fundamental emédio... Alguns historiadores consideram o exemplo mencionado como o primeiro exemplo de quadratura de uma figura limitada por "segmentos curvilíneos".
 
-O exemplo dado acima sobre a quadratura da lúnula de Hipócrates desmente esses professores em suas generalizações. Também - pelo que já se viu - não é certo afirmar: no cálculo de áreas de "figuras limitadas por curvas" sempre deve aparecer o famoso número  $\pi$ .
+O exemplo dado acima sobre a quadratura da lúnula de Hipócrates desmente esses professores em suas generalizações. Também - pelo que já se viu - não é certo afirmar: no cálculo de áreas de "figuras limitadas por curvas" sempre deve aparecer o famoso número $\pi$ .
 
 Mais alguns questionamentos sobre o TP:
 
@@ -81,9 +81,9 @@ Por falar em semelhança, temos mais um motivo para criticar nossos manuais esco
 
 Sejam F e F' figuras do plano ou do espaço, e r um número real positivo.
 
-Diz-se que F e F' são *semelhantes*, com razão de *semelhança r*, quando existe uma correspondência biunívoca  $\sigma$ : F $\rightarrow$ F', entre os pontos de F e os pontos de F', com a seguinte propriedade:
+Diz-se que F e F' são _semelhantes_, com razão de _semelhança r_, quando existe uma correspondência biunívoca $\sigma$ : F $\rightarrow$ F', entre os pontos de F e os pontos de F', com a seguinte propriedade:
 
-Se X, Y são pontos quaisquer de F e X' = $\sigma$ (X), Y'= $\sigma$ (Y) são seus correspondentes em F', então  $\overline{X'Y'}=r.\overline{XY}$ . (Para maiores detalhes, veja Medida e Forma em Geometria, Elon Lages Lima, Coleção do Professor de Matemática, Sociedade Brasileira de Matemática).
+Se X, Y são pontos quaisquer de F e X' = $\sigma$ (X), Y'= $\sigma$ (Y) são seus correspondentes em F', então $\overline{X'Y'}=r.\overline{XY}$ . (Para maiores detalhes, veja Medida e Forma em Geometria, Elon Lages Lima, Coleção do Professor de Matemática, Sociedade Brasileira de Matemática).
 
 ### **NOTÍCIAS**
 
@@ -95,7 +95,7 @@ Para o leitor firmar uma idéia do conteúdo dessa bela obra, anote alguns de se
 
 O Prof. Geraldo Ávila é um matemático que, há anos, vem se consagrando com seus bem elaborados livros sobre o ensino da Matemática. Na divulgação dessa ciência, ele faz par com o consagrado matemático Elon Lages. Ambos, sem maiores danos ao rigor matemático, escrevem seus artigos dentre de uma clareza meridiana, o
 
-que facilita sua compreensão por parte dos alunos. Na obra *Várias Faces da Matemática*, Geraldo Ávila, levanta temas importantíssimos tanto para o aluno quanto para o professor. Pedimos a atenção do leitor aos seus dois últimos capítulos: Limites e Derivadas no ensino médio; Derivadas e Cinemática. Esses dois tópicos deveriam merecer, por parte daqueles que elaboram nossas políticas educacionais, uma atenção bem particular, pela sua atualidade e relevância. Quando, então, eles retornarão ao ensino médio? Em nome de qual princípio foram retirados desse ensino? Por serem demasiadamente abstratos? De passagem, lembramos serem eles estudados, no nível citato, nos chamados países desenvolvidos a par com Teoria da Relatividade Especial.
+que facilita sua compreensão por parte dos alunos. Na obra _Várias Faces da Matemática_, Geraldo Ávila, levanta temas importantíssimos tanto para o aluno quanto para o professor. Pedimos a atenção do leitor aos seus dois últimos capítulos: Limites e Derivadas no ensino médio; Derivadas e Cinemática. Esses dois tópicos deveriam merecer, por parte daqueles que elaboram nossas políticas educacionais, uma atenção bem particular, pela sua atualidade e relevância. Quando, então, eles retornarão ao ensino médio? Em nome de qual princípio foram retirados desse ensino? Por serem demasiadamente abstratos? De passagem, lembramos serem eles estudados, no nível citato, nos chamados países desenvolvidos a par com Teoria da Relatividade Especial.
 
 # PRÓXIMO NÚMERO
 

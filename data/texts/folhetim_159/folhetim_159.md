@@ -27,9 +27,9 @@ Tanto na constru¸c˜ao da Aritm´etica como da Geometria vimos que ambas nascer
 Provavelmente, um dos primeiros m´etodos empregados na Matem´atica tenha sido o da indu¸c˜ao: em um primeiro momento, resultados gerais s˜ao obtidos a partir da observa¸c˜ao de muitos e muitos casos particulares. A este processo do conhecimento, formado a partir do particular, d´a-se o nome de indu¸c˜ao. Fazemos indu¸c˜ao, por exemplo, quando, dada uma progress˜ao aritm´etica de termo a<sup>1</sup> e raz˜ao r observamos:
 
 $$a_2 = a_1 + r$$
-  $a_2 = a_1 + r$   
- $a_3 = a_2 + r$  ou  $a_3 = a_1 + 2r$   
- $a_4 = a_3 + r$   $a_4 = a_1 + 3r$ 
+$a_2 = a_1 + r$  
+ $a_3 = a_2 + r$ ou $a_3 = a_1 + 2r$  
+ $a_4 = a_3 + r$ $a_4 = a_1 + 3r$
 
 para finalmente, concluir que:
 
@@ -87,9 +87,9 @@ Uma simples inspe¸c˜ao visual leva-nos `as respostas: a) L; b) R; c) Q; d) Q; 
 
 seguinte argumenta¸c˜ao: "Em todos os retˆangulos as diagonais s˜ao iguais entre si; todos os quadrados s˜ao retˆangulos; conclus˜ao: em todos os quadrados as diagonais s˜ao iguais entre si". Designemos por Q, a classe mais extensa (os quadril´ateros), a classe intermedi´aria (os retˆangulos) pela letra R, e finalmente a classe menor (os quadrados) pela letra Q. Esquematicamente, temos:
 
-- 1) Todo R ´e Q.
-- 2) Todo Q ´e R.
-- 3) Conclus˜ao: todo Q ´e Q.
+- 1. Todo R ´e Q.
+- 2. Todo Q ´e R.
+- 3. Conclus˜ao: todo Q ´e Q.
 
 Pelo diagrama de Euler-Venn, tem-se:
 
@@ -119,24 +119,24 @@ A seguir, mostraremos diversos tipos de argumentos, enfatizando os valores atrib
 
 Seja o par ordenado (a,b), no qual tanto a como b podem assumir os valores V ou F, sendo a o conjunto das premissas e b o conjunto dos raciocínios empregados numa determinada dedução; a cada par ordenado (a,b) corresponde uma conclusão c, a qual, naturalmente, pode ser falsa ou verdadeira. Temos, então oito tipos distintos de argumentos:
 
-- 1) (V, V); conclusão: V
-- 2) (F, V); conclusão: F
-- 3) (F, V); conclusão: V
-- 4) (V, F); conclusão: V
-- 5) (V, F); conclusão: F
-- 6) (F, F); conclusão: F
-- 7) (F, F); conclusão: V
-- 8) (V, V); conclusão: F
+- 1. (V, V); conclusão: V
+- 2. (F, V); conclusão: F
+- 3. (F, V); conclusão: V
+- 4. (V, F); conclusão: V
+- 5. (V, F); conclusão: F
+- 6. (F, F); conclusão: F
+- 7. (F, F); conclusão: V
+- 8. (V, V); conclusão: F
 
 Agora, construamos exemplos desses tipos, na mesma ordem dada acima.
 
-- 1) i) Todos os quadriláteros são polígonos.
+- 1. i) Todos os quadriláteros são polígonos.
   - ii) Todos os polígonos são figuras geométricas.
   - iii) Todos os quadriláteros são figuras geométricas.
 
 ![](_page_3_Picture_18.jpeg)
 
-- 2) i) Todos os macacos são homens.
+- 2. i) Todos os macacos são homens.
   - ii) Todos os homens são inteligentes.
   - iii) Todos os macacos são inteligentes.
 
@@ -154,7 +154,7 @@ No dia 11 de março de 2011, familiares e amigos do professor Carloman prestaram
 
 ### Lançamento
 
-Recebemos exemplares da 2ª edição do livro *Geraldo Ávila Visita São Luís* de autoria do professor José Cloves Verde Saraiva. O livro contém, além de outras coisas, uma coletânea de artigos do professor Geraldo Ávila.
+Recebemos exemplares da 2ª edição do livro _Geraldo Ávila Visita São Luís_ de autoria do professor José Cloves Verde Saraiva. O livro contém, além de outras coisas, uma coletânea de artigos do professor Geraldo Ávila.
 
 # **NÚMEROS ATRASADOS**
 

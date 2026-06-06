@@ -16,32 +16,32 @@ Carloman Carlos Borges
 
 ## 2.1 L´ogica (continua¸c˜ao)
 
-- 3) i) Todos os professores s˜ao octogen´arios.
+- 3. i) Todos os professores s˜ao octogen´arios.
   - ii) Alguns idosos s˜ao professores.
   - iii) Alguns idosos s˜ao octogen´arios.
 
 ![](_page_0_Picture_18.jpeg)
 
-- 4) i) O triˆangulo ´e uma figura geom´etrica.
+- 4. i) O triˆangulo ´e uma figura geom´etrica.
   - ii) Todas as figuras geom´etricas s˜ao pol´ıgonos.
   - iii) O triˆangulo ´e um pol´ıgono.
 
 ![](_page_0_Picture_22.jpeg)
 
-5) i) Alguns baianos s˜ao professores.
+5. i) Alguns baianos s˜ao professores.
 
 - ii) Todos os professores s˜ao sergipanos.
 - iii) Alguns baianos s˜ao sergipanos.
 
 ![](_page_1_Picture_3.jpeg)
 
-- 6) i) Todos os c´ırculos s˜ao poliedros.
+- 6. i) Todos os c´ırculos s˜ao poliedros.
   - ii) Um poliedro ´e um triˆangulo.
 - iii) Todos os c´ırculos s˜ao triˆangulos.
 
 ![](_page_1_Picture_7.jpeg)
 
-- 7) i) O sol ´e um planeta.
+- 7. i) O sol ´e um planeta.
   - ii) Todos os planetas s˜ao astros.
   - iii) O sol ´e um astro.
 
@@ -76,12 +76,12 @@ Folhetim Educ. Mat., Feira de Santana, Ano 17, N´umero 160, maio/jun. 2011 - Ed
 
 seguinte t´abua:
 
-| p | q | p<br>∧<br>q |
-|---|---|-------------|
-| V | V | V           |
-| V | F | F           |
-| F | V | F           |
-| F | F | F           |
+| p   | q   | p<br>∧<br>q |
+| --- | --- | ----------- |
+| V   | V   | V           |
+| V   | F   | F           |
+| F   | V   | F           |
+| F   | F   | F           |
 
 o que, ali´as, coincide com o seu uso di´ario na linguagem de todos n´os.
 
@@ -117,21 +117,21 @@ implica tautologicamente a q?
 
 A tabela-verdade ´e a seguinte:
 
-| p | q | ∼<br>p | ∨<br>p<br>q | ∨<br>q)∧ ∼<br>r<br>= (p<br>p | ⇒<br>r<br>q |
-|---|---|--------|-------------|------------------------------|-------------|
-| V | V | F      | V           | F                            | V           |
-| V | F | F      | V           | F                            | V           |
-| F | V | V      | V           | V                            | V           |
-| F | F | V      | F           | F                            | V           |
+| p   | q   | ∼<br>p | ∨<br>p<br>q | ∨<br>q)∧ ∼<br>r<br>= (p<br>p | ⇒<br>r<br>q |
+| --- | --- | ------ | ----------- | ---------------------------- | ----------- |
+| V   | V   | F      | V           | F                            | V           |
+| V   | F   | F      | V           | F                            | V           |
+| F   | V   | V      | V           | V                            | V           |
+| F   | F   | V      | F           | F                            | V           |
 
 Uma simples inspe¸c˜ao visual mostra que a conjun¸c˜ao citada implica tautologicamente a proposi¸c˜ao q. Considere, agora, outro exemplo: Mostrar que a proposi¸c˜ao p∧q implica tautologicamente a proposi¸c˜ao q. Temos:
 
-| p | q | p<br>∧<br>q | (p<br>∧<br>q)<br>⇒<br>q |
-|---|---|-------------|-------------------------|
-| V | V | V           | V                       |
-| V | F | F           | V                       |
-| F | V | F           | V                       |
-| F | F | F           | V                       |
+| p   | q   | p<br>∧<br>q | (p<br>∧<br>q)<br>⇒<br>q |
+| --- | --- | ----------- | ----------------------- |
+| V   | V   | V           | V                       |
+| V   | F   | F           | V                       |
+| F   | V   | F           | V                       |
+| F   | F   | F           | V                       |
 
 Os dois exemplos acima ilustram muito bem a defini¸c˜ao: Uma proposi¸c˜ao p implica tautologicamente uma proposi¸c˜ao q, se e somente se, a proposi¸c˜ao condicional p → q ´e uma tautologia.
 

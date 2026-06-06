@@ -1,18 +1,18 @@
 # **FOLHETIM DE EDUCAÇÃO MATEMÁTICA**
 
-**UNIVERSroADE ESTADUAL DE FEIRA DE SANTANA** 
+**UNIVERSroADE ESTADUAL DE FEIRA DE SANTANA**
 
-**ISSN 1415-8779** 
+**ISSN 1415-8779**
 
-**Folhetim Educ. Mat., Ano 12, n. 133, jul. / ago. 2006** 
+**Folhetim Educ. Mat., Ano 12, n. 133, jul. / ago. 2006**
 
 # **OBJETIVO**
 
-Este *Folhetim é* um veículo de divulgação, circulação de **ideias** e de estímulo ao estudo e à curiosidade intelectual. Dirige-se a todos os interessados pelos aspectos pedagógicos, filosóficos e históricos da Matemática. Pretende construir uma ponte para unir os que estão próximos e os que estão distantes.
+Este _Folhetim é_ um veículo de divulgação, circulação de **ideias** e de estímulo ao estudo e à curiosidade intelectual. Dirige-se a todos os interessados pelos aspectos pedagógicos, filosóficos e históricos da Matemática. Pretende construir uma ponte para unir os que estão próximos e os que estão distantes.
 
 # **EDITORIAL**
 
-Ordem, Complexidade e Caos são temas atuais que o *Folhetim* traz aos leitores desde o número 131.
+Ordem, Complexidade e Caos são temas atuais que o _Folhetim_ traz aos leitores desde o número 131.
 
 No presente número, uma abordagem geral é feita, no sentido de trazer à tona alguns esclarecimentos conceituais, acompanhados de exemplos.
 
@@ -26,27 +26,27 @@ Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 
 #### **PERGUNTE QUE O NEMOC RESPONDE**
 
-*óo6re u^í^uns C/ópicos JKaíemáíicos* 
+_óo6re u^í^uns C/ópicos JKaíemáíicos_
 
-*, , , por Garíoman Carlos CEoryes* 
+_, , , por Garíoman Carlos CEoryes_
 
-*{Continuação)* 
+_{Continuação)_
 
-Estamos, agora, em condições de, informalmente, dar um *apanhado* geral sobre o assunto: • .
+Estamos, agora, em condições de, informalmente, dar um _apanhado_ geral sobre o assunto: • .
 
 1. Ordem: a predominância da ordem em um sistema caracteriza uma evolução inteiramente previsível. Para assimilarmelhoro que dizemos, pense em um relógio, um sistema no qual predomina a ordem. **, —** :: , v.--,v-,.-. **^,;v?^--: -**
 
-2. Complexidade: recorde o número complexo *z=a + ib,ae b* reais e *i =* a unidade imaginária; ele se constitui de duas partes, os reais *aebei* com aquelas qualidades bem conhecidas por nossos estudantes de graduação, enquanto a totaUdade *{z = a + ib)*  apresenta qualidades não contidas naquelas partes. Assim, podemos afirmar, em um sistema complexo, o *todo* possui características diferentes de suas partes. Outro exemplo de um sistema complexo: a água. Veja que ela tem características bem diferentes daquelas de suas partes, hidrogénio e oxigénio. Os dois exemplos acima são de sistemas complexos simples. Se você desejar pensar em um sistema altamente complexo, pense em um ser vivo, particularmente, no ser
+2. Complexidade: recorde o número complexo _z=a + ib,ae b_ reais e _i =_ a unidade imaginária; ele se constitui de duas partes, os reais _aebei_ com aquelas qualidades bem conhecidas por nossos estudantes de graduação, enquanto a totaUdade _{z = a + ib)_ apresenta qualidades não contidas naquelas partes. Assim, podemos afirmar, em um sistema complexo, o _todo_ possui características diferentes de suas partes. Outro exemplo de um sistema complexo: a água. Veja que ela tem características bem diferentes daquelas de suas partes, hidrogénio e oxigénio. Os dois exemplos acima são de sistemas complexos simples. Se você desejar pensar em um sistema altamente complexo, pense em um ser vivo, particularmente, no ser
 
-humano - objeto da ciência neste século. **s** 
+humano - objeto da ciência neste século. **s**
 
-Do artigo de Rita **M.** C. de Almeida: Redes neurais, pubUcado em Complexidade e Caos, *T* edição, Editora UFRJ/COPEA, tiramos o trecho abaixo:
+Do artigo de Rita **M.** C. de Almeida: Redes neurais, pubUcado em Complexidade e Caos, _T_ edição, Editora UFRJ/COPEA, tiramos o trecho abaixo:
 
-A *atividade de neurônio influencia a atividade dos neurónios com os quais está conectado e da atividade da rede como um todo resulta o funcionamento das diferentes regiões cerebrais que são responsáveis pela memória, tomada de decisão ou pelo controle de diversas partes do nosso corpo, por exemplo. Assim, as capacidades de pensar, sentir, decidir, lembrar, etc. podem ser encaradas como propriedades emergentes de redes neurais compostas por um número muito grande de neurónios interagindcf de uma forma não linear, como um sistema complexo.* 
+A _atividade de neurônio influencia a atividade dos neurónios com os quais está conectado e da atividade da rede como um todo resulta o funcionamento das diferentes regiões cerebrais que são responsáveis pela memória, tomada de decisão ou pelo controle de diversas partes do nosso corpo, por exemplo. Assim, as capacidades de pensar, sentir, decidir, lembrar, etc. podem ser encaradas como propriedades emergentes de redes neurais compostas por um número muito grande de neurónios interagindcf de uma forma não linear, como um sistema complexo._
 
-3. Caos: como caracterizar a posição de cada uma das moléculas de um gás ideal em coordenadas cartesianas? A resposta é simples: precisamos de três valores das coordenadas e dos valores das três componentes da velocidade para cada instante *t.* Temos aí um *espaço de fases* de seis dimensões: (x, *y, z)* que é o *espaço de configurações* e (M, V, W) que é o *espaço* 
+3. Caos: como caracterizar a posição de cada uma das moléculas de um gás ideal em coordenadas cartesianas? A resposta é simples: precisamos de três valores das coordenadas e dos valores das três componentes da velocidade para cada instante _t._ Temos aí um _espaço de fases_ de seis dimensões: (x, _y, z)_ que é o _espaço de configurações_ e (M, V, W) que é o _espaço_
 
-*das velocidades.* Aqui, estamos definindo o *espaço de fases*  de seis dimensões como a reunião do *espaço de configurações* (x, *y, z)* e do espaço das velocidades ( M , V, w). De posse dessa conceituação, definimos um *sistema caótico* como aquele que possui duas propriedades:
+_das velocidades._ Aqui, estamos definindo o _espaço de fases_ de seis dimensões como a reunião do _espaço de configurações_ (x, _y, z)_ e do espaço das velocidades ( M , V, w). De posse dessa conceituação, definimos um _sistema caótico_ como aquele que possui duas propriedades:
 
 **i** I) sensibilidade quanto às condições iniciais, isto é, dois pontos, por mais próximos que estivessem inicialmente no espaço de fases, se separam. Atenção: esses dois pontos não se separam mais e mais, pois, se assim acontecesse, não haveria caos. Complicado? Pense, então, em dois borrões na superfície de uma daquelas bolas de soprar que usamos no aniversário de nossas filhas. Quando sopramos a bola, os borrões se separam e, no caso da bola não explodir, se afastariam para sempre sem caracterizar qualquer desordem a esse movimento. Nesse exemplo, vale observar que o caos aparece quando a bola explode!
 
@@ -58,18 +58,18 @@ Há 3 grandes e extraordinários avanços científicos que constituem um prato c
 
 ### **NEMOC - NÚCLEO DE EDUCAÇÃO MATEMÁTICA OMAR CATUNDA**
 
-FolhetimEduc.Mat., Ano 12,n. 133, jul./ago.2006 **-Editores:** Carloman e Inácio - **Secretária:** Josenildes Oliveira Venas Almeida - **Digitação:** Manoel Aquino dos Santos - **Editoração:** Evandro Vaz - **Impressão:** Imprensa Gráfica Universitária - **Periodicidade:** bimestral - **Tiragem:** 1.000 exemplares - *Distribuição gratuita -* **Endereço:**  Av. Universitária, s/n - km 03 - BR 116 - Campus Universitário - **Telefone:** (75)3224-8115 - **Fax:** (75)3224-8086 - CEP: 44031-460 - Feira de Santana - Ba - BRASIL - **E-maU:** nemoc@uefs.br
+FolhetimEduc.Mat., Ano 12,n. 133, jul./ago.2006 **-Editores:** Carloman e Inácio - **Secretária:** Josenildes Oliveira Venas Almeida - **Digitação:** Manoel Aquino dos Santos - **Editoração:** Evandro Vaz - **Impressão:** Imprensa Gráfica Universitária - **Periodicidade:** bimestral - **Tiragem:** 1.000 exemplares - _Distribuição gratuita -_ **Endereço:** Av. Universitária, s/n - km 03 - BR 116 - Campus Universitário - **Telefone:** (75)3224-8115 - **Fax:** (75)3224-8086 - CEP: 44031-460 - Feira de Santana - Ba - BRASIL - **E-maU:** nemoc@uefs.br
 
 - 2. Teorema de Gõdel.
 - 3. A teoria do Caos.
 
-Lendo tais discursos, constata-se que seus autores, possuem um conhecimento duvidoso acerca dessas três grandes conquistas do pensamento humano. O esforço que seus autores fazem para mostrar *originalidade* levaos, não poucas vezes, a resultados nebulosos e verdadeiramente incompreensíveis, seja de que ponto de vista metafórico você olhar. Veja, exemplificando, o que escreveu Jean Baudrillard, sociólogo e filósofo francês, muito conhecido, aoreferir-se à Guerra do Golfo:
+Lendo tais discursos, constata-se que seus autores, possuem um conhecimento duvidoso acerca dessas três grandes conquistas do pensamento humano. O esforço que seus autores fazem para mostrar _originalidade_ levaos, não poucas vezes, a resultados nebulosos e verdadeiramente incompreensíveis, seja de que ponto de vista metafórico você olhar. Veja, exemplificando, o que escreveu Jean Baudrillard, sociólogo e filósofo francês, muito conhecido, aoreferir-se à Guerra do Golfo:
 
-*O mais extraordinário é que as duas hipóteses, o apocalipse do tempo real e da guerra pura, e do triunfo do virtual sobre o real, são levadas a efeito ao mesmo tempo, no mesmo espaço-tempo, cada qual em perseguição implacável à outra. É sinal de que o espaço do acontecimento se tomou um hiperespaço com refração múltipla, e que o espaço da guerra se tornou definitivamente não euclidiano!*  (o grifo é nosso).
+_O mais extraordinário é que as duas hipóteses, o apocalipse do tempo real e da guerra pura, e do triunfo do virtual sobre o real, são levadas a efeito ao mesmo tempo, no mesmo espaço-tempo, cada qual em perseguição implacável à outra. É sinal de que o espaço do acontecimento se tomou um hiperespaço com refração múltipla, e que o espaço da guerra se tornou definitivamente não euclidiano!_ (o grifo é nosso).
 
-Deixemos esse *caos linguístico* de lado. Os leitores, claramente são livres para suas interpretações. Voltemos à teoria do caos. Folhetins escritos anteriormente, trataram já da mecânica Quântica e do Teorema de Gõdel.
+Deixemos esse _caos linguístico_ de lado. Os leitores, claramente são livres para suas interpretações. Voltemos à teoria do caos. Folhetins escritos anteriormente, trataram já da mecânica Quântica e do Teorema de Gõdel.
 
-O conceito chave para a compreensão do caos é: *sensibilidade às condições iniciais,* isto é, dois sistemas sujeitos às mesmas leis e em estados semelhantes - após um breve tempo podem apresentar-se em estados bem diferentes. Metaforicamente esse fenómeno é conhecido pelo bater de asas de uma borboleta - isto é, um bater de asas de uma borboleta em Pequim poderia provocar um furacão em Nova York. Portanto, o nome técnico do chamado *efeito borboleta é:* sensibilidade às condições iniciais: *Aliás, a sabedoria popular já cantava:* 
+O conceito chave para a compreensão do caos é: _sensibilidade às condições iniciais,_ isto é, dois sistemas sujeitos às mesmas leis e em estados semelhantes - após um breve tempo podem apresentar-se em estados bem diferentes. Metaforicamente esse fenómeno é conhecido pelo bater de asas de uma borboleta - isto é, um bater de asas de uma borboleta em Pequim poderia provocar um furacão em Nova York. Portanto, o nome técnico do chamado _efeito borboleta é:_ sensibilidade às condições iniciais: _Aliás, a sabedoria popular já cantava:_
 
 > Por falta de um prego, perdeu-se a ferradura; Por falta de uma ferradura, perdeu-se o cavalo; Por falta do cavalo, perdeu-se o cavaleiro; Por falta do cavaleiro, perdeu-se a batalha;
 
@@ -91,13 +91,13 @@ Finalmente, não esqueçamos: esse conhecido jogo de cara ou coroa, mencionado l
 
 Será ralizadade02 a 06 de outubro, na UEFS,
 
-a **VII I SEMANA D E MATEMÁTICA** *-AS MÚLTIPLAS FACES DA MATEMÁTICA.* 
+a **VII I SEMANA D E MATEMÁTICA** _-AS MÚLTIPLAS FACES DA MATEMÁTICA._
 
-#### *Realização:*
+#### _Realização:_
 
 D. A. de Matemática - Gestão Atividade
 
-#### *Informações:*
+#### _Informações:_
 
 Telefone: (75)3486-7785
 
@@ -105,9 +105,9 @@ E-mail: sematuefs@yahoo.com.br
 
 # **PRÓXIMO NÚMERO**
 
-*Sobre Fractais.* 
+_Sobre Fractais._
 
-*Aguardem!* 
+_Aguardem!_
 
 ## **NÚMEROS ATRASADOS**
 

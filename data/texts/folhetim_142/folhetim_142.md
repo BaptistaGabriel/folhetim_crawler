@@ -16,7 +16,7 @@ A seqüência do presente artigo aborda uma questão interessante: trata-se da "
 
 Que relação tem o fato com os fractais? É que nessa geometria, o todo pode estar contido em uma de suas partes(auto-similaridade), uma das características fundamentais dos fractais.
 
-Geometrias não euclidianas e fractais são exemplos de um importante aspecto na pesquisa científica: orientar a pesquisa para a aplicação pode empobrecer a ciência, pois muitos resultados "abstratos" só mostraram suas possibilidades de aplicação a *posteriori*.
+Geometrias não euclidianas e fractais são exemplos de um importante aspecto na pesquisa científica: orientar a pesquisa para a aplicação pode empobrecer a ciência, pois muitos resultados "abstratos" só mostraram suas possibilidades de aplicação a _posteriori_.
 
 # COMITÉ EDITORIAL
 
@@ -76,11 +76,11 @@ Mas pelo fato de poder ter sempre estado oculto
 
 Quando terá sido óbvio.
 
-Também achamos oportuna a citação bem conhecida do criador da geometria fractal, Benoit Mandelbrot, em *The Fractal Geometry of Nature*:
+Também achamos oportuna a citação bem conhecida do criador da geometria fractal, Benoit Mandelbrot, em _The Fractal Geometry of Nature_:
 
 "Nuvens não são esferas, montanhas não são cones, os litorais não são círculos, a casca das árvores não é lisa e tampouco a lua viaja em linha reta".
 
-O físico francês Pierre - Gilles de Gennes, nobel de Física em 1991, em seu livro *Os Objetos Frágeis*, Editora da Unicamp, fala de suas conferências para estudantes franceses. Em uma delas, um estudante lhe perguntou:
+O físico francês Pierre - Gilles de Gennes, nobel de Física em 1991, em seu livro _Os Objetos Frágeis_, Editora da Unicamp, fala de suas conferências para estudantes franceses. Em uma delas, um estudante lhe perguntou:
 
 "Você estuda a matéria na direção de infinitamente pequeno, o que o leva, obrigatoriamente, a olhar o infinitamente grande. Você pode nos expor sua concepção do universo?".
 

@@ -2,11 +2,11 @@
 
 ![](_page_0_Picture_1.jpeg)
 
-**Ano 5 - número 58 - Folhetim d e Educação Matemátic o - Departamento d e Ciências Exotas** 
+**Ano 5 - número 58 - Folhetim d e Educação Matemátic o - Departamento d e Ciências Exotas**
 
 #### **OBJETIVO**
 
-Este *Folhetim é* um veículo de divulgação, circulação de ideias e de estímulo ao estudo e à curiosidade intelectual. Dirige-se a todos os interessados pelos aspectos pedagógicos, filosóficos e históricos da Matemática. Pretende construir uma ponte para unir os que estão próximos e os que estão distantes.
+Este _Folhetim é_ um veículo de divulgação, circulação de ideias e de estímulo ao estudo e à curiosidade intelectual. Dirige-se a todos os interessados pelos aspectos pedagógicos, filosóficos e históricos da Matemática. Pretende construir uma ponte para unir os que estão próximos e os que estão distantes.
 
 #### **EDITORIAL**
 
@@ -18,9 +18,9 @@ Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 
 ## **PERGUNTE QUE O NEMOC RESPONDE**
 
-**Pergunta.** Clarisse A. S. dos Santos, de Recife, escreve: *É verdade que o raio não cai duas vezes no mesmo lugar? Caso afirmativo, o lugar mais seguro para a gente resguardar-se de um raio é permanecer em algum lugar onde a pouco tempo caiu um raio? Há uma maneira matemática de abordar o assunto?* 
+**Pergunta.** Clarisse A. S. dos Santos, de Recife, escreve: _É verdade que o raio não cai duas vezes no mesmo lugar? Caso afirmativo, o lugar mais seguro para a gente resguardar-se de um raio é permanecer em algum lugar onde a pouco tempo caiu um raio? Há uma maneira matemática de abordar o assunto?_
 
-R. Em um mesmo lugar L, se já caiu o raio A, outro raio B, logo depois poderá cair. Essa história de que o raio não cai duas vezes no mesmo lugar não passa de lenda. Isso pode ser ilustrado por um velho cajueiro, aqui, em nosso sítio e sobre o qual já cairam três raios, dois deles em um mesmo dia... A ciência da ProbabiUdade é o ramo da matemática onde o assunto de sua carta pode ser tratado. Ela tem hoje dentro da Teoria da Medida um tratamento específico. Ela estuda, exempUficando, processos Estocásticos (uma sequência de experimentos na qual o resultado de cada experimento particular depende de algum elemento de azar). Estocástico provém do grego *stochos* que significa *conjectura.* A Teoria das Probabilidades estuda, também, o comportamento de seqiiências de variáveis Aleatórias (aquelas variáveis que dependem do acaso). Para o que vem a seguir, precisamos da *noção de independência:* dois *acontecimentos* são denominados *independentes* se não têm *nada a ver um com o outro,* isto é, a ocorrência de um não afeta, em média, a ocorrência do outro. Exemplificando: em uma primeira aproximação, as trajetórias de duas moléculas de gás afastadas uma da outra não influem uma sobre a outra; assim, as variáveis aleatórias que descrevem suas trajetórias são independentes. Podemos, agora, dar a seguinte defmição**:<ioÍ5** *eventos A e B são independentes* se a Probabilidade de que eles ocorram simultaneamente é igual ao produto de suas respectivas probabilidades:
+R. Em um mesmo lugar L, se já caiu o raio A, outro raio B, logo depois poderá cair. Essa história de que o raio não cai duas vezes no mesmo lugar não passa de lenda. Isso pode ser ilustrado por um velho cajueiro, aqui, em nosso sítio e sobre o qual já cairam três raios, dois deles em um mesmo dia... A ciência da ProbabiUdade é o ramo da matemática onde o assunto de sua carta pode ser tratado. Ela tem hoje dentro da Teoria da Medida um tratamento específico. Ela estuda, exempUficando, processos Estocásticos (uma sequência de experimentos na qual o resultado de cada experimento particular depende de algum elemento de azar). Estocástico provém do grego _stochos_ que significa _conjectura._ A Teoria das Probabilidades estuda, também, o comportamento de seqiiências de variáveis Aleatórias (aquelas variáveis que dependem do acaso). Para o que vem a seguir, precisamos da _noção de independência:_ dois _acontecimentos_ são denominados _independentes_ se não têm _nada a ver um com o outro,_ isto é, a ocorrência de um não afeta, em média, a ocorrência do outro. Exemplificando: em uma primeira aproximação, as trajetórias de duas moléculas de gás afastadas uma da outra não influem uma sobre a outra; assim, as variáveis aleatórias que descrevem suas trajetórias são independentes. Podemos, agora, dar a seguinte defmição**:<ioÍ5** _eventos A e B são independentes_ se a Probabilidade de que eles ocorram simultaneamente é igual ao produto de suas respectivas probabilidades:
 
 $$P(A \cap B) = P(A) \cdot P(B) \qquad (I)$$
 
@@ -42,30 +42,30 @@ $$\frac{P(A) \cdot P(B)}{P(A)} = P(B);$$
 
 P(A)
 
-logo: P(B, sabendo-se que A ocorreu) = P(B) Assim, Clarisse, a ocorrência de "A" (aquedado raio A em L) não nos informa nada sobre "B" (a queda do raio B sobre L), cuja probabilidade permanece igual a P(B), pois os físicos nos ensianm que "A" e "B" são eventos independentes. Você poderá concluir que L (onde já caiu um raio) não é lugar mais seguro para reaguardar-se do perigo da queda de outro raio. A fórmula (II) é apUcável, igualmente, aos horóscopos pedra central da astrologia. Os astrólogos costumam avahzar afirmativas como esta: *Se você é de Peixes, esta semana você encontrará o grande amor de sua vida.* Temos , aí, dois eventos: *ser de Peixes* e *encontrará esta semana o grande amor de sua vida.* Claramente são dois eventos independentes; o primeiro nada tem a ver com o segundo e vice-versa; logo, podemos apUcar a fórmula (II) e dela inferir que a probabilidade de uma pessoa, que é de Peixes, encontrar esta semana o grande amor de sua vida (por que essa mania de se estar sempre à espera de um grande amor?) é a mesma que a pessoa seja de Peixes, de Câncer, ou de nenhum deles. Agora, a conclusão é óbvia: o lugar apropriado aos horóscopos é a lata de lixo. Mas, cahna! *Se eles fossem uma inutilidade, como explicar que astrónomos notáveis, entre eles, Kepler, fossem seus ardorosos defensores?* Ora, o fato mostra, apenas, que nem os melhores pensadores de uma época conseguem libertar-se inteiramente dos limites sócio-culturais nos quais estão
+logo: P(B, sabendo-se que A ocorreu) = P(B) Assim, Clarisse, a ocorrência de "A" (aquedado raio A em L) não nos informa nada sobre "B" (a queda do raio B sobre L), cuja probabilidade permanece igual a P(B), pois os físicos nos ensianm que "A" e "B" são eventos independentes. Você poderá concluir que L (onde já caiu um raio) não é lugar mais seguro para reaguardar-se do perigo da queda de outro raio. A fórmula (II) é apUcável, igualmente, aos horóscopos pedra central da astrologia. Os astrólogos costumam avahzar afirmativas como esta: _Se você é de Peixes, esta semana você encontrará o grande amor de sua vida._ Temos , aí, dois eventos: _ser de Peixes_ e _encontrará esta semana o grande amor de sua vida._ Claramente são dois eventos independentes; o primeiro nada tem a ver com o segundo e vice-versa; logo, podemos apUcar a fórmula (II) e dela inferir que a probabilidade de uma pessoa, que é de Peixes, encontrar esta semana o grande amor de sua vida (por que essa mania de se estar sempre à espera de um grande amor?) é a mesma que a pessoa seja de Peixes, de Câncer, ou de nenhum deles. Agora, a conclusão é óbvia: o lugar apropriado aos horóscopos é a lata de lixo. Mas, cahna! _Se eles fossem uma inutilidade, como explicar que astrónomos notáveis, entre eles, Kepler, fossem seus ardorosos defensores?_ Ora, o fato mostra, apenas, que nem os melhores pensadores de uma época conseguem libertar-se inteiramente dos limites sócio-culturais nos quais estão
 
-megulhados. Porém, como bem assinala o notável físico contemporâneo David Ruelle, em sua obra: *Acaso e Caos,* Editora UNESP: *há algo de poesia nessas predições de viagens distantes, de encontros românticos, de heranças fabulosas ... e essas profecias são bastante inocentes se não acreditarmos demais nelas.* Este eminente físico contemporâneo, encerra o último capítulo dessa obra com o seguinte trecho: guando *se trata de consciência e de certezas introspectivas, devemos sempre nos lembrar de quanta força e de quanta habilidade a nossa mente usa para se enganar a si mesma. Dentre os ensinamentos da psicanálise, este pelo menos merece não ser rejeitado levianamente.*  Um pequeno esclarecimento: o ensinamento acima sempre foi a procupação maior dos místicos orientais, centenas de anos antes danossaerae, consequentemente, antes da criação da psicanáUse. •
+megulhados. Porém, como bem assinala o notável físico contemporâneo David Ruelle, em sua obra: _Acaso e Caos,_ Editora UNESP: _há algo de poesia nessas predições de viagens distantes, de encontros românticos, de heranças fabulosas ... e essas profecias são bastante inocentes se não acreditarmos demais nelas._ Este eminente físico contemporâneo, encerra o último capítulo dessa obra com o seguinte trecho: guando _se trata de consciência e de certezas introspectivas, devemos sempre nos lembrar de quanta força e de quanta habilidade a nossa mente usa para se enganar a si mesma. Dentre os ensinamentos da psicanálise, este pelo menos merece não ser rejeitado levianamente._ Um pequeno esclarecimento: o ensinamento acima sempre foi a procupação maior dos místicos orientais, centenas de anos antes danossaerae, consequentemente, antes da criação da psicanáUse. •
 
-*Pergunte que o NEMOC Responde é* uma coluna de autoria do prof. Dr. Carloman Carlos Borges e objetiva atingir ao púbUco interessado em Matemática nos seus múltiplos aspectos.
+_Pergunte que o NEMOC Responde é_ uma coluna de autoria do prof. Dr. Carloman Carlos Borges e objetiva atingir ao púbUco interessado em Matemática nos seus múltiplos aspectos.
 
 Caso o leitor queira fazer alguma pergunta escreva-nos.
 
 ## **PRÓXIMO NÚMERO**
 
-*Uma abordagem sobre Piaget e a Matemática.* 
+_Uma abordagem sobre Piaget e a Matemática._
 
-*Aguardem!* 
+_Aguardem!_
 
 #### **DIVERTIMENTOS MATEMÁTICOS**
 
-*Thomaz de Jesus Ramos* 
+_Thomaz de Jesus Ramos_
 
 - 1. Um problema bem antigo e popular, consiste no seguinte: efetuar ligações, para três casas, de água, de luz e telefone, a partir de três centrais diferentes. Casas, centrais e Ugações estão no mesmo plano. Não são permitidas ligações cruzadas.
 - 2. Um dos problemas bem antigos é aquele do árabe milionário que ao morrer deixa de herança para seus três fiUios dezessete camelos, especificando que a partilha deveria obedecer o seguinte: ao filho mais velho, caberá a metade dos camelos, ao seguinte, um terço e, finalmente, ao de menor idade a nona parte. Os jovens herdeiros ficaram desesperados, pois, claramente, tal partilha é impossível a partir dos 17 camelos. Ao procurarem a ajuda de um velho sábio, esterespondeu-Uies: meus filhos, dou-lhes de presente mais um camelo e, agora, repartiremos com vocês 18 camelos. Ao mais velho coube a metade de 18, isto é, 9 camelos; ao seguinte, coube um terço de 18, isto é, 6 camelos e, ao mais jovem, um nono, ou seja, 2 camelos. Como 9 + 6 + 2 = 17, o camelo restante voltou às mãos do sábio e os três irmãos ficaram satisfeitos sem, contudo, entenderem o cálculo envolvido nesta distribuição. Você quer explicar esse truque?
 
-Como resposta ao problema da coluna *Divertimentos Matemáticos,* publicado no *Folhetim* n°56, recebemos da leitora Halley Barreto Azevedo a seguinte solução:
+Como resposta ao problema da coluna _Divertimentos Matemáticos,_ publicado no _Folhetim_ n°56, recebemos da leitora Halley Barreto Azevedo a seguinte solução:
 
-**Casais: A, a, B, b, C, c => maiúsculo=homem => minúsculo=mulher A, B, C, c a,b - > b A,a,B,C, <sup>c</sup>**< **<sup>a</sup> B,C, c A, a b.a A,B,C, c < A A,B C e , C,c A, a, B, b a,b B,b A, a . C,c,A a,B,b <sup>&</sup>lt; a a B,b ^ B,b,C,c, A A, a < <sup>A</sup> A, a A, a,B,b, C, c** 
+**Casais: A, a, B, b, C, c => maiúsculo=homem => minúsculo=mulher A, B, C, c a,b - > b A,a,B,C, <sup>c</sup>**< **<sup>a</sup> B,C, c A, a b.a A,B,C, c < A A,B C e , C,c A, a, B, b a,b B,b A, a . C,c,A a,B,b <sup>&</sup>lt; a a B,b ^ B,b,C,c, A A, a < <sup>A</sup> A, a A, a,B,b, C, c**
 
 ## **NOTÍCIAS**
 
@@ -105,22 +105,22 @@ Envie para cada folhetim um selo de postagem nacional de 1° porte. Dentro de no
 
 #### **NEMOC - NÚCLEO D E EDUCAÇÃO MATEMÁTICA OMAR CATUNDA**
 
-**Folhetim de Educação Matemática Ano 5. n. 58 Setembro/97** 
+**Folhetim de Educação Matemática Ano 5. n. 58 Setembro/97**
 
-**Editores: Carloman e Inácio** 
+**Editores: Carloman e Inácio**
 
-**Editoração e Impressão:Núcleo de Editoração** 
+**Editoração e Impressão:Núcleo de Editoração**
 
-**Gráfica-NUEG** 
+**Gráfica-NUEG**
 
-**Tiragem: 1.000exemplares** 
+**Tiragem: 1.000exemplares**
 
-**Endereço: Av. Universitária, s/n - km 03** 
+**Endereço: Av. Universitária, s/n - km 03**
 
-**BR 116 - Campus Universitário** 
+**BR 116 - Campus Universitário**
 
-**Telefone: (075)224-8115** 
+**Telefone: (075)224-8115**
 
-**Fax: (075)224-2284-CEP44031-460 Feira de Santana - BA - BRASIL** 
+**Fax: (075)224-2284-CEP44031-460 Feira de Santana - BA - BRASIL**
 
 **e-mail: nemoc@uefs.br**

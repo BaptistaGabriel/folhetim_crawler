@@ -72,11 +72,11 @@ Esta apresentação sugere que a Matemática é estruturada como uma linguagem, 
 sofos, etc., avançam a tese de que a natureza está estruturada como uma linguagem. O desenvolvimento deste tema você pode apreciar lendo o belissimo livro do astrofisico francês Hubert Reeves. A hora do deslumbramento, com o subtitulo o universo tem um sentido? Nesta direção, a água é uma palavra formada pelas letras hidrogênio e oxigênio... Vejamos, agora, algumas questões em torno dos número primos, questões curiosas e embaraçosas. Começamos com a pergunta: quantos números primos existem? Apesar de conhecermos apenas um número finito de números primos, existem infinitos números primos. Coisa estranha, hein? Onde se acha a estranheza? No seguinte: os matemáticos não conhecem todos os números primos e jamais atingirão tal conhecimento, porém, afirmam que eles são em número infinito. Isto faz parte da natureza da Matemática: provar a existência de algo com base na ausência de contradição. A existência de um número finito de múmeros primos leva a uma contradição; para afastar esta, conclui-se pela existência de uma infinidade daqueles números. Vejamos, agora, algumas questões curiosas e embaraçosas que você, Claudene, pode apresentar aos seus alunos como motivação. De quando em quando, aparecem pares de números impares consecutivos, ambos primos, como: 5,7; 11,13; 17,19; 29,31; 41,43. Acredita-se que a proposição de que existem infinitos pares deste tipo é certa, porém, até hoje, ninguém sabe Um senhor de nome Goldbach (1690-1764) surge nas páginas de qualquer História da Matemática unicamente porque notou que qualquer número par maior que 2 pode ser escrito como a soma de dois primos.
 
 $$4 = 2 + 2$$
-  
- $6 = 3 + 3$   
- $8 = 3 + 5$   
- $12 = 5 + 7$   
- $14 = 5 + 9$  etc.
+
+$6 = 3 + 3$  
+ $8 = 3 + 5$  
+ $12 = 5 + 7$  
+ $14 = 5 + 9$ etc.
 
 Este palpite de Goldbach ainda não foi demonstra-
 

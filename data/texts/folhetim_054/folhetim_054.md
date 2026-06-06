@@ -12,7 +12,7 @@ Este Folhetim é um veículo de divulgação, circulação de idéias e de estí
 
 #### **EDITORIAL**
 
-Queremos agradecer aos leitores que nos enviaram a ficha de avaliação anexa ao *Folhetim* nº 48. Certamente você é um deles, pois conforme anunciado em números anteriores, a devolução da ficha preenchida condicionaria o recebimento dos próximos números.
+Queremos agradecer aos leitores que nos enviaram a ficha de avaliação anexa ao _Folhetim_ nº 48. Certamente você é um deles, pois conforme anunciado em números anteriores, a devolução da ficha preenchida condicionaria o recebimento dos próximos números.
 
 Neste número, que é o primeiro de 1997, incluimos uma coluna nova intitulada "Divertimentos Matemáticos". Esta coluna é uma colaboração do Prof. Thomaz de Jesus Ramos.
 
@@ -38,7 +38,7 @@ Nunca é demais ressaltar que a condição mais importante para se falar com pro
 
 Resposta: ausência completa de unidade metodológica e, por via de conseqüência, desenvolvimentos desorganizados dos assuntos alí tratados. Alguns exemplos ilustrarão a tese. Emprimeiro lugar, os autores desses manuais fizeramuma partição no saber matemático; assim, são apresentadas, de modo dicotômico, as disciplinas: Álgebra Linear, Geometria Analítica, Equações Diferenciais Lineares; no segundo grau, só para ficar em um exemplo, Trigonometria e Números Complexos. Tais partições servem, entre outras coisas, para criar o grande hiato entre o ensino secundário e o ministado em nossas universidades.
 
-Este descompasso poderia ser suavizado com Introdução de Álgebra Linear e o retorno do Cálculo no segundo grau. A primeira, sendo uma das estruturas fundamentais da Matemática, poderia servir de papel unificador entre diversas disciplinas. Desesperados com tal situação, alguns (poucos) competentes e honestos escritores de manuais apelam para alguns recursos válidos na aprendizagem: os recursos audiovisuais; porém, estão exagerando na dose: alguns desses livros assemelham-se mais a histórias em quadrinhos, agora, coloridas e atraentes. Criticamos o exagero, quando modernas pesquisas indicam ser o abuso de recursos audio-visuais prejudiciais ao desenvolvimento da abstração, à habilidade de trabalhar com o geral, que é uma das metas de qualquer ensino teórico e, sobretudo da Matemática, Um probelma central entre tantos outros: as relações entre forma e conteúdo. Isto parece não ser levado em conta quando se trata de matemática. exemplifico: o aluno aprende que ab = 0 sendo  $a \in b$  reais, implica na nulidade de a ou de b. Pois bem, em seguida pedimos-lhe para mostrar: se abc = 0, então a = 0 ou b = 0 ou c = 0. Além de surpreso ele se mostra incapaz de resolver a questão. Muitas vezes alguns professores nos procuram a fim de lhes tirarmos dúvidas pertinentes às operações com outros sistemas de bases diferentes da base dez. Tudo isto evidencia que o entendimento dos processos empregados - isto é, o conteúdo - não foi suficientemente "passado" ao aluno. Algum tempo atrás tivemos a oportunidade de ler em uma prestigiosa revista estrangeira artigo de uma especialista defendendo a louvável tese da inserção do ensino na cultura popular. Para tal, ela exibe o hábito de alguns camponeses nordestinos medirem área assim: a área de um triângulo é a média aritmética de 2 dos lados vezes a metade do terceiro lado. Após a exibição, a autora do artigo critica a maneira como a escola aborda o problema, uma maneira, segundo ela, incompatível com a cultura da região! Vejam bem: seguindo este método, podemos atribuir a uma mesma figura plana (numa mesma escala) dois números diferentes dependendo da escolha do primeiro par de lados! Isto é realmente surpreendente!
+Este descompasso poderia ser suavizado com Introdução de Álgebra Linear e o retorno do Cálculo no segundo grau. A primeira, sendo uma das estruturas fundamentais da Matemática, poderia servir de papel unificador entre diversas disciplinas. Desesperados com tal situação, alguns (poucos) competentes e honestos escritores de manuais apelam para alguns recursos válidos na aprendizagem: os recursos audiovisuais; porém, estão exagerando na dose: alguns desses livros assemelham-se mais a histórias em quadrinhos, agora, coloridas e atraentes. Criticamos o exagero, quando modernas pesquisas indicam ser o abuso de recursos audio-visuais prejudiciais ao desenvolvimento da abstração, à habilidade de trabalhar com o geral, que é uma das metas de qualquer ensino teórico e, sobretudo da Matemática, Um probelma central entre tantos outros: as relações entre forma e conteúdo. Isto parece não ser levado em conta quando se trata de matemática. exemplifico: o aluno aprende que ab = 0 sendo $a \in b$ reais, implica na nulidade de a ou de b. Pois bem, em seguida pedimos-lhe para mostrar: se abc = 0, então a = 0 ou b = 0 ou c = 0. Além de surpreso ele se mostra incapaz de resolver a questão. Muitas vezes alguns professores nos procuram a fim de lhes tirarmos dúvidas pertinentes às operações com outros sistemas de bases diferentes da base dez. Tudo isto evidencia que o entendimento dos processos empregados - isto é, o conteúdo - não foi suficientemente "passado" ao aluno. Algum tempo atrás tivemos a oportunidade de ler em uma prestigiosa revista estrangeira artigo de uma especialista defendendo a louvável tese da inserção do ensino na cultura popular. Para tal, ela exibe o hábito de alguns camponeses nordestinos medirem área assim: a área de um triângulo é a média aritmética de 2 dos lados vezes a metade do terceiro lado. Após a exibição, a autora do artigo critica a maneira como a escola aborda o problema, uma maneira, segundo ela, incompatível com a cultura da região! Vejam bem: seguindo este método, podemos atribuir a uma mesma figura plana (numa mesma escala) dois números diferentes dependendo da escolha do primeiro par de lados! Isto é realmente surpreendente!
 
 Mais ainda: a sua publicação em uma prestigiosa revista estrangeira! Evidentemente, a autora em questão ouviu cantar o galo e procurou-o num sentido oposto onde ele se encontrava. Ainda nesta década de 90. foi realizado em um país desse infeliz terceiro mundo Seminário Internacional sobre Aprendizagem ao qual compareceram milhares de participantes - na maioria, professores do 1º e 2º graus. Foi uma louvável iniciativa de um poder público realmente preocupado com o descalabro da educação. Muita coisa boa foi dita nesse seminário referente à pauta. Porém. uma especialista em educação matemática, entre outras tolices, afirmou: a geometria é uma espécie em extinção; se desejarmos ensiná-la não temos mais a quem recorrer, pois. acrescenta, os matemáticos não se dedicam mais à geometria. Frases como estas apresentadas por pessoas rotuladas de especialistas e proferidas com sotaque estrangeiro e sem maiores explicitamentos só podem causar prejuízos aos milhares de incautos ouvintes.
 
@@ -56,19 +56,19 @@ Aguardem!
 
 ### **DIVERTIMENTOS MATEMÁTICOS**
 
-A partir deste número vamos contar com a colaboração do Prof. Thomaz de Jesus Ramos, responsável pela coluna *Divertimentos Matemáticos*. Os problemas propostos nesta coluna serão respondidos no número 56. Qualquer leitor poderá enviar suas soluções.
+A partir deste número vamos contar com a colaboração do Prof. Thomaz de Jesus Ramos, responsável pela coluna _Divertimentos Matemáticos_. Os problemas propostos nesta coluna serão respondidos no número 56. Qualquer leitor poderá enviar suas soluções.
 
 # Divertimentos Matemáticos Thomaz de Jesus Ramos
 
-1. Números *Palíndromos* são aqueles que não mudam de valor quando lidos da esquerda para a direita ou da direita para a esquerda, como, exemplificando 123456787654321.
+1. Números _Palíndromos_ são aqueles que não mudam de valor quando lidos da esquerda para a direita ou da direita para a esquerda, como, exemplificando 123456787654321.
 
-A palavra *palíndromo* é de origem grega: *palin* (voltar, retornar) e *dromo* (pista, caminho). Assim, etimologicamente, *palíndromo* quer dizer: *voltar pelo mesmo caminho*.
+A palavra _palíndromo_ é de origem grega: _palin_ (voltar, retornar) e _dromo_ (pista, caminho). Assim, etimologicamente, _palíndromo_ quer dizer: _voltar pelo mesmo caminho_.
 
 Observemos o quadro abaixo onde aparecem alguns desses números:
 
- $1 = 1^{2}$   $121 = 11^{2}$   $12321 = 111^{2}$   $1234321 = 1111^{2}$   $123454321 = 11111^{2}$   $12345654321 = 111111^{2}$   $1234567654321 = 11111111^{2}$   $12345678987654321 = 111111111^{2}$   $12345678987654321 = 111111111^{2}$ 
+$1 = 1^{2}$ $121 = 11^{2}$ $12321 = 111^{2}$ $1234321 = 1111^{2}$ $123454321 = 11111^{2}$ $12345654321 = 111111^{2}$ $1234567654321 = 11111111^{2}$ $12345678987654321 = 111111111^{2}$ $12345678987654321 = 111111111^{2}$
 
- $12345678987654321 = 123456789 \times 999999999$ 
+$12345678987654321 = 123456789 \times 999999999$
 
 Veja os números famosos: 666 (número da Besta do Apocalipse - livro que encerra as revelações de São João Evangelista sobre o fim do mundo), 33 (idade de Jesus), 1001 (que aparece no título da famosa obra literária: O Livro das Mil e Uma Noites, cuja leitura serviu para embalar o sono de muitas crianças).
 
@@ -77,11 +77,11 @@ Veja os números famosos: 666 (número da Besta do Apocalipse - livro que encerr
 
 12345679. Multiplique-o por 7 e, em seguida por 9. Qual o resultado? Claramente: 77777777. Com o mesmo número dado, multiplique-o por qualquer outro (de um só algarismo) e em seguida por 9. Uma surpresa estará esperando por você.
 
-4. O valor da expressão:
+12345680. O valor da expressão:
 
 $$(x^4 + x^3 + x^2 + x + 1 + 2)(x^4 - x^3 + x^2 - x + 1 - 2)$$
-  
- $(x^4 + x^3 + x^2 + x + 1 + 2)(x^4 - x^3 + x^2 - x + 1 - 2)$ 
+
+$(x^4 + x^3 + x^2 + x + 1 + 2)(x^4 - x^3 + x^2 - x + 1 - 2)$
 
 não se altera se eliminarmos ambas as frações, isto é, é igual ao valor da expressão:
 
@@ -89,15 +89,15 @@ $$(x^4 + x^3 + x^2 + x + 1) (x^4 - x^3 + x^2 - x + 1)$$
 . Por quê?  
 5. "Há aqui três afirmações falsas. Identifique-as:
 
-a)  $2 \times 3 = 6$ 
+a) $2 \times 3 = 6$
 
 b) 2 + 7 = 3
 
-c)  $3 \times 5 = 15$ 
+c) $3 \times 5 = 15$
 
-d)  $5 \times 6 = 30$ 
+d) $5 \times 6 = 30$
 
-e)  $6 \times 7 = 47$ "
+e) $6 \times 7 = 47$ "
 
 Resposta: Claramente, as afirmações (b) e (e) são falsas. E a terceira afirmação falsa? A afirmação inicial de que há três afirmações falsas é, ela própria, falsa, o que a transforma na terceira afirmação. Ou será que não?
 

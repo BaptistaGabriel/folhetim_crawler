@@ -42,8 +42,8 @@ $$P(n+1): a^m.a^{n+1} = a^{m+n+1}$$
 Prova: Temos:
 
 $$a^{m}.a^{n+1} = a^{m}.(a^{n}.a) = (a^{m}.a^{n}).a$$
-  
-=  $a^{m+n}.a = a^{m+n+1}$ 
+
+= $a^{m+n}.a = a^{m+n+1}$
 
 As igualdades acima justificam-se pelo uso, nessa ordem, da defini¸c˜ao, da lei associativa, da hip´otese de indu¸c˜ao e novamente, da defini¸c˜ao.
 
@@ -61,8 +61,8 @@ $$P(n+1): (a^m)^{n+1} = a^{m+n+1}$$
 Prova:
 
 $$(a^m)^{n+1} = (a^m)^n \cdot a^m = a^{mn} \cdot a^m =$$
-  
-=  $a^{mn+n} = a^{m(n+1)}$ 
+
+= $a^{mn+n} = a^{m(n+1)}$
 
 As igualdades acima justificam-se pelo uso, nessa ordem, da defini¸c˜ao, da hip´otese de indu¸c˜ao, da propriedade (I) e da distributividade.
 
@@ -172,9 +172,9 @@ sendo u e v funções de x que possuem derivadas de qualquer ordem no intervalo 
 
 Temos:
 
-i) Para 
+i) Para
 $$n = 1$$
-:  $(u.v)^{(1)} = C_1^0 u^{(1)} v + C_1^1 u v^{(1)} =$ 
+: $(u.v)^{(1)} = C_1^0 u^{(1)} v + C_1^1 u v^{(1)} =$
 
 = u'.v + u.v'
 
@@ -192,7 +192,7 @@ Daí em diante, a marcha é inteiramente análoga ao exercício anterior.
 
 $$P(n): \begin{cases} u_0 = u_1 = u_2 = 1\\ u_n = \left[\frac{u_{n-1} + u_{n-2} + u_{n-3}}{3}\right], & n \ge 3 \end{cases}$$
 
-Mostrar que  $u_n = 1$  para qualquer natural n. Temos:
+Mostrar que $u_n = 1$ para qualquer natural n. Temos:
 
 i) Para n = 0, 1 e 2, a propriedade se verifica, pois:
 
@@ -210,18 +210,18 @@ Logo, a proposição é verdadeira para qualquer n natural.
 Observação: é importante ressaltar que se trata de um caso particular de recorrência, pois a propriedade tem de se verificar para n=0,1,2; uma vez que não se verificasse para n=2, o raciocínio seria falso. Por exemplo: uma sequência de números reais é definida como segue,
 
 $$u_0 = u_1 = 1$$
- 
+
 $$u_2 = 4$$
- 
+
 $$u_n = \left[\frac{u_{n-1} + u_{n-2} + u_{n-3}}{3}\right], \quad n \ge 3$$
 
-É fácil mostrar que a proposição é verdadeira para n=0,1 e, em seguida, se ela é verdadeira para n-1, n-2 e n-3, resulta ser verdadeira para qualquer n; porém, se trata de um raciocínio falso pois, para n=2, tem-se  $u_2=4$ , para n=3, tem-se  $u_3=2$ , etc.
+É fácil mostrar que a proposição é verdadeira para n=0,1 e, em seguida, se ela é verdadeira para n-1, n-2 e n-3, resulta ser verdadeira para qualquer n; porém, se trata de um raciocínio falso pois, para n=2, tem-se $u_2=4$ , para n=3, tem-se $u_3=2$ , etc.
 
 **Exemplo 11.** Consideremos a assim fórmula de Moivre:
 
 $$[\rho(\cos x + i \sin x)]^n = \rho^n[(\cos(nx) + i \sin(nx))]$$
 
-na qual  $\rho$  é um número natural,  $-\pi \le x \le \pi$ ,  $i = \sqrt{-1}$  e n um número natural qualquer.
+na qual $\rho$ é um número natural, $-\pi \le x \le \pi$ , $i = \sqrt{-1}$ e n um número natural qualquer.
 
 Temos:
 
@@ -248,7 +248,7 @@ A hipótese de indução justifica a segunda igualdade.
 
 $$P(n): \frac{1}{2} + \cos a + \cos 2a + \dots + \cos na = \frac{sen\frac{2n+1}{2}a}{2sen\frac{a}{2}}$$
 
-Vamos mostrar que P(n) é satisfeita para qualquer n inteiro maior ou igual a zero, com a restrição, naturalmente, de que a que é um número real, seja diferente de um múltiplo inteiro de  $2\pi$ .
+Vamos mostrar que P(n) é satisfeita para qualquer n inteiro maior ou igual a zero, com a restrição, naturalmente, de que a que é um número real, seja diferente de um múltiplo inteiro de $2\pi$ .
 
 i) Para n=0, temos:
 
@@ -269,8 +269,8 @@ $$= \frac{sen\frac{2n+3}{2}a}{2sen\frac{a}{2}} \quad (I)$$
 A demonstração termina se mostrarmos a validade de (I). Ora, podemos reescrever (I) na seguinte forma:
 
 $$sen \frac{2n+3}{2}a - sen \frac{2n+1}{2} =$$
-  
-=  $2 sen \frac{a}{2} cos((n+1)a)$  (II)
+
+= $2 sen \frac{a}{2} cos((n+1)a)$ (II)
 
 Em (II) temos, no primeiro membro, a diferença entre dois senos e esta, pela Trigonometria, é igual ao segundo membro de (II).
 

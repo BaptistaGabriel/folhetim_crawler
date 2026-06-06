@@ -66,4 +66,4 @@ No próximo número, as respostas para: É correto afirmar que a Matemática, co
 
 Aguardem!
 
- $\{(a,b)\}^{n}(a,b) = \{(a,b)\}^{n}(a,b)$
+$\{(a,b)\}^{n}(a,b) = \{(a,b)\}^{n}(a,b)$

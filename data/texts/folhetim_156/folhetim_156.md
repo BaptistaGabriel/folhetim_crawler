@@ -25,35 +25,35 @@ Surgiu, ent˜ao, a necessidade de novos n´umeros, os n´umeros racionais, como 
 Para simplificar a apresentação dessa questão, consideremos o problema da medida de segmentos. Seja o segmento AB; medi-lo, significa compará-lo com outro segmento CD, chamado de unitário; o resultado dessa comparação é um número que é a medida do segmento AB e será indicado por m(AB). Estes conceitos retratam o primeiro conhecimento, talvez, que o homem teve do problema da medida. Como fazer a comparação dos segmentos AB e CD? Basta sobrepor este último sobre aquele; desta sobreposição pode resultar:
 
 - (a) o segmento CD cabe um número exato de vezes no segmento AB;
-- (b) o segmento CD  $n\tilde{a}o$  cabe um número exato de vezes no segmento AB,  $por\acute{e}m$ , um pedaço de CD, cabe exatamente um número de vezes em AB:
+- (b) o segmento CD $n\tilde{a}o$ cabe um número exato de vezes no segmento AB, $por\acute{e}m$ , um pedaço de CD, cabe exatamente um número de vezes em AB:
 - (c) não acontece nem a alternativa (a), nem a alternativa (b).
 
 Quando se verifica (a), diremos que a medida do segmento AB é um n'umero inteiro; a medida de AB é um n'umero irracional quando se verifica (c). Na hipótese (a) temos, graficamente:
 
 ![](_page_1_Picture_7.jpeg)
 
-Note que,  $m(AB) = 7 \times m(CD)$ ; como CD é unitário, isto é, de comprimento igual a 1, temos, simplesmente: m(AB) = 7.
+Note que, $m(AB) = 7 \times m(CD)$ ; como CD é unitário, isto é, de comprimento igual a 1, temos, simplesmente: m(AB) = 7.
 
 Na hipótese (b) vem, graficamente:
 
 ![](_page_1_Picture_10.jpeg)
 
-Temos 
+Temos
 $$m(AB) = 9 \times m(EF)$$
- e  $m(CD) = 6 \times m(EF)$ , donde 
+e $m(CD) = 6 \times m(EF)$ , donde
 $$m(AB) = \frac{9}{6}$$
 
 Uma simples inspeção visual na figura anterior, sugere que a comparação AB com CD poderia ser mais simples:
 
 ![](_page_1_Picture_13.jpeg)
 
-Temos  $m(AB) = 3 \times m(EF)$  e  $m(CD) = 2 \times m(EF)$ , donde:
+Temos $m(AB) = 3 \times m(EF)$ e $m(CD) = 2 \times m(EF)$ , donde:
 
 $$m(AB) = \frac{3}{2}$$
 
-Consideremos mais atentamente a hipótese (b). Notemos que a ideia básica, neste caso, foi a mesma empregada em (a) ou melhor, conhecendo-se o procedimento (a) e perante uma situação desconhecida (b), nós reduzimos esta àquela. Este princípio é o Princípio de Redução do Desconhecido ao Conhecido, amplamente empregado nas ciências e, particularmente, em Matemática. Vamos, agora, introduzir mais alguns novos conceitos: ao segmento EF damos o nome de  $submúltiplo\ comum\ de\ AB\ e\ de\ CD$ . Como os segmentos  $AB \in CD$  possuem uma medida comum que  $\acute{e}$  o segmento EF, diremos que estes dois segmentos são comensuráveis. Considerando no caso (a) o segmento CD como sua própria medida, podemos estender o conceito de comensurabilidade também para eles, dizendo que os segmentos  $AB \in CD$ , tanto em (a)como em (b) são comensuráveis, isto é, admitem uma medida comum.
+Consideremos mais atentamente a hipótese (b). Notemos que a ideia básica, neste caso, foi a mesma empregada em (a) ou melhor, conhecendo-se o procedimento (a) e perante uma situação desconhecida (b), nós reduzimos esta àquela. Este princípio é o Princípio de Redução do Desconhecido ao Conhecido, amplamente empregado nas ciências e, particularmente, em Matemática. Vamos, agora, introduzir mais alguns novos conceitos: ao segmento EF damos o nome de $submúltiplo\ comum\ de\ AB\ e\ de\ CD$ . Como os segmentos $AB \in CD$ possuem uma medida comum que $\acute{e}$ o segmento EF, diremos que estes dois segmentos são comensuráveis. Considerando no caso (a) o segmento CD como sua própria medida, podemos estender o conceito de comensurabilidade também para eles, dizendo que os segmentos $AB \in CD$ , tanto em (a)como em (b) são comensuráveis, isto é, admitem uma medida comum.
 
-Ainda, generalizando tais situações: consideremos que CD contém EF n vezes, logo, a medida EF é  $\frac{1}{n}$  e, consequentemente, a medida AB é  $m \times \frac{1}{n}$ , isto é,  $m(AB) = \frac{m}{n}$ , pois, AB contém exatamente m segmentos iguais a EF. E a hipótese (c)? Quando a comparação entre dois segmentos não se enquadra em nenhum dos casos (a) ou (b)? Dois segmentos que não possuem medida comum são ditos incomensuráveis. Até aqui temos considerado a prática como a força predominante na aquisição dos primeiros conhecimentos matemáticos mas, para todas as atividades práticas, os casos (a) ou (b) são suficientes. Praticamente, as
+Ainda, generalizando tais situações: consideremos que CD contém EF n vezes, logo, a medida EF é $\frac{1}{n}$ e, consequentemente, a medida AB é $m \times \frac{1}{n}$ , isto é, $m(AB) = \frac{m}{n}$ , pois, AB contém exatamente m segmentos iguais a EF. E a hipótese (c)? Quando a comparação entre dois segmentos não se enquadra em nenhum dos casos (a) ou (b)? Dois segmentos que não possuem medida comum são ditos incomensuráveis. Até aqui temos considerado a prática como a força predominante na aquisição dos primeiros conhecimentos matemáticos mas, para todas as atividades práticas, os casos (a) ou (b) são suficientes. Praticamente, as
 
 ## NEMOC - NÚCLEO DE EDUCAÇÃO MATEMÁTICA OMAR CATUNDA
 
@@ -67,19 +67,19 @@ Quando desejamos pensar sobre algo, o primeiro esforço de nossa vontade parece 
 
 A criação dos números irracionais é um bom exemplo desse poder criador, guiado sempre, em cada dedução, pelo princípio da não contradição ou da compatibilidade lógica, o qual consiste em não admitir, numa mesma dedução, como verdadeiras, duas proposições logicamente contraditórias. É impossível, logicamente, negarmos a existência de números irracionais, apesar da "evidência" de que, dados dois segmentos, sempre podemos compará-los de acordo com a hipótese (a) ou a hipótese (b).
 
-Vejamos como as coisas se passam: primeiro, confiados naquela "evidência", negamos a existência dos números irracionais; isto implica que, dado qualquer segmento AB, podemos sempre escrever:  $m(AB) = \frac{m}{n}$  (1); segundo, imaginemos um triângulo retângulo com os dois catetos com medidas iguais a 1 (ver figura a seguir); terceiro:  $m(AB) = \frac{m}{n}$  - conforme (1); porém, conforme o Teorema de Pitágoras, podemos escrever, também:  $m(AB) = \sqrt{2}$  (2), comparando (1) com (2),
+Vejamos como as coisas se passam: primeiro, confiados naquela "evidência", negamos a existência dos números irracionais; isto implica que, dado qualquer segmento AB, podemos sempre escrever: $m(AB) = \frac{m}{n}$ (1); segundo, imaginemos um triângulo retângulo com os dois catetos com medidas iguais a 1 (ver figura a seguir); terceiro: $m(AB) = \frac{m}{n}$ - conforme (1); porém, conforme o Teorema de Pitágoras, podemos escrever, também: $m(AB) = \sqrt{2}$ (2), comparando (1) com (2),
 
 ![](_page_2_Picture_6.jpeg)
 
 Triângulo retângulo com dois lados iguais: m(AC) = m(CB) = 1
 
-temos  $\sqrt{2} = \frac{m}{n}$  (3), e esta igualdade nos diz ser o número  $\sqrt{2}$  um número racional.
+temos $\sqrt{2} = \frac{m}{n}$ (3), e esta igualdade nos diz ser o número $\sqrt{2}$ um número racional.
 
-Ora, é muito fácil mostrar que  $\sqrt{2}$  não é um número racional pois, se o fosse, teríamos, elevando ao quadrado ambos os membros de (3):  $2n^2 = m^2$  igualdade falsa, pois os números  $m^2$  e  $n^2$ , decompostos em fatores primos, contêm cada um dos seus fatores primos um número par de vezes; assim,  $2n^2$  contêm um número ímpar de fatores primos e, consequentemente, a igualdade  $2n^2 = m^2$  é falsa e, com ela, a suposição inicial de que  $\sqrt{2}$  é um número racional.
+Ora, é muito fácil mostrar que $\sqrt{2}$ não é um número racional pois, se o fosse, teríamos, elevando ao quadrado ambos os membros de (3): $2n^2 = m^2$ igualdade falsa, pois os números $m^2$ e $n^2$ , decompostos em fatores primos, contêm cada um dos seus fatores primos um número par de vezes; assim, $2n^2$ contêm um número ímpar de fatores primos e, consequentemente, a igualdade $2n^2 = m^2$ é falsa e, com ela, a suposição inicial de que $\sqrt{2}$ é um número racional.
 
-A descoberta da irracionalidade do número  $\sqrt{2}$  foi obra dos gregos e causou grande impacto entre os matemáticos da época e, até mesmo, entre os filósofos. Para aclarar melhor esta descoberta, consideremos o conjunto dos números racionais.
+A descoberta da irracionalidade do número $\sqrt{2}$ foi obra dos gregos e causou grande impacto entre os matemáticos da época e, até mesmo, entre os filósofos. Para aclarar melhor esta descoberta, consideremos o conjunto dos números racionais.
 
-O conjunto dos números racionais possui uma propriedade notável: dados dois números racionais quaisquer, m e n, entre eles sempre podemos colocar outro número racional. Realmente, se os números são, por exemplo, 3 e 7, entre eles podemos colocar, sua soma dividida por dois, 5; entre m e n, podemos colocar o número  $\frac{m+n}{2}$  que é um número racional. Dizer que entre dois números racionais quaisquer é sempre possível colocar um número racional é equivalente afirmar que entre dois números racionais quaisquer é possível colocar infinitos números racionais. Esta propriedade chama-se densidade. Dizemos que o conjunto dos números racionais é denso. Pois bem, apesar da densidade, os números racionais não "enchem" inteiramente a reta e isto parece estranho à nossa intuição comum.
+O conjunto dos números racionais possui uma propriedade notável: dados dois números racionais quaisquer, m e n, entre eles sempre podemos colocar outro número racional. Realmente, se os números são, por exemplo, 3 e 7, entre eles podemos colocar, sua soma dividida por dois, 5; entre m e n, podemos colocar o número $\frac{m+n}{2}$ que é um número racional. Dizer que entre dois números racionais quaisquer é sempre possível colocar um número racional é equivalente afirmar que entre dois números racionais quaisquer é possível colocar infinitos números racionais. Esta propriedade chama-se densidade. Dizemos que o conjunto dos números racionais é denso. Pois bem, apesar da densidade, os números racionais não "enchem" inteiramente a reta e isto parece estranho à nossa intuição comum.
 
 Vimos assim que, enquanto os números racionais são uma abstração do problema da medida, os números irracionais são uma exigência da compatibilidade lógica. Embora criação da mente, os números irracionais não poderiam ser criados antes dos números racionais pois, como acabamos de verificar, todo o nosso raciocínio lógico nesta construção foi baseada, inicialmente, nos números racionais e este processo não poderia ser invertido pelo simples fato da realidade circundante ao homem primitivo, devido à sua simplicidade, não apresentar problemas práticos para servirem de inspiração a tal criação.
 

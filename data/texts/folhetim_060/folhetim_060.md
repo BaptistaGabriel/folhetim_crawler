@@ -12,7 +12,7 @@ Este Folhetim é um veículo de divulgação, circulação de idéias e de estí
 
 #### **EDITORIAL**
 
-Neste número, o professor Carloman Carlos Borges em sua coluna *Pergunte que o NEMOC Responde*, volta a fazer sérias reflexões sobre Construtivismo (veja abordagem anterior no Folhetim n° 55).
+Neste número, o professor Carloman Carlos Borges em sua coluna _Pergunte que o NEMOC Responde_, volta a fazer sérias reflexões sobre Construtivismo (veja abordagem anterior no Folhetim n° 55).
 
 Chama a atenção para a rotulação de livros didáticos com "abordagem construtivista", que em seu conteúdo porém, apresenta os assuntos de forma linear.
 
@@ -40,24 +40,24 @@ Nessa representação estamos refletindo um mundo que existe independentemente? 
 
 CONSTRUTIVISTA; porém, o assunto é següencial. linear. Claramente, no ensino dessa ciência há que respeitar algumas cadeias lineares. Não se deve ensinar determinados algoritmos a pessoas desprovidas de qualquer compreensão sobre os elementos simbólicos neles empregados. Estabelecer, porém, uma sequência, uma linearidade entre, exemplificando, o ensino de derivada e da integral, isto é, afirmar a necessidade da precedência do ensino de derivada para a compreensão da integral, como se verifica na maioria esmagadora de nossos manuais escolares, é defender um princípio sem justificativa lógica e mesmo sem apoio histórico. Somente a unanimidade livresca isto é, o hábito da maior parte dos autores desses manuais escolares reproduzirem o que outros que lhe antecederam escreveram sobre o mesmo assunto justificaria tal apresentação. Lembramos que o maior livro sobre Cálculo Diferencial e Integral escrito no século XX (estamos nos referindo ao Cálculo Diferencial e Integral de Richard Courant) mostra muito bem alternativas para o desenvolvimento do assunto. Nessa mesma linha, mencionamos o excelente Cálculo de Tom M. Apostol. São exemplos de autores criativos. A grade curricular do ensino de matemática desde o fundamental exibe uma linearidade que deve ser urgentemente discutida. Fora raras exceções, a ordem na distribuição dos assuntos não é uma ordem necessária. Uma discussão a esse respeito poderia, talvez, enriquecer, em muito, a pedagogia da matemática. Ainda mais um exemplo: o ensino da Geometria Analítica; aqui, problemas há de mais fácil resolução com o emprego dos métodos algébricos sem qualquer menção aos recursos de métodos vetoriais e vice-versa, outras vezes torna-se bem mais fácil o emprego desses objetos. Uma metodologia para essa disciplina deve considerar tais alternativas. Veja como isso é feito de modo sério e competente lendo Coordenadas no Plano, de Elon Lages Lima, com a colaboração de Paulo Cezar Pinto Carvalho, Coleção do Professor de Matemática, Sociedade Brasileira de Matemática. O Construtivismo em matemática liga-se ao problema de existência. Como se prova a existência de um objeto? Os matemáticos o fazem, pelo menos, de dois modos distintos: a) através da construção de um exemplo bem claro do dito objeto e b) através de uma demonstração puramente lógica, isto é, mostra-se que a não existência do objeto conduziria a uma contradição. Vejamos dois exemplos elucidativos, respectivamente, de (a) e (b). Mostremos que há uma infinidade de números primos:
 
-- 1 Sejam  $p_1, p_2, ..., p_n$  elementos de um conjunto finito qualquer de números primos.
-- 2 Vamos construir o número:  $p_1 \cdot p_2 \cdot \dots \cdot p_n + 1$ , o qual não é claramente divisível por nenhum dos números  $p_1, p_2, \dots, p_n$ . Logo, esse número é primo ou é divisível por outro número primo p.
-- 3-Em qualquer uma das hipóteses mencionadas, deve existir um número primo que não pertence ao conjunto,  $p_1, p_2, \dots, p_n$ ; conseqüentemente, o conjunto dos números primos é infinito. De uma maneira mais tangível e, exemplificando, tem-se: a seguinte construção:
+- 1 Sejam $p_1, p_2, ..., p_n$ elementos de um conjunto finito qualquer de números primos.
+- 2 Vamos construir o número: $p_1 \cdot p_2 \cdot \dots \cdot p_n + 1$ , o qual não é claramente divisível por nenhum dos números $p_1, p_2, \dots, p_n$ . Logo, esse número é primo ou é divisível por outro número primo p.
+- 3-Em qualquer uma das hipóteses mencionadas, deve existir um número primo que não pertence ao conjunto, $p_1, p_2, \dots, p_n$ ; conseqüentemente, o conjunto dos números primos é infinito. De uma maneira mais tangível e, exemplificando, tem-se: a seguinte construção:
 
- $N_1 = 2.3 + 1 = 7$  (novo número primo)
+$N_1 = 2.3 + 1 = 7$ (novo número primo)
 
- $N_2 = 2.3.7 + 1 = 43$  (novo número primo)
+$N_2 = 2.3.7 + 1 = 43$ (novo número primo)
 
-Quando N, não for primo, evidentemente ele conterá entre seus divisores, pelo menos um número primo não encontrado anteriormente. A conhecida demonstração por absurdo - uma das mais importantes contribuições metodológicas dos gregos à matemática - é fundamentada no princípio lógico clássico denominado de terceiro excluído: dada a proposição p, ou p ou sua negação não p é verdadeira; não há, quanto ao valor de p uma terceira alternativa. Na arrumação de uma demonstração por absurdo nós substituímos o teorema:  $(H \Rightarrow T)$ , por  $[(H \land \neg T) \Rightarrow f]$ , estabelecendo, assim a tautologia:  $[(H \Rightarrow T) \Leftrightarrow (H \land \sim T) \Rightarrow f]$ na qual HeT representam, respectivamente, a hipótese e a tese do teorema, e f significa falsidade. Vejamos a seguinte demonstração, por esse método, do teorema: existem números irracionais a e b tais que o número: ab é racional. Abaixo a demonstração:
+Quando N, não for primo, evidentemente ele conterá entre seus divisores, pelo menos um número primo não encontrado anteriormente. A conhecida demonstração por absurdo - uma das mais importantes contribuições metodológicas dos gregos à matemática - é fundamentada no princípio lógico clássico denominado de terceiro excluído: dada a proposição p, ou p ou sua negação não p é verdadeira; não há, quanto ao valor de p uma terceira alternativa. Na arrumação de uma demonstração por absurdo nós substituímos o teorema: $(H \Rightarrow T)$ , por $[(H \land \neg T) \Rightarrow f]$ , estabelecendo, assim a tautologia: $[(H \Rightarrow T) \Leftrightarrow (H \land \sim T) \Rightarrow f]$ na qual HeT representam, respectivamente, a hipótese e a tese do teorema, e f significa falsidade. Vejamos a seguinte demonstração, por esse método, do teorema: existem números irracionais a e b tais que o número: ab é racional. Abaixo a demonstração:
 
-- i) o número  $\sqrt{2}$  é irracional e o número  $(\sqrt{2})^{\sqrt{2}}$  é racional ou irracional (aplicação do terceiro excluído);
-- ii) se  $(\sqrt{2})^{\sqrt{2}}$  é racional a demonstração está terminada;
+- i) o número $\sqrt{2}$ é irracional e o número $(\sqrt{2})^{\sqrt{2}}$ é racional ou irracional (aplicação do terceiro excluído);
+- ii) se $(\sqrt{2})^{\sqrt{2}}$ é racional a demonstração está terminada;
 
-iii) se  $(\sqrt{2})^{\sqrt{2}}$  é irracional nós consideramos:  $a = (\sqrt{2})^{\sqrt{2}}$  e  $b = \sqrt{2}$ , quando, então, vem:  $((\sqrt{2})^{\sqrt{2}})^{\sqrt{2}}$  = 2 e a demonstração aqui termina.
+iii) se $(\sqrt{2})^{\sqrt{2}}$ é irracional nós consideramos: $a = (\sqrt{2})^{\sqrt{2}}$ e $b = \sqrt{2}$ , quando, então, vem: $((\sqrt{2})^{\sqrt{2}})^{\sqrt{2}}$ = 2 e a demonstração aqui termina.
 
-Ela não é aceita pelos contrutivistas em virtude do item i) (aplicação do *terceiro excluído*). Seria aceita pelos construtivistas se existisse um modo construtivo de afirmar que  $(\sqrt{2})^{\sqrt{2}}$  é racional ou irracional. Finalmente, do exposto, surgem algumas questões para discussão:
+Ela não é aceita pelos contrutivistas em virtude do item i) (aplicação do _terceiro excluído_). Seria aceita pelos construtivistas se existisse um modo construtivo de afirmar que $(\sqrt{2})^{\sqrt{2}}$ é racional ou irracional. Finalmente, do exposto, surgem algumas questões para discussão:
 
-- 1<sup>a</sup>) Discutir se o conhecimento é uma construção ou não é irrelevante. O problema a ser esclarecido é: *como* é construído o conhecimento?
+- 1<sup>a</sup>) Discutir se o conhecimento é uma construção ou não é irrelevante. O problema a ser esclarecido é: _como_ é construído o conhecimento?
 - 2ª) Aprendemos de maneira linear? As mais recentes pesquisas apontam numa direção diferente à linearidade. Então, como fica o ensino de matemática?
 - 3ª) O conhecimento é uma representação mental? No significado já discutido acima, as recentes pesquisas apontam em outra direção.
 - 4ª) É provável que toda a estrutura de nosso ensino esteja fundamentada, talvez, em pressupostos cognitivos ou já ultrapassados ou suficientemente incompletos; é necessária uma urgente avaliação.
@@ -83,7 +83,7 @@ Explique os "porquês" de:
 - ii) do número 815<sup>723</sup> terminar em 5;
 - iii) do número 4911732 terminar em 1.
 
-As respostas ao problema proposto nesta coluna serão publicadas no *Folhetim* nº 62. Qualquer leitor poderá enviar soluções.
+As respostas ao problema proposto nesta coluna serão publicadas no _Folhetim_ nº 62. Qualquer leitor poderá enviar soluções.
 
 # NOTÍCIAS
 

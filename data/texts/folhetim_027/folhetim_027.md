@@ -72,7 +72,7 @@ a-
 
 to
 
- $\mathbf{o}$ 
+$\mathbf{o}$
 
 га
 
@@ -82,7 +82,7 @@ ca
 
 m
 
-2º Pergunta. Ronaldo, de Salvador, quer saber se, empregando as coordenadas cartesianas ortogonais e, usando escalas diferentes nos dois eixos, a inclinação de uma reta passando pelos pontos  $(x_1, y_1)$  e  $(x_2, y_2)$  continua sendo definida como o quociente de  $y_2 - y_1$  por  $x_2 - x_1$ .
+2º Pergunta. Ronaldo, de Salvador, quer saber se, empregando as coordenadas cartesianas ortogonais e, usando escalas diferentes nos dois eixos, a inclinação de uma reta passando pelos pontos $(x_1, y_1)$ e $(x_2, y_2)$ continua sendo definida como o quociente de $y_2 - y_1$ por $x_2 - x_1$ .
 
 R. Em diversas situações é de toda conveniência empregar esse tipo de coordenadas usando escalas diferentes nos dois eixos. Enquadra-se dentro de tal conveniência, exemplificando, um gráfico representativo da população em função do tempo. Vamos, agora, à sua pergunta que é de toda pertinência. A inclinação da reta passando por dois pontos, em um gráfico com escalas diferentes, continua sendo definida da mesma maneira como no gráfico no qual os dois eixos tenham a mesma escala, e esta definição é aquela mencionada pelo colega. Agora, atenção: embora a inclinação da reta não mude, aquele quociente que a define e já citado por você, não será mais igual à tangente do ângulo formado por essa reta e o eixo horizontal. Também, nesta situação (escalas diferentes), tornam-se falsas a fórmula conhecida de distância entre dois pontos e a condição de perpendicularismo entre duas retas.
 

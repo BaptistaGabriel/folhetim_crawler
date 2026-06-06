@@ -34,7 +34,7 @@ Quando a > b, o círculo C é chamado de círculo principal da elipse E. Conside
 
 HM = b/a HP (H é a projeção ortogonal de P sobre o eixo das abscissas). C é o conjunto de pontos tais que:
 
- $x'=x=a\;cos\theta,\,y'=b/a\;(a\;sen\theta)=b\;sen\theta\;,$   $\theta\in[0;\;2\pi\;[\;\;.\;\;Esta\;imagem\;\acute{e}\;a\;elipse\;E.\;\;Assim,$  pela transformação f, o círculo é transformado na elipse E. Resumindo:
+$x'=x=a\;cos\theta,\,y'=b/a\;(a\;sen\theta)=b\;sen\theta\;,$ $\theta\in[0;\;2\pi\;[\;\;.\;\;Esta\;imagem\;\acute{e}\;a\;elipse\;E.\;\;Assim,$ pela transformação f, o círculo é transformado na elipse E. Resumindo:
 
 Equações do círculo:
 
@@ -44,9 +44,9 @@ $$x = a \cos\theta$$
 
 $$y = a \sin\theta, \theta \in [0;2\pi[$$
 
-A tranformação f, leva o círculo na elipse:  $x' = x = a \cos\theta$   $y' = b/a (a \sin\theta) = b \sin\theta, \theta \in [0;2\pi[.$   $x^2/a^2 + v^2/b^2 = 1$ 
+A tranformação f, leva o círculo na elipse: $x' = x = a \cos\theta$ $y' = b/a (a \sin\theta) = b \sin\theta, \theta \in [0;2\pi[.$ $x^2/a^2 + v^2/b^2 = 1$
 
-Há diversas aplicações do que foi mostrado acima. Vamos nos limitar àquela que pode servir de resposta à pergunta formulada pelo colega. Notemos que uma área qualquer ABCD do círculo, após ser submetida à transformação estudada acima é transformada na área A'B'C'D', na elipse, isto é, área A'B'C'D' = área ABCD . b/a. Como a área do círculo é  $\pi a^2$ , a área da elipse:
+Há diversas aplicações do que foi mostrado acima. Vamos nos limitar àquela que pode servir de resposta à pergunta formulada pelo colega. Notemos que uma área qualquer ABCD do círculo, após ser submetida à transformação estudada acima é transformada na área A'B'C'D', na elipse, isto é, área A'B'C'D' = área ABCD . b/a. Como a área do círculo é $\pi a^2$ , a área da elipse:
 
 $$A_E = \pi a^2 \cdot b/a = \pi ab. \bullet$$
 
@@ -56,16 +56,16 @@ R. Consideremos uma bola lançada verticalmente para cima e a que cai a partir d
 
 a) movimento uniforme. Por movimento uniforme retilíneo deve-se entender um movimento retilíneo com velocidade constante. A lei do movimento apresenta o seguinte aspecto:
 
- $x = x_o + vt$ , onde  $x_o$  é coordenada do ponto no instante t = 0 e v = constante.
+$x = x_o + vt$ , onde $x_o$ é coordenada do ponto no instante t = 0 e v = constante.
 
 b) movimento uniformemente variado. Por este movimento se entende um movimento retilíneo com aceleração constante ( w = constante). A lei desse movimento é a seguinte:
 
- $x = x_o + v_o t + \frac{1}{2} wt^2$ , onde  $v_o$  é a velocidade inicial do ponto (velocidade para t = 0).
+$x = x_o + v_o t + \frac{1}{2} wt^2$ , onde $v_o$ é a velocidade inicial do ponto (velocidade para t = 0).
 
-c) Oscilações harmônicas. Vejamos o movimento retilíneo do ponto quando sua distância x à origem das coordenadas varia com o tempo de conformidade com a lei  $x = a \cos kt$ , onde  $\underline{a} e \underline{k} \sin kt$  são grandezas constantes. O ponto M (veja figura abaixo) durante este movimento oscila entre as posições M (+a) e M (-a).
+c) Oscilações harmônicas. Vejamos o movimento retilíneo do ponto quando sua distância x à origem das coordenadas varia com o tempo de conformidade com a lei $x = a \cos kt$ , onde $\underline{a} e \underline{k} \sin kt$ são grandezas constantes. O ponto M (veja figura abaixo) durante este movimento oscila entre as posições M (+a) e M (-a).
 
 $$M_1$$
- 0 M M  $A$ 
+0 M M $A$
 
 ## NEMOC - NÚCLEO DE EDUCAÇÃO MATEMÁTICA OMAR CATUNDA
 
@@ -80,11 +80,11 @@ Em todos os casos estudados, a trajetória é uma linha reta enquanto os gráfic
 de referência respeito ao qual é examinado o movimento de um ponto. Mais um exemplo: seja o movimento de um ponto no plano Oxy e determinado pelas equações:
 
 $$x = 2t$$
-,  $y = 12 t^2$ 
+, $y = 12 t^2$
 
 A trajetória do ponto pode ser encontrada com a eliminação de t nessas equações. Assim, da primeira delas vem t = x/2; colocando esse valor de t na segunda equação, obtem-se:
 
- $y = 3 x^2$ , que representa uma parábola com vértices na origem de coordenadas.
+$y = 3 x^2$ , que representa uma parábola com vértices na origem de coordenadas.
 
 Pergunte que o NEMOC Responde é uma coluna de autoria do prof. Dr. Carloman Carlos Borges e objetiva atingir ao público interessado em Matemática nos seus múltiplos aspectos.
 
@@ -101,16 +101,16 @@ Thomaz de Jesus Ramos
 1. Um automóvel cobre a distância entre duas cidades a 60 km por hora e faz a viagem de retorno a 40 km por hora. Qual foi a velocidade média percorrida pelo automóvel? Generalizar o problema. (Atenção: a velocidade média não é 50 km por hora).
 
 - Demonstre que os números da forma a<sup>4</sup> + 4
-   (a ≠ 1) podem ser escritos na forma de dois fatores que não sejam iguais a ele e nem à unidade, isto é, é um número composto.
+  (a ≠ 1) podem ser escritos na forma de dois fatores que não sejam iguais a ele e nem à unidade, isto é, é um número composto.
   - 3. Quanto valem:
 
-a) 
+a)
 $$-\log_2\log_2\sqrt{\sqrt{\sqrt{2}}} = ?$$
 
-b) 
+b)
 $$-\log_2\log_2\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{2}}}}} = ?$$
 
-c) 
+c)
 $$-\log_2 \log_2 \underbrace{\sqrt{\sqrt{...}\sqrt{\sqrt{2}}}}_{\text{p vezes}} = ?$$
 
 p, um número, inteiro e positivo.

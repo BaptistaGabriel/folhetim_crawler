@@ -16,7 +16,7 @@ Neste número, voltamos a apresentar a coluna "DIVERTIMENTOS MATEMÁTICOS", como
 
 Já no número 62, apresentamos como desafios dois problemas. Não recebemos até o momento soluções satisfátorias. Continuamos no aguardo de que algum leitor, levado pelo desejo de vencer os desafios, encontre as soluções adequadas. Tão logo recebamos, publicaremos a sua resposta.
 
-Ficamos gratificados ao lermos na revista "Educação Matemática em Revista", nº 6, ano 5, nota a respeito do nosso *Folhetim* na seção "Eventos, notícias e outras coisas". Agradecemos aos editores a gentileza.
+Ficamos gratificados ao lermos na revista "Educação Matemática em Revista", nº 6, ano 5, nota a respeito do nosso _Folhetim_ na seção "Eventos, notícias e outras coisas". Agradecemos aos editores a gentileza.
 
 # COMITÉ EDITORIAL
 
@@ -30,7 +30,7 @@ R. Desde tempos imemoriais, a luta mais importante do homem parece resumir-se nu
 
 dúvida do que é afirmado? Então, o afirmado lhe será demonstrado impecavelmente pela Lógica, de tal maneira que, no final da demonstração cessam todas as dúvidas e discussões e se instala o reino da certeza sempre associada a verdade. Através da Lógica, produtora da certeza e da verdade, o homem, finalmente, encontrou a segurança desejada. Aliás, duas seguranças: a psicológica - pois uma demonstração, por um lado, tem a finalidade de convencer pela razão e através desse conhecimento, as dúvidas serem suprimidas; e por outro lado há uma "seguranca objetiva", isto é, a demonstração serve para organizar, de modo impecável, o próprio conhecimento humano. Criado o maravilhoso instrumento (A Lógica), ele foi exercitado exaustivamente pelo matemático Euclides, da famosa Escola de Alexandria: ele procurou organizar o saber matemático produzido por várias gerações, conforme as regras da nova ferramenta. Durante o século XIII, o Príncipe da Igreja, Tomás de Aquino empregou em matéria de Fé, raciocínios lógicos, sem tomar consciência da insuperável contradição que ele estava produzindo. Até mesmo na Filosofia, por intermédio do filósofo holandês Spinoza, esse método produziu seus frutos. Nos séculos XVII e XVIII, o saber matemático experimentou um grande desenvolvimento que levou os matemáticos, a partir do século XIX, a organizá-lo de modo sistemático. Foi durante essa organização, que se estende até o presente século, que surgiram os primeiros buracos na Lógica de Aristóteles: os modernos desenvolvimentos matemáticos não cabiam dentro da moldura dessa Lógica. Então, os lógicos e matemáticos criaram novos resultados lógicos, todos eles com a finalidade de fundamentar a Matemática em bases sólidas. E Euclides, já
 
-não atingira essa finalidade? Como todo pioneiro, Euclides praticara alguns equívocos os quais deveriam ser urgentemente sanados. Atenção: os equívocos euclidianos não colocavam em dúvida o principal: o método euclidiano, isto é, a demonstração. A comunidade científica aceitava, por unanimidade aquilo que ela mesma já houvera decretado: todas as verdades matemáticas devem ser demonstradas baseadas em outras afirmativas aceitas como " proposições de partida" e denominadas de axiomas. Nesse empreendimento, coube ao matemático e logicista alemão *David Hilbert* (1862-1943)
+não atingira essa finalidade? Como todo pioneiro, Euclides praticara alguns equívocos os quais deveriam ser urgentemente sanados. Atenção: os equívocos euclidianos não colocavam em dúvida o principal: o método euclidiano, isto é, a demonstração. A comunidade científica aceitava, por unanimidade aquilo que ela mesma já houvera decretado: todas as verdades matemáticas devem ser demonstradas baseadas em outras afirmativas aceitas como " proposições de partida" e denominadas de axiomas. Nesse empreendimento, coube ao matemático e logicista alemão _David Hilbert_ (1862-1943)
 
 ![](_page_1_Picture_5.jpeg)
 
@@ -40,7 +40,7 @@ contribuições. Passado o primeiro susto com a exibição de algumas falhas de 
 
 postura de um professor dessa Ciência em sala de aula...).
 
-Vamos apresentar o seguinte panorama: durante séculos que sucederam a Copérnico, uma boa parte da Lógica de Aristóteles fora ultrapassada. O matemático inglês *George Boole* (1815-1864)
+Vamos apresentar o seguinte panorama: durante séculos que sucederam a Copérnico, uma boa parte da Lógica de Aristóteles fora ultrapassada. O matemático inglês _George Boole_ (1815-1864)
 
 ![](_page_2_Picture_5.jpeg)
 
@@ -66,23 +66,23 @@ Thomaz de Jesus Ramos
 
 Justificar as curios as igualdades:
 
- $12345679 \times 9 = 1111111111$ 
+$12345679 \times 9 = 1111111111$
 
- $12345679 \times 18 = 222222222$ 
+$12345679 \times 18 = 222222222$
 
- $12345679 \times 27 = 3333333333$ 
+$12345679 \times 27 = 3333333333$
 
- $12345679 \times 36 = 444444444$ 
+$12345679 \times 36 = 444444444$
 
- $12345679 \times 45 = 555555555$ 
+$12345679 \times 45 = 555555555$
 
- $12345679 \times 54 = 666666666$ 
+$12345679 \times 54 = 666666666$
 
 12345679 x 63 = 777777777
 
- $12345679 \times 72 = 8888888888$ 
+$12345679 \times 72 = 8888888888$
 
- $12345679 \times 81 = 9999999999$ 
+$12345679 \times 81 = 9999999999$
 
 As respostas ao problema proposto nesta coluna, serão publicadas tão logo recebamos soluções satisfatórias por parte do leitor. Qualquer leitor poderá enviar soluções.
 
@@ -100,7 +100,7 @@ Caso não tenha acesso à Internet, pode escrever ou telefonar, pedindo informa�
 
 VI ENEM (a/c Armindo Cassol)
 
-**UNISINOS** 
+**UNISINOS**
 
 Av. Unisinos, 950
 

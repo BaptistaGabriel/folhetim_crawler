@@ -44,7 +44,7 @@ Os matemáticos gregos Tales de Mileto, Pitágoras, Arquimedes, o próprio Eucli
 
 Há alguma relação entre a religião e a Matemática? (O grifo é nosso).
 
-Resposta: Há, no sentido que passamos a precisar. A Matemática é uma e apenas uma entre as inúmeras atividades humanas. Qual o *porquê* das atividades humanas?
+Resposta: Há, no sentido que passamos a precisar. A Matemática é uma e apenas uma entre as inúmeras atividades humanas. Qual o _porquê_ das atividades humanas?
 
 O ser humano, embora infinito em suas potencialidades, se faz no contexto social em que está inserido. Incompleto por nascimento, busca, permanentemente, sua completude. Produto do biológico e do social, este último, também, é produto dele, do homem, e, assim, a objetividade social tem a marca da subjetividade humana. Nesse jogo de ir e vir ele constrói as grandes pirâmides da religião, da arte, da ciência e da filosofia. É natural, portanto, que essas criações interajam entre si. No caso particular da religião e da Matemática comecemos pela criação do "zero", um dos atos mais audazes do pensamento, uma das maiores aventuras da razão, segundo J. Pelseneer... Duas perguntas imediatamente se colocam: (a) por que os gregos antigos não
 

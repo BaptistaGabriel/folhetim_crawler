@@ -12,9 +12,9 @@ Este Folhetim é um veículo de divulgação, circulação de idéias e de estí
 
 ## **EDITORIAL**
 
-Neste número, estamos colocando em prática o nosso propósito de que o leitor participe mais diretamente do nosso *Folhetim*. Na coluna Divertimentos Matemáticos, recebemos a contribuição de Jean Fernandes Barros com uma solução do problema proposto na mesma coluna do *Folhetim* nº 54.
+Neste número, estamos colocando em prática o nosso propósito de que o leitor participe mais diretamente do nosso _Folhetim_. Na coluna Divertimentos Matemáticos, recebemos a contribuição de Jean Fernandes Barros com uma solução do problema proposto na mesma coluna do _Folhetim_ nº 54.
 
-O leitor poderá participar fazendo perguntas para a coluna *Pergunte que o NEMOC Responde* ou mandando soluções para os problemas propostos na coluna Divertimentos Matemáticos.
+O leitor poderá participar fazendo perguntas para a coluna _Pergunte que o NEMOC Responde_ ou mandando soluções para os problemas propostos na coluna Divertimentos Matemáticos.
 
 # **COMITÉ EDITORIAL**
 
@@ -35,39 +35,39 @@ Mostremos que dois números reais quaisquer <u>a</u> e <u>b</u> são iguais entr
 vem:
 
 $$x^2 = a^2 - 2ab + b^2$$
- (3)  
+(3)  
 De (2) e (3) vem:  
- $(ax - bx = a^2 - 2ab + b^2) \le (ax - bx)$ 
+ $(ax - bx = a^2 - 2ab + b^2) \le (ax - bx)$
 
- $(ax - bx = a^2 - 2ab + b^2) <=> (ax - a^2 + ab = bx - ab + b^2) <=> [a(x - a + b) = b(x - a + b)] (4)$ donde resulta, ao dividirmos a última expressão por (x - a + b), temos: a = b.
+$(ax - bx = a^2 - 2ab + b^2) <=> (ax - a^2 + ab = bx - ab + b^2) <=> [a(x - a + b) = b(x - a + b)] (4)$ donde resulta, ao dividirmos a última expressão por (x - a + b), temos: a = b.
 
-ii) Analise as falácias abaixo:  
+ii) Analise as falácias abaixo:
 
 $$(1/2 > 1/4) <=> (1/2) > (1/2)^2 =>$$
-  
- $=> \log_{1/2} 1/2 > \log_{1/2} (1/2)^2 =>$   
- $=> \log_{1/2} 1/2 > 2 \log_{1/2} 1/2 =>$   
+
+$=> \log_{1/2} 1/2 > \log_{1/2} (1/2)^2 =>$  
+ $=> \log_{1/2} 1/2 > 2 \log_{1/2} 1/2 =>$  
  $=> 1 > 2$ ;
 
-iii) (Neste exercício log significa 
+iii) (Neste exercício log significa
 $$\log_{10}$$
-)  $(1/2 > 1/4) <=> (1/2) > (1/2)^2 =>$   $=> \log 1/2 > \log (1/2)^2 =>$   $=> \log 1/2 > 2 \log 1/2 =>$   $=> 1 > 2$ .
+) $(1/2 > 1/4) <=> (1/2) > (1/2)^2 =>$ $=> \log 1/2 > \log (1/2)^2 =>$ $=> \log 1/2 > 2 \log 1/2 =>$ $=> 1 > 2$ .
 
 A prática vem demonstrando que esse tipo de problematização - por causar alguma perturbação no aluno - deixa-o naturalmente motivado. Os exemplos acima deverão esclarecer porque não se deve "dividir por zero", aclarar o conceito de função decrescente e lembrar porque deve-se inverter o sentido de uma desigualdade toda vez que a mesma é multiplicada por um número negativo.
 
 II) Problematização através de contra-exemplos Aqui, uma pergunta: porque os manuais escolares trazem tão poucos contra-exemplos? Geralmente, o contraste entre situações diversas atua mais em nossa percepção do que a uniformidade. A invenção ou a
 
-descoberta de relações, o palpite ou a conjectura; a análise cuidadosa de casos particulares; o estabelecimento entre a nova situação, desconhecida, e uma já familiar; o estudo de exemplos e contra-exemplos; isso tudo constitue elementos participativos da problematização. Quando se trata da resolução de um problema, é salutar ao raciocínio procurar contra-exemplos, isto é, situações opostas à solução procurada. A ausência quase total dessa pedagogia pode expor o aluno a alguns constrangimentos. Lembro-me bem do seguinte: em uma palestra sobre os três problemas clássicos já mencionados que proferi em uma de nossas universidades federais, vários alunos, professores do 2º grau, estranharam as "soluções negativas" apresentadas aos 3 famosos problemas. Para eles, a demonstração de uma impossibilidade não deveria ser solução de coisa alguma ... e, quase todos eles afirmaram que se sentiam "chocados psicologicamente" com tal "solução"... Já presenciei irritação por parte do professor pelo fato de um aluno aplicar a fórmula  $a^2 + b^2 = c^2$  a um triângulo não retângulo. Certamente, esse professor nunca apresentou ao aluno um contraexemplo.
+descoberta de relações, o palpite ou a conjectura; a análise cuidadosa de casos particulares; o estabelecimento entre a nova situação, desconhecida, e uma já familiar; o estudo de exemplos e contra-exemplos; isso tudo constitue elementos participativos da problematização. Quando se trata da resolução de um problema, é salutar ao raciocínio procurar contra-exemplos, isto é, situações opostas à solução procurada. A ausência quase total dessa pedagogia pode expor o aluno a alguns constrangimentos. Lembro-me bem do seguinte: em uma palestra sobre os três problemas clássicos já mencionados que proferi em uma de nossas universidades federais, vários alunos, professores do 2º grau, estranharam as "soluções negativas" apresentadas aos 3 famosos problemas. Para eles, a demonstração de uma impossibilidade não deveria ser solução de coisa alguma ... e, quase todos eles afirmaram que se sentiam "chocados psicologicamente" com tal "solução"... Já presenciei irritação por parte do professor pelo fato de um aluno aplicar a fórmula $a^2 + b^2 = c^2$ a um triângulo não retângulo. Certamente, esse professor nunca apresentou ao aluno um contraexemplo.
 
 Em qualquer tipo de problematização (há outras além das citadas que o professor deverá inventar...) o fundamental é: A BUSCA DO PADRÃO. Veja o que escreve um dos grandes vultos deste século, Gregory Bateson em seu livro Natureza e Espírito, publicações Dom Quixote, (já fizemos menção a ele no Folhetim nº 55) "O padrão que liga". Porque é que as escolas não ensinam quase nada acerca do padrão que liga? Será que os professores sabem que trazem consigo o beijo da morte, o qual tornará insípido tudo o que eles tocarem, e que por isso eles são sensata-
 
 mente relutantes em abordar ou a ensinar qualquer coisa de importância vital? Ou será que eles trazem consigo o beijo da morte porque não ousam ensinar coisas tão importantes? O que é que está errado com eles? Que padrão liga o caranguejo à lagosta, a orquídea ao narciso e todos os quatro a mim? E a mim e a vocês? E a nós os seis e à ameba por um lado, e ao mais escondido esquizofrênico por outro? E quando se trata de matemática, como fica: o padrão que liga? Nos exercícios mais elementares, o professor deve insistir junto ao aluno para que procure descobrir um padrão de comportamento. Deve lembrar-lhe que do fato de uma propriedade ser comum a vários objetos não se deve deduzir que lhe seja essencial pois, como assinala S. L. Rubinsstein: (El Pensamiento y los Caminos de su Investigacion): cabe achar algo comum entre os objetos de natureza heterogênea... sem que se obtenha disso, nenhuma generalização científica. Se uma propriedade determinada é essencial para certos fenômenos, há de ser necessariamente comum aos mesmos. De sua essencialidade depende o outro caráter: o de comum. E mais adiante: o geral pode ser utilizado como procedimento heurístico e objetivando servir de indicador do essencial (tradução nossa). Veja um exemplo: da comprovação empírica de que os números 24, 48, 80, 120, 168 e 224 são divisíveis por 8, podemos chegar a um padrão? Falando de outra maneira: da essencialidade desses números - serem divisíveis por 8 - podemos chegar a uma generalização? Basta observar o seguinte:
 
- $24 = 5^2 - 1$ ;  $48 = 7^2 - 1$ ;  $80 = 9^2 - 1$ ;
+$24 = 5^2 - 1$ ; $48 = 7^2 - 1$ ; $80 = 9^2 - 1$ ;
 
- $120 = 11^2 - 1$ ;  $168 = 13^2 - 1$ ;  $224 = 15^2 - 1$ ;
+$120 = 11^2 - 1$ ; $168 = 13^2 - 1$ ; $224 = 15^2 - 1$ ;
 
-Após essa primeira análise vemos que os números apreciados são escritos por intermédio de duas parcelas, as quais exibem duas características: a primeira, um número ímpar elevado ao quadrado e a segunda a repetição monótona do número 1. Agora, o salto rumo ao padrão, à generalização: a primeira característica apontada acima pode ser representada pela expressão (2n - 1)2, donde se conclui a outra expressão mais geral:  $(2n-1)^2$  - 1 para expressar cada um dos números acima. Este tipo de generalização - é bom destacar é muito empregada, também, pelos naturalistas e não apenas pelos matemáticos. Convém acrescentar ainda que o matemático não termina seu trabalho nessa generalização que podemos chamar de empírica; para ele se coloca a questão: para n um número natural, a expressão P(n): (2n - 1)<sup>2</sup> - 1 representa sempre um número divisível por 8? Essa comprovação pode ser feita através da Indução Matemática. Deixamos ao cuidado do leitor verificar se a recíproca dessa proposição é falsa ou verdadeira. (Dica: comece examinando o número 16). É típico da Matemática - em nível avançado-trabalhar sobre generalizações. Descobrindo conexões cada vez mais profundas o pensamento matemático atinge a generalização de relações e talvez, a partir disso, se possa falar sobre a Estética da Matemática. No seu livro A Matemática e o Raciocínio Plausível (ainda não traduzido em Português), o matemático e pedagogo (não de formação) Polya escreve: Deve-se descobrir um teorema matemático, antes de o ter demonstrado, deve-se estabelecer o plano da sua demonstração, antes de elaborar os detalhes; combinar observações, e a seguir analogias; voltar, sempre e sempre às provas. O resultado da atividade
+Após essa primeira análise vemos que os números apreciados são escritos por intermédio de duas parcelas, as quais exibem duas características: a primeira, um número ímpar elevado ao quadrado e a segunda a repetição monótona do número 1. Agora, o salto rumo ao padrão, à generalização: a primeira característica apontada acima pode ser representada pela expressão (2n - 1)2, donde se conclui a outra expressão mais geral: $(2n-1)^2$ - 1 para expressar cada um dos números acima. Este tipo de generalização - é bom destacar é muito empregada, também, pelos naturalistas e não apenas pelos matemáticos. Convém acrescentar ainda que o matemático não termina seu trabalho nessa generalização que podemos chamar de empírica; para ele se coloca a questão: para n um número natural, a expressão P(n): (2n - 1)<sup>2</sup> - 1 representa sempre um número divisível por 8? Essa comprovação pode ser feita através da Indução Matemática. Deixamos ao cuidado do leitor verificar se a recíproca dessa proposição é falsa ou verdadeira. (Dica: comece examinando o número 16). É típico da Matemática - em nível avançado-trabalhar sobre generalizações. Descobrindo conexões cada vez mais profundas o pensamento matemático atinge a generalização de relações e talvez, a partir disso, se possa falar sobre a Estética da Matemática. No seu livro A Matemática e o Raciocínio Plausível (ainda não traduzido em Português), o matemático e pedagogo (não de formação) Polya escreve: Deve-se descobrir um teorema matemático, antes de o ter demonstrado, deve-se estabelecer o plano da sua demonstração, antes de elaborar os detalhes; combinar observações, e a seguir analogias; voltar, sempre e sempre às provas. O resultado da atividade
 
 criadora do matemático é a conclusão demonstrativa, ou seja, é uma demonstração: mas esta é a descoberta, através do raciocínio plausível, através da descoberta. Se a aprendizagem da Matemática, refletisse, suficientemente bem a sua elaboração, deveria, nela, haver lugar para a descoberta, para o raciocínio plausível (tradução nossa). Nunca é demais insistir no seguinte princípio, para mimtalvez um dos mais importantes dos princípios metodológicos: As coisas elementares devem ser bem ensinadas e, consequentemente, bem sabidas. Desta forma, fico chocado quando leio, em revistas especializadas e editadas por universidades respeitáveis, recomendações deste tipo: Para tanto (isto é: para uma boa aprendizagem em matemática - observação nossa) os estudantes deverão: revelar uma perfeita compreensão dos conceitos e princípios matemáticos ... (o grifo é nosso). Além do caráter religioso dessa recomendação, ela contém, em si mesma, uma impossibilidade: a exaustão das categorias matemáticas. Em virtude de sua historicidade, elas vão se refinando cada vez mais. A história do conceito de função exemplifica muito a inclinação dos matemáticos para a generalização e ampliação dos conceitos. Introduzida por Leibniz em 1694 ela expressava qualquer quantidade associada a uma curva como, por exemplo, o raio da curvatura ou a inclinação de uma curva; em seguida, em 1718 (estamos seguindo Howard Eves: Introdução à História da Matemática, Editora UNICAMP, tradução muito boa de Hygino H. Domingues) Johann Bernoulli considerava uma função como uma expressão qualquer formada de uma variável e algumas
 
@@ -91,50 +91,50 @@ Aguardem!
 
 Lembram-se de Tartaglia? É o mesmo que esteve envolvido no ramance da equação do 3° grau, no século XVI. Esse algebrista italiano propôs o seguinte problema: Três lindas jovens, chegaram ao rio, acompanhadas por seus ciumentos maridos. O pequeno barco que os tem de transportar só comporta duas pessoas (porque fazem barcos tão pequenos?). Para evitar situações constrangedoras, as viagens têm de ser feitas de tal forma que nenhuma mulher fique com um homem sem que seu marido este ja presente. Onze travessias serão necessaárias. Você poderia es que matizá-las? Nas condições estabelecidas, com quatro casais a viagem ainda é possível?
 
-Os problemas propostos nesta coluna serão respondidos no *Folhetim* nº 58. Qualquer leitor poderá enviar soluções.
+Os problemas propostos nesta coluna serão respondidos no _Folhetim_ nº 58. Qualquer leitor poderá enviar soluções.
 
 Como resposta ao problema nº 4, da coluna Divertimentos Matemáticos, publicado no Folhetim nº 54, recebemos do leitor Jean Fernandes Barros a seguinte solução:
 
-Mostre que: 
+Mostre que:
 $$x \ne 1$$
- ou  $x \ne -1$ .  
- $(x^4 + x^3 + x^2 + x + 1 + 2)(x^4 - x^3 + x^2 - x + 1 - 2) = x - 1$   
+ou $x \ne -1$ .  
+ $(x^4 + x^3 + x^2 + x + 1 + 2)(x^4 - x^3 + x^2 - x + 1 - 2) = x - 1$  
  $= (x^4 + x^3 + x^2 + x + 1)(x^4 - x^3 + x^2 - x + 1)$ .
 
 <u>Preliminares</u>.Lembremos de alguns fatos que utilizaremos na prova do exercício. Primeiramemente, as seguintes identidades em R:
 
-(1) 
+(1)
 $$(x-1)(x^{n-1}+x^{n-2}+...+x^2+x+1)=x^n-1$$
-  
-(2)  $(x+1)(x^{n-1}-x^{n-2}+...+x^2-x+1)=x^n+1$ 
+
+(2) $(x+1)(x^{n-1}-x^{n-2}+...+x^2-x+1)=x^n+1$
 
 Vejamos alguns exemplos oportunos.
 
-Exempo 1. 
+Exempo 1.
 $$(x-1)(x^4+x^3+x^2+x+1)=x^5-1$$
- (E1)
+(E1)
 
-Exempo 2. 
+Exempo 2.
 $$(x+1)(x^4-x^3+x^2-x+1)=x^5+1$$
- (E2)
+(E2)
 
 Por último, do teorema de D'Alembert (1717-1783) que afirma o seguinte: a éraiz do polinômio P(x), grau de P(x) maior ou igual a 1, se, somente se x - a divide P(x).
 
 Revendo os exemplos (E1) e (E2), temos que:
 
 $$x - 1$$
- divide  $x^5 - 1$ , pois 1 é raiz de  $P(x) = x^5 - 1$  (E3)
+divide $x^5 - 1$ , pois 1 é raiz de $P(x) = x^5 - 1$ (E3)
 
 $$x + 1$$
- divide  $x^5 + 1$ , pois -1 éraiz de  $P(x) = x^5 + 1$  (E4)
+divide $x^5 + 1$ , pois -1 éraiz de $P(x) = x^5 + 1$ (E4)
 
 Agora passemos ao exercício.
 
 Prova. Chamemos
 
 $$A = (x^4 + x^3 + x^2 + x + 1 + \underline{2}) e B = (x^4 - x^3 + x^2 + x + 1 - \underline{2})$$
-  
- $x - 1$ 
+
+$x - 1$
 
 Observemos que:
 
@@ -150,7 +150,7 @@ Desta forma, fazendo-se uso da comutatividade, temos que:
 
 $$A.B = \left(\frac{x+1}{x+1}\right)\left(\frac{x-1}{x-1}\right)$$
 
-Logo, por (E3) e (E4) e lembrando de (E1) e (E2) chegamos a A . B =  $(x^4 + x^3 + x^2 + x + 1)(x^4 - x^3 + x^2 - x + 1)$ Com isso temos o resultado desejado.
+Logo, por (E3) e (E4) e lembrando de (E1) e (E2) chegamos a A . B = $(x^4 + x^3 + x^2 + x + 1)(x^4 - x^3 + x^2 - x + 1)$ Com isso temos o resultado desejado.
 
 ## NOTICIAS
 

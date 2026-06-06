@@ -49,13 +49,13 @@ a K, tem-se xy = yx.
 
 M3. Elemento Neutro: existe 1 pertencente a K tal que 1 difere de zero e x.1 = x, qualquer que seja x pertencente a K. Este elemento 1 chama-se um.
 
-M4. Inverso Multiplicativo: para todo x diferente de zero, em K, existe um inverso  $x^{-1}$ , tal que  $x.x^{-1} = 1$ .
+M4. Inverso Multiplicativo: para todo x diferente de zero, em K, existe um inverso $x^{-1}$ , tal que $x.x^{-1} = 1$ .
 
 Ligando estas duas operações há o importante axioma:
 
 D1. Axioma da Distributividade: Dados x, y, z em K, tem-se x(y+z) = xy + xz.
 
-Antes da introdução de corpo ordenado, podemos apresentar as definições de: a) diferença (x-y): para x,y em K, x-y=x+(-y); b) quociente  $(\frac{x}{y})$ : se x,y são elementos de K e se y difere de zero,  $\frac{x}{y}=xy^{-1}$ .
+Antes da introdução de corpo ordenado, podemos apresentar as definições de: a) diferença (x-y): para x,y em K, x-y=x+(-y); b) quociente $(\frac{x}{y})$ : se x,y são elementos de K e se y difere de zero, $\frac{x}{y}=xy^{-1}$ .
 
 Introduziremos, agora, a ideia de corpo ordenado, através da definição: um par ordenado (K, P), onde K é um corpo e P é um subconjunto de K, denomina-se de corpo ordenado quando, e somente quando, são verificadas as condições abaixo:
 
@@ -67,23 +67,23 @@ As seguintes definições são válidas:
 
 - i) x > y, se x y pertence a P;
 - ii) x < y, se y > x;
-- iii)  $x \ge y$ , se x > y ou x = y;
-- iv)  $x \le y$ , se x < y ou x = y.
+- iii) $x \ge y$ , se x > y ou x = y;
+- iv) $x \le y$ , se x < y ou x = y.
 
 A desigualdade x > y lê-se "x é maior do que y" e x < y lê-se "x é menor do que y". Desta forma, o conjunto P é o conjunto dos elementos de K maiores do que zero. Finalmente, procuremos introduzir o conceito de corpo ordena-
 
 do completo, dando, primeiro, as definições:
 
-- i) O conjunto A é limitado superiormente quando, e somente quando, existe k pertencente a K tal que para todo x pertencente a A, tem-se  $x \leq k$ . Ao elemento k dá-se o nome de um *limitante superior* do conjunto A.
+- i) O conjunto A é limitado superiormente quando, e somente quando, existe k pertencente a K tal que para todo x pertencente a A, tem-se $x \leq k$ . Ao elemento k dá-se o nome de um _limitante superior_ do conjunto A.
 - ii) Seja K um corpo ordenado e A um subconjunto de K, A não-vazio. Então dizemos que o elemento s pertencente a K é supremo de A, quando, e somente quando:
-  - a)  $x \leq s$ , para qualquer x pertencente a A.
+  - a) $x \leq s$ , para qualquer x pertencente a A.
 - b) para cada k pertencente a K, k < s, existe um x' pertencente a A tal que k é menor que x'.
 
 Com estas definições, estamos em condições de definir corpo ordenado completo: um corpo ordenado K é completo quando, e somente quando, todo subconjunto A de K, A conjunto não-vazio e limitado superiormente, possui supremo.
 
-Os axiomas mencionados acima poderiam ser designados por axiomas operacionais de corpo K, pois deles decorrem todas as propriedades do corpo K, o qual pode ser identificado como o corpo ordenado completo  $\mathbb{R}$ , para o qual postulamos:
+Os axiomas mencionados acima poderiam ser designados por axiomas operacionais de corpo K, pois deles decorrem todas as propriedades do corpo K, o qual pode ser identificado como o corpo ordenado completo $\mathbb{R}$ , para o qual postulamos:
 
-Existe um corpo ordenado completo,  $\mathbb{R}$ , chamado o corpo dos números reais.
+Existe um corpo ordenado completo, $\mathbb{R}$ , chamado o corpo dos números reais.
 
 A este postulado de existência, alguns autores chamam de axioma fundamental da Análise Matemática.
 

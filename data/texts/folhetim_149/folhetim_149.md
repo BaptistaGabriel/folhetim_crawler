@@ -2,13 +2,13 @@
 
 ![](_page_0_Picture_1.jpeg)
 
-**Folhetim Educ. Mat., Ano 15, n. 149, mar. / abr. 2009** 
+**Folhetim Educ. Mat., Ano 15, n. 149, mar. / abr. 2009**
 
-**ISSN 1415-8779** 
+**ISSN 1415-8779**
 
 ### **OBJETIVO**
 
-' Este *Folhetim* é um veículo de divulgação, circulação de ideias e de estímulo ao estudo e à curiosidade intelectual. Dirige-se a todos os interessados pelos aspectos pedagógicos, filosóficos e históricos da Matemática. Pretende construir uma ponteparaunirosqueestão próximos e os que estão distantes.
+' Este _Folhetim_ é um veículo de divulgação, circulação de ideias e de estímulo ao estudo e à curiosidade intelectual. Dirige-se a todos os interessados pelos aspectos pedagógicos, filosóficos e históricos da Matemática. Pretende construir uma ponteparaunirosqueestão próximos e os que estão distantes.
 
 ## **EDITORIAL**
 
@@ -20,11 +20,11 @@ Carloman Carlos Borges (UEFS) Inácio de Sousa Fadigas (UEFS) Marcos Grilo Rosa 
 
 #### **PERGUNTE QUE O NEMOC RESPONDE**
 
-*Conversas so£re o ensino cfa maiemáiica por Carloman Carlos CBoryes* 
+_Conversas so£re o ensino cfa maiemáiica por Carloman Carlos CBoryes_
 
-*(Continuação)* 
+_(Continuação)_
 
-Após uma breve interrupção para responder a uma carta de um leitor - retomamos, neste *Folhetim,* à equação algébrica do 5° grau e à posição de Galois sobre fórmulas de resolução para as equações algébricas do 5° grau em diante. Este *Folhetim* é, pois, a continuação do denúniero 147. É impressionante como dois conceitos, de certa maneira simples, como os de grupos e simetria jogam um papel tão importante no estudo dos mais variados fenómenos. Hoj e se conhecem figuras desenhadas por nossos antepassados, hámais de 10milanos,nasquaisasimetriajogaum papel relevante na sua estética - permitindo a conclusão de que a estética não é, apenas, um valor cultural. Toda vez quenos envolvemos emjulgamentosobreo feio e o belo, o agradável e o desagradável, adentramos o terreno chamado relativismo estético e aí, a simetria assvimepapel relevante. Aqui, estamos interessados sobre estes dois conceitosjámencionados: Grupos e simetria e suas ligações com as equações algébricas. Quem, ainda, alimenta dúvidas sobre aimportânciadaqueleprimeiro conceito (o de grupo) no esclarecimento de fenómenos físicos, basta ler os trabalhos do grandematemático Hermann Weyl (1885-1955), nascido na Alemanha, sobre grupos contínuos mediante representações degruposmatriciais. Elemostrou "que amaiorparte
+Após uma breve interrupção para responder a uma carta de um leitor - retomamos, neste _Folhetim,_ à equação algébrica do 5° grau e à posição de Galois sobre fórmulas de resolução para as equações algébricas do 5° grau em diante. Este _Folhetim_ é, pois, a continuação do denúniero 147. É impressionante como dois conceitos, de certa maneira simples, como os de grupos e simetria jogam um papel tão importante no estudo dos mais variados fenómenos. Hoj e se conhecem figuras desenhadas por nossos antepassados, hámais de 10milanos,nasquaisasimetriajogaum papel relevante na sua estética - permitindo a conclusão de que a estética não é, apenas, um valor cultural. Toda vez quenos envolvemos emjulgamentosobreo feio e o belo, o agradável e o desagradável, adentramos o terreno chamado relativismo estético e aí, a simetria assvimepapel relevante. Aqui, estamos interessados sobre estes dois conceitosjámencionados: Grupos e simetria e suas ligações com as equações algébricas. Quem, ainda, alimenta dúvidas sobre aimportânciadaqueleprimeiro conceito (o de grupo) no esclarecimento de fenómenos físicos, basta ler os trabalhos do grandematemático Hermann Weyl (1885-1955), nascido na Alemanha, sobre grupos contínuos mediante representações degruposmatriciais. Elemostrou "que amaiorparte
 
 das propriedades dos fenômenos quânticos da física atômica podem ser sistematizados e melhor compreendidos utilizando a teoria dos grupos". Um livro específico ainda sobre o assunto e cuja leitura é proveitosa é Group Theory in Quantum Mechanics, Volker Heina, Dover Publications, Inc., New York.
 
@@ -41,14 +41,14 @@ Um rápido parêntese para recordar as propriedades das raízes das Equações A
 A forma mais geral da equação quadrática (estudada já no ensino fundamental) é a seguinte:
 
 $$ax^2 + bx + c = 0$$
- (1)
+(1)
 
-Como sempre  $a \neq 0$ , dividimos por ele:
+Como sempre $a \neq 0$ , dividimos por ele:
 
 $$x^2 + \frac{b}{a}x + \frac{c}{a} = 0$$
 (2)
 
-Se  $x_1$  e  $x_2$  forem soluções de (1), então,
+Se $x_1$ e $x_2$ forem soluções de (1), então,
 
 $$(x - x_1)(x - x_2) = 0 (3)$$
 
@@ -89,7 +89,7 @@ Logo, acima, vimos as propriedades de suas raízes. Vejamos como a sua forma de 
 
 $$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
 
-pode ser escrita de outra maneira, isto é, como combinação da soma de suas raízes  $(x_1+x_2)$  e do produto dessas mesmas raízes:  $x_1x_2$ .
+pode ser escrita de outra maneira, isto é, como combinação da soma de suas raízes $(x_1+x_2)$ e do produto dessas mesmas raízes: $x_1x_2$ .
 
 Temos a relação (5) logo acima:
 
@@ -97,7 +97,7 @@ $$x_1 + x_2 = -\frac{b}{a}$$
 
 $$x_1 x_2 = \frac{c}{a}$$
 
-Assim,  
+Assim,
 
 $$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a} = -\frac{b}{2a} \pm \frac{\sqrt{b^2 - 4ac}}{2a}$$
 
@@ -116,7 +116,7 @@ mostra-se sua equivalência com a equação
 
 $$x^{3} + \frac{b}{a}x^{2} + \frac{c}{a}x + \frac{d}{a} = 0$$
 
-Logo, basta considerar equações nas quais o coeficiente de  $x^3$  seja igual a 1 como a equação  $x^3 + ax^2 + bx + c = 0$ . Nela, faz-se a substituição  $x = y - \frac{a}{3}$  que a transforma em
+Logo, basta considerar equações nas quais o coeficiente de $x^3$ seja igual a 1 como a equação $x^3 + ax^2 + bx + c = 0$ . Nela, faz-se a substituição $x = y - \frac{a}{3}$ que a transforma em
 
 $$\left(y - \frac{a}{3}\right)^3 + a\left(y - \frac{a}{3}\right)^2 + b\left(y - \frac{a}{3}\right) + c = 0$$
 
@@ -136,7 +136,7 @@ Dessa forma, o problema da resolução da equação do 3º grau fica resumido na
 
 $$\begin{cases} u^3 + v^3 = -q \\ u - v = -\frac{p}{q} \text{ ou seja } \begin{cases} u^3 + v^3 = -q \\ u^3 \cdot v^3 = -\frac{p^3}{27} \end{cases}$$
 
-quando, então, x = u + v será raiz da equação  $x^3 + px + q = 0$ . Claramente, achar  $u^3$  e  $v^3$  conhecendo a sua soma e o seu produto recai-se numa equação do  $2^{\circ}$  grau
+quando, então, x = u + v será raiz da equação $x^3 + px + q = 0$ . Claramente, achar $u^3$ e $v^3$ conhecendo a sua soma e o seu produto recai-se numa equação do $2^{\circ}$ grau
 
 $$w^2 + qw - \frac{p^3}{27} = 0$$
 

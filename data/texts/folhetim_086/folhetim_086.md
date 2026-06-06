@@ -50,21 +50,21 @@ compareceram ao estádio numa razão de 3 para 4. Sabendo-se que a lotação nes
 - 9ª) Os juros simples produzidos por um capital de R\$ 1.200,00, aplicado à taxa de 18% ao semestre durante dois meses, são de;
   - 10ª) Assinale a sentença verdadeira.
 
-A) 
+A)
 $$\Re^*$$
-  $\cup$   $\Re^*$  =  $\Re^*$ 
+$\cup$ $\Re^*$ = $\Re^*$
 
-B) 
+B)
 $$\Re$$
-  $\cap$   $\Re$  =  $\emptyset$ 
+$\cap$ $\Re$ = $\emptyset$
 
-C) 
+C)
 $$Z \subset \Re^*$$
 
-D) 
+D)
 $$\mathbb{Z} \not\subset \Re$$
 
-E) 
+E)
 $$\Re \subset Z$$
 
 11ª) Simplificando-se a fração
@@ -77,7 +77,7 @@ obtém-se;
 13ª) O conjunto solução da equação
 
 $$\frac{x-1}{10} - \frac{x+1}{5} - \frac{1-2x}{15} = 0$$
- é;
+é;
 
 14ª) O conjunto solução da equação
 
@@ -85,17 +85,17 @@ $$(x-8)^2 + (x-1)^2 = (x+1)^2 \text{ \'e};$$
 
 - 15ª) Sabendo-se que o raio da Terra é igual a 6.370.000 m e que a distância da Lua à Terra equivale em média a 60 raios terrestres, então essa distância, em quilômetros, é igual a;
   - 16ª) O valor da expressão
-- $(2,4 \text{ dam}^2 + 120 \text{ dm}^2) (540 \text{ cm}^2 + 2,8 \text{ m}^2),$  em dm², é;
+- $(2,4 \text{ dam}^2 + 120 \text{ dm}^2) (540 \text{ cm}^2 + 2,8 \text{ m}^2),$ em dm², é;
 - 17ª) A quantidade de ar (volume) em cm³ contida numa bola de 18cm de diâmetro é igual a;
 - 18ª) Comprei 1,2 kg de bacalhau por R\$9,84. Meio quilo desse mesmo bacalhau custará;
 - 19ª) A probabilidade de obter-se um número menor que 3 no lançamento de um dado não-viciado é igual a;
 - 20ª) A soma dos 15 primeiros termos da progressão aritmética (28, 23, 18, ...) é;
-- 21ª) O produto dos 10 primeiros termos da progressão geométrica  $(\frac{1}{8}, -\frac{1}{4}, \frac{1}{2}, ...)$  é;
+- 21ª) O produto dos 10 primeiros termos da progressão geométrica $(\frac{1}{8}, -\frac{1}{4}, \frac{1}{2}, ...)$ é;
 - 22ª) Num plano marcam-se 12 pontos, dos quais exatamente 5 estão sobre uma mesma reta. Quantos triângulos podem ser formados unindo-se 3 quaisquer
 
 # NEMOC - NÚCLEO DE EDUCAÇÃO MATEMÁTICA OMAR CATUNDA
 
-Folhetim Educ. Mat., Ano 7, n. 86, janeiro 2000 - **Editores:** Carloman e Inácio - **Secretária:** Josenildes Oliveira Venas Almeida - **Editoração:** Evandro Vaz e Nivaldo de Assis - **Impressão:** Imprensa Gráfica Universitária - **Periodicidade:** mensal - **Tiragem:** 1.500 exemplares - *Distribuição gratuita* - **Endereço:** Av. Universitária, s/n - km 03 - BR 116 - Campus Universitário - **Telefone:** (075)224-8115 - **Fax:** (075)224-8085 - CEP 44031-460 - Feira de Santana - Ba - BRASIL - **E-mai**l: nemoc@uefs.br
+Folhetim Educ. Mat., Ano 7, n. 86, janeiro 2000 - **Editores:** Carloman e Inácio - **Secretária:** Josenildes Oliveira Venas Almeida - **Editoração:** Evandro Vaz e Nivaldo de Assis - **Impressão:** Imprensa Gráfica Universitária - **Periodicidade:** mensal - **Tiragem:** 1.500 exemplares - _Distribuição gratuita_ - **Endereço:** Av. Universitária, s/n - km 03 - BR 116 - Campus Universitário - **Telefone:** (075)224-8115 - **Fax:** (075)224-8085 - CEP 44031-460 - Feira de Santana - Ba - BRASIL - **E-mai**l: nemoc@uefs.br
 
 desses 12 pontos?;
 

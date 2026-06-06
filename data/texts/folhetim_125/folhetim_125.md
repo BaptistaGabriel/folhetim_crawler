@@ -26,15 +26,15 @@ Assim, ele "funciona" na figura abaixo:
 
 ![](_page_0_Picture_13.jpeg)
 
-De maneira geral: a área de um polígono regular de *n* lados construido sobre a hipotenusa de um triângulo retângulo ABC é igual à soma das áreas dos polígonos regulares constuídos sobre os catetos.
+De maneira geral: a área de um polígono regular de _n_ lados construido sobre a hipotenusa de um triângulo retângulo ABC é igual à soma das áreas dos polígonos regulares constuídos sobre os catetos.
 
-Como explicar esta regularidade, este padrão: O TP vale não apenas para os quadrados, os triângulos equiláteros, os semicírculos, os polígonos regulares de *n* lados. Seguindo C. Bachelard, em seu livro *O Racionalismo Aplicado*, Zahar Editores, a <u>causa racional</u> do padrão exposto é a <u>idéia de semelhança</u> que o ser humano posui em sua mente, mesmo sem conhecer o TP ou outros rudimentos
+Como explicar esta regularidade, este padrão: O TP vale não apenas para os quadrados, os triângulos equiláteros, os semicírculos, os polígonos regulares de _n_ lados. Seguindo C. Bachelard, em seu livro _O Racionalismo Aplicado_, Zahar Editores, a <u>causa racional</u> do padrão exposto é a <u>idéia de semelhança</u> que o ser humano posui em sua mente, mesmo sem conhecer o TP ou outros rudimentos
 
 de matemática. Ao descobrir a causa profunda do TP, penetramos no domínio da Filosofia, no reino infinito dos "porquês".
 
 Sabemos que o espaço de Hilbert é um dos exemplos de um espaço de infinitas dimensões. Sua aplicação na Física Moderna não pode ser subestimada. Já vimos que o TP funciona em um espaço <u>n</u> dimensional. Será que ele funciona, também no espaço de Hilbert de ininitas dimensões? A resposta é positiva.
 
-Sejam as N funções duas a duas ortogonais  $f_1(x)$ ,  $f_2(x)$ , ...,  $f_N(x)$ , e  $f(x) = f_1(x) + f_2(x) + ... + f_N(x)$ . O quadrado do comprimento de f é igual à soma dos quadrados dos comprimentos de  $f_1$ ,  $f_2$ , ...,  $f_N$ . Como o comprimento de um vetor f(x) em um espaço de Hilbert é dado por  $\sqrt{\int_a^b f^2(x) dx}$  o TP nesse caso pode ser expressado pela fórmula:
+Sejam as N funções duas a duas ortogonais $f_1(x)$ , $f_2(x)$ , ..., $f_N(x)$ , e $f(x) = f_1(x) + f_2(x) + ... + f_N(x)$ . O quadrado do comprimento de f é igual à soma dos quadrados dos comprimentos de $f_1$ , $f_2$ , ..., $f_N$ . Como o comprimento de um vetor f(x) em um espaço de Hilbert é dado por $\sqrt{\int_a^b f^2(x) dx}$ o TP nesse caso pode ser expressado pela fórmula:
 
 $$\int_{a}^{b} f^{2}(x)dx = \int_{a}^{b} f_{1}^{2}(x)dx + \int_{a}^{b} f_{2}^{2}(x)dx + \dots + \int_{a}^{b} f_{N}^{2}(x)dx.$$
 
@@ -61,16 +61,16 @@ $$X = \{x_1, x_2, ..., x_i, ..., x_n\}$$
 Supõe-se, igualmente, que existe uma probabilidade determinada de que cada mensagem seja selecionada, ou seja, há um conjunto de probabilidades:
 
 $$P(x) = \{p(x_1), p(x_2), \dots, p(x_j), \dots, p(x_n)\}$$
-tal que para cada j,  $p(x_j)$ , é a probabilidade de que  $x_i$  seja selecionado de  $X$ .
+tal que para cada j, $p(x_j)$ , é a probabilidade de que $x_i$ seja selecionado de $X$ .
 
-Oprimeiro princípio em que se fundamenta a medida da informação é que quanto mais provável é uma mensagem, mais informação e la transmita. Esse princípio é precisado do seguinte modo: Se  $I(x_j)$  indica a quantidade de informação transmitida por  $x_j$ , então:
+Oprimeiro princípio em que se fundamenta a medida da informação é que quanto mais provável é uma mensagem, mais informação e la transmita. Esse princípio é precisado do seguinte modo: Se $I(x_j)$ indica a quantidade de informação transmitida por $x_j$ , então:
 
 $$I(x_j) < I(x_k)$$
- se e somente se  $p(x_j) > p(x_k)$ 
+se e somente se $p(x_j) > p(x_k)$
 
 Veja como o princípio acima mencionado, de forma técnica, precisa, está de acordo com o emprego comum do termo informação. Exemplificando: Suponha que o paraninfo de uma determinada turma de formandos transmite uma mensagem, de um conjunto de mensagens, durante seu discurso de formatura. Se ele diz algo usual, ou seja, uma mensagem muito provável (vocês são uns vencedores...), considera-se que foi dito muito pouco ou nada. Ao contrário, se emite uma mensagem altamente improvável no contexto (o que determina o êxito na vida
 
-é a sorte), então acreditamos que realmente foi dito algo. (O trecho acima sobre informação, com leves modificações, foi extraído do livro: *Introduccion a la psicologia matemática*, Alianza Universidad, Textos).
+é a sorte), então acreditamos que realmente foi dito algo. (O trecho acima sobre informação, com leves modificações, foi extraído do livro: _Introduccion a la psicologia matemática_, Alianza Universidad, Textos).
 
 O trecho acima e tudo o que vimos escrevendo sobre o ensino da matemática, nos remete à uma questão básica: compreensão de um símbolo. Qual o seu significado? Qual a idéia que ele quer nos transmitir. Retornamos, assim, à questão multi-milenar: a aparência e a essência, a forma e o conteúdo, o visível e o invisível. Uma mente semo treinamento adequado tem a tendência irresistível de agarrar-se à forma (ao símbolo) sem prestar atenção ao seu conteúdo. No ensino da matemática essa questão é crucial pois, sem tal conpreensão, resta ao aluno a deletéria "decoreba".
 
@@ -84,7 +84,7 @@ O item (ii) representa já um grande progresso metodológico do professor e reve
 
 Ora, qualquer ciência é, antes de tudo, um conjunto de idéias e não um conjunto de símbolos. O professor deve esforçar-se, para apresentar, em primeiro lugar, as idéias, após o que seguirão os símbolos que as representam.
 
-Ilustremos, com um exemplo corriqueiro o discutido acima. Sabe-se que todo número perfeito par possui por representação simbólica,  $2^{n-1}(2^n-1)$  enquanto on-ésimo número triangular,  $T_n$ , é dado por
+Ilustremos, com um exemplo corriqueiro o discutido acima. Sabe-se que todo número perfeito par possui por representação simbólica, $2^{n-1}(2^n-1)$ enquanto on-ésimo número triangular, $T_n$ , é dado por
 
 $$T_n = \frac{n(n+1)}{2} \cdot$$
 
@@ -110,13 +110,14 @@ UEFS, os seguintes lançamentos da SBM:
 - 1. Elementos de Aritmética
 
   A. Hefez
+
 - 2. Introdução à Computação Algébrica com o Maple
 
 Lenimar Nunes de Andrade
 
 Métodos Matemáticos para Engenharia
- Edmundo Capelas de Oliveira
- Martin Tygel
+Edmundo Capelas de Oliveira
+Martin Tygel
 
 # PRÓXIMO NÚMERO
 

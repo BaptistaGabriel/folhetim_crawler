@@ -32,7 +32,7 @@ Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre) Wilson Pereira
 
 Dando continuidade às publicações da coluna Pergunte que o NEMOC responde de autoria do Professor Carloman Carlos Borges, editada aos domingos no Feira Hoje, aqui estamos com o número 10. Anexo a esse segue uma ficha cadastro que deve ser preenchida por todos os professores interessados em receber o Folhetim e devolvida ao NEMOC. Dessa forma estamos iniciando um banco de dados, de pessoas e Instituições ligadas à Educação Matemática no Brasil.
 
-Agradecemos ao Prof. Sérgio Lorenzato (FE-UNICAMP) pela sua carta plena de estímulos para a equipe que faz o *Folhetim*.
+Agradecemos ao Prof. Sérgio Lorenzato (FE-UNICAMP) pela sua carta plena de estímulos para a equipe que faz o _Folhetim_.
 
 \* \*
 

@@ -33,16 +33,16 @@ Euclides de Alexandria é uma figura central na história da matemática. Seu li
 - A<sub>3</sub> Subtraindo-se iguais de iguais, as diferenças são iguais.
 - A<sub>4</sub> Coisas que coincidem uma com a outra são iguais entre si.
 - A<sub>5</sub> O todo é maior do que a parte.
-- $P_1$  É possível traçar uma linha reta de um ponto qualquer a outro ponto qualquer.
-- $P_2$  É possível prolongar uma reta finita (o grifo é nosso) indefinidamente em linha reta.
-- $\label{eq:possivel} \textbf{P}_{3} \not \textbf{E} \, \text{possivel descrever um círculo com qualquer centro e}$  qualquerraio.
+- $P_1$ É possível traçar uma linha reta de um ponto qualquer a outro ponto qualquer.
+- $P_2$ É possível prolongar uma reta finita (o grifo é nosso) indefinidamente em linha reta.
+- $\label{eq:possivel} \textbf{P}_{3} \not \textbf{E} \, \text{possivel descrever um círculo com qualquer centro e}$ qualquerraio.
 
 - P<sub>4</sub> Todos os ângulos retos são iguais entre si.
-- $P_5$  Dada uma reta r e um ponto P exterior a r, pelo ponto P, pode-se traçar uma única reta r' paralela à reta r.
+- $P_5$ Dada uma reta r e um ponto P exterior a r, pelo ponto P, pode-se traçar uma única reta r' paralela à reta r.
 
 Para estabelecer o laço necessário entre essas dez afirmações e as 465 proposições ele recorreu aos recursos da lógica clássica, já criada por Aristóteles.
 
-Sua influência extrapolou os limites da matemática. Assim, o filósofo holandês Spinoza criou o *método geométrico em filosofia*. A geometria euclidiana com suas conclusões filosóficas sobre a natureza do espaço influenciou o grande filósofo Kant, quando ele afirma o caráter aprioristíco desse mesmo espaço, coisa que carece de fundamento, como nos ensina a descoberta das geometrias não euclidianas.
+Sua influência extrapolou os limites da matemática. Assim, o filósofo holandês Spinoza criou o _método geométrico em filosofia_. A geometria euclidiana com suas conclusões filosóficas sobre a natureza do espaço influenciou o grande filósofo Kant, quando ele afirma o caráter aprioristíco desse mesmo espaço, coisa que carece de fundamento, como nos ensina a descoberta das geometrias não euclidianas.
 
 Os principais "defeitos" apontados pela crítica a Euclides são:
 
@@ -52,7 +52,7 @@ de uma separação artificial. Axiomas ou postulados são suposições aceitas c
 
 b)suas "definições" de ponto, reta, etc são obscuras. Modernamente, ponto, reta, plano são termos primitivos, isto é termos que não se difinem. Parece que Euclides desconhecia a afirmativa de Aristóteles: Se todas as coisas pudessem ser definidas, nada seria definido. Na geometria de Euclides não há termos primitivos. Modernamente eles fazem parte de todas as novas axiomáticas.
 
-c) ele fez algumas demonstrações com *passagens* obscuras. Exemplificando: na sua primeira proposição, ele afirma que pode ser construído um triângulo equilátero sobre qualquer segmento de reta. Como Euclides *demonstra* essa afirmativa?
+c) ele fez algumas demonstrações com _passagens_ obscuras. Exemplificando: na sua primeira proposição, ele afirma que pode ser construído um triângulo equilátero sobre qualquer segmento de reta. Como Euclides _demonstra_ essa afirmativa?
 
 Dado o segmento de reta AB, ele constrói dois círculos um com centro em A e outro centralizado em B, e cada um com um raio igual ao comprimento de AB. Em seguida ele postula a existência de um ponto onde os dois círculos se intersectam. Geometricamente, é evidente a existência desse ponto, porém, formalmente (e é isso que interessa numa demonstração) nada há que garanta tal existência.
 
@@ -72,7 +72,7 @@ no vazio. Inicialmente eles fizeram a decomposição desse evento complexo em se
 
 De início a seguinte observação: todos os corpos caem no vazio. Aí, já surge uma lei qualitativa. Em seguida o aprofundamento que leva a uma lei quantitativa: todos os corpos caem com igual velocidade; essa lei surge da observação da queda de corpos de diversa natureza. Finalmente, um terceiro estágio, Galileu mede os espaços percorridos na queda dos corpos chegando à formulação da lei matemática da queda dos graves no vazio. Qual a importância desse modelo matemático?
 
-A resposta: a *previsão* de novos fenômenos com corpos que, agora, *não precisam mais ser observados*.
+A resposta: a _previsão_ de novos fenômenos com corpos que, agora, _não precisam mais ser observados_.
 
 Aqui, deve-se observar: a) na aplicação das leis gerais aos casos particulares, seguimos o método sintético; b) na construção do modelo matemático, a partir do exame de vários casos particulares, seguimos o método analítico. Alguns autores denominam a análise de casos particulares para se chegar ao modelo matemático de método indutivo, enquanto, de método dedutivo, o caso sintético. Hoje em dia com os novos desenvolvimentos da lógica, os termos método indutivo e método dedutivo abrangem uma gama muito mais rica de casos.
 
@@ -80,7 +80,7 @@ No ensino da matemática muitas vezes empregamos a análise como instrumento inv
 
 Em sua obra Metodologia de la Matemática Elemental, J. Rey Pastor e P. Perig Adam, escreveu: Em toda invenção há tanto de análise como de síntese, e na exposição didática veremos que não é o método exclusivamente sintético o mais adequado e eficaz; porém, certamente, é indispensável a análise em toda invenção, assim como na resolução de todo problema, e é indispensável uma síntese em toda exposição científica. O que acontece na moderna pedagogia (esse livro foi editado em Madrid, em 1937. A observação é nossa) que utiliza ademais conjuntamente a análise no ensino, o faz precisamente para seguir o mesmo caminho da invenção.
 
-A axiomática, criação de Euclides, principalmente, deve ser encarada com cuidado no ensino da matemática. Em nosso entendimento, deve-se começar a aprendizagem de um modo informal ou heurístico. A introdução da axiomática no ensino, prematuramente, é um desastre que pode acarretar prejuízos irreversíveis. Veja, exemplificando, o ensino da geometria euclidiana durante vários séculos. Veja, ainda como o exemplo, o fracasso da chamada matemática moderna. É claro que a introdução da axiomática no ensino, pode depender, em parte, de qual disciplina vai ser ensinada. Segundo Suppes (*The Role of Axiomatic and Problem Solving in Mathematics, Boston, Ginn and Go., 1966*) a atual álgebra moderna
+A axiomática, criação de Euclides, principalmente, deve ser encarada com cuidado no ensino da matemática. Em nosso entendimento, deve-se começar a aprendizagem de um modo informal ou heurístico. A introdução da axiomática no ensino, prematuramente, é um desastre que pode acarretar prejuízos irreversíveis. Veja, exemplificando, o ensino da geometria euclidiana durante vários séculos. Veja, ainda como o exemplo, o fracasso da chamada matemática moderna. É claro que a introdução da axiomática no ensino, pode depender, em parte, de qual disciplina vai ser ensinada. Segundo Suppes (_The Role of Axiomatic and Problem Solving in Mathematics, Boston, Ginn and Go., 1966_) a atual álgebra moderna
 
 pode ser ensinada- pelo método axiomático - em nível de ensino secundário.
 

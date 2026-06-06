@@ -14,7 +14,7 @@ Este Folhetim é um veículo de divulgação, circulação de idéias e de estí
 
 Juntamente com o Folhetim de nº 48 enviamos a você uma ficha de avaliação na qual algumas informações são solicitadas.
 
-Gostaríamos de reforçar a necessidade do preenchimento e devolução da mesma, para que possamos, acima de tudo, introduzir novas "colunas" no *Folhetim*, que sejam de interesse geral.
+Gostaríamos de reforçar a necessidade do preenchimento e devolução da mesma, para que possamos, acima de tudo, introduzir novas "colunas" no _Folhetim_, que sejam de interesse geral.
 
 Aproveitamos a oportunidade para agradecermos a todos vocês que nos enviaram correspondências com elogios ao nosso trabalho, destacando também a melhoria gráfica.
 
@@ -34,17 +34,16 @@ ponto fixo desse mesmo plano, a convenção está estabelecida: daqui por diante
 
 ![](_page_1_Figure_4.jpeg)
 
-Suponhamos que elas representam a função tão conhecida  $y = x^2$ . Na figura 1, x pode assumir qualquer valor real, ele *percorre* todo o eixo horizontal, enquanto que na figura 2, x *percorre* apenas a parte positiva (incluindo o zero) do mesmo eixo. Outra diferença: na figura 1, para dois valores distintos de x,  $x_1$  e  $x_2$ , correspondem um só valor
+Suponhamos que elas representam a função tão conhecida $y = x^2$ . Na figura 1, x pode assumir qualquer valor real, ele _percorre_ todo o eixo horizontal, enquanto que na figura 2, x _percorre_ apenas a parte positiva (incluindo o zero) do mesmo eixo. Outra diferença: na figura 1, para dois valores distintos de x, $x_1$ e $x_2$ , correspondem um só valor
 
-para y, no caso, y<sub>1</sub>, enquanto que, na figura 2, para valores distintos de x, correspondem valores distintos para y. Conclui-se, portanto, da figura 2, que você pode estabelecer tanto uma função f de x para y, como uma outra função de y para x (note que isto não pode ser feito na figura 1). Esta outra função, de y para x, conforme figura 2, alguns chamam de função reciproca, entre outros nomes (bijeção recíproca, etc); ela é simbolizada graficamente por √, que se lê: raiz quadrada de .... Então, podemos escrever a equivalência lógica:  $y = \sqrt{x} \Leftrightarrow x = y^2$ . Duas conclusões importantes: i) só existe raiz quadrada de um número x pertencente a R<sub>+</sub> (números reais positivos e o zero); ii) o resultado da raiz quadrada é zero ou um número real positivo (volte a figura 2). Com as restrições mencionadas, podemos escrever tranquilamente:
+para y, no caso, y<sub>1</sub>, enquanto que, na figura 2, para valores distintos de x, correspondem valores distintos para y. Conclui-se, portanto, da figura 2, que você pode estabelecer tanto uma função f de x para y, como uma outra função de y para x (note que isto não pode ser feito na figura 1). Esta outra função, de y para x, conforme figura 2, alguns chamam de função reciproca, entre outros nomes (bijeção recíproca, etc); ela é simbolizada graficamente por √, que se lê: raiz quadrada de .... Então, podemos escrever a equivalência lógica: $y = \sqrt{x} \Leftrightarrow x = y^2$ . Duas conclusões importantes: i) só existe raiz quadrada de um número x pertencente a R<sub>+</sub> (números reais positivos e o zero); ii) o resultado da raiz quadrada é zero ou um número real positivo (volte a figura 2). Com as restrições mencionadas, podemos escrever tranquilamente:
 
-1) 
-$$\sqrt{0} = 0$$
-;  
-2)  $\sqrt{1} = 1$ ;  
-3)  $(\sqrt{A})^2 = A$ ,  $A > 0$ .
+1.  $$\sqrt{0} = 0$$
+    ;
+2.  $\sqrt{1} = 1$ ;
+3.  $(\sqrt{A})^2 = A$ , $A > 0$ .
 
-Consideremos, agora, uma conseqüência importante do que foi exposto acima. Seja A um número real positivo ou igual a zero; mostremos que existem dois números reais  $x_1 = \sqrt{A}$  e  $x_2 = -\sqrt{A}$ , tais que (1)  $x^2 = A$ . Segundo o exposto (observe que A é zero ou real positivo) existe em  $R_+$  um único número,  $a = \sqrt{A}$ , tal que (2)  $a^2 = A$ . É válida a equivalência (1)  $\Leftrightarrow$  (2) ou  $x^2 = a^2$ , donde (2)  $x^2 - a^2 = 0$ , (2') (x - a)(x + a) = 0; logo, os números que verificam (1) são:  $x_1 = \sqrt{A}$  e  $x_2 = -\sqrt{A}$ .
+Consideremos, agora, uma conseqüência importante do que foi exposto acima. Seja A um número real positivo ou igual a zero; mostremos que existem dois números reais $x_1 = \sqrt{A}$ e $x_2 = -\sqrt{A}$ , tais que (1) $x^2 = A$ . Segundo o exposto (observe que A é zero ou real positivo) existe em $R_+$ um único número, $a = \sqrt{A}$ , tal que (2) $a^2 = A$ . É válida a equivalência (1) $\Leftrightarrow$ (2) ou $x^2 = a^2$ , donde (2) $x^2 - a^2 = 0$ , (2') (x - a)(x + a) = 0; logo, os números que verificam (1) são: $x_1 = \sqrt{A}$ e $x_2 = -\sqrt{A}$ .
 
 É preciso notar que as convenções ou definições matemáticas - como a da raiz quadrada acabada de ser exposta - não são elaboradas aleatoriamente pelos matemáticos. Vamos tentar explicar isto. Seja a axiomática dos números reais na qual a propriedade distributiva é um de seus axiomas: a(b + c) = a.b + a.c, a, b e c são números reais quaisquer. Pois bem, a famosa e não menos misteriosa (pelo menos para os alunos) regra dos sinais pode ser considerada como uma conseqüência dessa propriedade. A outra convenção de que qualquer número real diferente de zero elevado a
 

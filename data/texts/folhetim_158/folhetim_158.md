@@ -104,12 +104,12 @@ Nos trˆes casos acima salientamos os seguintes fatos: corretamente raciocinando
 
 E imposs´ıvel, logicamente, de uma proposi¸c˜ao ver- ´ dadeira concluir uma proposi¸c˜ao falsa. Tais fatos s˜ao representados na tabela a seguir:
 
-| p | q | p⇒q |
-|---|---|-----|
-| V | V | V   |
-| V | F | F   |
-| F | V | V   |
-| F | F | V   |
+| p   | q   | p⇒q |
+| --- | --- | --- |
+| V   | V   | V   |
+| V   | F   | F   |
+| F   | V   | V   |
+| F   | F   | V   |
 
 A Matem´atica: suas origens, seu objeto e seus m´etodos. (Continua¸c˜ao)
 

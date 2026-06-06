@@ -33,10 +33,10 @@ O conceito de grupo é de fundamental importância na Teoria de Galois, pelo que
 
 alguns exemplos ilustrativos. Vejamos, inicialmente o exemplo: seja o conjunto {-1, 1}. A operação usual de multiplicação definenesse conjunto uma estrutura algébrica de grupo. Para mais clareza dessa afirmativa, façamos a "tábua" seguinte:
 
-| •  | 1  | -1 | 1000     |
-|----|----|----|----------|
-| 1  | 1  | -1 |          |
-| -1 | -1 | 1  | , temos: |
+| •   | 1   | -1  | 1000     |
+| --- | --- | --- | -------- |
+| 1   | 1   | -1  |          |
+| -1  | -1  | 1   | , temos: |
 
 - i) Fechamento, isto é, a operação "•" aplicada ao conjunto {-1,1} produz sempre um elemento pertencente a esse conjunto;
 - ii) a operação "•" é associativa;
@@ -45,7 +45,7 @@ alguns exemplos ilustrativos. Vejamos, inicialmente o exemplo: seja o conjunto {
 
 Observemos, ainda, que:
 
-v)  $(-1 \bullet 1) = (1) \bullet (-1) = -1$ , isto é, a operação é comutativa. Embora a comutatividade não seja uma propriedade indispensável à caracterização da estrutura de grupo, quando este a possui, damos-lhe o nome de grupo comutativo ou grupo abeliano.
+v) $(-1 \bullet 1) = (1) \bullet (-1) = -1$ , isto é, a operação é comutativa. Embora a comutatividade não seja uma propriedade indispensável à caracterização da estrutura de grupo, quando este a possui, damos-lhe o nome de grupo comutativo ou grupo abeliano.
 
 Consideremos um triângulo equilátero ABC, e estudemos as diversas rotações em tôrno do seu centro, capazes de fazê-lo coincidir com ele mesmo. Após um rápido exame, verificamos que existem apenas 3
 
@@ -67,7 +67,7 @@ Estabeleçamos neste conjunto de rotações a operação "adição de rotações
 
 $$R_x + R_y = R_{x+y}$$
 
-significando  $R_x + R_y$ , que devemos, primeiro, efetuar  $R_y$  e, em seguida, efetuar  $R_x$ . Assim, por exemplo:  $R_{0^\circ} + R_{120^\circ}$  =  $R_{0^\circ + 120^\circ} = R_{120^\circ}$ ;  $R_{120^\circ} + R_{240^\circ} = R_{360^\circ} = R_{0^\circ}$ .
+significando $R_x + R_y$ , que devemos, primeiro, efetuar $R_y$ e, em seguida, efetuar $R_x$ . Assim, por exemplo: $R_{0^\circ} + R_{120^\circ}$ = $R_{0^\circ + 120^\circ} = R_{120^\circ}$ ; $R_{120^\circ} + R_{240^\circ} = R_{360^\circ} = R_{0^\circ}$ .
 
 Temos a seguinte tábua:
 

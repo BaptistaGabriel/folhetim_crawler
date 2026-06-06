@@ -34,7 +34,7 @@ R. Agradecendo a pergunta inteligente, vamos tentar respondê-la da maneira a ma
 
 3 = 2 + 1 não é a mesma coisa que:
 
- $"3" \neq "2 + 1"$ .
+$"3" \neq "2 + 1"$ .
 
 Na primeira fórmula estão símbolos designativos de certos números e nela não figuram nomes de tais símbolos; na segunda empregamos os nomes de tais símbolos e é claro que o símbolo "3" é diferente do símbolo "2+1". Salientamos: na primeira fórmula 3 = 2 + 1 fazemos referência ao número inteiro 3, enquanto na segunda expressão fazemos referência aos símbolos "3" e "2 + 1". Conclusão do exposto: é importante distinguir entre a identidade de objetos da identidade de suas designações. Um mesmo objeto pode ser designado de maneiras diferentes. Mais um exemplo:
 
@@ -52,7 +52,7 @@ cão = chien = dog, temos três palavras (em Português, em Francês e em Inglê
 
 $$\frac{1}{5} = \frac{2}{10} = \frac{3}{15}$$
 
-Temos três termos matemáticos para o mesmo objeto matemático (aqui, diferentemente do exemplo anterior, o símbolo matemático faz referência a um objeto também matemático) que é o número racional  $\frac{1}{5}$ . Ainda, quando escrevemos:
+Temos três termos matemáticos para o mesmo objeto matemático (aqui, diferentemente do exemplo anterior, o símbolo matemático faz referência a um objeto também matemático) que é o número racional $\frac{1}{5}$ . Ainda, quando escrevemos:
 
 polinômio = polynôme = polynomial, empregamos três termos da Matemática denotando um mesmo objeto matemático que é o polinômio. Quando eu vou aprender uma nova língua, o Inglês, por exemplo, vou aprender novas palavras que denotem objetos cujos significados são por mim conhecidos. Eu aprendo uma língua mergulhado em um mundo de significados já aprendidos com a língua moderna. Aprendo símbolos novos (exemplo, chien) para significados que já conheço (no caso, cão). Na aprendizagem da Matemática temos uma tarefa dupla: aprender novos símbolos (novas palavras) com significados completamente diferentes não pertencentes ao meu mundo. Apesar disso, a maioria dos professores continua
 
@@ -64,7 +64,7 @@ tarefa é deixada a cargo de alguns espertos e sabidos, divulgadores de tolices,
 
 1ª diferença: quando aprendo um idioma estrangeiro, o Francês, por exemplo, eu já tenho um mundo de significados; sei, exemplificando, o que é uma mesa e devo aprender que ela é simbolizada como table. Quando o aluno aprende Matemática, ele necessita de dominar símbolos novos (exemplos: função, logaritmo, etc.) como, também, seus significados;
 
-<u>2ª diferença:</u> dado o caráter discreto e combinatório da linguagem natural, ela é incapaz de descrever processos que apresentem *gradações contínuas*; o lugar certo para esse tipo de descrições é a linguagem matemática.
+<u>2ª diferença:</u> dado o caráter discreto e combinatório da linguagem natural, ela é incapaz de descrever processos que apresentem _gradações contínuas_; o lugar certo para esse tipo de descrições é a linguagem matemática.
 
 Resta agora, tirar as conclusões pedagógicas de tudo isso, uma vez que nossos professores continuam ensinando a Matemática como é ensinado um idioma estrangeiro. Isso, fica para o próximo Folhetim...
 

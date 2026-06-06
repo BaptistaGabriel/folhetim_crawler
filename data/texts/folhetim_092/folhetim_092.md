@@ -1,22 +1,22 @@
 # **FOLHETIM DE EDUCAÇÃO MATEMÁTICA**
 
-**UNTVERSroADE ESTADUAL DE FEIRA DE SANTANA** 
+**UNTVERSroADE ESTADUAL DE FEIRA DE SANTANA**
 
-**Número Especial ISSN 1415-8779** 
+**Número Especial ISSN 1415-8779**
 
-**Folhetim Educ. Mat., Feira de Santana, Número Especial, 2000** 
+**Folhetim Educ. Mat., Feira de Santana, Número Especial, 2000**
 
 # **OBJETIVO**
 
-Este *Folhetim* é um veículo de divulgação, circulação de **ideias** e de estímulo ao estudo e **à**  curiosidade intelectual. Dirige-se a todos os interessados pelos aspectos pedagógicos, filosóficos e históricos da Matemática. Pretende construir uma ponte para unir os que estão próximos e os que estão distantes.
+Este _Folhetim_ é um veículo de divulgação, circulação de **ideias** e de estímulo ao estudo e **à** curiosidade intelectual. Dirige-se a todos os interessados pelos aspectos pedagógicos, filosóficos e históricos da Matemática. Pretende construir uma ponte para unir os que estão próximos e os que estão distantes.
 
 # **EDITORIAL**
 
-Mais uma vez temos a satisfação de fazer chegar até nossos leitores mais um número especial do nosso *Folhetim.* Desta vez com um artigo do professor Geraldo Ávila.
+Mais uma vez temos a satisfação de fazer chegar até nossos leitores mais um número especial do nosso _Folhetim._ Desta vez com um artigo do professor Geraldo Ávila.
 
 A preocupação do professor Geraldo Ávila com a melhoria da qualidade na formação dos nossos professores está registrada nos inúmeros trabalhos publicados na Revista do Professor de Matemática - RPM, versando sobre tópicos sempre atuais. Dos artigos mencionados, encontramos alguns dedicados especificamente ao ensino de matemática.
 
-No presente *Folhetim, o* professor Geraldo Ávila aborda a eficácia da matemática, mostrando essa ciência como um instrumento indispensável na compreensão dos fenómenos que nos rodeiam.
+No presente _Folhetim, o_ professor Geraldo Ávila aborda a eficácia da matemática, mostrando essa ciência como um instrumento indispensável na compreensão dos fenómenos que nos rodeiam.
 
 Certamente o artigo vai ser uma fonte útil de pesquisa para os professores do ensino fiindamental e médio principalmente.
 
@@ -28,7 +28,7 @@ Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 
 ## **PERGUNTE QUE O NEMOC RESPONDE**
 
-# *õficácia e/a JlCaiemáiica por Ser-alt/o*
+# _õficácia e/a JlCaiemáiica por Ser-alt/o_
 
 #### **Introdução**
 
@@ -60,7 +60,7 @@ De fato, coube a Isaac Newton (1642-1727) descobrir, no emaranhado dos escritos 
 
 #### **NEMOC - NÚCLEO D E EDUCAÇÃO MATEMÁTICA OMA R CATUNDA**
 
-**Folhetim Educ. Mat., Feira de Santana, Número Especial, jul. 2000 - Editores: Carloman e Inácio - Secretária: Josenildes Oliveira Venas Almeida - Editoração: Evandro Vaz e Nivaldo de Assis - Impressão: Imprensa Gráfica Universitária - Periodicidade: mensal - Tiragem: 1.600 exemplares -** *Distribuição gratuita •* **Endereço: Av. Universitária, s/n - km 03 - BR 116 - Campus Universitário - Telefone: (75)224-8115 - Fax: (75)224-8086 - C EP 44031-460 - Feira de Santana - Ba - BRASIL - E-mail: nemoc@uefs.br** 
+**Folhetim Educ. Mat., Feira de Santana, Número Especial, jul. 2000 - Editores: Carloman e Inácio - Secretária: Josenildes Oliveira Venas Almeida - Editoração: Evandro Vaz e Nivaldo de Assis - Impressão: Imprensa Gráfica Universitária - Periodicidade: mensal - Tiragem: 1.600 exemplares -** _Distribuição gratuita •_ **Endereço: Av. Universitária, s/n - km 03 - BR 116 - Campus Universitário - Telefone: (75)224-8115 - Fax: (75)224-8086 - C EP 44031-460 - Feira de Santana - Ba - BRASIL - E-mail: nemoc@uefs.br**
 
 do movimento da Lua em volta da Terra, Euler teve de levar em conta a perturbação provocada pela atração solar; e no caso de um planeta, como Marte, Laplace teve de levar em conta as pertubações provocadas por planetas de grandes massas, como Júpiter e Saturno.
 
@@ -84,15 +84,15 @@ Foi Pitágoras, no século VI a.C., quem primeiro concebeu a ideia de que a Mate
 
 Mas a universalidade da Matemática é mais profunda do que pode imaginar nossa limitada sabedoria. Vemos isso ao contemplarmos a presença de objetos matemáticos em contextos os mais diversos. Citemos, como exemplo, a elipse, que foi identificada pela primeira vez há mais de vinte séculos, como a curva que um plano determina num cone circular reto. No século XVII Kepler descobre que a órbita dos planetas não é um círculo, como ainda imaginava Copérnico, mas uma elipse! Como explicar o aparecimento desse objeto em situações tão diferentes, como a interseção de um plano com um cone e o movimento planetário?!
 
-Fatos como esse são mais frequentes do que podemos imaginar. Eparaterminarnossas considerações, vamos mencionar mais um desses fatos, referente a quatro números que foram intoduzidos na Matemática em contextos os mais variados e, aparentemente, independentes uns dos outros. Referimo-nos ao número - 1, o número *K,* a unidade imaginária *i,* e o número *e,*  base dos logaritmos naturais. Sugerimos que o leitor reflita sobre cada um desses números e procure comparálos entre si. Veja: o primeiro tem a ver com os inteiros
+Fatos como esse são mais frequentes do que podemos imaginar. Eparaterminarnossas considerações, vamos mencionar mais um desses fatos, referente a quatro números que foram intoduzidos na Matemática em contextos os mais variados e, aparentemente, independentes uns dos outros. Referimo-nos ao número - 1, o número _K,_ a unidade imaginária _i,_ e o número _e,_ base dos logaritmos naturais. Sugerimos que o leitor reflita sobre cada um desses números e procure comparálos entre si. Veja: o primeiro tem a ver com os inteiros
 
-negativos, aparentemente uma pura invenção dos matemáticos; o segundo é a relação da circunferência pelo diâmetro em qualquer círculo; o terceiro, a unidade imaginária, foi introduzido de maneira não menos artificial que o -1; e o número *e* aparece como limite de uma sequência numérica infinita. Diante de situações tão diversas, como explicar que esses números depois se revelem tão unidos e inter-relacionados? Pois, de fato, estão intimamente ligados entre si por esta notável, simples e elegante relação: e<sup>iπ</sup>=-1. Bem disse Shaekespeare: há mais coisa entre o céu e a terra do que pode explicar a vã sabedoria humana. ●
+negativos, aparentemente uma pura invenção dos matemáticos; o segundo é a relação da circunferência pelo diâmetro em qualquer círculo; o terceiro, a unidade imaginária, foi introduzido de maneira não menos artificial que o -1; e o número _e_ aparece como limite de uma sequência numérica infinita. Diante de situações tão diversas, como explicar que esses números depois se revelem tão unidos e inter-relacionados? Pois, de fato, estão intimamente ligados entre si por esta notável, simples e elegante relação: e<sup>iπ</sup>=-1. Bem disse Shaekespeare: há mais coisa entre o céu e a terra do que pode explicar a vã sabedoria humana. ●
 
 # \*Geraldo Severo de S. Ávila
 
 Carloman Carlos Borges
 
-A propósito da brincadeira no início do artigo do prof. Geraldo Ávila, segue uma anedota contada por Ian Stewart no livro *Conceitos de Matemática Moderna*: Um astrônomo, um físico e um matemático estavam passeando de férias na Escócia. Olhando pela janela do trem eles avistaram uma ovelha preta no meio de um campo."Que interessante" observou o astrônomo, "na Escócia todas as ovelhas são pretas". Ao que o físico respondeu: "Não, nada disso! Algumas ovelhas escocesasa são pretas". O matemático olhou para cima em desespero e disse: "Na Escócia existe pelo menos um campo, contendo pelo menos uma ovelha e pelo menos um lado dela é preto".
+A propósito da brincadeira no início do artigo do prof. Geraldo Ávila, segue uma anedota contada por Ian Stewart no livro _Conceitos de Matemática Moderna_: Um astrônomo, um físico e um matemático estavam passeando de férias na Escócia. Olhando pela janela do trem eles avistaram uma ovelha preta no meio de um campo."Que interessante" observou o astrônomo, "na Escócia todas as ovelhas são pretas". Ao que o físico respondeu: "Não, nada disso! Algumas ovelhas escocesasa são pretas". O matemático olhou para cima em desespero e disse: "Na Escócia existe pelo menos um campo, contendo pelo menos uma ovelha e pelo menos um lado dela é preto".
 
 O Prof. Geraldo Ávila é uma figura bastante conhecida nos meios acadêmicos - quer pelos seus trabalhos de pesquisa na área de equações diferenciais paraciais, quer através de seus livros de divulgação científica. Seus artigos na Revista do Professor de Matemática - RPM - sob a égide da SBM, são lidos e estudados por nossos estudantes de Graduação em Matemática, com renovado interesse.
 

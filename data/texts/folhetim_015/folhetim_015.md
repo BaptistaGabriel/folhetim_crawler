@@ -49,7 +49,7 @@ Obs.: É permitida a reprodução total ou parcial desse folhetim desde que cita
 
 Caso você tenha interesse em receber esta publicação escreva para o NEMOC.
 
-# 
+#
 
 No próximo número, a resposta para:
 

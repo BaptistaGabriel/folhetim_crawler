@@ -12,7 +12,7 @@ Este Folhetim é um veículo de divulgação, circulação de idéias e de estí
 
 #### **EDITORIAL**
 
-Após trilharmos os caminhos da geometria, a partir desse número do *Folhetim* faremos um passeio pelo Cálculo, poderoso instrumento do qual a Matemática não pode prescindir.
+Após trilharmos os caminhos da geometria, a partir desse número do _Folhetim_ faremos um passeio pelo Cálculo, poderoso instrumento do qual a Matemática não pode prescindir.
 
 Queremos também aproveitar este espaço para informar aos nossos leitores que iremos fazer uma pesquisa de satisfação com os nossos leitores, e desde já gostaríamos de contar com a colaboração de cada um. Nos próximos folhetins daremos mais detalhes. Por enquanto, fiquem com um pouco da história do cálculo na coluna Pergunte que o NEMOC Responde.
 
@@ -50,54 +50,54 @@ Agora basta calcular a inclinação da secante PP'. Como ela, segundo a última 
 
 $$tg \alpha = \text{tangente da secante} = \frac{|P'A|}{|PA|}$$
 
-é igual à diferença <u>infinitamente pequena</u> entre  $y_1$  e  $y_0$ , sendo, por isso mesmo, denominado por Leibniz de "diferencial de y", simbolizado por dy. Igualmente, a diferença entre  $x_1$  e  $x_0$  é denominada de "diferencial de x", isto é, dx. Resumindo:
+é igual à diferença <u>infinitamente pequena</u> entre $y_1$ e $y_0$ , sendo, por isso mesmo, denominado por Leibniz de "diferencial de y", simbolizado por dy. Igualmente, a diferença entre $x_1$ e $x_0$ é denominada de "diferencial de x", isto é, dx. Resumindo:
 
 $$tg \alpha = \text{tangente da secante} = \frac{|y_1 - y_0|}{|x_1 - x_0|} = \frac{dy}{dx}$$
 
-A fim de ilustrar a situação, consideremos a função  $y = x^2$  e calculemos o quociente daqueles dois "infinitamente pequenos",  $dy \in dx$ . Vem:
+A fim de ilustrar a situação, consideremos a função $y = x^2$ e calculemos o quociente daqueles dois "infinitamente pequenos", $dy \in dx$ . Vem:
 
 $$y_1 = x_1^2 = (x_0 + dx)^2 = x_0^2 + 2x_0 \cdot dx + (dx)^2$$
- (I)
+(I)
 
 $$y_1 - y_0 = 2x_0 dx + (dx)^2$$
- (II)
+(II)
 
-dividindo (II) por  $x_1 - x_0 = dx$ , vem:
+dividindo (II) por $x_1 - x_0 = dx$ , vem:
 
 $$\frac{dy}{dx} = \frac{y_1 - y_0}{x_1 - x_0} = 2x_0 + dx \quad (III)$$
 
 Suprimindo dx à direita de (III), vem:
 
 $$\frac{dy}{dx} = 2x_0$$
- (IV)
+(IV)
 
 Como, nesse caso, a função é sempre derivável, tem-se o resultado final;
 
 $$\frac{dy}{dx} = 2x$$
 
-Qualquer estudante de Cálculo, hoje em dia, sabe perfeitamente, que o resultado obtido é verdadeiro, porém, o método empregado a fim de obtê-lo merece reparos, principalmente quanto ao rigor. Como vimos o ponto de partida de Leibniz foi  $x_1 = x_0 + dx$  predominantemente intuitivo. Da expressão (II) para a número (III) "o infinitamente pequeno" é considerado diferente de zero, enquanto da expressão (III) para (IV) ele é considerado igual a zero. É estranho que Leibniz tão admirador da Lógica - nessa operação - dx ora é diferente de zero e dx ora é igual a zero - não tenha observado uma flagrante violação do Princípio da Contradição, tão caro à Lógica Clássica.
+Qualquer estudante de Cálculo, hoje em dia, sabe perfeitamente, que o resultado obtido é verdadeiro, porém, o método empregado a fim de obtê-lo merece reparos, principalmente quanto ao rigor. Como vimos o ponto de partida de Leibniz foi $x_1 = x_0 + dx$ predominantemente intuitivo. Da expressão (II) para a número (III) "o infinitamente pequeno" é considerado diferente de zero, enquanto da expressão (III) para (IV) ele é considerado igual a zero. É estranho que Leibniz tão admirador da Lógica - nessa operação - dx ora é diferente de zero e dx ora é igual a zero - não tenha observado uma flagrante violação do Princípio da Contradição, tão caro à Lógica Clássica.
 
 Ora, se em(I)dx fosse considerado como igual a zero, ter-se-ia:
 
 $$y_1 = (x_1)^2 = (x_0 + dx)^2 = (x_0 + 0)^2 = (x_0)^2$$
- e  
- $dy = y_1 - y_0 = (x_1)^2 - (x_0)^2 = 0$   
-donde,  $\frac{dy}{dx} = \frac{0}{0}$ 
+e  
+ $dy = y_1 - y_0 = (x_1)^2 - (x_0)^2 = 0$  
+donde, $\frac{dy}{dx} = \frac{0}{0}$
 
 umresultadoinútil, porque incompreensível naquela época, quando a burguesia estava impetuosamente se desenvolvendo e muitos matemáticos levantavam bandeiras progressistas e eram até mesmo materialistas. Devido a isso, o bispo irlandês George Berkeley (1685 -1753) escreve um contundente panfleto: "O Analista, ou Discurso Dirigido a um Matemático Infiel, Donde são Examinados se os objetos, Princípios e Inferências da Análise Moderna estão Formulados de Maneira mais Clara, ou deduzidos de Maneira mais Evidente que os
 
-Mistérios Religiosos e os Assuntos de Fé". Às quantidades "infinitamente pequenas" que ora são diferentes de zero e ora são iguais a zero, Berkeley, que além de sacerdote foi um conhecido filósofo, ele as denominam de "fantasmas das quantidades desaparecidas" pois, segundo ele: "não são nem quantidades finitas, nem quantidades infinitamente pequenas sem ser tampouco um simples nada". Quanto ao êxito obtido pelas aplicações do Cálculo, Berkeley o explicava por meio de uma compensação de erros, implícita na aplicação das regras do Cálculo: inicialmente fala-se numa estranha "coincidência" entre a secante PP'com a reta tangente em P, considerando a inclinação da reta tangente igual à inclinação da secante PP'; em seguida, no cálculo da razão dy/dx, é introduzido novo erro, pois dx ora é considerado diferente de zero ora é considerado igual a zero. Esses erros, segundo ele, são compensados um com outro, logo o Cálculo não pode "chamar-se de Ciência, pois se procede às cegas e se chega a verdade não sabendo como nem por quais meios". Finalmente, Berkeley decreta a sua sentença: "quem acredita nesse cálculo diferencial misterioso, não tem nenhuma razão para não acreditar em Deus..." A alusão à compensação de erros é bem conhecida na história da ciência. Um dos exemplos mais citados referese a Kepler com a sua segunda lei: "Oraio - vetor de um planeta varre áreas iguais em tempos iguais". Veja o que a esse respeito escreveu Pierre Lucie, em A Gênese do Método Científico, Editora Campus. "Nessa incrível comédia de erros e por uma não menos fantástica coincidência que erros se cancelassem no final, Kepler acabava de descobrir uma lei correta, que ia ser conhecida como a 2ª lei (de Kepler), embora a tivesse descoberto antes da 1ª. As críticas de Berkeley não são apenas contundentes; elas são procedentes e é de causar admiração que uma questão tão importante como essa, porque é ligada aos próprios fundamentos da matemática tenha sido primeiro levantada por um leigo. Quanto a Newton, suas idéias básicas foram as mesmas empregadas por Leibniz, excetuando sua linguagem rebuscada. Vejamos como ele procede para encontrar o Fluxo-isto é, a derivada - de  $y = x^2$ . A quantidade x era considerada como uma Quantidade Fluente, variando com o tempo. Dizia Newton: "Deixemos que x flua por um tempo pequeno, de maneira que se chega a tornar-se x + dx,
+Mistérios Religiosos e os Assuntos de Fé". Às quantidades "infinitamente pequenas" que ora são diferentes de zero e ora são iguais a zero, Berkeley, que além de sacerdote foi um conhecido filósofo, ele as denominam de "fantasmas das quantidades desaparecidas" pois, segundo ele: "não são nem quantidades finitas, nem quantidades infinitamente pequenas sem ser tampouco um simples nada". Quanto ao êxito obtido pelas aplicações do Cálculo, Berkeley o explicava por meio de uma compensação de erros, implícita na aplicação das regras do Cálculo: inicialmente fala-se numa estranha "coincidência" entre a secante PP'com a reta tangente em P, considerando a inclinação da reta tangente igual à inclinação da secante PP'; em seguida, no cálculo da razão dy/dx, é introduzido novo erro, pois dx ora é considerado diferente de zero ora é considerado igual a zero. Esses erros, segundo ele, são compensados um com outro, logo o Cálculo não pode "chamar-se de Ciência, pois se procede às cegas e se chega a verdade não sabendo como nem por quais meios". Finalmente, Berkeley decreta a sua sentença: "quem acredita nesse cálculo diferencial misterioso, não tem nenhuma razão para não acreditar em Deus..." A alusão à compensação de erros é bem conhecida na história da ciência. Um dos exemplos mais citados referese a Kepler com a sua segunda lei: "Oraio - vetor de um planeta varre áreas iguais em tempos iguais". Veja o que a esse respeito escreveu Pierre Lucie, em A Gênese do Método Científico, Editora Campus. "Nessa incrível comédia de erros e por uma não menos fantástica coincidência que erros se cancelassem no final, Kepler acabava de descobrir uma lei correta, que ia ser conhecida como a 2ª lei (de Kepler), embora a tivesse descoberto antes da 1ª. As críticas de Berkeley não são apenas contundentes; elas são procedentes e é de causar admiração que uma questão tão importante como essa, porque é ligada aos próprios fundamentos da matemática tenha sido primeiro levantada por um leigo. Quanto a Newton, suas idéias básicas foram as mesmas empregadas por Leibniz, excetuando sua linguagem rebuscada. Vejamos como ele procede para encontrar o Fluxo-isto é, a derivada - de $y = x^2$ . A quantidade x era considerada como uma Quantidade Fluente, variando com o tempo. Dizia Newton: "Deixemos que x flua por um tempo pequeno, de maneira que se chega a tornar-se x + dx,
 
-onde dx é um <u>acréscimo evanescente</u> ou <u>infinitesimal</u> de x. Temos então: $(x + dx)^2 = x^2 + 2x \cdot dx + (dx)^2$ , sendo o acréscimo de y igual a  $2x \cdot dx + (dx)^2$ . A razão entre os
+onde dx é um <u>acréscimo evanescente</u> ou <u>infinitesimal</u> de x. Temos então: $(x + dx)^2 = x^2 + 2x \cdot dx + (dx)^2$ , sendo o acréscimo de y igual a $2x \cdot dx + (dx)^2$ . A razão entre os
 
-acréscimos ou incrementos é:  $\frac{2x dx + (dx)^2}{dx} = 2x + dx$ .
+acréscimos ou incrementos é: $\frac{2x dx + (dx)^2}{dx} = 2x + dx$ .
 
-Deixando dx desaparecer, a razão se torna 2x". (Os grifos são nossos). Logo, a derivada de  $y = x^2 é 2x$ . Newton escrevia:
+Deixando dx desaparecer, a razão se torna 2x". (Os grifos são nossos). Logo, a derivada de $y = x^2 é 2x$ . Newton escrevia:
 
-- $\dot{x}$  = fluxo de x (isto é, a velocidade de x)
-- $\dot{y}$  = fluxo de y (isto é, a velocidade de y)
+- $\dot{x}$ = fluxo de x (isto é, a velocidade de x)
+- $\dot{y}$ = fluxo de y (isto é, a velocidade de y)
 
-Ele afirmava que a razão entre os fluxos  $\frac{\dot{y}}{\dot{x}}$  é a mesma que há entre os incrementos ou acréscimos evanescentes. Logo  $\frac{\dot{y}}{\dot{x}} = 2x$  ou seja  $\dot{y} = 2x \cdot \dot{x}$ .
+Ele afirmava que a razão entre os fluxos $\frac{\dot{y}}{\dot{x}}$ é a mesma que há entre os incrementos ou acréscimos evanescentes. Logo $\frac{\dot{y}}{\dot{x}} = 2x$ ou seja $\dot{y} = 2x \cdot \dot{x}$ .
 
 Enquanto Newton e Leibniz se apoiavam em "quantidades infinitamente pequenas", D'Alembert (1717-1783) considera o acréscimo Δx um incremento finito qualquer. Com essa consideração, as regras do cálculo podem ser aplicadas tranqüilamente, sem maiores preocupações. •
 

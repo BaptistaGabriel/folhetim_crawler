@@ -12,7 +12,7 @@ Este Folhetim é um veículo de divulgação, circulação de idéias e de estí
 
 #### **EDITORIAL**
 
-Estamos encerrando mais um ano civil, no qual tivemos o desafio de manter, apesar das dificuldades, a periodicidade mensal do *Folhetim*.
+Estamos encerrando mais um ano civil, no qual tivemos o desafio de manter, apesar das dificuldades, a periodicidade mensal do _Folhetim_.
 
 Para o próximo ano, a nossa perspectiva é de continuar mantendo o ritmo de trabalho, sempre visando ao leitor. Além disso, estamos com um projeto de construção da nossa "home-page", dando assim mais um passo em direção à universalização do conhecimento.
 
@@ -36,31 +36,31 @@ conhecimento científico senão uma rede de idéias e de modelos? Comecemos noss
 
 ![](_page_1_Figure_4.jpeg)
 
-Antes de Galileu, já era conhecida a maneira de medição de uma distância, porém não existia um modo rigoroso para a medição do tempo, particularmente tempos de breve duração. Esse grande sábio usou seu próprio pulso para contar intervalos de tempos iguais chegando à conclusão: a distância é proporcional ao quadrado do tempo, isto é:  $D \propto t^2$ . Assim, considerando g aproximadamente igual a 9,81 m/s², Galileu chegou à fórmula conhecida de nossos estudantes do
+Antes de Galileu, já era conhecida a maneira de medição de uma distância, porém não existia um modo rigoroso para a medição do tempo, particularmente tempos de breve duração. Esse grande sábio usou seu próprio pulso para contar intervalos de tempos iguais chegando à conclusão: a distância é proporcional ao quadrado do tempo, isto é: $D \propto t^2$ . Assim, considerando g aproximadamente igual a 9,81 m/s², Galileu chegou à fórmula conhecida de nossos estudantes do
 
-2° grau:  $D = \frac{1}{2} gt^2(I)$ . Neste ponto a professora faria muito bem em esclarecer que a resistência do ar foi desprezada; assim, a fórmula (I) apresenta uma primeira aproximação do fenômeno em questão. Para uma segunda aproximação a fórmula (I) receberia mais um termo correspondente à resistência do ar; porém como esta depende da temperatura e da pressão do ar, a professora poderia apresentar uma terceira aproximação, tornando claro para o aluno a importância do conceito de aproximação, tão relegado nos manuais escolares. Deixaria bem evidenciado que todo nosso conhecimento é elaborado não de modo exaustivo, porém, através de aproximações cada vez mais finas, as quais jamais esgotarão o objeto ou fenômeno estudado. Talvez com isso o aluno recebesse mais uma lição não só de física e de matemática, mais também, de humildade ante a impossibilidade de uma última aproximação ...
+2° grau: $D = \frac{1}{2} gt^2(I)$ . Neste ponto a professora faria muito bem em esclarecer que a resistência do ar foi desprezada; assim, a fórmula (I) apresenta uma primeira aproximação do fenômeno em questão. Para uma segunda aproximação a fórmula (I) receberia mais um termo correspondente à resistência do ar; porém como esta depende da temperatura e da pressão do ar, a professora poderia apresentar uma terceira aproximação, tornando claro para o aluno a importância do conceito de aproximação, tão relegado nos manuais escolares. Deixaria bem evidenciado que todo nosso conhecimento é elaborado não de modo exaustivo, porém, através de aproximações cada vez mais finas, as quais jamais esgotarão o objeto ou fenômeno estudado. Talvez com isso o aluno recebesse mais uma lição não só de física e de matemática, mais também, de humildade ante a impossibilidade de uma última aproximação ...
 
 Estabelecido o modelo acima, pode-se colocar
 
 a seguinte pergunta: existem outros fenômenos análogos? A resposta é positiva:
 
-a) considere um ser celular de forma esférica: a superfície S da célula é dada por  $S = 4\pi r^2$  (sendo r o raio da esfera);
+a) considere um ser celular de forma esférica: a superfície S da célula é dada por $S = 4\pi r^2$ (sendo r o raio da esfera);
 
 b) considerando E a energia de um corpo que cai e m e v sua massa e velocidade, respecti-
 
-vamente, então:  $E = \frac{1}{2} mv^2$ ;
+vamente, então: $E = \frac{1}{2} mv^2$ ;
 
 c) seja o triângulo ABC
 
 ![](_page_1_Picture_13.jpeg)
 
-Sua área A é expressa por  $A = \frac{1}{2}x^2 tg\alpha$ .
+Sua área A é expressa por $A = \frac{1}{2}x^2 tg\alpha$ .
 
 Nesta altura a professora poderia colocar a pergunta: existirá uma fórmula que sirva de síntese para todas as anteriores? A resposta ainda é positiva e
 
-ela é dada por:  $y = \frac{1}{2}ax^2$  (II). Como interpretá-la em relação as anteriores?
+ela é dada por: $y = \frac{1}{2}ax^2$ (II). Como interpretá-la em relação as anteriores?
 
-Nas anteriores as variáveis D, t; S, r; E, v; A, x; dizem respeito a casos particulares: um corpo em queda livre, superfície de uma célula esférica. energia de um corpo caindo, área de um triângulo. Aqui, o aluno já deve ser informado que ele está na presença de uma generalização, isto é, da análise de casos particulares (quatro) elaborou uma fórmula mais abrangente. Veja que a fórmula (II) não faz menção a nenhuma das grandezas envolvidas nas quatro fómulas anteriores; é como se elas tivessem sido eliminadas passando a serem representadas por y e x. Temos aí exemplo de uma simples abstração acompanhada da respectiva generalização. Para enfatizar uma das matrizes mais fecundas da criatividade matemática (a generalização), a professora poderia perguntar aos alunos: que outras funções vocês conhecem? Eles provavelmente responderiam: bem, já estudamos as funções  $y = ax^2$ ,  $y = a^x$ ,  $y = \log x$ ,  $y = \lg x$ , etc.
+Nas anteriores as variáveis D, t; S, r; E, v; A, x; dizem respeito a casos particulares: um corpo em queda livre, superfície de uma célula esférica. energia de um corpo caindo, área de um triângulo. Aqui, o aluno já deve ser informado que ele está na presença de uma generalização, isto é, da análise de casos particulares (quatro) elaborou uma fórmula mais abrangente. Veja que a fórmula (II) não faz menção a nenhuma das grandezas envolvidas nas quatro fómulas anteriores; é como se elas tivessem sido eliminadas passando a serem representadas por y e x. Temos aí exemplo de uma simples abstração acompanhada da respectiva generalização. Para enfatizar uma das matrizes mais fecundas da criatividade matemática (a generalização), a professora poderia perguntar aos alunos: que outras funções vocês conhecem? Eles provavelmente responderiam: bem, já estudamos as funções $y = ax^2$ , $y = a^x$ , $y = \log x$ , $y = \lg x$ , etc.
 
 Prosseguindo: como generalizá-las? Com um pouco de atenção, os alunos chegariam a mais uma generalização: y = f(x). Penso que a exposição acima poderia servir de modelo para quase todos os tópicos de matemática, principalmente nos 1° e 2° graus. O explicitamento dos mecanismos básicos do
 
@@ -68,27 +68,27 @@ cérebro humano por intermédio do ensino da Matemática, certamente se constitu
 
 a) preço de uma corrida de táxi em função da distância percorrida; neste caso basta considerar: m = preço de km rodado; k = bandeirada (taxa inicial), x = número de quilômetros percorridos e y = preço da corrida;
 
-b) trajeto percorrido com velocidade uniforme emfunção do tempo: v = velocidade uniforme (constante),  $s_0 = p$ osição inicial, t = tempo de percurso e s = espaço percorrido; logo podemos escrever  $s = vt + s_0$ ;
+b) trajeto percorrido com velocidade uniforme emfunção do tempo: v = velocidade uniforme (constante), $s_0 = p$ osição inicial, t = tempo de percurso e s = espaço percorrido; logo podemos escrever $s = vt + s_0$ ;
 
 c) consumo de energia elétrica: m = preço quilowatt-hora, k = preço do aluguel do relógio, x = número de kWh consumidos e y = total da conta;
 
-d) as funções lineares representadas por y = mx servem para modelar questões envolvendo proporcionalidade. Exemplos: dizemos que os conjuntos numéricos X e Y são proporcionais quando existem: i) uma bijeção  $f: x \in X \rightarrow y \in Y$  e ii) um número m tal que y = mx. A bijeção f é denominada de proporcionalidade e o número m é chamado de razão de coeficiente de proporcionalidade. Exemplos:
+d) as funções lineares representadas por y = mx servem para modelar questões envolvendo proporcionalidade. Exemplos: dizemos que os conjuntos numéricos X e Y são proporcionais quando existem: i) uma bijeção $f: x \in X \rightarrow y \in Y$ e ii) um número m tal que y = mx. A bijeção f é denominada de proporcionalidade e o número m é chamado de razão de coeficiente de proporcionalidade. Exemplos:
 
-a) 
+a)
 $$\frac{X}{Y} \begin{vmatrix} 1 & 2 & 3 & 4 & 5 \\ 4 & 8 & 12 & 16 & 20 \end{vmatrix}$$
-  $m = 4$   
- $y = 4x$   
-b)  $\frac{X}{Y} \begin{vmatrix} 0.1 & 0.01 & 0.001 & 0.0001... \\ Y \begin{vmatrix} 0.05 & 0.005 & 0.0005 & 0.00005... \\ y = 0.5x \end{vmatrix}$   $m = 0.5$ 
+$m = 4$  
+ $y = 4x$  
+b) $\frac{X}{Y} \begin{vmatrix} 0.1 & 0.01 & 0.001 & 0.0001... \\ Y \begin{vmatrix} 0.05 & 0.005 & 0.0005 & 0.00005... \\ y = 0.5x \end{vmatrix}$ $m = 0.5$
 
 c) Consideremos uma mola resistente à compressão e à extensão e que se encontra suspensa verticalmente. Na extremidade inferior da mola é pendurado um corpo de massa m tão grande em relação à massa da mola que esta pode ser desprezada. Se o corpo é puxado para baixo de uma certa distância e em seguida liberado, ele passa a movimentar-se. Neste caso, a força da mola, que é exercida por esta quando deformada é proporcional à deformação, isto é:
 
-F=ks (Lei de Hooke, físico inglês, 1635-1703). Aqui, s é o alongamento e k é a constante de proporcionalidade, também conhecida como *módulo da mola*.
+F=ks (Lei de Hooke, físico inglês, 1635-1703). Aqui, s é o alongamento e k é a constante de proporcionalidade, também conhecida como _módulo da mola_.
 
-d) Considere um ferro elétrico de "passar roupa" e sejam  $q_1$  e  $q_2$  as quantidades de calor desprendidas na sua resistência ao ser atravessada por uma corrente elétrica durante  $t_1$  e  $t_2$  segundos, respectivamente. Verifica-se que a quantidade de calor produzida durante  $t_1$  +  $t_2$  segundos é a soma  $q_1$  +  $q_2$ . Deste modo a quantidade de calor é proporcional ao tempo em que é produzida.
+d) Considere um ferro elétrico de "passar roupa" e sejam $q_1$ e $q_2$ as quantidades de calor desprendidas na sua resistência ao ser atravessada por uma corrente elétrica durante $t_1$ e $t_2$ segundos, respectivamente. Verifica-se que a quantidade de calor produzida durante $t_1$ + $t_2$ segundos é a soma $q_1$ + $q_2$ . Deste modo a quantidade de calor é proporcional ao tempo em que é produzida.
 
 e) Agora, um contra-exemplo: as tarifas postais não são proporcionais aos pesos das encomendas. Realmente, se uma encomenda com peso x paga y centavos de tarifa e outra com peso x' paga y' centavos, a encomenda com peso x + x' não pagará y + y' centavos para quaisquer x e x'.
 
-f) Em uma reação química, a rapidez de variação de uma substância pode ser proporcional a quantidade dessa substância presente em um momento dado. Tal tipo de reação é conhecida como um *processo de primeira ordem*. Sendo x a quantidade de substância presente no tempo t e  $\Delta(x)_t$  a rapidez de variação mencionada, vem:  $\Delta(x)_t = kx$ .
+f) Em uma reação química, a rapidez de variação de uma substância pode ser proporcional a quantidade dessa substância presente em um momento dado. Tal tipo de reação é conhecida como um _processo de primeira ordem_. Sendo x a quantidade de substância presente no tempo t e $\Delta(x)_t$ a rapidez de variação mencionada, vem: $\Delta(x)_t = kx$ .
 
 Em nosso próximo Folhetim continuaremos estendendo o mesmo assunto, isto é, modelagem matemática. Agora, desejamos tecer algumas considerações gerais sobre o ensino de alguns tópicos de matemática. Os manuais escolares, em sua maioria, continuam falando em conjunto-verdade de uma equação, definem relação e função através de pares ordenados e outros, mais "salientes", chegam mesmo a definir par ordenado; ora, se é enunciada a propriedade básica desse objeto, qual seja: se (a, b) = (c, d), então a = c e b = d, não vemos necessidade dessa definição para alunos que se iniciam em matemática. É preciso compreender o seguinte: ao empregar essa linguagem, mesmo em situações como as apontadas acima, o professor obscurece seus ensinamentos e afasta a matemática do cotidiano do aluno. A única justificativa para apresentar tópicos de Matemática
 

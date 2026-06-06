@@ -86,7 +86,7 @@ O mundo que nos cerca, contradit´orio por essˆencia, ´e constantemente vari´
 Esta id´eia de variabilidade se encontra em qualquer generaliza¸c˜ao matem´atica. Assim, partindo do conhecimento: a soma das medidas, em graus, dos ˆangulos internos de um triˆangulo ´e igual a 180◦ , chegamos ao novo conhecimento: a soma das medidas dos ˆangulos internos de um pol´ıgono convexo ´e igual a:
 
 $$S_i = (n-2)180^{\circ}$$
- (n, número de lados do polígono).
+(n, número de lados do polígono).
 
 Comparemos esses dois graus de conhecimento: no primeiro, ele se refere ao triˆangulo, isto ´e, a uma figura geom´etrica que possui constante o n´umero de lados (n = 3); no segundo, esta constante n se transforma em vari´avel. Transforma¸c˜ao de constantes em vari´aveis – eis a id´eia central das generaliza¸c˜oes matem´aticas.
 

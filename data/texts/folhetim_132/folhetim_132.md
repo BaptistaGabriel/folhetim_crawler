@@ -2,13 +2,13 @@
 
 ![](_page_0_Picture_1.jpeg)
 
-**Folhetim Educ. Mat., Ano 12, n. 132, moio / jun. 2006** 
+**Folhetim Educ. Mat., Ano 12, n. 132, moio / jun. 2006**
 
-**ISSN 1415-8779** 
+**ISSN 1415-8779**
 
 #### **OBJETIVO**
 
-Este *Folhetim é* um veículo de divulgação, circulação de ideias e de estímulo ao estudo e à curiosidade intelectual. Dirige-se a todos os interessados pelos aspectos pedagógicos, filosóficos e históricos da Matemática. Pretende construir uma ponte para unir os que estão próximos e os que estão distantes.
+Este _Folhetim é_ um veículo de divulgação, circulação de ideias e de estímulo ao estudo e à curiosidade intelectual. Dirige-se a todos os interessados pelos aspectos pedagógicos, filosóficos e históricos da Matemática. Pretende construir uma ponte para unir os que estão próximos e os que estão distantes.
 
 #### **EDITORIAL**
 
@@ -20,13 +20,13 @@ Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 
 # **PERGUNTE QUE O NEMOC RESPONDE**
 
-*óoSre C/^íyuns ZJôpicos JKaíemáiicos* 
+_óoSre C/^íyuns ZJôpicos JKaíemáiicos_
 
-*por Garíoman Garfos D^or^es* 
+_por Garíoman Garfos D^or^es_
 
-*(Continuação)* 
+_(Continuação)_
 
-O programa mínimo, é aquele que, uma vez codificado sob forma de inteiros, apresenta o menor tamanho possível. Podemos, agora, enfrentar a *definição algorítmica de complexidade de uni número -* como sendo simplesmente o comprimento do programa mínimo necessário para computar esse número. Assim, é possível atribuir uma medida quantitativa a cada número do contínuo, e esta é a definição algotitmica de complexidade. - .
+O programa mínimo, é aquele que, uma vez codificado sob forma de inteiros, apresenta o menor tamanho possível. Podemos, agora, enfrentar a _definição algorítmica de complexidade de uni número -_ como sendo simplesmente o comprimento do programa mínimo necessário para computar esse número. Assim, é possível atribuir uma medida quantitativa a cada número do contínuo, e esta é a definição algotitmica de complexidade. - .
 
 Ainda segundo Pagels, a complexidade dos números aleatórios gerados por lançamentos dos dados é, aproximadamente igual ao comprimento do número. Isto porque o algoritmo mínimo tem forçosamente que conter o próximo número. Ao contrário, o comprimento do programa mínimo de números altamente ordenados, como 0,010101... ou 3/7 = 0,42857142... é bastante pequeno, o que faz com que a sua complexidade sej a baixa.
 
@@ -40,19 +40,19 @@ O que é exatamente o caos? Ele existe na reaUdade ou não passa de uma fantasia
 
 Imaginemos o caso da moeda. Quando jogamos cara ou coroa, estatisticamente, a moeda cai com igual frequência, tanto de um lado quanto de outro.
 
-Suponhamos que, com a ajuda de um computador, seja possível mapear, e obviamente, calcular todas as etapas do movimento da moeda (sua velocidade no tempo *t,* seus ângulos de rotação, etc). Seria possível, de posse de todos esses dados, saber, antecipadamente, de que lado a moeda vai cair? Para Prigogine, Nobel de Química, esse cálculo é impossível, pois a moeda percorrerá regiões de incerteza, de
+Suponhamos que, com a ajuda de um computador, seja possível mapear, e obviamente, calcular todas as etapas do movimento da moeda (sua velocidade no tempo _t,_ seus ângulos de rotação, etc). Seria possível, de posse de todos esses dados, saber, antecipadamente, de que lado a moeda vai cair? Para Prigogine, Nobel de Química, esse cálculo é impossível, pois a moeda percorrerá regiões de incerteza, de
 
 ## **NEMOC - NÚCLEO DE EDUCAÇÃO MATEMÁTICA OMAR CATUNDA**
 
-Folhetim Educ. Mat., Ano 12, n. 132, maio/jun. 2006 - **Editores:** Carloman e Inácio - **Secretária:** Josenildes Oliveira Venas Almeida - **Digitação:** Manoel Aquino dos Santos - **Editoração:** Evandro Vaz - **Impressão:** Imprensa Gráfica Universitária - **Periodicidade:** bimestral - **Tiragem:** 1.000 exemplares - *Distribuição gratuita -* **Endereço:**  Av. Universitária, s/n - km 03 - BR 116 - Campus Universitário - **Telefone:** (75)3224-8115 - **Fax:** (75)3224-8086 - CEP: 44031-460 - Feira de Santana - Ba - BRASIL - **E-mail:** nemoc@uefs.br
+Folhetim Educ. Mat., Ano 12, n. 132, maio/jun. 2006 - **Editores:** Carloman e Inácio - **Secretária:** Josenildes Oliveira Venas Almeida - **Digitação:** Manoel Aquino dos Santos - **Editoração:** Evandro Vaz - **Impressão:** Imprensa Gráfica Universitária - **Periodicidade:** bimestral - **Tiragem:** 1.000 exemplares - _Distribuição gratuita -_ **Endereço:** Av. Universitária, s/n - km 03 - BR 116 - Campus Universitário - **Telefone:** (75)3224-8115 - **Fax:** (75)3224-8086 - CEP: 44031-460 - Feira de Santana - Ba - BRASIL - **E-mail:** nemoc@uefs.br
 
 "bifurcações". Trata-se de um sistema dinâmico instável, no qual uma condição inicial que leve a um resultado "coroa" pode ser tão próximo quanto se queira de uma condição inicial que leve a umresultado "cara".
 
 Para tomarmaisclarootextologoacima, lembremos os seguintes conceitos da Teoria dos Sistemas Dinâmicos:
 
-a) consideremos o sistema, *x^+px+l=0,* regido pelo parâmetro *p.* A teoria de bifurcações estuda as variações qualitativas na evolução desse sistema quando*p*  varia. Assim, para *p* superior a 2, as soluções são dois niímeros reais e distintos. Quando *p=2,as* duas soluções coincidem e são iguais a -1 . Quando *p<2,as* soluções são complexas. Ocorreu uma bifurcação quando *p>2.* 
+a) consideremos o sistema, _x^+px+l=0,_ regido pelo parâmetro _p._ A teoria de bifurcações estuda as variações qualitativas na evolução desse sistema quando*p* varia. Assim, para _p_ superior a 2, as soluções são dois niímeros reais e distintos. Quando _p=2,as_ duas soluções coincidem e são iguais a -1 . Quando _p<2,as_ soluções são complexas. Ocorreu uma bifurcação quando _p>2._
 
-b) Em sua tese de doutorado, em 1892, Liapunov definiu estabilidade para uma solução de uma equação diferencial ordinária: uma solução é estável se outras soluções de valores de *x{t^)* para *t =* permanecem "próximas" de *x(i)* com o passar do tempo.
+b) Em sua tese de doutorado, em 1892, Liapunov definiu estabilidade para uma solução de uma equação diferencial ordinária: uma solução é estável se outras soluções de valores de _x{t^)_ para _t =_ permanecem "próximas" de _x(i)_ com o passar do tempo.
 
 Existem diversas definições de caos, porém, nenhuma delas é aceita, por consenso pela comunidade científica. Talvez uma das características importante de um sistema dinâmico caótico F: D ^ D é ele apresentar dependência sensível às condições iniciais. Metaforicamente, é como o bater de asas de uma borboleta na China provocasse um furacão em Nova York. Outras características de F, como se a densidade em D de suas órbitas periódicas e a transitividade topológica, não são discutidas aqui.
 
@@ -76,7 +76,7 @@ Rcamos com as palavras de Edgar Morin (vide Uvro jácitadonestas Unhas):
 
 ## **PRÓXIMO NÚMERO**
 
-*Sobre Alguns Tópicos Matemáticos. (Continuação)* 
+_Sobre Alguns Tópicos Matemáticos. (Continuação)_
 
 ### **NÚMEROS ATRASADOS**
 

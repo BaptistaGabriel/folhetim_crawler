@@ -2,21 +2,21 @@
 
 ![](_page_0_Picture_1.jpeg)
 
-**Folhetim Educ Mat., Feira de Santana, Número Especial. 2003** 
+**Folhetim Educ Mat., Feira de Santana, Número Especial. 2003**
 
-**Número Especial ISSN 1415-8779** 
+**Número Especial ISSN 1415-8779**
 
 ## **OBJETIVO**
 
-Este *Folhetim é* um veículo de divulgação, circulação de ideias e de estímulo ao estudo e à curiosidade intelectual. Dirige-se a todos os interessados pelos aspectos pedagógicos, filosóficos e históricos da Matemática. Pretende construir uma ponte para unir os que estão próximos e os que estão distantes.
+Este _Folhetim é_ um veículo de divulgação, circulação de ideias e de estímulo ao estudo e à curiosidade intelectual. Dirige-se a todos os interessados pelos aspectos pedagógicos, filosóficos e históricos da Matemática. Pretende construir uma ponte para unir os que estão próximos e os que estão distantes.
 
 #### **EDITORIAL**
 
-Mais uma vez levamos aos leitores um *Folhetim Especial .* que trata de "O nome 'Matemática' ", escrito pelo prof. Dr. Irineu Bicudo. Diferentemente dos textos já publi cados. a erudição é uma característica marcante no presente artigo do professor Bicudo.
+Mais uma vez levamos aos leitores um _Folhetim Especial ._ que trata de "O nome 'Matemática' ", escrito pelo prof. Dr. Irineu Bicudo. Diferentemente dos textos já publi cados. a erudição é uma característica marcante no presente artigo do professor Bicudo.
 
 Não vamos nos alongar, pois o próprio artigo, bem como a apresentação feita pelo prof. Carloman Carlos Borges, já trazem informações claras sobre a obra e o autor.
 
-A propósito, no Folhetim n° 112 anunciamos a continuação do tema *Coisas elementares de Matemática provocam dúvidas no alunado.*  Porém esta ficará para o próximo número regular.
+A propósito, no Folhetim n° 112 anunciamos a continuação do tema _Coisas elementares de Matemática provocam dúvidas no alunado._ Porém esta ficará para o próximo número regular.
 
 Aproveitamos ainda para informar que está chegando de todo país as "fichas de pesquisa de satisfação". Estamos esperando a sua, se ainda não enviou.
 
@@ -26,9 +26,9 @@ Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 
 ## **PERGUNTE QUE O NEMOC RESPONDE**
 
-*O nome JlCaíemáiica* 
+_O nome JlCaíemáiica_
 
-*por Irineu CBicaéo'^* 
+_por Irineu CBicaéo'^_
 
 ## **I. O nome**
 
@@ -72,7 +72,7 @@ Unidos os diferentes juízos, à maneira de Fernando Pessoa, digo:
 
 #### **NEMOC - NÚCLEO DE EDUCAÇÃO MATEMÁTICA OMAR CATUNDA**
 
-Folhetim Educ. Mat., Feira de Santana, Número Especial, mar./abr. 2003 - **Editores:** Carloman e Inácio - • **I Secretária:** Josenildes Oliveira Venas Almeida - **Editoração:** Evandro Vaz e Nivaldo de Assis - **Impressão:**  Imprensa Gráfica Universitária - **Periodicidade:** mensal - **Tiragem:** 1.600 exemplares - *Distribuição gratuita •*  **Endereço**:Av. Universitária, s/n - km 03 - BR 116 - Campus Universitário - **Telefone:** (75)224-8115 - **Fax:** (75)224-8086 - CEP 44031-460 - Feira de Santana - Ba - BRASIL - **E-mail:** nemoc@uefs.br
+Folhetim Educ. Mat., Feira de Santana, Número Especial, mar./abr. 2003 - **Editores:** Carloman e Inácio - • **I Secretária:** Josenildes Oliveira Venas Almeida - **Editoração:** Evandro Vaz e Nivaldo de Assis - **Impressão:** Imprensa Gráfica Universitária - **Periodicidade:** mensal - **Tiragem:** 1.600 exemplares - _Distribuição gratuita •_ **Endereço**:Av. Universitária, s/n - km 03 - BR 116 - Campus Universitário - **Telefone:** (75)224-8115 - **Fax:** (75)224-8086 - CEP 44031-460 - Feira de Santana - Ba - BRASIL - **E-mail:** nemoc@uefs.br
 
 #### **II. O nome Matemática**
 
@@ -94,9 +94,9 @@ Os peripatéticos, afirmando, por um lado, alguém haver de ser capaz, não tend
 
 Assim, desde que os gregos conceberam nossa ciência, como a entendemos hoje, está expresso em seu nome ("que, em certo sentido, é apropria coisa") que ela não é, como a retórica, ou a poesia, ou a música, um presente dos deuses aos homens, gratuitas. Não, a matemática, para ser conhecida, demanda estudo árduo, persistência, ânimo forte, paixão, pois, aqui, "os deus vendem, quando dão". •
 
-## *\* 3^rineu OSicutío*
+## _\* 3^rineu OSicutío_
 
-**Carloman Carlos Borges** 
+**Carloman Carlos Borges**
 
 ![](_page_2_Picture_14.jpeg)
 
@@ -104,7 +104,7 @@ O professor Irineu Bicudo é uma pessoa bastante conhecida nos meios académicos
 
 O Folhetim de Educação Matemática, bastante honrado, apresenta seu trabalho de pesquisa acerca das origens do termo "matemática". Mais uma vez. nota-se um traço característico do Prof. Irineu Bicudo: sua larga erudição em campos aparentemente tão distantes da matemática. E preciso salientar que existem outras interpretações sobre esse vocabulário que não "batem" com a apresentada pelo ilustre Prof. Bicudo. Ao leitor cabe o exercício de cotejá-las e extrair suas próprias conclusões.
 
-# *O^íyuns dados soSre o 'J-\*rof. Irineu !23icudo*
+# _O^íyuns dados soSre o 'J-\*rof. Irineu !23icudo_
 
 - Nascido em São Paulo (Capital), em 4 de maio de 1940.
 - Bacharel eLicenciadoem Matemática pelaantiga Faculdade de Filosofia, Ciências e Letras da Universidade de São Paulo, 1963.
@@ -121,11 +121,11 @@ notas que acompanharão sua tradução, diretamenie do grego, (já pronta), em c
 
 #### ATENÇÃO
 
-NÃO ESQUEÇA **D E** NOS RETORNAR A FICHA **DE**  PESQUISA ANEXA AO FOLHETIM N" **111** 
+NÃO ESQUEÇA **D E** NOS RETORNAR A FICHA **DE** PESQUISA ANEXA AO FOLHETIM N" **111**
 
 ## **PRÓXIMO NÚMERO**
 
-*Aguardem.* 
+_Aguardem._
 
 # **NÚMEROS ATRASADOS**
 

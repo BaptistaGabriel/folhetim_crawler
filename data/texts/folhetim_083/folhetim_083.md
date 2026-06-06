@@ -12,9 +12,9 @@ Este Folhetim é um veículo de divulgação, circulação de idéias e de estí
 
 #### **EDITORIAL**
 
-É com grande prazer que apresentamos aos leitores este número especial do *Folhetim de Educação Matemática*. Uma singela homenagem a um educador que vem, nos últimos anos, prestando um relevante serviço ao nosso país.
+É com grande prazer que apresentamos aos leitores este número especial do _Folhetim de Educação Matemática_. Uma singela homenagem a um educador que vem, nos últimos anos, prestando um relevante serviço ao nosso país.
 
-O professor Elon Lages Lima tem se destacado principalmente pela forma didática e comunicativa com que escreve seus textos. Um exemplo disso é este artigo que muito gentilmente escreveu para o nosso *Folhetim*, onde, de forma clara e precisa, apresenta idéias importantes sobre a questão sempre presente do ensino de Matemática. Sem dúvida este artigo será de grande utilidade, principalmente para nossos professores do ensino básico. Agradecemos ao professor Elon, e o parabenizamos pelos seus 70 anos.
+O professor Elon Lages Lima tem se destacado principalmente pela forma didática e comunicativa com que escreve seus textos. Um exemplo disso é este artigo que muito gentilmente escreveu para o nosso _Folhetim_, onde, de forma clara e precisa, apresenta idéias importantes sobre a questão sempre presente do ensino de Matemática. Sem dúvida este artigo será de grande utilidade, principalmente para nossos professores do ensino básico. Agradecemos ao professor Elon, e o parabenizamos pelos seus 70 anos.
 
 # COMITÉ EDITORIAL
 
@@ -112,11 +112,11 @@ universo político-partidário, juntamente com notícias criminais. No que diz r
 
 em Brasília, Fortaleza e PUC do Rio de Janeiro. A história dos Colóquios Brasileiros de Matemática e dos Programas de Verão do IMPA faz parte da própria história da vida de Elon Lages Lima.
 
-Em 1961 ele publicou o clássico *Introdução à Topologia Diferencial*, cujo único "pecado" foi ter sido escrito em Português, "túmulo do pensamento humano". Se fosse escrito em qualquer outra Língua, em Inglês, exemplificando, seria hoje uma obra de renome.
+Em 1961 ele publicou o clássico _Introdução à Topologia Diferencial_, cujo único "pecado" foi ter sido escrito em Português, "túmulo do pensamento humano". Se fosse escrito em qualquer outra Língua, em Inglês, exemplificando, seria hoje uma obra de renome.
 
 Ultimamente, o Prof. Elon Lages Lima parece preferir a Matemática no Ensino Médio, tendo, recentemente, com alguns companheiros, lançado sob o prestígio da SBM, a coleção A Matemática do Ensino Médio, excelente manual indispensável às atividades didáticas de nossos professores do Ensino Médio. Mas, o que o torna autor tão lido? A sua competência matemática? Embora essa seja uma condição necessária para o grande divulgador desse saber, não é apenas isso que o torna agradável de ser lido. Talvez alguns exemplos do cotidiano nos indique uma pista segura capaz de esclarecer essa indagação. Vejamos, primeiro, como se comporta, em sala de aula, um professor inexperiente, jovem, porém possuidor daquela já mencionada condição: a preocupação maior dele é mostrar conhecimento e, daí, torna-se prolixo e obscuro. Na outra face da moeda temos o professor que só fala o que ele acha indispensável, tornando-se, igualmente obscuro. Esses dois exemplos mostram que tanto a verbosidade como a concisão, estão ambos ligados à obscuridade; podem mostrar, também, que ensinar ou divulgar qualquer saber é mais uma arte e menos uma ciência mas. cuidado: é indispensável possuir conhecimento matemático para saber divulgá-lo. Em meu entendimento, o que torna o Prof. Elon Lages Lima, um escritor que sempre consegue estabelecer uma relação necessária com o leitor é, além do que já citamos, o seu estilo convidativo, a sua fina ironia, a sua paixão pelo que faz, fazendo-o com seriedade e competência. Essas qualidades são sentidas pelo leitor e criam aquele laço necessário entre o Prof. Elon e o leitor. Leiam, mais um exemplo, o seu livro Meu Professor de Matemática: ele começa mostrando uma das qualidades básicas no caráter humano, a gratidão. Assim, começa homenageando o seu professor Benedito, lá de Maceió, onde fez seus primeiros estudos escolares. Em seguida, com todas as outras qualidades apontadas, escreve páginas admiráveis: Ainda sobre o Teorema de Euler para Poliedros Convexos, A Equação do Terceiro Grau, Grandezas Proporcionais...
 
-É, portanto, com alegria, que o homenageamos com este *Folhetim* na passagem do seu 70° aniversário acontecido em 09/07/99 conforme consta em sua Certidão de Nascimento...
+É, portanto, com alegria, que o homenageamos com este _Folhetim_ na passagem do seu 70° aniversário acontecido em 09/07/99 conforme consta em sua Certidão de Nascimento...
 
 # Alguns dados do Curriculum Vitae do Prof. Elon Bages Bima
 

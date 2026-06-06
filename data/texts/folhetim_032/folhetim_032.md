@@ -60,7 +60,7 @@ Números atrasados - envie para cada folhetim um selo de postagem nacional de 1�
 
 No próximo número, as respostas para:
 
-- Sabemos que  $x + 2 = x^2 4 / (x 2)$ . Devido ao mencionado logo acima, eu posso, claramente, escrever que  $x + 2 = x^2 4$ . 1/(x 2); logo, posso afirmar que x + 2 foi fatorado, tendo como fatores  $x^2 4$  e 1/(x 2)?
+- Sabemos que $x + 2 = x^2 4 / (x 2)$ . Devido ao mencionado logo acima, eu posso, claramente, escrever que $x + 2 = x^2 4$ . 1/(x 2); logo, posso afirmar que x + 2 foi fatorado, tendo como fatores $x^2 4$ e 1/(x 2)?
   - A expressão a:b:c possui uma significação precisa?
 - A matemática grega antiga produziu alguma mulher matemática?
 

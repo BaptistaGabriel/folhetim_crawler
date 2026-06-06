@@ -66,10 +66,10 @@ Assim, foi com algum espanto que a Acacemia de Berlim no ano de 1872 recebeu de 
 
 $$f(x) = \cos \pi x + b \cos \pi (ax) + b^2 \cos \pi a^2 x + \dots$$
 
-ou 
+ou
 $$f(x) = \sum_{k=0}^{\infty} b^k \cos(a^k px)$$
-  
-sendo  $a$  impar,  $b < 1$ ,  $ab > \frac{3\pi}{2} + 1$ .
+
+sendo $a$ impar, $b < 1$ , $ab > \frac{3\pi}{2} + 1$ .
 
 Essa função é contínua, porém, não tem derivada em qualquer um de seus pontos (ver figura 1).
 

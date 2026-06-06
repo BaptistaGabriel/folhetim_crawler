@@ -14,7 +14,7 @@ Este Folhetim é um veículo de divulgação, circulação de idéias e de estí
 
 Dando continuidade ao Folhetim anterior, a coluna Pergunte que o NEMOC Responde, traz como tema principal uma abordagem sobre o Teorema de Gödel, no que diz respeito aos seus principais resultados. Um ponto importante que o leitor poderá observar, é a relação do citado Teorema com a Educação Matemática.
 
-Esse eminente matemático, que com apenas 23 anos concluiu sua tese de doutorado, publicou seu mais importante trabalho, o conhecido Teorema de Gödel, em *uber formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme*.
+Esse eminente matemático, que com apenas 23 anos concluiu sua tese de doutorado, publicou seu mais importante trabalho, o conhecido Teorema de Gödel, em _uber formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme_.
 
 Chamamos a atenção que as fotos do Folhetim 67, desse Folhetim, e que aparecerão nos próximos, embora possam ser obtidas de outras fontes, foram extraídas do "site" http://www-history.mcs.st.and.ac.uk/history que traz, entre outras, informações biográficas de matemáticos, numa lista considerável.
 

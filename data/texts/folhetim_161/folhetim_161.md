@@ -19,17 +19,17 @@ Carloman Carlos Borges
 Analisemos a fal´acia abaixo: seja a s´erie:
 
 $$1-1+1-1+1-1+1-1+\dots$$
- (a)
+(a)
 
 Reagrupando seus termos:
 
 $$(1-1) + (1-1) + (1-1) + (1-1) + \dots$$
- (b)
+(b)
 
 Reagrupando de outra forma:
 
 $$1 - (1 - 1) - (1 - 1) - (1 - 1) - (1 - 1) - \dots$$
- (c)
+(c)
 
 Em (b) temos a "soma" de parˆenteses iguais a zero, pelo que a sua "soma" ´e igual a zero e, em (c), pela mesma raz˜ao, temos a "soma" igual a 1; como (b) e (c) representam a mesma s´erie original (a), chegamos `a conclus˜ao falsa:
 

@@ -4,11 +4,11 @@
 
 Folhetim Educ. Mat., Ano 15, n. 150, mal. / jun. 2009
 
-**ISSN 1415-8779** 
+**ISSN 1415-8779**
 
 #### **OBJETIVO**
 
-Este *Folhetim* é um veículo de divulgação, circulação de ideias e de estímulo ao estudo e à curiosidade intelectual. Dirige-se a todos os interessados pelos aspectos pedagógicos, filosóficos ehistóricos daMatemática. Pretende construirumaponteparaunir os queestão próximos e os que estão distantes. '
+Este _Folhetim_ é um veículo de divulgação, circulação de ideias e de estímulo ao estudo e à curiosidade intelectual. Dirige-se a todos os interessados pelos aspectos pedagógicos, filosóficos ehistóricos daMatemática. Pretende construirumaponteparaunir os queestão próximos e os que estão distantes. '
 
 #### **EDITORIAL**
 
@@ -20,11 +20,11 @@ Carloman Carlos Borges (UEFS) Inácio de Sousa Fadigas (UEFS) Marcos Grilo Rosa 
 
 ### **PERGUNTE QU E O NEMOC RESPOND E**
 
-*Conversas so£re o ensino tia maÉemáiica por Caríomaa Carlos OSoryes* 
+_Conversas so£re o ensino tia maÉemáiica por Caríomaa Carlos OSoryes_
 
-*(Continuação)* 
+_(Continuação)_
 
-Agora, temos quenos deter um pouco sobre alguns importantes conceitos ligados ao assunto explanado, como, exemplificando, os conceitos de automorfismo, simetria, etc. Lei de composição intema sobre um conjunto E. Um conjunto E com uma lei de composição intema chama-se magm.a. Exemplos: a adição e a multiplicação dentro deN. Morfismos ou homomorfismo. Sejam (E, T) e (F, \*) dois magmas. Chama-se morfismo de E dentro de F, para as leis T e \*, toda aplicação f: E ->F, tal que, (Va,òeE)f(aTò) = f**(í2) \***  f(ò). Exemplo: a aplicação f(X)=E - X de P(E) dentro dele mesmo é um morfismo do monoide (monoide é um magma associativo, com elemento neutro) (P(E), u ) dentro do monoide (P(E), n) . De fato, para todas as partes X e Y de E,
+Agora, temos quenos deter um pouco sobre alguns importantes conceitos ligados ao assunto explanado, como, exemplificando, os conceitos de automorfismo, simetria, etc. Lei de composição intema sobre um conjunto E. Um conjunto E com uma lei de composição intema chama-se magm.a. Exemplos: a adição e a multiplicação dentro deN. Morfismos ou homomorfismo. Sejam (E, T) e (F, \*) dois magmas. Chama-se morfismo de E dentro de F, para as leis T e \*, toda aplicação f: E ->F, tal que, (Va,òeE)f(aTò) = f**(í2) \*** f(ò). Exemplo: a aplicação f(X)=E - X de P(E) dentro dele mesmo é um morfismo do monoide (monoide é um magma associativo, com elemento neutro) (P(E), u ) dentro do monoide (P(E), n) . De fato, para todas as partes X e Y de E,
 
 $$f(X \cup Y) = E - (X \cup Y) = (E - X) \cap (E - Y) = f(X) \cap f(Y)$$
 
@@ -34,7 +34,7 @@ Mais definições. Ummorfismobijetivo chama-se isomorfismo. Exemplo: f(X)=E-Xéu
 
 endomorfismo => homomorfismo
 
-Uma primeira aproximação do conceito de Permutação de *n* elementos são os diversos agrupamentos possíveis de serem formados com esses *n* elementos, colocando-os em linha, ao lado uns dos outros, de maneira que cada agrupamento contenha os *n* elementos e se diferencie dos outros apenas pela posição relativa dos elementos. Exemplos: a) com dois elementos*aeb,*  podemos formar as duas permutações *ab* e *ba;* b) com três elementos *a,bec,* formamos as permutações *abe, acb, cab, bac, bca, cba* (primeiramente, formamos as permutações dedois elementos e, em seguida, colocamos o terceiro elemento *c* em cada uma dessas permutações, em todas as posições possíveis, apartir da direita). Assim podemos definir: seja E um conjunto com *n* elementos. Chama-sepermutação simples de *n* elementos a qualquer sequência de *n* elementos distintos de E. Isto é uma bijeção de E nele mesmo. Para fixar melhor algumas ideias vejamos o seguinte: sejam os números 1,2,3,4,5
+Uma primeira aproximação do conceito de Permutação de _n_ elementos são os diversos agrupamentos possíveis de serem formados com esses _n_ elementos, colocando-os em linha, ao lado uns dos outros, de maneira que cada agrupamento contenha os _n_ elementos e se diferencie dos outros apenas pela posição relativa dos elementos. Exemplos: a) com dois elementos*aeb,* podemos formar as duas permutações _ab_ e _ba;_ b) com três elementos _a,bec,_ formamos as permutações _abe, acb, cab, bac, bca, cba_ (primeiramente, formamos as permutações dedois elementos e, em seguida, colocamos o terceiro elemento _c_ em cada uma dessas permutações, em todas as posições possíveis, apartir da direita). Assim podemos definir: seja E um conjunto com _n_ elementos. Chama-sepermutação simples de _n_ elementos a qualquer sequência de _n_ elementos distintos de E. Isto é uma bijeção de E nele mesmo. Para fixar melhor algumas ideias vejamos o seguinte: sejam os números 1,2,3,4,5
 
 e 6. Eis dois exemplos de permutações, designadas por f e g.
 
@@ -49,14 +49,14 @@ Mostremos, agora, que o conjunto de todas as permutações de 1 2 3 4 5 6 forma 
 - l)Existea"transformação"quedeixaosnúmeros 1 2 3 45 6 na mesma posição. É como se ela não fizesse nada!
 - ^" 2) A combinação de duas permutações, produz a combinação fg. Atenção fg significa fazer primeiro g e depois f Abaixo, os detalhes:
 
-Primeiro fazer g 
+Primeiro fazer g
 $$\downarrow \downarrow \downarrow \downarrow \downarrow \downarrow \downarrow \downarrow \downarrow \downarrow \downarrow \downarrow \downarrow \downarrow \downarrow \downarrow \downarrow \downarrow$$
 
-3) Para qualquer permutação, há o inverso? Veja a permutação h
+3. Para qualquer permutação, há o inverso? Veja a permutação h
 
 # **NEMOC - NÚCLEO DE EDUCAÇÃO MATEMÁTICA OMAR CATUNDA**
 
-Folhetim Educ. Mat., Ano 15,n. 150, mai./jun. 2009 - **Editores:** Carloman, Inácio, Grilo e Trazíbulo **-Digitação:**  Josenildes Oliveira Venas Almeida e Manoel Aquino dos Santos - **Editoração:** Evandro Vaz e Nivaldo Assis - **Impressão:** Imprensa Gráfica Universitária - **Periodicidade:** bimestral - **Tiragem:** 1.400 exemplares - *Distribuição gratuita -* **Endereço:** Av. Transnordestina, s/n - Novo Horizonte - Caixa Postal 252 e 294 - **Telefone:**  (75)3224-8115 - **Fax:** (75)3224-8086 - CEP: 44036-900 - Feira de Santana - Ba - BRASIL - **E-mail:** nemoc@uefs.br
+Folhetim Educ. Mat., Ano 15,n. 150, mai./jun. 2009 - **Editores:** Carloman, Inácio, Grilo e Trazíbulo **-Digitação:** Josenildes Oliveira Venas Almeida e Manoel Aquino dos Santos - **Editoração:** Evandro Vaz e Nivaldo Assis - **Impressão:** Imprensa Gráfica Universitária - **Periodicidade:** bimestral - **Tiragem:** 1.400 exemplares - _Distribuição gratuita -_ **Endereço:** Av. Transnordestina, s/n - Novo Horizonte - Caixa Postal 252 e 294 - **Telefone:** (75)3224-8115 - **Fax:** (75)3224-8086 - CEP: 44036-900 - Feira de Santana - Ba - BRASIL - **E-mail:** nemoc@uefs.br
 
 ![](_page_2_Figure_1.jpeg)
 
@@ -66,7 +66,7 @@ $$\begin{array}{cccccccccccccccccccccccccccccccccccc$$
 
 Mostramos, assim, que o conjunto de todas as permutações de 1 2 3 4 5 6 forma um grupo.
 
-Anotações: De uma maneira geral o grupo das permutações de *n* elementos, será designado S^^ (S indicador de "simétrico")
+Anotações: De uma maneira geral o grupo das permutações de _n_ elementos, será designado S^^ (S indicador de "simétrico")
 
 > Notação Cíclica. Considere a permutação (5 2 1 3)
 
@@ -91,9 +91,9 @@ Exemplos de movimentos rígidos são as nossas conhecidas, desde o ensino médio
 
 #### c) Reflexão
 
-*M'N' = MN:* 
+_M'N' = MN:_
 
-Recordemos algo em tomo dessas transformações. **->**  A translação de vetor v associa a cada ponto Mo ponto **-> -»**  M', tal que: *MM'* = v . Para todos os pontos M e N, de imagens respectivas M ' e N' , pela translação,
+Recordemos algo em tomo dessas transformações. **->** A translação de vetor v associa a cada ponto Mo ponto **-> -»** M', tal que: _MM'_ = v . Para todos os pontos M e N, de imagens respectivas M ' e N' , pela translação,
 
 ![](_page_3_Picture_3.jpeg)
 
@@ -109,9 +109,9 @@ $$(\overrightarrow{MN}, \overrightarrow{M'N'}) = \theta e M'N' = MN$$
 
 ![](_page_3_Picture_9.jpeg)
 
-Reflexão. A reflexão em relação àreta *d* associa
+Reflexão. A reflexão em relação àreta _d_ associa
 
-- a cada ponto M exteior *kd,o* ponto M', tal que c? sej a a mediatriz de [MM];
+- a cada ponto M exteior _kd,o_ ponto M', tal que c? sej a a mediatriz de [MM];
   - a cada ponto M de J, o ponto M (ele mesmo)
 
 ![](_page_3_Picture_13.jpeg)
@@ -124,9 +124,9 @@ Todos temos uma ideia do que sej a a simetriabilateral, tão visivel nos animais
 
 # **PRÓXIMO NUMERO**
 
-*Conversas sobre o ensino da matemática (continuação).* 
+_Conversas sobre o ensino da matemática (continuação)._
 
-*Aguardem!* 
+_Aguardem!_
 
 ## **NÚMEROS ATRASADOS**
 

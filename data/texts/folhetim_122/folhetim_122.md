@@ -2,17 +2,17 @@
 
 ![](_page_0_Picture_1.jpeg)
 
-**Folhetim Educ. Mat., Ano 11, n. 122, set. / out. 2004** 
+**Folhetim Educ. Mat., Ano 11, n. 122, set. / out. 2004**
 
-**ISSN 1415-8779** 
+**ISSN 1415-8779**
 
 #### **OBJETIVO**
 
-Este *Folhetim é* um veículo de divulgação, circulação de **ideias** e de estímulo ao estudo e à curiosidade intelectual. Dirige-se a todos os interessados pelos aspectos pedagógicos, filosóficos e históricos da Matemática. Pretende construir uma ponte para unir os que estão próximos e os que estão distantes.
+Este _Folhetim é_ um veículo de divulgação, circulação de **ideias** e de estímulo ao estudo e à curiosidade intelectual. Dirige-se a todos os interessados pelos aspectos pedagógicos, filosóficos e históricos da Matemática. Pretende construir uma ponte para unir os que estão próximos e os que estão distantes.
 
 ### **EDITORIAL**
 
-**o** *Folhetim de Educação Matemática* quebra a barreira dos dez anos e inicia seu "Ano 11". Foi um longo caminho até aqui, produzindo artigos ininterruptamente (às vezes com atrasos causados por fatores fora do controle dos editores). Com o número 122, retoma-se a coluna *Pergunte que o Nemoc Responde* com mais um (de mais de uma centena) artigo do prof. Carloman Carlos Borges. Neste, um importante aspecto do ensino aprendizagem é abordado - resolução de problemas. Mais especialmente, trata-se de ir ao cerne da questão para identificar o que é um problema - do ponto de vista matemático, é claro. As observações feitas no texto são importantes e devem ser refletidas, principalmente por aqueles diretamente ligados e atuantes em educação Matemática.
+**o** _Folhetim de Educação Matemática_ quebra a barreira dos dez anos e inicia seu "Ano 11". Foi um longo caminho até aqui, produzindo artigos ininterruptamente (às vezes com atrasos causados por fatores fora do controle dos editores). Com o número 122, retoma-se a coluna _Pergunte que o Nemoc Responde_ com mais um (de mais de uma centena) artigo do prof. Carloman Carlos Borges. Neste, um importante aspecto do ensino aprendizagem é abordado - resolução de problemas. Mais especialmente, trata-se de ir ao cerne da questão para identificar o que é um problema - do ponto de vista matemático, é claro. As observações feitas no texto são importantes e devem ser refletidas, principalmente por aqueles diretamente ligados e atuantes em educação Matemática.
 
 # **COMITÉ EDITORIAL**
 
@@ -20,7 +20,7 @@ Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 
 # **PERGUNTE QUE O NEMOC RESPOND E**
 
-*uns C/^spec/os no &nsino cia UCaíemáíica por Ga/íoman Ciaríos Jiotyes* 
+_uns C/^spec/os no &nsino cia UCaíemáíica por Ga/íoman Ciaríos Jiotyes_
 
 ' Costuma-se dizer que aprender matemática é aprender a resolver problemas, porém, não é costume dizer o que é um problema matemático, ou de modo mais geral, quando uma determinada situação torna-se um problema.
 
@@ -32,7 +32,7 @@ Vale observar: na resolução de um exercício de matemática a reflexão cede l
 
 Uma outra observação a ser feita: na resolução de um exercício matemático, seus passos são automáticos, não há uma tomada de decisões sobre eles a serem seguidos.
 
-Estamos, agora, em condições de definir um problema matemático. Vamos fazer referência àquela definição contida em F. K. LESTER: *"Trendes and issues in mathematical problem solving research",* NEW YORK ACADEMIC PRESS, 1983, e repetida por diversos outros autores: *"uma situação na qual um indivíduo ou mesmo um grupo quer ou precisa resolver e para a qual não dispõe de um caminho rápido e direto que o leve à solução".* 
+Estamos, agora, em condições de definir um problema matemático. Vamos fazer referência àquela definição contida em F. K. LESTER: _"Trendes and issues in mathematical problem solving research",_ NEW YORK ACADEMIC PRESS, 1983, e repetida por diversos outros autores: _"uma situação na qual um indivíduo ou mesmo um grupo quer ou precisa resolver e para a qual não dispõe de um caminho rápido e direto que o leve à solução"._
 
 No caso da matemática, uma determinada situação para ser considerada um problema pelo aluno, este deve estar motivado a resolvê-la, deve sentir necessidade nessa direção criada pela sua natural curiosidade. Essa situação deve ativá-lo a refletir até encontrar a melhor estratégia para a sua solução através de respostas consistentes com os dados da situação apresentada. Aqui, não há mecanismos prontos, como no caso da tabuada. O que existe é um grande interesse do aluno - ativado por uma natural
 
@@ -46,7 +46,7 @@ Ao considerar a Matemática apenas uma
 
 #### **NEMOC - NÚCLEO D E EDUCAÇÃO MATEMÁTICA OMAR CATUNDA**
 
-Folhetim Educ. Mat., Ano 11 ,n. 122, set./out. 2004 - **Editores:** Carloman e Inácio-**Secretária:** Josenildes Oliveira Venas Almeida - **Digitação:** Manoel Aquino dos Santos - **Editoração:** Evandro Vaz - **Impressão:** Imprensa Gráfica Universitária - **Periodicidade:** bimestral - **Tiragem:** 850 exemplares - *Distribuição gratuita -* **Endereço:**  Av. Universitária, s/n - km 03 - BR 116 - Campus Universitário - **Telefone:** (75)224-8115 - **Fax:** (75)224-8086 - CEP 44031-460 - Feira de Santana - Ba - BRASIL - **E-mail:** nemoc@uefs.br
+Folhetim Educ. Mat., Ano 11 ,n. 122, set./out. 2004 - **Editores:** Carloman e Inácio-**Secretária:** Josenildes Oliveira Venas Almeida - **Digitação:** Manoel Aquino dos Santos - **Editoração:** Evandro Vaz - **Impressão:** Imprensa Gráfica Universitária - **Periodicidade:** bimestral - **Tiragem:** 850 exemplares - _Distribuição gratuita -_ **Endereço:** Av. Universitária, s/n - km 03 - BR 116 - Campus Universitário - **Telefone:** (75)224-8115 - **Fax:** (75)224-8086 - CEP 44031-460 - Feira de Santana - Ba - BRASIL - **E-mail:** nemoc@uefs.br
 
 linguagem uni-dimensiorial como foi descrita acima-alguns professores prestam um grande desserviço à educação de nossos jovens. O conhecimento matemático é um poderoso e insubstituível instrumento para a compreensão do mundo no qual vivemos, e influencia na tomada de decisões em nossa vida cotidiana: pedir um empréstimo, analisar resultados eletorais, etc. A simples observação de que o conhecimento matemático é a base fundamental do conhecimento científico e tecnológico, justifica o caráter de privilégio dado ao ensino dessadisciplina. Mas, mesmo aqui, o formalismo é um grave obstáculo enfrentado pelo aluno, pois ele é capaz de resolver um problema científico reduzido ao formalismo matemático sem compreendê-lo no seu aspecto físico, pois o professor continua encarando a Matemática como uma linguagem na qual existe apenas a dimensão sintática, isto é, como um simples jogo. Aliás, há uma tendência até de associar o ensino da matemática ao ensino do jogo de xadrez. Tenho lido muitas tolices a esse respeito. Não conheço algum matemático que seja exímio jogador de xadrez ou de qualquer outro jogo e vice-versa. No máximo pode-se apontar algo em comum: a precocidade manifestada tanto pelos jogadores de xadrez como pelos grandes matemáticos.
 
@@ -54,11 +54,11 @@ Infelizmente e apesar dos resultados obtidos pelas ciências cognitivas, a ênfa
 
 Segundo Polya, a solução de um problema
 
-matemático abrange quatro passos: compreensão, concepção de um plano, execução do plano e exame da solução alcançada. Para maiores detalhes, leia-se:Aa/-re *de resolver problemas,* G. POLYA, Editora Interciência. Apenas uma curiosidade: a fase denadeira na solução de um problema que é o exame da solução sua análise rigorosa, a separação da dimensão sintática da dimensão semântica - é completamente relegada pela maioria dos professores, uma amostra a mais do seu exagerado formalismo."Resolve-se" um problema sem examinar a solução encontrada.
+matemático abrange quatro passos: compreensão, concepção de um plano, execução do plano e exame da solução alcançada. Para maiores detalhes, leia-se:Aa/-re _de resolver problemas,_ G. POLYA, Editora Interciência. Apenas uma curiosidade: a fase denadeira na solução de um problema que é o exame da solução sua análise rigorosa, a separação da dimensão sintática da dimensão semântica - é completamente relegada pela maioria dos professores, uma amostra a mais do seu exagerado formalismo."Resolve-se" um problema sem examinar a solução encontrada.
 
-Apresentamos, agora, um exemplo ilustrativode que a solução do problema depende de sua formulação. Este exemplo foi extraído do livro *"el Pensamiento* y *los Camínos de su Investigacion "* Ediciones Pueblos Unidos, de S. Rubinstein.
+Apresentamos, agora, um exemplo ilustrativode que a solução do problema depende de sua formulação. Este exemplo foi extraído do livro _"el Pensamiento_ y _los Camínos de su Investigacion "_ Ediciones Pueblos Unidos, de S. Rubinstein.
 
-O problema é o seguinte: "Ache a que equivale a soma das áreas do paralelogramo FBCD e do quadrado AFEC". Outra formulação era apresentada aos alunos: "Que forma tem a soma dos triângulos ABC e FED da figura, e a que é igual essa soma?" Nas duas variantes eram dadas: lado AB é igual a a e o lado AC igual a *b.* 
+O problema é o seguinte: "Ache a que equivale a soma das áreas do paralelogramo FBCD e do quadrado AFEC". Outra formulação era apresentada aos alunos: "Que forma tem a soma dos triângulos ABC e FED da figura, e a que é igual essa soma?" Nas duas variantes eram dadas: lado AB é igual a a e o lado AC igual a _b._
 
 ![](_page_2_Picture_7.jpeg)
 
@@ -84,38 +84,38 @@ E-mail: bienasbm @ ufba.br
 
 Telefone: (71)263-6265
 
-**Será realizada de 15 a 19 de novembro de** 
+**Será realizada de 15 a 19 de novembro de**
 
-**2004, a VI Semana de Matemática da UEFS/Ba.** 
+**2004, a VI Semana de Matemática da UEFS/Ba.**
 
-**Tema: A beleza oculta da Matemática** 
+**Tema: A beleza oculta da Matemática**
 
-**Inscrições:** 
+**Inscrições:**
 
-**Período: 03 a 12 de novembro de 2004** 
+**Período: 03 a 12 de novembro de 2004**
 
-**Valor: R\$15,00** 
+**Valor: R\$15,00**
 
-**Informações:** 
+**Informações:**
 
-**D. A. de Matemática/UEFS / Mód. V - MT 51** 
+**D. A. de Matemática/UEFS / Mód. V - MT 51**
 
-**Av.Universitária,km03,BR 116** 
+**Av.Universitária,km03,BR 116**
 
-**' Feira de Santana - Ba** 
+**' Feira de Santana - Ba**
 
-**Tel.: (75) 224 - 8233 (COLMAT / UEFS)** 
+**Tel.: (75) 224 - 8233 (COLMAT / UEFS)**
 
-**E-mail: damat@uefs.br** 
+**E-mail: damat@uefs.br**
 
-**O evento tem o apoio do Departamento de Ciências Exatas da UEFS e do Niíncleo de Educação Matemática Omar Catunda - NEMOC.** 
+**O evento tem o apoio do Departamento de Ciências Exatas da UEFS e do Niíncleo de Educação Matemática Omar Catunda - NEMOC.**
 
 # **PRÓXIMO NÚMERO**
 
-*Alguns aspectos no ensino da Matemática. (Continuação)* 
+_Alguns aspectos no ensino da Matemática. (Continuação)_
 
 # **NÚMEROS ATRASADOS**
 
-**Envie para cada Folhetim um selo de postagem nacional de 1° porte. Dentro de no máximo quatro semanas, contadas a partir da data de recebimento do seu pedido, você estará recebendo os Folhetins solicitados.** 
+**Envie para cada Folhetim um selo de postagem nacional de 1° porte. Dentro de no máximo quatro semanas, contadas a partir da data de recebimento do seu pedido, você estará recebendo os Folhetins solicitados.**
 
 **OBS.: É permitida a reprodução total ou parcial deste folhetim, desde que citada a fonte.**

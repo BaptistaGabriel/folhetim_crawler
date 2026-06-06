@@ -16,7 +16,7 @@ Este Folhetim é um veículo de divulgação, circulação de idéias e de estí
 
 ### **Editorial**
 
-A partir deste número resolvemos mudar a apresentação gráfica do *Folhetim*, visando a um maior conforto para os nossos leitores.
+A partir deste número resolvemos mudar a apresentação gráfica do _Folhetim_, visando a um maior conforto para os nossos leitores.
 
 Esse número em especial, traz uma conferência do professor Carloman Carlos Borges, proferida em agosto de 84 e, ainda muito presente, tendo em vista a atualidade do tema.
 
@@ -38,15 +38,15 @@ dessa experiência, a crise permanece e assume um caráter desesperador. Onde es
 
 Para fins de ilustração e somente pa-
 
-ra esses fins, vamos abrir um desses livros de *Matemática Moderna* na parte de *lógica matemática*. Quais são as proposições dadas ao alunado (geralmente numa faixa etária de 11/15 anos) a fim de serem estudadas *logicamente*? Escolhamos ao acaso algumas delas:
+ra esses fins, vamos abrir um desses livros de _Matemática Moderna_ na parte de _lógica matemática_. Quais são as proposições dadas ao alunado (geralmente numa faixa etária de 11/15 anos) a fim de serem estudadas _logicamente_? Escolhamos ao acaso algumas delas:
 
 Se Pedro vai à escola, então a lua é redonda;
 
-2) Se o queijo é branco, então a Terra é um planeta.
+2. Se o queijo é branco, então a Terra é um planeta.
 
 A multiplicação desses exemplos poderia prolongar-se muito mais, e sua análise pode suscitar em nossos espíritos dúvidas até mesmo angustiantes: será que, a reunião em uma mesma proposição de frases pertencentes a conjuntos semânticos disjuntos, não poderá acarretar perturbações mentais a crianças pertencentes a uma faixa etária suscetível a ilusões?
 
-E os terríveis problemas sobre o conjunto vazio? Ainda hoje vemos professores esgotarem uma Unidade apenas com o ensino da *Teoria dos Conjuntos*. Parece-nos que a denominada Matemática Moderna sobrecarregava as crianças de muitas e muitas idéias novas que historicamente precisaram de vários anos para serem incorporadas ao patrimônio matemático: por outrolado, ela foi colocada
+E os terríveis problemas sobre o conjunto vazio? Ainda hoje vemos professores esgotarem uma Unidade apenas com o ensino da _Teoria dos Conjuntos_. Parece-nos que a denominada Matemática Moderna sobrecarregava as crianças de muitas e muitas idéias novas que historicamente precisaram de vários anos para serem incorporadas ao patrimônio matemático: por outrolado, ela foi colocada
 
 nas escolas sem uma preparação adequada dos professores, a maioria dos quais formada na antiga Matemática.
 
@@ -113,11 +113,11 @@ so é válido. A interação entre o consciente e o inconsciente também se veri
 
 O ensino da Matemática - como de qualquer outra ciência - exige uma visão crítica, epistemológica. Não basta ao professor dominar o conteúdo programático e algumas técnicas didáticas. Pensamos ser necessário um equilíbrio entre tudo isso. Naturalmente que o conhecimento do conteúdo é uma premissa indispensável a qualquer professor. Porém o centro de gravidade das atividades do professor deve ser deslocado do seu eu para um ponto virtual que medeia aquelas e as atividades do aluno.
 
-A Matemática possui uma característica singular que, talvez, a distinga das demais ciências: cada vez mais, ela serve de linguagem para aquelas. Ela possui conjunto de noções tais como, função, limite, matriz, grupo, etc., que pela sua amplitude e o seu caráter de universalidade se aproxima das nocões filosóficas. Os fenômenos do mundo dentro do qual estamos imersos se encontram estreitamente ligados e cada um deles apresenta um número infinito de vínculos. Daí a sua variabilidade incessante a qual se reflete na nocão matemática de variável. Ademais, os seus aspectos quantitativos e qualitativos abrem para a Matemática a possibilidade de seu emprego nas ciências. Nessa penetração da Matemática nas demais ciências desempenha papel relevante, a sua extraordinária abstração, seu rigor lógico e sua liguagem universal. A Matemática possui noções que exprimem também os aspectos qualitativos dos fenômenos da natureza e da sociedade. A noção de *grupo* e suas extensões, *anel, corpo*, etc., são noções, por assim 
-dizer, mais qualitativas do que quantitativas. A abstração cada vez maior do 
-conhecimento humano encontra, destarte, 
-na Matemática, a sua expressão mais legítima. Cada vez mais aceitamos o postulado de que tudo na realidade física 
-parece ser matematizável. A compatibilidade desse postulado com os êxitos 
+A Matemática possui uma característica singular que, talvez, a distinga das demais ciências: cada vez mais, ela serve de linguagem para aquelas. Ela possui conjunto de noções tais como, função, limite, matriz, grupo, etc., que pela sua amplitude e o seu caráter de universalidade se aproxima das nocões filosóficas. Os fenômenos do mundo dentro do qual estamos imersos se encontram estreitamente ligados e cada um deles apresenta um número infinito de vínculos. Daí a sua variabilidade incessante a qual se reflete na nocão matemática de variável. Ademais, os seus aspectos quantitativos e qualitativos abrem para a Matemática a possibilidade de seu emprego nas ciências. Nessa penetração da Matemática nas demais ciências desempenha papel relevante, a sua extraordinária abstração, seu rigor lógico e sua liguagem universal. A Matemática possui noções que exprimem também os aspectos qualitativos dos fenômenos da natureza e da sociedade. A noção de _grupo_ e suas extensões, _anel, corpo_, etc., são noções, por assim
+dizer, mais qualitativas do que quantitativas. A abstração cada vez maior do
+conhecimento humano encontra, destarte,
+na Matemática, a sua expressão mais legítima. Cada vez mais aceitamos o postulado de que tudo na realidade física
+parece ser matematizável. A compatibilidade desse postulado com os êxitos
 oriundos de sua aplicação é um fato insofismável.
 
 Podemos acrescentar ainda: a Matemática apresenta uma metodologia de uma riqueza intelectual incalculável. Os métodos de indução e dedução atingem na Matemática a sua plenitude. As operações mentais de análise, síntese abstração e generalização surgem naturalmente em cada página de um livro de Matemática.
@@ -155,9 +155,9 @@ por Bento de Jesus Caraça em Conceitos fundamentais da matemática).
 - 5. Poincaré, Henri. La valeur de la science. Paris, Flamarion.
 - 6. \_\_\_\_\_\_. La science et l'hypothése. Paris, Flamarion.
 - 7. Polya, G. A arte de resolver problemas. Rio de Janeiro, Interciência.
-- 8. Schenberg, Mário. *Pensando a física*. S.Paulo, Brasiliense.
+- 8. Schenberg, Mário. _Pensando a física_. S.Paulo, Brasiliense.
 
-Obs.: É permitida a reprodução total ou parcial desse *folhetim* desde que citada a fonte.
+Obs.: É permitida a reprodução total ou parcial desse _folhetim_ desde que citada a fonte.
 
 Caso você tenha interesse em receber essa publicação, escreva para o NEMOC.
 

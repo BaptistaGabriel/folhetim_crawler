@@ -34,31 +34,31 @@ Pergunta. O colega Américo, de Alagoinhas, pede que eu mencione algumas regras 
 
 R. A Revista do Professor de Matemática (RPM) nº 10, do l° semestre de 1987 e com apresentação de Elon Lages Lima, publicou DEZ MANDAMENTOS PARA PROFESSORES, da autoria de George Polya, matemático de renome mundial e professor universalmente reconhecido por seus dotes de mestre. Pessoalmente, não conheço melhor orientação ao professor do que aquela contida no artigo mencionado. Brevemente este boletim fará a republicação deste artigo. Inspirado nele, tecemos alguns ligeiros palpites: 1 - Procure motivar suas aulas partindo de situações familiares ao aluno. Por exemplo: ao explicar a função afim y = ax + b mostre que, numa corrida de táxi, o cálculo do que devemos pagar é baseado nela: b representa a bandeirada, a o preço por quilômetro rodado, x a quantidade de quilômetros rodado e y a quantia a ser paga pelo passageiro. 2 - Estabeleça conexões entre os diversos assuntos que estão sendo ensinados. Exemplo: algumas propriedades de figuras geométricas podem ser mostradas mais facilmente por métodos algébricos sem a introdução de vetores, enquanto, em outras questões, o emprego destes aumenta a eficiência daqueles métodos. Para ver bem claro isto estude o livro de Elon Lages Lima: Coordenadas no Plano, com a colaboração de Paulo Cezar Pinto de Carvalho, Coleção do Professor de Matemática, Sociedade Brasileira de Matemática. No ensino da Lógica, apresentado tanto no 2º grau como na graduação, no chamado ciclo básico, nos deparamos com situações, no mínimo, curiosas. A primeira curiosidade: ao manusciar a maior parte dos livros de Lógica experimentamos o mesmo sentimento quando do manuseio de grande parte de nossos livros de Cálculo: parecem que foram escritos por um mesmo autor tal as semelhanças entre eles, o que nos leva a afirmar: na leitura de um desses livros de Lógica ou de Cálculo temos a sensação de estar lendo, ao mesmo tempo, todos eles... Evidentemente, há honrosas execuções: o livro de Cálculo de Geraldo Ávila é uma delas. Superada esta curiosidade, vejamos
 
-como os autores da maioria desses livros trata alguns de seus assuntos prediletos. Como negar uma proposição com o conectivo e? Considere a seguinte proposição: Não é verdade que nossa mercadoria é cara e dura pouco. Ela é equivalente a: Nossa mercadoria não é cara <u>ou</u> não dura pouco. Após este artificialismo vem o formalismo: ~(p ∧ q) = ~p ∨ ~q. A negação de uma proposição com o conetivo ou, é tratada analogamente. Para estas duas negações apresentamos a alternativa: os enunciados xy = 0e xy ≠ 0 constituem a negação um do outro. Por outro lado, sabemos que: xy = 0 é equivalente a (x = 0) ou y = 0 e, ainda, que  $xy \neq 0$  é equivalente a  $(x \neq 0 \text{ e } y \neq 0)$ ,  $(x,y) \in \mathbb{R}^2$ . Agora é fácil concluir: a negação de (x = 0) ou y = 0 é equivalente a  $(x \ne 0)$  e  $y \neq 0$ ) e a negação de  $(x \neq 0)$  e  $y \neq 0$ ) é equivalente a (x = 0) ou y = 0). Claramente, os exemplos poderiam ser multiplicados cada um ilustrando uma dessas leis lógicas que são, repetimos, artificialmente apresentadas aos nossos alunos. 3 - Inicialmente, o que deve ser bem entendido são as coisas elementares. Vou ilustrar este ponto de vista. Nas diversas universidades nas quais ensinei costumava pedir aos alunos de graduação em matemática, geralmente cursando 7º ou 8º semestres, a análise das igualdades contidas na primeira coluna do quadro abaixo, onde as letras representam números reais quaisquer. A solução das questões propostas na la coluna aparece lado a lado. O resultado dessa pesquisa não tem sido nada animador, no entanto, são proposições pertinentes ao 1° ou 2° graus que podem ser consideradas como elementares.
+como os autores da maioria desses livros trata alguns de seus assuntos prediletos. Como negar uma proposição com o conectivo e? Considere a seguinte proposição: Não é verdade que nossa mercadoria é cara e dura pouco. Ela é equivalente a: Nossa mercadoria não é cara <u>ou</u> não dura pouco. Após este artificialismo vem o formalismo: ~(p ∧ q) = ~p ∨ ~q. A negação de uma proposição com o conetivo ou, é tratada analogamente. Para estas duas negações apresentamos a alternativa: os enunciados xy = 0e xy ≠ 0 constituem a negação um do outro. Por outro lado, sabemos que: xy = 0 é equivalente a (x = 0) ou y = 0 e, ainda, que $xy \neq 0$ é equivalente a $(x \neq 0 \text{ e } y \neq 0)$ , $(x,y) \in \mathbb{R}^2$ . Agora é fácil concluir: a negação de (x = 0) ou y = 0 é equivalente a $(x \ne 0)$ e $y \neq 0$ ) e a negação de $(x \neq 0)$ e $y \neq 0$ ) é equivalente a (x = 0) ou y = 0). Claramente, os exemplos poderiam ser multiplicados cada um ilustrando uma dessas leis lógicas que são, repetimos, artificialmente apresentadas aos nossos alunos. 3 - Inicialmente, o que deve ser bem entendido são as coisas elementares. Vou ilustrar este ponto de vista. Nas diversas universidades nas quais ensinei costumava pedir aos alunos de graduação em matemática, geralmente cursando 7º ou 8º semestres, a análise das igualdades contidas na primeira coluna do quadro abaixo, onde as letras representam números reais quaisquer. A solução das questões propostas na la coluna aparece lado a lado. O resultado dessa pesquisa não tem sido nada animador, no entanto, são proposições pertinentes ao 1° ou 2° graus que podem ser consideradas como elementares.
 
 #### INCOMPLETO
 
 -a é um número negativo
 
 $$(-a)^2 = -a^2$$
-;  $-(-a)^2 = a^2$   
- $a/a = 0$ ;  $a/0 = 0$ ;  $a/0 = a$   
- $\sqrt{x^2} = x$ ;  $\sqrt{x^2} = \pm x^2$ 
+; $-(-a)^2 = a^2$  
+ $a/a = 0$ ; $a/0 = 0$ ; $a/0 = a$  
+ $\sqrt{x^2} = x$ ; $\sqrt{x^2} = \pm x^2$
 
 $$\sqrt{(-x)^2} = -x;$$
 
 #### COMPLETO
 
 {-a é negativo se a é positivo  
--a é positivo se a é negativo  
+-a é positivo se a é negativo
 
 $$(-a)^2 = a^2$$
-;  $-(-a)^2 = -a^2$   
- $a/a = 1$  (se a  $\neq 0$ );  $a/0$  não tem sentido  
+; $-(-a)^2 = -a^2$  
+ $a/a = 1$ (se a $\neq 0$ ); $a/0$ não tem sentido  
  $\sqrt{x^2} = |x|$ ,  
- $\log o$ , { $\sqrt{x^2} = x$  se  $x \ge 0$   
+ $\log o$ , { $\sqrt{x^2} = x$ se $x \ge 0$  
  $\sqrt{(-x)^2} = |x|$ ;  
- $\sqrt{-x^2}$  é definido só para  $x = 0$ 
+ $\sqrt{-x^2}$ é definido só para $x = 0$
 
 $$\sqrt{x.y} = \sqrt{x} \cdot \sqrt{y}; \qquad \sqrt{x.y} = \sqrt{x} \cdot \sqrt{y}, \text{ se } x \ge 0 \text{ e } y \ge 0$$
 

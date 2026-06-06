@@ -30,7 +30,7 @@ Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre) Wilson Pereira
 
 O Pergunte que o NEMOC responde é de autoria do Prof. Dr. Carloman Carlos Borges e objetiva atingir ao público interessado em Matemática nos seus múltiplos aspectos. 1º Pergunta. José Nilson da Silva, morador na Avenida Princesa Leolpodina, 56 bairro da Graça em Salvador apresenta algumas dúvidas: (a) uma grandeza física que tenha direção, sentido e um tamanho, é uma grandeza vetorial? (b) há diferença entre circunferência e círculo?
 
-R. Quanto ao item (a) a resposta é negativa. Imagine você o caso das rotações finitas em torno de eixos diferentes. Seja a rotação alfa ao redor de um dos eixos; você pode imaginar o vetor  $\vec{\alpha}$ , considerando a rotação  $\alpha$  na direção do eixo e com o tamanho dado pelo ângulo  $\alpha$  de rotação; quanto ao sentido  $\vec{\alpha}$  considere o sentido de rotação, tendo por referencial a flecha de  $\vec{\alpha}$  como anti-horário. Temos, assim,  $\vec{\alpha}$  com um tamanho, direção e sentido bem determinados sem, todavia ser um vetor pois não satisfaz à comutatividade.
+R. Quanto ao item (a) a resposta é negativa. Imagine você o caso das rotações finitas em torno de eixos diferentes. Seja a rotação alfa ao redor de um dos eixos; você pode imaginar o vetor $\vec{\alpha}$ , considerando a rotação $\alpha$ na direção do eixo e com o tamanho dado pelo ângulo $\alpha$ de rotação; quanto ao sentido $\vec{\alpha}$ considere o sentido de rotação, tendo por referencial a flecha de $\vec{\alpha}$ como anti-horário. Temos, assim, $\vec{\alpha}$ com um tamanho, direção e sentido bem determinados sem, todavia ser um vetor pois não satisfaz à comutatividade.
 
 ![](_page_1_Picture_2.jpeg)
 
@@ -62,7 +62,7 @@ No próximo número, as respostas para:
 
 Diversos professores de várias regiões do País têm nos solicitado a indicação de alguns livros para composição de uma pequena biblioteca.
 
-**张 张 张 张** 
+**张 张 张 张**
 
 Aguarden!
 

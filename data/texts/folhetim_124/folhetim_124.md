@@ -52,11 +52,11 @@ O processo lógico denominado de generalização (aqui nos referimos à generali
 
 #### 1° Grupo:
 
-i) unicidade: a = a',  $b = b' \rightarrow a + b = a' + b'$ 
+i) unicidade: a = a', $b = b' \rightarrow a + b = a' + b'$
 
 ii) monotônica: b > b'
 
-iii) lei do corte:  $a + c = b + c \rightarrow a = b$ 
+iii) lei do corte: $a + c = b + c \rightarrow a = b$
 
 #### 2° Grupo:
 
@@ -66,7 +66,7 @@ v) associativa: a + (b + c) = (a + b) + c
 
 Observem que as operações do 1º grupo mostram como os resultados variam quando os dados variam,
 
-enquanto que as operações do 2º grupo mostram as várias formas pelos quais os dados podem ser combinados sem alteração dos resultados. As propriedades do 2º grupo são chamados de <u>propriedades formais</u> (vide: *Conceitos Fundamentais da Matemática*, Bento de Jesus Caraça, Livraria Sá da Costa Editora, Lisboa, pág. 25).
+enquanto que as operações do 2º grupo mostram as várias formas pelos quais os dados podem ser combinados sem alteração dos resultados. As propriedades do 2º grupo são chamados de <u>propriedades formais</u> (vide: _Conceitos Fundamentais da Matemática_, Bento de Jesus Caraça, Livraria Sá da Costa Editora, Lisboa, pág. 25).
 
 Quando das generalizações já mencionadas, as propriedades formais da adição permaneceram nas demais generalizações: números racionais, números reais, números complexos. Tal permanência é chamada por alguns autores de Princípio de Permanência das Leis Formais (PPLF). Veja que em todas as generalizações mencionadas, foi garantida a existência das operações com a conservação das propriedades formais (aquelas do 2º grupo).
 
@@ -103,4 +103,4 @@ OBS.: É permitida a reprodução total ou parcial deste folhetim, desde que cit
 
 ## **ERRATA**
 
-Na 1ª coluna, página 3 do *Folhetim* nº 123, final do 2º parágrafo, onde se lê "calcular a área de um quadrado <u>inscrito</u> em um dado círculo", leia-se "calcular a área de um quadrado <u>circunscrito</u> em um dado círculo"
+Na 1ª coluna, página 3 do _Folhetim_ nº 123, final do 2º parágrafo, onde se lê "calcular a área de um quadrado <u>inscrito</u> em um dado círculo", leia-se "calcular a área de um quadrado <u>circunscrito</u> em um dado círculo"

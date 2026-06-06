@@ -18,7 +18,7 @@ Endereço: Km 3 BR 116 CAMPUS UNIVERSITÁRIO
 
 CEP 44031-460 - Feira de Santana-BA.
 
- $e^{\frac{i\pi i}{2}(m+1)} = f(m)$ 
+$e^{\frac{i\pi i}{2}(m+1)} = f(m)$
 
 Fax: (075) 224.2284
 
@@ -47,7 +47,7 @@ acrescenta: "Podemos, assim, construir algo de nada e erguer-nos da pobreza para
 Um colega de Juazeiro da Bahia escreve-nos: "Tenho um livro sobre Matemática no qual o autor escreve que "os números racionais são criações nossas e as regras que definem as operações entre eles dependem de nossa vontade". Eu pergunto: se é assim, se existe tal voluntarismo, por que não definimos a adição de duas frações desta maneira: basta somar os numeradores e os denominadores entre si, deste modo teríamos:
 
 $$\frac{a}{b} + \frac{c}{d} = \frac{a+c}{b+d}$$
- e, respectivamente
+e, respectivamente
 
 $$\frac{1}{3} + \frac{1}{3} = \frac{1+1}{3+3} = \frac{2}{6}$$
 

@@ -30,7 +30,7 @@ Carloman Carlos Borges (Doutor) Inácio de S. Fadigas (Mestre) Wilson Pereira de
 
 #### Editorial
 
-Com esse terceiro número do Folhetim iniciaremos uma série de publicações, reproduzindo a coluna *Pergunte que o NEMOC responde* editada pelo professor Carloman aos domingos no Feira Hoje, jornal local. Nossa intenção é ir mais além das fronteiras do estado e estabelecer relações com tantos interessados em Educação Matemática nesse país.
+Com esse terceiro número do Folhetim iniciaremos uma série de publicações, reproduzindo a coluna _Pergunte que o NEMOC responde_ editada pelo professor Carloman aos domingos no Feira Hoje, jornal local. Nossa intenção é ir mais além das fronteiras do estado e estabelecer relações com tantos interessados em Educação Matemática nesse país.
 
 Pergunta: Existe algum ramo da Matemática no qual o conceito de número não possua importáncia?
 

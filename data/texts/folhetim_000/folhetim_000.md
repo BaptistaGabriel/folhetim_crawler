@@ -51,7 +51,7 @@ Prof. Wilson Pereira de Jesus - Coordenador Panajotes Francisco de Lima - repres
 
 ### ATIVIDADES EM CURSO
 
- Edição de uma coluna (aos domingos) num periódico local - Feira Hoje - acerca de questões ligadas aos aspectos filosóficos, históricos e metodológicos da matemática, assinada pelo professor Carloman Carlos Borges.
+Edição de uma coluna (aos domingos) num periódico local - Feira Hoje - acerca de questões ligadas aos aspectos filosóficos, históricos e metodológicos da matemática, assinada pelo professor Carloman Carlos Borges.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 

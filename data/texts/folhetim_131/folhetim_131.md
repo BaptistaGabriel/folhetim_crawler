@@ -12,7 +12,7 @@ Este Folhetim é um veículo de divulgação, circulação de idéias e de estí
 
 #### **EDITORIAL**
 
-O tema proposto por esse *Folhetim* abre o caminho para uma gama de informações e descobertas atuais, interessantes e aplicáveis ao mundo do século XXI. Começa tentando definir de maneira simples e direta alguns conceitos muito em uso nas pesquisas científicas atuais como; ordem, caos, complexidade, sistemas dinâmicos.
+O tema proposto por esse _Folhetim_ abre o caminho para uma gama de informações e descobertas atuais, interessantes e aplicáveis ao mundo do século XXI. Começa tentando definir de maneira simples e direta alguns conceitos muito em uso nas pesquisas científicas atuais como; ordem, caos, complexidade, sistemas dinâmicos.
 
 A abordagem dos temas ou do tema, uma vez que estão muito relacionados, desperta o olhar para a Matemática que, apesar de longe das escolas, está bem próxima de nós, isto é, dos fatos, fenômenos e objetos que nos rodeiam. O artigo pretende pois fazer esta aproximação entre a "teoria" e "prática", com desdobramentos muito interessantes. Aguardem.
 
@@ -29,9 +29,9 @@ por Carloman Carlos Borges
 
 Na ciência moderna, os três conceitos acima são de uma importância cada vez maior. Nesta dissertação procuraremos nos aproximar deles fundamentados nos resultados de pesquisas apresentados pelos cientistas preocupados em esclarecê-los.
 
-Qual a origem do nome "número complexo" para o número representado por z=a+ib, sendo a e b reais e i a unidade imaginária, isto é,  $i=\sqrt{-1}$ ? Surge logo a nossa mente, quando se fala de complexo, idéias tais como dificuldade, complicado, etc. Ao compararmos o número z=a+ib com um número real qualquer, notamos que z se apresenta envolvido em mais relações do que o número real. O número z é mais geral do que o número real e isso lhe dar mais complexidade, quando é feita tal comparação. No número complexo z, em relação ao número real, existem maior número de componentes diferentes a interagir, daí, sua maior complexidade. A complexidade de um objeto, caracterizada pelo número de relações no qual ele está envolvido, sugere que ela seja definida como uma medida quantitativa ligada aos conceitos de caos e ordem.
+Qual a origem do nome "número complexo" para o número representado por z=a+ib, sendo a e b reais e i a unidade imaginária, isto é, $i=\sqrt{-1}$ ? Surge logo a nossa mente, quando se fala de complexo, idéias tais como dificuldade, complicado, etc. Ao compararmos o número z=a+ib com um número real qualquer, notamos que z se apresenta envolvido em mais relações do que o número real. O número z é mais geral do que o número real e isso lhe dar mais complexidade, quando é feita tal comparação. No número complexo z, em relação ao número real, existem maior número de componentes diferentes a interagir, daí, sua maior complexidade. A complexidade de um objeto, caracterizada pelo número de relações no qual ele está envolvido, sugere que ela seja definida como uma medida quantitativa ligada aos conceitos de caos e ordem.
 
-A palavra *caos* tem sido associada à desordem e até mesmo ao estado desordenado anterior à criação do universo. Modernamente, um novo significado lhe foi acrescentado: trata-se de
+A palavra _caos_ tem sido associada à desordem e até mesmo ao estado desordenado anterior à criação do universo. Modernamente, um novo significado lhe foi acrescentado: trata-se de
 
 um comportamento aleatório exibido em sistemas dinâmicos determinísticos. Rapidamente, lembramos que uma variável aleatória é toda aquela dependente do acaso. Exemplificando: o número de ocorrências "coroa" num jogo de cara ou coroa é uma variável aleatória. Sistema dinâmico determinístico é um desses sistemas de equações diferenciais lineares estudados na cadeira de cálculo e estudados pelos nossos universitários. Eles vêm acompanhado pelas "condições iniciais" que servem para calcular o seu comportamento. É como se ele "congelasse" o passado, o presente e o futuro daquele objeto do qual está sendo um modelo. Por "caos determinístico" queremos significar a grande sensibilidade à pequenas variações nas "condições iniciais". Pareceapesar do clamor de muitos cientistas - que a incerteza é intrínseca a uma boa parte dos eventos. Assim, consideremos uma moeda. Quando jogamos "cara" ou "coroa", estatisticamente, a moeda cai com igual frequência, tanto de um lado, quanto de outro. Será que, se tivéssemos a possibilidade de, com ajuda de um potente computador calcular todas as etapas do movimento da moeda, poderíamos, com certeza, determinar antecipadamente de que lado ela vai cair? A resposta de Prigogine, Nobel de Química em 1977: "O cálculo é impossível, uma vez que a peça percorrerá
 
@@ -57,7 +57,7 @@ fazendo portanto apelo a algo que se encontraria para lá do tempo. Contudo, vei
 
 Mas, quais são nossas primeira noções de ordem? Parece que elas dependem de nossa capacidade de identificar semelhanças e diferenças. O nosso próprio pensamento trabalha com conceitos. Mas, que é um conceito? Um conceito é uma classe de equivalência. Portanto boa parte de nossas atividfades mentais gira em torno de classe de equivalência - conceito bastante conhecido de nossos estudantes.
 
-Mais adiante em outro *Folhetim*, procuraremos trabalhar o conceito de ordem, de maneira formal.
+Mais adiante em outro _Folhetim_, procuraremos trabalhar o conceito de ordem, de maneira formal.
 
 Agora, uma pequena variação em torno do que já foi escrito nas linhas acima.
 
@@ -97,4 +97,4 @@ No Folhetim 130:
 
 pág. 1, Pergunte que o NEMOC Responde, 1ª coluna, onde se lê Alguns avaliações..., leia-se Algunas avaliações...
 
-pág. 2,  $2^a$  coluna, onde se lê ... se difinem ... , leia-se ... se definem ...
+pág. 2, $2^a$ coluna, onde se lê ... se difinem ... , leia-se ... se definem ...

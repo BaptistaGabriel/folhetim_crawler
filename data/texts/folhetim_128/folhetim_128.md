@@ -73,7 +73,7 @@ Aqui, temos B = A e C = A, donde B = C, isto é,
 Folhetim Educ. Mat., Ano 12, n. 128, set./out. 2005 - Editores: Carloman e Inácio - Secretária: Josenildes Oliveira Venas Almeida - Digitação: Manoel Aquino dos Santos - Editoração: Evandro Vaz - Impressão: Imprensa Gráfica Universitária - Periodicidade: bimestral - Tiragem: 1.000 exemplares - Distribuição gratuita - Endereço: Av. Universitária, s/n - km 03 - BR 116 - Campus Universitário - Telefone: (75)3224-8115 - Fax: (75)3224-8086 - CEP: 44031-460 - Feira de Santana - Ba - BRASIL - E-mail: nemoc@uefs.br
 
 $$\frac{x^2}{2} + 3 = \frac{x^2}{2} + 7$$
-,  $\log x = 7$ .
+, $\log x = 7$ .
 
 A discussão deverá levar o aluno a melhorar seu entendimento entre o conceito de igualdade como identidade, com as suas três conhecidas propriedades e a igualdade por definição como é o caso logo acima e na qual as propriedades da identidade não devem ser aplicadas sem maiores cuidados.
 
@@ -95,7 +95,7 @@ O professor deve levar o aluno a resolver verdadeiras situações problemáticas
 
 gera o conflito entre aquilo que foi dado e aquilo que se deve alcançar e isso pode servir de fonte do raciocínio criador.
 
-Ante uma verdadeira situação problemática, a sua solução deve iniciar-se por aquele processo de raciocínio denominado de análise, isto é, o processo durante o qual fica bem claro o que é dado (o conhecido) e o que é desconhecido (o procurado). Deve fazer parte da solução do problema, a "amarração" do desconhecido ao conhecido. Para a equação do segundo grau:  $ax^2 + bx + c = 0$ . Qual o conhecido? Claramente  $a, b \in c$ , números conhecidos. Qual o desconhecido? Simplesmente a incógnita "x". Nesse caso, a "amarração" consiste na fórmula  $x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$ .
+Ante uma verdadeira situação problemática, a sua solução deve iniciar-se por aquele processo de raciocínio denominado de análise, isto é, o processo durante o qual fica bem claro o que é dado (o conhecido) e o que é desconhecido (o procurado). Deve fazer parte da solução do problema, a "amarração" do desconhecido ao conhecido. Para a equação do segundo grau: $ax^2 + bx + c = 0$ . Qual o conhecido? Claramente $a, b \in c$ , números conhecidos. Qual o desconhecido? Simplesmente a incógnita "x". Nesse caso, a "amarração" consiste na fórmula $x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$ .
 
 É preciso enfatizar: o que move o ser humano é a necessidade, isto é, a motivação para alcançar determinado objetivo. A situação problemática surge, então, quando o ser humano sente necessidade de alcançar determinado objetivo, porém, <u>não sabe</u> como alcançá-lo. A compreensão vai sendo construída no processo de resolução da problemática. Ela vem após a motivação, a necessidade, sempre foi assim. No início, o problema central do ser humano era a sua própria sobrevivência. A necessidade de reproduzir-se e sobreviver foi construindo seu entendimento, sua própria razão. Por que, agora, no ensino tem de ser tão diferente?
 

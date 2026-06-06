@@ -52,14 +52,14 @@ i) a k a ( a ´e paralela a si mesma)
 $$ii)a \parallel b \Rightarrow b \parallel a$$
 
 $$(iii)a \parallel b$$
-,  $b \parallel c \Rightarrow a \parallel c$ 
+, $b \parallel c \Rightarrow a \parallel c$
 
 Um conceito importante intimamente ligado ao de rela¸c˜ao de equivalˆencia, ´e o de parti¸c˜ao. Considere o conjunto A dos autom´oveis fabricados no Brasil, das marcas Fiat, Chevrolet e Volkswagen, representados, respectivamente, por F, C e V ; em A estabelecemos a rela¸c˜ao "o carro a tem a mesma marca que o carro b"; esta rela¸c˜ao ´e de equivalˆencia no conjunto A, pois desfruta das trˆes propriedades acima. De fato, seja A:
 
-| F | F |   | C |   | C | V | F |   | V | V | F |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| V | C | F |   | V | C |   | C | V |   |   | F |
-|   | F |   | V | C | F | C | V | V | F | F | C |
+| F   | F   |     | C   |     | C   | V   | F   |     | V   | V   | F   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| V   | C   | F   |     | V   | C   |     | C   | V   |     |     | F   |
+|     | F   |     | V   | C   | F   | C   | V   | V   | F   | F   | C   |
 
 ## NEMOC - NUCLEO DE EDUCAC¸ ´ AO MATEM ˜ ATICA OMAR CATUNDA ´
 
@@ -67,10 +67,10 @@ Folhetim Educ. Mat., Feira de Santana, Ano 18, N´umero 163, nov./dez. 2011 - Ed
 
 Em um novo quadro, ap´os dividir o conjunto A em compartimentos, coloquemos, em cada um deles os carros da mesma marca:
 
-| V | V | V | V | C | C | C | C | F | F | F | F |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| V | V | V | V | C | C | C | C | F | F | F | F |
-| V |   |   |   |   |   |   |   | F | F |   |   |
+| V   | V   | V   | V   | C   | C   | C   | C   | F   | F   | F   | F   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| V   | V   | V   | V   | C   | C   | C   | C   | F   | F   | F   | F   |
+| V   |     |     |     |     |     |     |     | F   | F   |     |     |
 
 Ao conjunto acima d´a-se o nome de conjuntoquociente (A/R) e ele representa uma parti¸c˜ao do conjunto A, isto ´e, uma decomposi¸c˜ao un´ıvoca de A em subconjuntos com as propriedades:
 

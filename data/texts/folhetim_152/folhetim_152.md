@@ -24,10 +24,10 @@ A relevˆancia da simetria na percep¸c˜ao foi estudada pela psicologia gestalt
 
 Anteriormente falamos que os animais superiores apresentam simetria bilateral. O ser humano, possuindo esse tipo de simetria, quando submetido `a reflex˜ao em torno de um plano vertical, permanece inalterado. As duas simetrias, a identidade (I) que n˜ao modifica nada, deixa tudo como ´e, e a reflex˜ao (r) em torno de um plano vertical, a simetria bilateral - formam um grupo. Veja a t´abua para as duas simetrias:
 
-| * | I | r |
-|---|---|---|
-| I | I | r |
-| r | r | I |
+| \*  | I   | r   |
+| --- | --- | --- |
+| I   | I   | r   |
+| r   | r   | I   |
 
 Figura 1:
 
@@ -45,8 +45,8 @@ Que revela a t´abua acima? Revela esta coisa supreendente: o conjunto de todas 
 - Associatividade: na express˜ao I ∗ r ∗ r, vocˆe pode colocar os parˆenteses "a sua vontade", I ∗ (r ∗ r) = (I ∗ r) ∗ r pois o resultado permanecer´a o mesmo.
 - Elemento Neutro: ele ´e uma transforma¸c˜ao de simetria.
 
-- Inverso: 
-$$I * I = I = r * r$$
+- Inverso:
+  $$I * I = I = r * r$$
 
 Fica claro o seguinte: a composta de duas simetrias de uma figura, resulta em outra simetria da figura, pois, ambas as simetrias s˜ao movimentos r´ıgidos, donde a sua combina¸c˜ao, ser, tamb´em, um movimento r´ıgido.
 
@@ -75,10 +75,10 @@ N˜ao seria mais simples mostrar a sua compatibilidade com o axioma da distribut
 
 Mas, que tem a ver essa regra de sinais com o assunto do qual estamos a falar? Pois bem, veja sua t´abua de multiplica¸c˜ao (multiplica¸c˜ao normal):
 
-| ×  | 1  | -1 |
-|----|----|----|
-| 1  | 1  | -1 |
-| -1 | -1 | 1  |
+| ×   | 1   | -1  |
+| --- | --- | --- |
+| 1   | 1   | -1  |
+| -1  | -1  | 1   |
 
 Figura 2:
 

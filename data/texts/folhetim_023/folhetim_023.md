@@ -62,7 +62,7 @@ $$= (2.10^2 + 4.10 + 5)10^2 + (4.10 + 8);$$
 
 note que tanto o número representado no primeiro parêntese como o representado no segundo são divisíveis por 4; logo, o número dado 24548 é divisível por 4; daí, a regrinha: um número é divisível por 4 quando o número formado por seus dois últimos algarismos também o é. O número, exemplificando, 45478991188, certamente que é divisível por 4, pois, 88 o é. Seria aconselhável que o caro colega justificasse essa assertiva, de uma maneira inteiramente análoga à que já fizemos acima. Em nome de um rigor maior, enunciamos o teorema pertinente à divisão por 4:
 
-Para que um número  $A = a_n a_{n-1} ... a_2 a_1 a_0$  seja divisível por 4, é necessário e suficiente que o número  $a_1 a_0$  (isto é, o formado pelos seus dois últimos algarismos) seja divisível por 4.
+Para que um número $A = a_n a_{n-1} ... a_2 a_1 a_0$ seja divisível por 4, é necessário e suficiente que o número $a_1 a_0$ (isto é, o formado pelos seus dois últimos algarismos) seja divisível por 4.
 
 Será que o número 784 é divisível por 2? A resposta é positiva, pois ele termina em 4 e este é divisível por 2. A justificativa: 784 = 7.10<sup>2</sup> + 8.10 + 4 = (7.10 + 8)10 + 4; os números representados dentro dos dois parênteses são divisíveis por 2, logo, o número dado 784 também o é. É preciso acrescentar que as justificativas que apresentamos acima são, ambas, incompletas, servindo tão somente para a introdução do assunto. Quando um teorema fala em condição necessária e suficiente, a sua demonstração se desdobra em duas etapas; acima, nos fixamos apenas em uma dessas etapas. A outra etapa, o colega poderá tentar seguindo
 

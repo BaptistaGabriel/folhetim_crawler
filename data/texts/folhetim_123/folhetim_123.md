@@ -12,7 +12,7 @@ Este Folhetim é um veículo de divulgação, circulação de idéias e de estí
 
 #### **EDITORIAL**
 
-Encerra-se mais um ano no calendário civil, mas o trabalho da equipe não para, graças a aceitação e crescimento do número de assinantes. Apesar dos inúmeros atropelos, o ano de 2004 foi bastante produtivo, e seus resultados divulgados nos *Folhetins* desde o número 1 até o presente. Este dá seguimento ao tema abordado no nº 122, ou seja, *Alguns aspectos no Ensino da Matemática*. Aspectos da linguagem com a resolução de problemas apresentados aqui, com vários exemplos de como a representação simbólica pode ajudar - e muito - na resolução dos problemas.
+Encerra-se mais um ano no calendário civil, mas o trabalho da equipe não para, graças a aceitação e crescimento do número de assinantes. Apesar dos inúmeros atropelos, o ano de 2004 foi bastante produtivo, e seus resultados divulgados nos _Folhetins_ desde o número 1 até o presente. Este dá seguimento ao tema abordado no nº 122, ou seja, _Alguns aspectos no Ensino da Matemática_. Aspectos da linguagem com a resolução de problemas apresentados aqui, com vários exemplos de como a representação simbólica pode ajudar - e muito - na resolução dos problemas.
 
 # **COMITÉ EDITORIAL**
 
@@ -90,7 +90,7 @@ Vejamos como um simples desenho pode dificultar ou facilitar a resolução dessa
 
 ![](_page_2_Picture_13.jpeg)
 
-Ao considerar a figura E, a resolução do problema torna-se, mais uma vez, uma banalidade, pois "salta a vista" que o triângulo dado é a metade do quadrado de lado a, donde sua área é igual a  $\frac{a^2}{2}$ .
+Ao considerar a figura E, a resolução do problema torna-se, mais uma vez, uma banalidade, pois "salta a vista" que o triângulo dado é a metade do quadrado de lado a, donde sua área é igual a $\frac{a^2}{2}$ .
 
 Quanto a figura D, a sua disposição torna a resolução da questão mais difícile, para jovens do Ensino Fundamental,
 
@@ -110,7 +110,7 @@ No mês de dezembro o curso de Especialização em Educação Matemática certif
 
 Os temas e autores são os seguintes:
 
- Reflexões sobre o uso da Informática em sala de aula.
+Reflexões sobre o uso da Informática em sala de aula.
 
 #### Marcélia Góes Mendes
 
@@ -126,7 +126,7 @@ Os temas e autores são os seguintes:
 
 #### Eraldo Miranda Junior
 
- Ensino de Matemática: formação para exclusão ou para a cidadania?
+Ensino de Matemática: formação para exclusão ou para a cidadania?
 
 #### Cleunice Pires dos Santos Silveira
 

@@ -44,9 +44,9 @@ Todos estamos acostumados, desde crianças, a ouvir a palavra dimensão nas mais
 
 Uma primeira idéia de dimensão dizo seguinte: um contínuo tem n dimensões quando podemos dividí-lo por
 
-meio de cortes também contínuos de (*n* - 1) dimensões. Assim, aceitamos que o ponto tem dimensão zero (essa é uma convenção compatível com a existência dos números irracionais), a reta, dimensão 1, o plano, dimensão 2, o espaço, dimensão 3, o espaço - tempo, dimensão 4; chegamos até aos espaços de dimensões infinitas, estudados na Álgebra Linear e de grandes aplicações na Mecânica Quântica. A esse tipo de dimensão, dar-se o nome de <u>dimensão</u> topológica.
+meio de cortes também contínuos de (_n_ - 1) dimensões. Assim, aceitamos que o ponto tem dimensão zero (essa é uma convenção compatível com a existência dos números irracionais), a reta, dimensão 1, o plano, dimensão 2, o espaço, dimensão 3, o espaço - tempo, dimensão 4; chegamos até aos espaços de dimensões infinitas, estudados na Álgebra Linear e de grandes aplicações na Mecânica Quântica. A esse tipo de dimensão, dar-se o nome de <u>dimensão</u> topológica.
 
-Para caracterizar um fractal, é preciso recorrer a outros tipos de dimensão. Fixemos na seguinte: que chamaremos de dimensão fractal,  $D_f$ . Como ilustração, retornemos a curva de Koch.
+Para caracterizar um fractal, é preciso recorrer a outros tipos de dimensão. Fixemos na seguinte: que chamaremos de dimensão fractal, $D_f$ . Como ilustração, retornemos a curva de Koch.
 
 ![](_page_1_Figure_8.jpeg)
 
@@ -56,11 +56,11 @@ Folhetim Educ. Mat., Ano 13, n. 135, nov./dez. 2006 - Editores: Carloman e Inác
 
 Em (a) o segmento AB, unitário, é dividido em (r=3) três segmentos equivalentes. O segmento do meio é transformado em dois outros (b) donde surgem N(=quatro) novos segmentos. Novamente, cada um dos quatros segmentos é dividido em três, obtendo-se (c). Quando esse processo se repete indefinidamente, obtémse um objeto que é chamado de fractal. Pelo exposto, é fácil calcular a dimensão da curva de Koch:
 
- $D_f = ln N/ln r = ln4/ln3 = 1,2618...$ , que é um número irracional.
+$D_f = ln N/ln r = ln4/ln3 = 1,2618...$ , que é um número irracional.
 
 Um outro exemplo: o tão falado Conjunto de Cantor. Sua construção parte, também, de um segmento de reta que é seccionado em outros três segmentos iguais. Então, retiramos o pedaço intermediário, sobrando dois segmentos iguais os quais são igualmente repartidos em três novos segmentos iguais. Então, retiramos os segmentos intermediários e o processo já descrito anteriormente, prossegue indefinidamente. Após infinitas operações realizadas, temos o conjunto de pontos que restaram - que é o Conjunto de Cantor. Vejam as figuras abaixo:
 
-Analogamente com o processo da construção do Conjunto de Koch, é fácil calcular a dimensão fractal do de Cantor:  $D_f = ln2/ln3 = 0,6$ . É interessante observar que
+Analogamente com o processo da construção do Conjunto de Koch, é fácil calcular a dimensão fractal do de Cantor: $D_f = ln2/ln3 = 0,6$ . É interessante observar que
 
 esses dois processos de construção, tanto o Conjunto de Koch como o Conjunto de Cantor, são processos limites e, assim, estão envolvidos em duas infinidades: uma infinidade potencial e uma infinidade atual, acabada - que é um conceito nuclear na teoria dos conjuntos, criada por Cantor - e que mereceu tantas críticas de ilustres matemáticos no decorrer da história da matemática.
 

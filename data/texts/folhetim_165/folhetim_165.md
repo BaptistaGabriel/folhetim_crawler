@@ -86,8 +86,8 @@ $$b_1 + \dots + b_n + b_{n+1} = (b_1 + \dots + b_n) + b_{n+1}$$
 Logo:
 
 $$a[b_1 + \dots + b_n + b_{n+1}] = a[(b_1 + \dots + b_n) + b_{n+1}] =$$
-  
-=  $a(b_1 + \dots + b_n) + ab_{n+1}$ 
+
+= $a(b_1 + \dots + b_n) + ab_{n+1}$
 
 Na ´ultima igualdade, usamos a lei distributiva. Por hip´otese de indu¸c˜ao:
 
@@ -96,8 +96,8 @@ $$a(b_1 + \dots + b_n) = ab_1 + \dots + ab_n$$
 Donde:
 
 $$a[b_1 + \dots + b_n + b_{n+1}] = a[b_1 + \dots + b_n] + ab_{n+1} =$$
-  
-=  $ab_1 + \dots + ab_n + ab_{n+1}$ 
+
+= $ab_1 + \dots + ab_n + ab_{n+1}$
 
 Logo, P(n) ´e verdadeira para todo inteiro n ≥ 2.
 

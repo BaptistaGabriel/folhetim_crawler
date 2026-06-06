@@ -2,19 +2,19 @@
 
 ![](_page_0_Picture_1.jpeg)
 
-**Folhetim Educ. Mot., Ano 10, n. 116, set. / out. 2003** 
+**Folhetim Educ. Mot., Ano 10, n. 116, set. / out. 2003**
 
-**ISSN 1415-8779** 
+**ISSN 1415-8779**
 
 ## **OBJETIVO**
 
-Este *Folhetim é* um veículo de divulgação, circulação de **ideias** e de estímulo ao estudo e à curiosidade intelectual. Dirige-se a todos os interessados pelos aspectos pedagógicos, filosóficos e históricos da Matemática. Pretende construir uma ponte para unir os que estão próximos e os que estão distantes.
+Este _Folhetim é_ um veículo de divulgação, circulação de **ideias** e de estímulo ao estudo e à curiosidade intelectual. Dirige-se a todos os interessados pelos aspectos pedagógicos, filosóficos e históricos da Matemática. Pretende construir uma ponte para unir os que estão próximos e os que estão distantes.
 
 # **EDITORIAL**
 
 Anexo ao Folhetim de número 111, o leitor recebeu umaFicha de Pesquisa de Satisfação, na qual algumas informações sobre a nossa publicação foram solicitadas. Desde já, agradecemos a você que está recebendo este número, pois certamente foi uma das centenas de pessoas que nos ajudaram a avaliar nosso trabalho. Nomes conhecidos ou não, a todos demos a mesma importância, acolhendo a avaliação, as críticas e sugestões, na perspectiva de cada vez melhorar.
 
-Em média, o Folhetim obteve **55^%** de conceito **ótimo** e **38,1** % de conceito **bom.** 
+Em média, o Folhetim obteve **55^%** de conceito **ótimo** e **38,1** % de conceito **bom.**
 
 Os resultados detalhados encontram-se na coluna RESULTADOS DA PESQUISA.
 
@@ -24,7 +24,7 @@ Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 
 ## **PERGUNTE QUE O NEMOC RESPONDE**
 
-**Pergunta.** Um aluno da graduação diz que leu em uma revista de divulgação uma notinha na qual se ha: *Arranca do seu caderno duas folhas de papéis iguais, colocando-as uma em cima da outra. A cada ponto V da de cima corresponde um ponto* P' *na de baixo (que se encontra exaamente embaixo da folha constituída pelos pontos daquela que se acha sobre ela). Em seguida, deixando a folha que se encontra embaixo exatamente no seu lugar, suspende a folha de cima e amarrota-a à sua vontade sem no entanto rasgá-la. Coloque essa folha assim amarrotada dobrada várias vezes, por cima da outra folha. Com um objeto como um livro comprima essa folha amarrotada de maneira que toda ela fique dentro das margens da de baixo. Você sabe que podemos ter certeza de que pelo menos um ponto* P *da folha de cima ocupa o mesmo lugar que ocupava antes da folha ser amarrotada, ou seja esse mesmo ponto* P *está por cima do mesmo ponto F?"* 
+**Pergunta.** Um aluno da graduação diz que leu em uma revista de divulgação uma notinha na qual se ha: _Arranca do seu caderno duas folhas de papéis iguais, colocando-as uma em cima da outra. A cada ponto V da de cima corresponde um ponto_ P' _na de baixo (que se encontra exaamente embaixo da folha constituída pelos pontos daquela que se acha sobre ela). Em seguida, deixando a folha que se encontra embaixo exatamente no seu lugar, suspende a folha de cima e amarrota-a à sua vontade sem no entanto rasgá-la. Coloque essa folha assim amarrotada dobrada várias vezes, por cima da outra folha. Com um objeto como um livro comprima essa folha amarrotada de maneira que toda ela fique dentro das margens da de baixo. Você sabe que podemos ter certeza de que pelo menos um ponto_ P _da folha de cima ocupa o mesmo lugar que ocupava antes da folha ser amarrotada, ou seja esse mesmo ponto_ P _está por cima do mesmo ponto F?"_
 
 R. Antes de tentarmos aexplicação para tal correspondência pontual, vejamos outro exemplo: no seu café da manhã, quando sua xícara estiver cheia de café mexa o conteúdo da xícara com a colher durante, digamos, meio minuto, tendo apenas o cuidado de nehuma gota do Kquido cair fora. Quando o Kquido imobilizarse, você pode ter a certeza de que pelo menos uma partícula de
 
@@ -42,7 +42,7 @@ situações. Vejamos a seguinte: consideremos o conjunto de todas as trajetória
 
 Folhetim Educ. Mat., Ano 10, n. 116, set./out. 2003 - Editores: Carloman e Inácio - Secretária: Josenildes Oliveira Venas Almeida - Digitação: Manoel Aquino dos Santos - Editoração: Evandro Vaz - Impressão: Imprensa Gráfica Universitária - Periodicidade: bimestral - Tiragem: 500 exemplares - Distribuição gratuita - Endereço: Av. Universitária, s/n - km 03 - BR 116 - Campus Universitário - Telefone: (75)224-8115 - Fax: (75)224-8086 - CEP 44031-460 - Feira de Santana - Ba - BRASIL - E-mail: nemoc@uefs.br
 
-transformação *C(x).* Porque? Ora, tal procedimento é o mesmo que encontrar a solução da equação *G(x) =* O, quando você coloca, por definição *G(x) = C{x) - x.*  Agora, se desejarmos resolver a equação *G(x)=*O, basta introduzir o operador identidade /, isto é *I(x) = x.* Logo, teremos a nova transformação //=/ - G, donde a equação original *G{x)=*O assume a forma *G{x) = {I-H)(x) = Oou H(x) = I(x) =x.* Conclusão: determinar pontos fixos é o mesmo que resolver equações. Vejamos um exemplo mais palpável.
+transformação _C(x)._ Porque? Ora, tal procedimento é o mesmo que encontrar a solução da equação _G(x) =_ O, quando você coloca, por definição _G(x) = C{x) - x._ Agora, se desejarmos resolver a equação *G(x)=*O, basta introduzir o operador identidade /, isto é _I(x) = x._ Logo, teremos a nova transformação //=/ - G, donde a equação original *G{x)=*O assume a forma _G{x) = {I-H)(x) = Oou H(x) = I(x) =x._ Conclusão: determinar pontos fixos é o mesmo que resolver equações. Vejamos um exemplo mais palpável.
 
 Seja o sistema de duas equações com duas incógnitas jc,>':
 
@@ -54,15 +54,15 @@ Esse sistema terá solução? Inicialmente, coloquemo-lo na forma:
 $$x = -\sin^{2}(xy) - \cos^{3}y$$
 $$y = -\sin^{3}(x^{2} + y^{2}) - \cos^{5}(x + y)$$
 
-Agora: que significa o sistema possuir solução? Significa que algumponto *(x,y)* do plano cartesiano, quando substituído em
+Agora: que significa o sistema possuir solução? Significa que algumponto _(x,y)_ do plano cartesiano, quando substituído em
 
 $$- \sec^2(xy) - \cos^3 y$$
 
 $$-\sin^3(x^2+y^2)-\cos^5(x+y)$$
 
-leva-nos aos valores *xey* respectivamente. O que realmente acontece é que cada ponto P(x, *y)é*  transformado no ponto T(P) = - sen^(xy) - cos^>', - sen^(x^ *+ y^)-* **COS^(A:+** *y). A* existência de uma solução **(J**:\*, / ) do sistema é equivalente a existência de um ponto P\* = *(x\*,y\*)* tal que T(P\*)=Pãstn *â, a PK* isíêgcia^eidarn, ponto fixo para a transformação T. Um simples cálculo mostra a existência de pelo menos um ponto fixo nessa transformação.
+leva-nos aos valores _xey_ respectivamente. O que realmente acontece é que cada ponto P(x, _y)é_ transformado no ponto T(P) = - sen^(xy) - cos^>', - sen^(x^ _+ y^)-_ **COS^(A:+** _y). A_ existência de uma solução **(J**:\*, / ) do sistema é equivalente a existência de um ponto P\* = _(x\*,y\*)_ tal que T(P\*)=Pãstn _â, a PK_ isíêgcia^eidarn, ponto fixo para a transformação T. Um simples cálculo mostra a existência de pelo menos um ponto fixo nessa transformação.
 
-Para mais detalhes, consultar Miguel de Guzman, *Aventuras Matemáticas,* Gradiva. e *Cinco Regras de Ouro,* de John L. Casti, Gradiva.
+Para mais detalhes, consultar Miguel de Guzman, _Aventuras Matemáticas,_ Gradiva. e _Cinco Regras de Ouro,_ de John L. Casti, Gradiva.
 
 Luitzen Egbertus Jan BROUWERnasceu a 27 de
 
@@ -95,7 +95,7 @@ Abrangência 55,3% ótimo 40.5% bom 4,2% regular Profundidade 56,8% ótimo 37.5%
 ## Quanto a linguagem
 
 | Clareza      | 58,7% ótimo  |
-|--------------|--------------|
+| ------------ | ------------ |
 |              | 36,0% bom    |
 |              | 4,9% regular |
 |              | 0,4% ruim    |

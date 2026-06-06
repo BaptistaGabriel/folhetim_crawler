@@ -30,11 +30,11 @@ Carloman Carlos Borges (Doutor) Inácio de S. Fadigas (Mestre) Wilson Pereira de
 
 ### Editorial
 
-Com esse quinto número damos continuidade à publicação da coluna *Pergunte que o NEMOC responde* de autoria do Professor Carloman Carlos Borges, editada aos domingos no Feira Hoje, jornal local.
+Com esse quinto número damos continuidade à publicação da coluna _Pergunte que o NEMOC responde_ de autoria do Professor Carloman Carlos Borges, editada aos domingos no Feira Hoje, jornal local.
 
 Dispomos já de mais de dez folhetins à espera de composição. Resta-nos agora a esperança de que ele
 
-esteja atingindo o seu alvo: professores de 1° e 2° graus, principalmente. Para isso precisamos de retorno desses colegas. Que os Diretores das 160 escolas do municipio que estão recebendo o *Folhetim* estejam encaminhando esse nosso incipiente trabalho aos colegas de Matemática.
+esteja atingindo o seu alvo: professores de 1° e 2° graus, principalmente. Para isso precisamos de retorno desses colegas. Que os Diretores das 160 escolas do municipio que estão recebendo o _Folhetim_ estejam encaminhando esse nosso incipiente trabalho aos colegas de Matemática.
 
 # 1º Pergunta: O mimero zero é um número natural?
 

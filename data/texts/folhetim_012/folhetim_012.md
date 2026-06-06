@@ -32,18 +32,18 @@ Dando continuidade às publicações da coluna Pergunte que o NEMOC responde de 
 
 Estamos cadastrando cada professor interessado em manter-se a par das últimas tendências em Educação
 
-Matemática. A UEFS nos proporcionará as condições para que cada professor, em qualquer parte desse país, que solicitar um exemplar do *folhetim* possa recebê-lo.
+Matemática. A UEFS nos proporcionará as condições para que cada professor, em qualquer parte desse país, que solicitar um exemplar do _folhetim_ possa recebê-lo.
 
 1ª Pergunta. A professora Urânia, da cidade de Serrinha, indaga se a raiz quadrada de um número inteiro positivo possui dois valores.
 
 Resposta: A colega Urânia deseja saber se, por exemplo, a raiz quadrada de 16 pode ser -4 e, também +4, pois ambos estes valores quando elevados ao quadrado reproduzem 16. Como já enfatizamos anteriormente, a Matemática, localmente, deve ser consistente. Uma das propriedades da radiciação diz que:
 
 $$\sqrt{a}$$
- ,  $\sqrt{b} = \sqrt{ab}$ ;  $a, b \in Z^*$ 
+, $\sqrt{b} = \sqrt{ab}$ ; $a, b \in Z^*$
 
-assim, se você considerar que  $\sqrt{a}$  pode ser, também, igual a -a, isto viola a lei mencionada. Verifique! Agora, se você vai trabalhar com as equações algébricas, como, exemplificando,
+assim, se você considerar que $\sqrt{a}$ pode ser, também, igual a -a, isto viola a lei mencionada. Verifique! Agora, se você vai trabalhar com as equações algébricas, como, exemplificando,
 
- $x^2 = 16$ , então, os valores de x são -4 e +4,
+$x^2 = 16$ , então, os valores de x são -4 e +4,
 
 este resultado é compatível com o Teorema Fundamental da Álgebra:
 

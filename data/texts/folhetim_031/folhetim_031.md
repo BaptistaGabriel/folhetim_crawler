@@ -61,7 +61,7 @@ No próximo número, as respostas para:
 - Há outra Geometria além daquela nossa conhecida, a Geometria de Euclides?
 - Existe algum número que não seja nem real nem imaginário?
 
-**米米米米** 
+**米米米米**
 
 Aguardemi
 

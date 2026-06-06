@@ -27,8 +27,8 @@ Os intuicionistas, portanto, n˜ao aceitam demonstra¸c˜oes baseadas no terceir
 As demonstra¸c˜oes indiretas se constituem em um poderoso m´etodo de demonstra¸c˜ao matem´atico. Existem teoremas que podem ser demonstrados quer diretamente quer indiretamente, – por´em, a sua demonstra¸c˜ao direta acarreta maiores dificuldades do que sua demonstra¸c˜ao indireta; ademais, existem teoremas para os quais somente se conhecem demonstra¸c˜oes do tipo indiretas, como a demonstra¸c˜ao dada por Cantor de que "o conjunto dos n´umeros reais n˜ao ´e enumer´avel". Algumas vezes, a pr´opria demonstra¸c˜ao indireta sugere a demonstra¸c˜ao – construtivista, como ´e o caso, por exemplo, da demonstra¸c˜ao de que existem infinitos n´umeros primos, dada anteriormente (Folhetim 168). Assim, se considerarmos os n´umeros primos 2 e 3, poderemos – construir novos n´umeros primos e como tal opera¸c˜ao poder´a ser repetida ilimitadas vezes, ent˜ao, conclu´ımos ser a s´erie dos primos constitu´ıda de infinitos n´umeros. Exemplificando:
 
 $$N_1=2$$
- .  $3+1=7$  (novo número primo)  
- $N_2=2$  .  $3$  .  $7+1=43$  (novo número primo)
+. $3+1=7$ (novo número primo)  
+ $N_2=2$ . $3$ . $7+1=43$ (novo número primo)
 
 Quando N<sup>i</sup> n˜ao for primo, evidentemente ele conter´a entre seus divisores, pelo menos um n´umero primo n˜ao encontrado anteriormente. Note-se o emprego do infinito potencial nesse tipo de demonstra¸c˜ao.
 
@@ -88,8 +88,8 @@ Abaixo, damos um exemplo de demonstra¸c˜ao desse tipo.
 Exemplo 2. Seja o sistema de equa¸c˜oes lineares abaixo:
 
 $$a_{11}x_1 + a_{12}x_2 + \dots + a_{1n}x_n = b_1$$
-  
- $a_{21}x_1 + a_{22}x_2 + \dots + a_{2n}x_n = b_2$  (I)  
+
+$a_{21}x_1 + a_{22}x_2 + \dots + a_{2n}x_n = b_2$ (I)  
 ...
 
 $$a_{n1}x_1 + a_{n2}x_2 + \dots + a_{nn}x_n = b_n$$

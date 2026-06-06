@@ -14,7 +14,7 @@ Este Folhetim é um veículo de divulgação, circulação de idéias e de estí
 
 Se os Paradoxos de Zenão, citados com bastante freqüência, muitas vezes não vêm acompanhados de uma explicação clara e objetiva, como foi feito no último Folhetim (Folhetim nº 76), menos ainda faz-se o seu aspecto filosófico.
 
-Com essa visão, a coluna *Pergunte que o NEMOC Responde* penetra nesse aspecto, apontando para a questão do infinito, cuja compreensão ainda hoje não é atingida, sobretudo no que diz respeito ao infinito físico.
+Com essa visão, a coluna _Pergunte que o NEMOC Responde_ penetra nesse aspecto, apontando para a questão do infinito, cuja compreensão ainda hoje não é atingida, sobretudo no que diz respeito ao infinito físico.
 
 Além disso, o Folhetim apresenta respostas a duas outras perguntas de caráter mais prático. Na resposta à terceira pergunta, o prof. Carloman nos leva a refletir a questão do livro didático, que fortemente tem influenciado o ensino.
 
@@ -39,7 +39,7 @@ Ao falar em renascimento matemático, o filósofo, matemático e lógico Bertran
 
 ### NEMOC - NÚCLEO DE EDUCAÇÃO MATEMÁTICA OMAR CATUNDA
 
-Folhetim de Educação Matemática, Ano 6, n. 77, abr. 1999 - **Editores:** Carloman e Inácio - **Secretária:** Josenildes Oliveira Venas - **Editoração:** Evandro Vaz e Nivaldo de Assis - **Impressão:** Imprensa Gráfica Universitária - **Periodicidade:** mensal - **Tiragem:** 1.300 exemplares - *Distribuição gratuita* - **Endereço:** Av. Universitária, s/n - km 03 - BR 116 - Campus Universitário - **Telefone:** (075)224-8115 - **Fax:** (075)224-2284 - CEP 44031-460 - Feira de Santana - Ba - BRASIL - **E-mai**l: nemoc@uefs.br
+Folhetim de Educação Matemática, Ano 6, n. 77, abr. 1999 - **Editores:** Carloman e Inácio - **Secretária:** Josenildes Oliveira Venas - **Editoração:** Evandro Vaz e Nivaldo de Assis - **Impressão:** Imprensa Gráfica Universitária - **Periodicidade:** mensal - **Tiragem:** 1.300 exemplares - _Distribuição gratuita_ - **Endereço:** Av. Universitária, s/n - km 03 - BR 116 - Campus Universitário - **Telefone:** (075)224-8115 - **Fax:** (075)224-2284 - CEP 44031-460 - Feira de Santana - Ba - BRASIL - **E-mai**l: nemoc@uefs.br
 
 argumentação zenoniana.
 
@@ -51,25 +51,25 @@ $$\frac{ax+b}{a'x+b'}=r (1)$$
 
 para que ele seja racional, considerando que a, b, a' e b' são números racionais e x é um número irracional?
 
-R. De (1) vem: 
+R. De (1) vem:
 $$ax+b=r(a'x+b')$$
 
 $$\chi$$
- (a - ra')x = rb'- b (2)
+(a - ra')x = rb'- b (2)
 
 O segundo membro de (2) sendo racional, impõe a racionalidade do primeiro membro. Como x é irracional, e (a-ra') é racional, então, necessariamente
 
 $$a - ra' = 0$$
- (3)
+(3)
 
-pois, se a - ra'  $\neq 0$  e racional, x(a - ra') seria um número irracional ( um número irracional, no caso x, multiplicado por um número racional diferente de zero, é igual a um número irracional). De (3), vem:
+pois, se a - ra' $\neq 0$ e racional, x(a - ra') seria um número irracional ( um número irracional, no caso x, multiplicado por um número racional diferente de zero, é igual a um número irracional). De (3), vem:
 
 $$\frac{a}{a'} = r \qquad (4)$$
 
 oque implica:
 
 $$rb' - b = 0$$
- ou  $\frac{b}{b'} = r (5);$ 
+ou $\frac{b}{b'} = r (5);$
 
 de (4) e (5), deduzimos:
 
@@ -79,11 +79,11 @@ $$\frac{a}{a'} = \frac{b}{b'}$$
 De uma maneira recíproca, vem:
 
 $$\frac{a}{a'} = \frac{b}{b'} = r$$
- e  $\frac{ax+b}{a'x+b'} = \frac{r(a'x+b')}{a'x+b'} = r$ 
+e $\frac{ax+b}{a'x+b'} = \frac{r(a'x+b')}{a'x+b'} = r$
 
 donde resulta que o número
 
- $\frac{ax+b}{a'x+b'}$  é um número racional se e somente se, os números a e b forem proporcionais aos números a' e b'. Como exemplo, o leitor poderá verificar que  $\frac{3\sqrt{2}+5}{6\sqrt{2}+10}$  é um número racional. Notar que neste caso: a=3; a'=6; b=5; b'=10 e  $x=\sqrt{2}$ . Mesma questão para  $\frac{ax+by}{a'x+b'y}$ , x, y irracionais, a, b, a' e b' racionais.
+$\frac{ax+b}{a'x+b'}$ é um número racional se e somente se, os números a e b forem proporcionais aos números a' e b'. Como exemplo, o leitor poderá verificar que $\frac{3\sqrt{2}+5}{6\sqrt{2}+10}$ é um número racional. Notar que neste caso: a=3; a'=6; b=5; b'=10 e $x=\sqrt{2}$ . Mesma questão para $\frac{ax+by}{a'x+b'y}$ , x, y irracionais, a, b, a' e b' racionais.
 
 3ª Pergunta. Onofre A. L. dos Santos, de Belém do Pará, indaga: como calcular a área de uma elipse por processos elementares?
 
@@ -93,11 +93,11 @@ Consideremos a elipse, conforme figura abaixo sendo AA' = 2a e BB' = 2b.
 
 ![](_page_2_Picture_23.jpeg)
 
-Considerando-a como projeção de um círculo sobre um plano, ao multiplicarmos suas ordenadas por a/b, obteremos o círculo principal e se multiplicarmos as abcissas por b/a obteremos o círculo de diâmetro BB'. Seja a elipse considerada como a projeção sobre seu plano do círculo que se obtém quando é efetuado um giro do círculo principal, em torno de AA', de ângulo  $\alpha$ , definido por  $\cos \alpha = b/a$ . O círculo de diâmetro BB' pode ser considerado como a projeção da elipse obtida após
+Considerando-a como projeção de um círculo sobre um plano, ao multiplicarmos suas ordenadas por a/b, obteremos o círculo principal e se multiplicarmos as abcissas por b/a obteremos o círculo de diâmetro BB'. Seja a elipse considerada como a projeção sobre seu plano do círculo que se obtém quando é efetuado um giro do círculo principal, em torno de AA', de ângulo $\alpha$ , definido por $\cos \alpha = b/a$ . O círculo de diâmetro BB' pode ser considerado como a projeção da elipse obtida após
 
-girar a elipse dada em torno de BB' do mesmo ângulo  $\alpha$ . Ao fazermos N'OP =  $\phi$  vem  $x = a \cos \phi$ ,  $y = b \sin \phi$  (x e y as coordenadas do ponto N da elipse). Um conhecido teorema assegura que a projeção de uma área plana sobre um plano qualquer é igual ao produto da área projetada pelo cosseno do ângulo que o seu plano forma com o plano de projeção; assim, teremos conforme exposição acima:
+girar a elipse dada em torno de BB' do mesmo ângulo $\alpha$ . Ao fazermos N'OP = $\phi$ vem $x = a \cos \phi$ , $y = b \sin \phi$ (x e y as coordenadas do ponto N da elipse). Um conhecido teorema assegura que a projeção de uma área plana sobre um plano qualquer é igual ao produto da área projetada pelo cosseno do ângulo que o seu plano forma com o plano de projeção; assim, teremos conforme exposição acima:
 
-Área da Elipse = Área do círculo .  $\cos \alpha = \pi a^2 \cdot \frac{b}{a} = \pi ab$ .
+Área da Elipse = Área do círculo . $\cos \alpha = \pi a^2 \cdot \frac{b}{a} = \pi ab$ .
 
 Nesta altura, me vem à memória um pequenino livro intitulado Pontos de Álgebra, o qual continha o programa completo da antiga 5ª série ginasial. A transcrição abaixo é desse livrinho: "Equação da Elipse - Uma elipse provém da redução, sempre na mesma proporção, das ordenadas de um círculo".
 
@@ -107,14 +107,14 @@ Este modo de "definir" a elipse há de nos ajudar para o estabelecimento da sua 
 
 $$\frac{EO}{CO} = \frac{NP}{MP}$$
 
-Mas, EO = a, CO = b, MP = y, NP =  $\sqrt{a^2 - x^2}$ , donde, substituindo:
+Mas, EO = a, CO = b, MP = y, NP = $\sqrt{a^2 - x^2}$ , donde, substituindo:
 
 $$\frac{a}{b} = \frac{\sqrt{a^2 + x^2}}{y} \quad \text{ou} \quad \begin{cases} ay = b\sqrt{a^2 + b^2} \\ a^2y^2 = a^2b^2 - b^2x^2 \\ a^2y^2 + b^2x^2 = a^2b^2 \end{cases}$$
 
- $a^2y^2 + b^2x^2 = a^2b^2$  é a equação da elipse. Dividindo por  $a^2b^2$ , tomará nova forma:
+$a^2y^2 + b^2x^2 = a^2b^2$ é a equação da elipse. Dividindo por $a^2b^2$ , tomará nova forma:
 
 $$\frac{y^2}{b^2} + \frac{x^2}{a^2} = 1$$
- ou  $\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1$ 
+ou $\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1$
 
 Deixo a cargo dos leitores a avaliação do transcrito perguntando-lhes: Será que antigamente os livros de matemática eram escritos de maneira mais simples ou de maneira mais obscura do que os atuais? A resposta, necessariamente, não precisa ser enquadrada dentro da lógica bivalente...
 

@@ -50,11 +50,11 @@ língua aramaica foi a língua empregada por Jesus e seus discípulos para manif
 
 # \*\* \*\* \*\*
 
-Obs.: É permitida a reprodução total ou parcial desse *folhetim* desde que citada a fonte.
+Obs.: É permitida a reprodução total ou parcial desse _folhetim_ desde que citada a fonte.
 
 Caso você tenha interesse em receber esta publicação escreva para o NEMOC.
 
-### 
+###
 
 No próximo número, as respostas para:
 

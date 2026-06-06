@@ -59,7 +59,7 @@ No próximo número, as respostas para:
 - Hà diferença entre circunferência e circulo?
 - Qual a razão pela qual a forma circular é considerada perfeita?
 
-**张 张 张 张** 
+**张 张 张 张**
 
 Aguarden!
 

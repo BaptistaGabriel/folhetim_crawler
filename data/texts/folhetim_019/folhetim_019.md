@@ -34,7 +34,7 @@ Dando continuidade às publicações da coluna Pergunte que o NEMOC responde de 
 
 R. Existe um ramo da Matemática denominado de Teoria dos Números, o qual estuda problemas relacionados com os números inteiros; pertence a essa teoria o teorema que diz o seguinte:
 
-Dados dois inteiros quaisquer a e b, com a > 0, existem inteiros q e r tais que b = qa + r, sendo  $0 \le r < a$ .
+Dados dois inteiros quaisquer a e b, com a > 0, existem inteiros q e r tais que b = qa + r, sendo $0 \le r < a$ .
 
 Esta proposição, nós a usamos toda vez que efetuamos uma divisão e, por isso, nos é bastante familiar. Alguns autores a chamam de algoritmo da divisão.
 
@@ -50,7 +50,7 @@ No primeiro caso o resto 2 foi obtido tirando 9 de 11 e no segundo caso, tirando
 
 Que significa noves fora? Quando a gente divide um número maior que 9 por ele, o número contém uma certa quantidade de noves; se esta quantidade fosse exata, o resto, claramente, seria zero e não o sendo, o resto será, no máximo, igual a 8 pois, sendo 9, a divisão pode ser continuada. Exemplificando: quando dizemos 90 noves fora, zero; queremos dizer simplesmente que 90÷9 apresenta como resto 0; quando dizemos 1435 noves fora, 4; queremos afirmar que a divisão deste número por 9 apresenta um resto igual a 4, uma vez que todos os noves contidos em 1435; isto é, os 159 noves contidos neste número (verifique efetuando a divisão!) foram jogados fora.
 
-Agora uma pergunta *inocente*: qual o resto da divisão de 4 por 9? Veja neste caso que 4 (chamado de dividendo) é menor que 9 (chamado de divisor); para responder a esta pergunta, devemos retornar ao teorema mencionado acima e, aplicando-o a este caso, temos: 4 = 0.9 + 4, donde, o resto, de acordo com o teorema, é igual a 4; por isso, também podemos dizer: 4 noves fora 4, generalizando, quando o dividendo é menor que 9, o resto da divisão é igual a ele mesmo; assim, mais uma vez, os restos das divisões de 5, 6, 7, e 8 por 9 são, respectivamente, 5, 6, 7 e 8. Consideremos outro número qualquer, como 4578; como sabemos, o resto dele dividido por 9 é igual a 4+5+7+8=24=2+4=6.
+Agora uma pergunta _inocente_: qual o resto da divisão de 4 por 9? Veja neste caso que 4 (chamado de dividendo) é menor que 9 (chamado de divisor); para responder a esta pergunta, devemos retornar ao teorema mencionado acima e, aplicando-o a este caso, temos: 4 = 0.9 + 4, donde, o resto, de acordo com o teorema, é igual a 4; por isso, também podemos dizer: 4 noves fora 4, generalizando, quando o dividendo é menor que 9, o resto da divisão é igual a ele mesmo; assim, mais uma vez, os restos das divisões de 5, 6, 7, e 8 por 9 são, respectivamente, 5, 6, 7 e 8. Consideremos outro número qualquer, como 4578; como sabemos, o resto dele dividido por 9 é igual a 4+5+7+8=24=2+4=6.
 
 Do exposto até agora é importante destacar que:
 
@@ -88,7 +88,7 @@ Números atrasados - envie para cada folhetim um selo de postagem nacional de 1�
 
 No próximo número, as respostas para:
 
-Se aceitamos a Relatividade o que dizer do ressuscitamento do *infinitésimo*? Que relacionamento há com a idéia filosófica em Matemática do zero? E se fosse possível ir mais longe, que tal incrementar uma trindade com a tão abominada *mônada*? (Os grifos são do leitor).
+Se aceitamos a Relatividade o que dizer do ressuscitamento do _infinitésimo_? Que relacionamento há com a idéia filosófica em Matemática do zero? E se fosse possível ir mais longe, que tal incrementar uma trindade com a tão abominada _mônada_? (Os grifos são do leitor).
 
 Aguardeni
 

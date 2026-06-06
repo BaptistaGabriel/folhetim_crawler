@@ -30,15 +30,15 @@ apresentada por esse ilustre matemático à Academia de Berlim no ano de 1872.
 
 Nesta altura, queremos passar aos nossos leitores uma aproximação entre <u>caos</u> e <u>fractal</u>. Antes da descoberta do caos, era consensual: causas simples sempre produzem efeitos simples e causas complexas produzem sempre efeitos complexos. Hoje, a situação é outra: mesmas causas produzem efeitos simples e podem, também, produzir efeitos complicados. A antiga simetria entre causa e efeito, parece rompida.
 
-O caos está associado com formas fractais chamadas de <u>atratores estranhos</u>. Você ainda se lembra do que seja um atrator? Vale apena repetir, dada a importância desses objetos. Vamos recorrer ao matemático Ian STEWART, esse extraordinário divulgador da matemática. Em seu livrinho *Os Números da Natureza*, editado pela Rocco, escreve, com uma clara pedagogia: "Imagine que você deixa cair uma bola de pingue - pongue sobre um mar tempestuoso. Quer você deixe cair do ar ou a solte embaixo da água, a bola se move em direção à superfície. Uma vez na superfície, ela segue uma trajetória muito complicada sobre as ondas, mas, não importa quão complexa seja essa trajetória, a bola permanece sobre a superfície - ou pelo menos muito perto dela. Nesta imagem, a superfície
+O caos está associado com formas fractais chamadas de <u>atratores estranhos</u>. Você ainda se lembra do que seja um atrator? Vale apena repetir, dada a importância desses objetos. Vamos recorrer ao matemático Ian STEWART, esse extraordinário divulgador da matemática. Em seu livrinho _Os Números da Natureza_, editado pela Rocco, escreve, com uma clara pedagogia: "Imagine que você deixa cair uma bola de pingue - pongue sobre um mar tempestuoso. Quer você deixe cair do ar ou a solte embaixo da água, a bola se move em direção à superfície. Uma vez na superfície, ela segue uma trajetória muito complicada sobre as ondas, mas, não importa quão complexa seja essa trajetória, a bola permanece sobre a superfície - ou pelo menos muito perto dela. Nesta imagem, a superfície
 
 do mar é um atrator. Assim, apesar do caos, não interessa qual tenha sido o ponto inicial, o sistema terminará por permanecer muito próximo de seu atrator".
 
 Uma das aproximações ao conceito de caos é imaginálo, primeiro como um processo e não como um objeto - que é o caso de um fractal. Em seguida, considerá-lo como uma "evolução temporal com dependência hipersensível às condições iniciais".
 
-Os atratores estranhos não são curvas ou superfícies lisas, porém, objetos de dimensão não inteira, isto é, fractais. Segundo o conhecido físico David Ruelle, em *Acaso e Caos*, UNESP: o movimento sobre um atrator estranho apresenta o fenômeno da DHCI. Foi uma surpresa para a comunidade científica a descoberta da geração de fractais pelo comportamento assintótico de sistemas dinâmicos, no espaço de fases correspondente. O que foi dito acima, pode ser dito mais simplesmente: fractais podem ser atratores de sistemas dinâmicos. É no mínimo, admirável que a geometria do caos nos revele a sua associação com formas irregulares denominadas de fractais.
+Os atratores estranhos não são curvas ou superfícies lisas, porém, objetos de dimensão não inteira, isto é, fractais. Segundo o conhecido físico David Ruelle, em _Acaso e Caos_, UNESP: o movimento sobre um atrator estranho apresenta o fenômeno da DHCI. Foi uma surpresa para a comunidade científica a descoberta da geração de fractais pelo comportamento assintótico de sistemas dinâmicos, no espaço de fases correspondente. O que foi dito acima, pode ser dito mais simplesmente: fractais podem ser atratores de sistemas dinâmicos. É no mínimo, admirável que a geometria do caos nos revele a sua associação com formas irregulares denominadas de fractais.
 
-O estudo do caos vem apresentando facetas admiráveis. Por exemplo, já podemos falar sobre as "leis do caos", construção, aparentemente paradoxal. Para um entendimento mais profundo, aconselhamos a leitura do belo livro: *As Leis do Caos*, escrito pelo Nobel Ilya Prigogine, UNESP.
+O estudo do caos vem apresentando facetas admiráveis. Por exemplo, já podemos falar sobre as "leis do caos", construção, aparentemente paradoxal. Para um entendimento mais profundo, aconselhamos a leitura do belo livro: _As Leis do Caos_, escrito pelo Nobel Ilya Prigogine, UNESP.
 
 # NEMOC - NÚCLEO DE EDUCAÇÃO MATEMÁTICA OMAR CATUNDA
 
@@ -50,7 +50,7 @@ Um simples examedas leis de Newton, das equações de Hamilton, das equações d
 
 pela Biologia.
 
-De equações determinísticas como as equações da mecânica de Newton podem surgir o caos; isso é dito pelo já citado físico contemporâneo David Ruelle, na sua admirável obra de divulgação científica *Acaso e Caos*. Que diz David Ruelle? Numa simples frase, ele sintetiza a relação entre o caos e o determinismo quando escreve: "Nos fenômenos caóticos, a ordem determinista cria, portanto, a desordem do acaso".
+De equações determinísticas como as equações da mecânica de Newton podem surgir o caos; isso é dito pelo já citado físico contemporâneo David Ruelle, na sua admirável obra de divulgação científica _Acaso e Caos_. Que diz David Ruelle? Numa simples frase, ele sintetiza a relação entre o caos e o determinismo quando escreve: "Nos fenômenos caóticos, a ordem determinista cria, portanto, a desordem do acaso".
 
 Essa nova geometria, a Geometria dos Fractais, está ligada - por um lado a uma ordem que se repete, a <u>autosimilaridade</u> - e por outro lado às formas irregulares, como a parte costeira de um país, produto de inúmeros fatores (a erosão, o contato com as ondas do mar, etc.) fatores constituintes de um sistema caótico. Tomemos uma parte de um Conjunto de Mandelbrot.
 
@@ -62,7 +62,7 @@ $$z \rightarrow z^2 + c$$
 
 aqui z é substituido por um número complexo e c é outro
 
-complexo, porém, <u>fixo</u>. O número  $z^2 + c$  pode ser representado no plano Argand-Gauss. Assim, se c for dado por 1,54 - 1,37i, o mapeamento de z seria dado por:
+complexo, porém, <u>fixo</u>. O número $z^2 + c$ pode ser representado no plano Argand-Gauss. Assim, se c for dado por 1,54 - 1,37i, o mapeamento de z seria dado por:
 
 $$z \rightarrow z^2 + 1,54 - 1,37i$$
 .
@@ -70,7 +70,7 @@ $$z \rightarrow z^2 + 1,54 - 1,37i$$
 Logo pontualmente, para o número 4, teríamos:
 
 $$4^2+1,54-1,37i=16+1,54-1,37i=17,54-1,37i$$
- e, assim, sucessivamente. Ao aplicarmos a transformação a  $c^2+c$ , teremos  $(c^2+c)^2+c=c^4+2c^3+c^2+c$ . Ao continuarmos com tais iterações formaremos uma sequência modulada pelas diversas escolhas de  $c$ : todo membro da sequência se encontra dentro de um círculo fixo, com centro na origem, no plano de Argand-Gauss:
+e, assim, sucessivamente. Ao aplicarmos a transformação a $c^2+c$ , teremos $(c^2+c)^2+c=c^4+2c^3+c^2+c$ . Ao continuarmos com tais iterações formaremos uma sequência modulada pelas diversas escolhas de $c$ : todo membro da sequência se encontra dentro de um círculo fixo, com centro na origem, no plano de Argand-Gauss:
 
 ![](_page_3_Picture_5.jpeg)
 

@@ -45,7 +45,7 @@ Mais um exemplo: se você possui uma dúzia de lenços (n, aqui, éigual a 12) e
 - 3ª Pergunta. José M. de Souza Guimarães, de Salvador, indaga: Qual a explicação de a Matemática ser considerada a Rainha das Ciências?
 - R. Achei a sua pergunta bastante curiosa, José. Não são poucas as pessoas que endossam a sua assertiva.
 
-Existem, porém, outros indivíduos que não concordam com o colega; entre esses, eu me incluo. Acredito ser a Matemática uma ciência entre muitas outras, e, por conseguinte, nego-lhe o *status* aristocrático. Ela possui seu próprio *objeto* - isto é, aquilo que ela estuda - e sua própria *metodologia* - isto é, a maneira como ela trata seu objeto de estudo. Mesmo em relação a este ela não tem uma compreensão completa pois, compreender tudo, quem há de? E aqui, o convido a refletir nos belos versos do poeta Tennyson:
+Existem, porém, outros indivíduos que não concordam com o colega; entre esses, eu me incluo. Acredito ser a Matemática uma ciência entre muitas outras, e, por conseguinte, nego-lhe o _status_ aristocrático. Ela possui seu próprio _objeto_ - isto é, aquilo que ela estuda - e sua própria _metodologia_ - isto é, a maneira como ela trata seu objeto de estudo. Mesmo em relação a este ela não tem uma compreensão completa pois, compreender tudo, quem há de? E aqui, o convido a refletir nos belos versos do poeta Tennyson:
 
 Ó flor das fendas da parede, Te arranco das fendas, Te sustenho aqui, raiz e tudo, em minha mão, Pequena flor - mas se eu pudesse compreender O que tu és, raiz e tudo, tudo por tudo, Eu saberia o que é Deus e o que é o Homem.
 
@@ -57,7 +57,7 @@ Caso você tenha interesse em receber esta publicação escreva para o NEMOC.
 
 Números atrasados - envie para cada folhetim um selo de postagem nacional de 1º porte. Dentro de no máximo quatro semanas, contadas a partir da data de recebimento do seu pedido, você estará recebendo os folhetins solicitados.
 
-Devido a problemas de ordem técnica na editoração do *Folhetim*, estamos enviando-o com demasiado atraso. Esperamos contar com a compreensão de vocês.
+Devido a problemas de ordem técnica na editoração do _Folhetim_, estamos enviando-o com demasiado atraso. Esperamos contar com a compreensão de vocês.
 
 ## No próximo número, as respostas para:
 
