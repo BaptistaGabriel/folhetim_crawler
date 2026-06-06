@@ -53,7 +53,5 @@ Prof. Wilson Pereira de Jesus - Coordenador Panajotes Francisco de Lima - repres
 
 Edição de uma coluna (aos domingos) num periódico local - Feira Hoje - acerca de questões ligadas aos aspectos filosóficos, históricos e metodológicos da matemática, assinada pelo professor Carloman Carlos Borges.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
 - \* Grupo de Estudos (de) Fundamentos da Matemática Elementar (às quintas-feiras das 14:00 às 17:00 h., no -MT-61);
 - \*Curso de Aperfeiçoamento para Professores de Matemática (1ª a 4ª séries do 1º grau) - Santo Estêvão - Bahia Convênio PREFEITURA MUNICIPAL DE SANTO ESTÊVÃO/UEFS-NEMOC/SPEC, em fase de implantação. Com os professores Wilson Pereira de Jesus e Expedito Araújo Azevedo, diretamente envolvidos.
