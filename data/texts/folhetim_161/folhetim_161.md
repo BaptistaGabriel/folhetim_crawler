@@ -1,22 +1,22 @@
 ![](_page_0_Picture_1.jpeg)
 
-Folhetim Educ. Mat., Feira de Santana, Ano 17, N´umero 161, jul./ago., 2011 ISSN 1415-8779
+Folhetim Educ. Mat., Feira de Santana, Ano 17, Número 161, jul./ago., 2011 ISSN 1415-8779
 
-Este Folhetim ´e um ve´ıculo de divulga¸c˜ao, circula¸c˜ao de ideias e de est´ımulo ao estudo e `a curiosidade intelectual. Dirige-se a todos os interessados pelos aspectos pedag´ogicos, filos´oficos e hist´oricos da Matem´atica. Pretende construir uma ponte para unir os que est˜ao pr´oximos e os que est˜ao distantes.
+Este Folhetim é um veículo de divulgação, circulação de ideias e de estímulo ao estudo e à curiosidade intelectual. Dirige-se a todos os interessados pelos aspectos pedagógicos, filosóficos e históricos da Matemática. Pretende construir uma ponte para unir os que estão próximos e os que estão distantes.
 
-Dando continuidade `a transcri¸c˜ao das notas intituladas "A Matem´atica: suas origens, seu objeto e seus m´etodos - Parte I", de autoria do professor Carloman, neste n´umero, veremos mais considera¸c˜oes sobre a fal´acia. Outro assunto abordado ´e o m´etodo de exaust˜ao que encerra a se¸c˜ao sobre a L´ogica Cl´assica. No problema da quadratura do c´ırculo, apenas r´egua (sem escalas) e compasso s˜ao permitidos nas constru¸c˜oes geom´etricas. A r´egua ´e usada somente para tra¸car segmentos que passam por dois pontos distintos dados t˜ao longos quanto se queira. O compasso ´e usado apenas para tra¸car circunferˆencias de centro num ponto dado e que passam por um segundo ponto qualquer dado.
+Dando continuidade à transcrição das notas intituladas "A Matemática: suas origens, seu objeto e seus métodos - Parte I", de autoria do professor Carloman, neste número, veremos mais considerações sobre a falácia. Outro assunto abordado é o método de exaustão que encerra a seção sobre a Lógica Clássica. No problema da quadratura do círculo, apenas régua (sem escalas) e compasso são permitidos nas construções geométricas. A régua é usada somente para traçar segmentos que passam por dois pontos distintos dados tão longos quanto se queira. O compasso é usado apenas para traçar circunferências de centro num ponto dado e que passam por um segundo ponto qualquer dado.
 
-Em seguida, nosso mestre trata de um t´opico j´a falado anteriormente e agora abordado de forma mais espec´ıfica: a axiom´atica. Nesta edi¸c˜ao do Folhetim, veremos trˆes exemplos: a Axiom´atica de Peano; a Axiom´atica da Geometria Plana de Euclides e a Axiom´atica da Est´atica.
+Em seguida, nosso mestre trata de um tópico já falado anteriormente e agora abordado de forma mais específica: a axiomática. Nesta edição do Folhetim, veremos três exemplos: a Axiomática de Peano; a Axiomática da Geometria Plana de Euclides e a Axiomática da Estática.
 
-Carloman Carlos Borges (UEFS) - in memoriam In´acio de Sousa Fadigas (UEFS) Marcos Grilo Rosa (UEFS) Traz´ıbulo Henrique (UEFS)
+Carloman Carlos Borges (UEFS) - in memoriam Inácio de Sousa Fadigas (UEFS) Marcos Grilo Rosa (UEFS) Trazíbulo Henrique (UEFS)
 
-A Matem´atica: suas origens, seu objeto e seus m´etodos (continua¸c˜ao)
+A Matemática: suas origens, seu objeto e seus métodos (continuação)
 
 Carloman Carlos Borges
 
-# 2.1 L´ogica (continua¸c˜ao)
+# 2.1 Lógica (continuação)
 
-Analisemos a fal´acia abaixo: seja a s´erie:
+Analisemos a falácia abaixo: seja a série:
 
 $$1-1+1-1+1-1+1-1+\dots$$
 (a)
@@ -31,120 +31,120 @@ Reagrupando de outra forma:
 $$1 - (1 - 1) - (1 - 1) - (1 - 1) - (1 - 1) - \dots$$
 (c)
 
-Em (b) temos a "soma" de parˆenteses iguais a zero, pelo que a sua "soma" ´e igual a zero e, em (c), pela mesma raz˜ao, temos a "soma" igual a 1; como (b) e (c) representam a mesma s´erie original (a), chegamos `a conclus˜ao falsa:
+Em (b) temos a " soma" de parênteses iguais a zero, pelo que a sua " soma" é igual a zero e, em (c), pela mesma razão, temos a " soma" igual a 1; como (b) e (c) representam a mesma série original (a), chegamos à conclusão falsa:
 
 $$0 = 1$$
 
-Conta a hist´oria que matem´aticos como Leibniz e alguns dos Bernoulli ficaram surpresos com este resultado e que alguns, como Guido Grande (nasceu em Cremona, em 1671 e morreu em Pisa, em 1742; suas obras principais: Quadratura Circuli et Hiperboe e De Infinitis Infinitorum) acreditava ser este paradoxo a demonstra¸c˜ao de que do nada se pode criar qualquer coisa desde que exista uma for¸ca infinita.
+Conta a história que matemáticos como Leibniz e alguns dos Bernoulli ficaram surpresos com este resultado e que alguns, como Guido Grande (nasceu em Cremona, em 1671 e morreu em Pisa, em 1742; suas obras principais: Quadratura Circuli et Hiperboe e De Infinitis Infinitorum) acreditava ser este paradoxo a demonstração de que do nada se pode criar qualquer coisa desde que exista uma força infinita.
 
-A fal´acia mencionada mostra apenas que a passagem do finito para o infinito implica certas mudan¸cas no comportamento mental do homem; a "in´ercia mental" o leva, muitas vezes, a encarar situa¸c˜oes novas como a continua¸c˜ao natural daquelas velhas nas quais se encontra mergulhado. Podendo efetuar somas finitas, colocando-as em qualquer ordem, n˜ao viu que a extens˜ao desse princ´ıpio para "somas infinitas" teria de ser cercada de certas restri¸c˜oes; no caso, tal extens˜ao s´o ´e v´alida para s´eries absolutamente convergentes.
+A falácia mencionada mostra apenas que a passagem do finito para o infinito implica certas mudanças no comportamento mental do homem; a " inércia mental" o leva, muitas vezes, a encarar situações novas como a continuação natural daquelas velhas nas quais se encontra mergulhado. Podendo efetuar somas finitas, colocando-as em qualquer ordem, não viu que a extensão desse princípio para " somas infinitas" teria de ser cercada de certas restrições; no caso, tal extensão só é válida para séries absolutamente convergentes.
 
-Situa¸c˜ao semelhante observamos no comportamento dos primeiros geˆometras que viveram no s´eculo V a.C. Eles observaram que, dado um c´ırculo C de raio r, a ´area de C poderia ser aproximada pelas ´areas dos pol´ıgonos regulares Pn, inscritos em C, e P 0 n , circunscritos a C. Esta aproxima¸c˜ao dependia de n, o n´umero de lados do pol´ıgono. Este m´etodo, empregado tamb´em por Arquimedes (287 a. C.), era chamado "m´etodo de exaust˜ao" e, cont´em, obviamente, os germens do C´alculo Integral, descoberta feita simultaneamente por Leibniz e Newton s´o no s´eculo XVII. No caso em apre¸co, temos um processo-limite e a ´area do c´ırculo, que pode ser obtida na passagem do limite n˜ao deve ser confundida com a ´area de um quadrado, pois nem toda propriedade ´e conservada nessa passagem. Desta inobservˆancia nasceu o famoso problema da "quadratura do c´ırculo", o qual consiste no seguinte: dado um c´ırculo de raio r, construir um quadrado de ´area igual `a ´area deste c´ırculo. Considerando o raio do c´ırculo unit´ario, este quadrado dever´a ter como lado um segmento de comprimento igual a raiz quadrada de π. A constru¸c˜ao de um segmento com esse comprimento ´e poss´ıvel se e somente se o n´umero π estiver contido em um corpo que possa ser deduzido do corpo dos n´umeros racionais. Em resumo, o n´umero π tem de ser solu¸c˜ao de alguma equa¸c˜ao alg´ebrica de coeficientes inteiros, isto ´e, tem de ser um n´umero alg´ebrico; por´em, os matem´aticos Charles Hermite (1822-1905) e Ferdinand Lindermann (1852-1939) demonstraram que este n´umero n˜ao ´e alg´ebrico, ou seja, ´e um n´umero transcendente, ficando, assim, resolvido negativamente, o problema da "quadratura do c´ırculo".
+Situação semelhante observamos no comportamento dos primeiros geômetras que viveram no século V a.C. Eles observaram que, dado um círculo C de raio r, a área de C poderia ser aproximada pelas áreas dos polígonos regulares Pn, inscritos em C, e P 0 n , circunscritos a C. Esta aproximação dependia de n, o número de lados do polígono. Este método, empregado também por Arquimedes (287 a. C.), era chamado " método de exaustão" e, contém, obviamente, os germens do Cálculo Integral, descoberta feita simultaneamente por Leibniz e Newton só no século XVII. No caso em apreço, temos um processo-limite e a área do círculo, que pode ser obtida na passagem do limite não deve ser confundida com a área de um quadrado, pois nem toda propriedade é conservada nessa passagem. Desta inobservância nasceu o famoso problema da " quadratura do círculo", o qual consiste no seguinte: dado um círculo de raio r, construir um quadrado de área igual à área deste círculo. Considerando o raio do círculo unitário, este quadrado deverá ter como lado um segmento de comprimento igual a raiz quadrada de π. A construção de um segmento com esse comprimento é possível se e somente se o número π estiver contido em um corpo que possa ser deduzido do corpo dos números racionais. Em resumo, o número π tem de ser solução de alguma equação algébrica de coeficientes inteiros, isto é, tem de ser um número algébrico; porém, os matemáticos Charles Hermite (1822-1905) e Ferdinand Lindermann (1852-1939) demonstraram que este número não é algébrico, ou seja, é um número transcendente, ficando, assim, resolvido negativamente, o problema da " quadratura do círculo".
 
-Aqui vale a pena citar Bento de Jesus Cara¸ca, Conceitos Fundamentais da Matem´atica: "esta suposi¸c˜ao de que toda a propriedade se conserva numa passagem ao limite era t˜ao natural, estava t˜ao arreigada no esp´ırito dos matem´aticos, que ainda no final do s´ec. XVIII encontramos numa obra de Simon L'Huilier, Exposition ´el´ementaire des principes des calculs sup´erieurs esta passagem:
+Aqui vale a pena citar Bento de Jesus Caraça, Conceitos Fundamentais da Matemática: " esta suposição de que toda a propriedade se conserva numa passagem ao limite era tão natural, estava tão arreigada no espírito dos matemáticos, que ainda no final do séc. XVIII encontramos numa obra de Simon L'Huilier, Exposition élémentaire des principes des calculs supérieurs esta passagem:
 
-Se uma quantidade vari´avel, suscept´ıvel de limite, goza constantemente duma certa propriedade, o seu limite goza constantemente da mesma propriedade."
+Se uma quantidade variável, susceptível de limite, goza constantemente duma certa propriedade, o seu limite goza constantemente da mesma propriedade."
 
-E continua Bento de Jesus Cara¸ca: "E nota que n˜ao se trata de um qualquer. L'Huilier ganhou com essa obra um concurso aberto pela Academia de Berlim em 1784 para se obter 'uma teoria clara e precisa daquilo que se chama infinito em Matem´atica'."
+E continua Bento de Jesus Caraça: " E nota que não se trata de um qualquer. L'Huilier ganhou com essa obra um concurso aberto pela Academia de Berlim em 1784 para se obter 'uma teoria clara e precisa daquilo que se chama infinito em Matemática'."
 
-### 2.2 Axiom´atica
+### 2.2 Axiomática
 
-Nas p´aginas (Folhetins) anteriores falamos algo sobre a axiom´atica. O desenvolvimento de uma determinada teoria T ´e axiom´atico quando parte de um conjunto formado de termos primitivos, axiomas e postulados e algumas defini¸c˜oes. Os demais enunciados, isto ´e, aqueles n˜ao pertencentes ao conjunto acima citado, s´o podem ser aceitos na teoria T, se forem provados. Aos enunciados provados, d´ase o nome de teoremas. Vejamos algumas axiom´aticas:
+Nas páginas (Folhetins) anteriores falamos algo sobre a axiomática. O desenvolvimento de uma determinada teoria T é axiomático quando parte de um conjunto formado de termos primitivos, axiomas e postulados e algumas definições. Os demais enunciados, isto é, aqueles não pertencentes ao conjunto acima citado, só podem ser aceitos na teoria T, se forem provados. Aos enunciados provados, dáse o nome de teoremas. Vejamos algumas axiomáticas:
 
-### i) Axiom´atica de Peano
+### i) Axiomática de Peano
 
-Giuseppe Peano (1858 − 1932), matem´atico e l´ogico italiano, considerou como termos primitivos os seguintes: 1 (um); um conjunto N, cujos elementos s˜ao chamados n´umeros naturais; sucessor.
+Giuseppe Peano (1858 − 1932), matemático e lógico italiano, considerou como termos primitivos os seguintes: 1 (um); um conjunto N, cujos elementos são chamados números naturais; sucessor.
 
-Os cinco axiomas s˜ao:
+Os cinco axiomas são:
 
-- a) 1 ´e um n´umero.
-- b) O sucessor de qualquer n´umero ´e um n´umero.
-- c) N˜ao h´a dois n´umeros com um mesmo sucessor.
-- d) 1 n˜ao ´e sucessor de nenhum n´umero.
-- e) Se X ⊂ N ´e um subconjunto tal que 1 ∈ X e, para todo n ∈ X tem-se tamb´em s(n) ∈ X, ent˜ao X = N. (Este ´e o Princ´ıpio da Indu¸c˜ao Completa).
+- a) 1 é um número.
+- b) O sucessor de qualquer número é um número.
+- c) Não há dois números com um mesmo sucessor.
+- d) 1 não é sucessor de nenhum número.
+- e) Se X ⊂ N é um subconjunto tal que 1 ∈ X e, para todo n ∈ X tem-se também s(n) ∈ X, então X = N. (Este é o Princípio da Indução Completa).
 
-O n´umero s(n) ´e chamado sucessor de n, no seguinte sentido: s(2) = 3, s(1) = 2, etc. Vˆe-se, assim, que se poderia considerar uma fun¸c˜ao s : N → N, injetora, isto ´e, dados m, n ∈ N, s(m) = s(n) ⇒ m = n.
+O número s(n) é chamado sucessor de n, no seguinte sentido: s(2) = 3, s(1) = 2, etc. Vê-se, assim, que se poderia considerar uma função s : N → N, injetora, isto é, dados m, n ∈ N, s(m) = s(n) ⇒ m = n.
 
-A axiom´atica de Peano, embora bastante simples, permite o desenvolvimento de toda a teoria dos N´umeros Naturais.
+A axiomática de Peano, embora bastante simples, permite o desenvolvimento de toda a teoria dos Números Naturais.
 
 ## NEMOC - NUCLEO DE EDUCAC¸ ´ AO MATEM ˜ ATICA OMAR CATUNDA ´
 
-Folhetim Educ. Mat., Feira de Santana, Ano 17, N´umero 161, jul./ago. 2011 - Editores: In´acio, Grilo e Traz´ıbulo - Digita¸c˜ao: Josenildes Oliveira Venas Almeida e Manoel Aquino dos Santos - Editora¸c˜ao: Evandro Vaz e Nivaldo Assis - Impress˜ao: Imprensa Gr´afica Universit´aria - Periodicidade: bimestral - Tiragem: 1.500 exemplares - Distribui¸c˜ao gratuita - Endere¸co: Avenida Transnordestina s/n, M´odulo Prof. Carloman Carlos Borges, bairro Novo Horizonte, Feira de Santana, BA, Brasil. CEP 44.036-900. - Telefone: (75)3161-8115 - Fax: (75)3161-8086 - E-mail: nemoc@uefs.br - Home-Page: www.uefs.br/nemoc
+Folhetim Educ. Mat., Feira de Santana, Ano 17, Número 161, jul./ago. 2011 - Editores: Inácio, Grilo e Trazíbulo - Digitação: Josenildes Oliveira Venas Almeida e Manoel Aquino dos Santos - Editoração: Evandro Vaz e Nivaldo Assis - Impressão: Imprensa Gráfica Universitária - Periodicidade: bimestral - Tiragem: 1.500 exemplares - Distribuição gratuita - Endereço: Avenida Transnordestina s/n, Módulo Prof. Carloman Carlos Borges, bairro Novo Horizonte, Feira de Santana, BA, Brasil. CEP 44.036-900. - Telefone: (75)3161-8115 - Fax: (75)3161-8086 - E-mail: nemoc@uefs.br - Home-Page: www.uefs.br/nemoc
 
-### ii) Axiom´atica da Geometria Plana de Euclides
+### ii) Axiomática da Geometria Plana de Euclides
 
-Conceitos primitivos: ponto, linha reta, movimento (transforma¸c˜ao de todo o plano). As seguintes no¸c˜oes tamb´em n˜ao ser˜ao definidas: o ponto a est´a sobre a reta A; o ponto b se encontra entre os pontos a e c; um movimento (de todo o plano) transforma o ponto a no ponto b, no sentido de que leva o ponto a sobre o ponto b.
+Conceitos primitivos: ponto, linha reta, movimento (transformação de todo o plano). As seguintes noções também não serão definidas: o ponto a está sobre a reta A; o ponto b se encontra entre os pontos a e c; um movimento (de todo o plano) transforma o ponto a no ponto b, no sentido de que leva o ponto a sobre o ponto b.
 
 Temos cinco grupos de axiomas:
 
-### I. Axiomas de Incidˆencia
+### I. Axiomas de Incidência
 
 - 1. Dados dois pontos, por eles passa somente uma linha reta.
-  - 2. Uma linha reta cont´em, ao menos, dois pontos.
-- 3. Existem, ao menos, trˆes pontos que n˜ao se encontram sobre uma reta.
+  - 2. Uma linha reta contém, ao menos, dois pontos.
+- 3. Existem, ao menos, três pontos que não se encontram sobre uma reta.
 
 ## II. Axiomas de Ordem
 
-- 1. De cada trˆes pontos que se encontram sobre uma linha reta, existe um que se encontra entre os outros os dois.
-- 2. Se a e b s˜ao dois pontos de uma linha reta, existe ao menos um ponto c sobre a reta tal que b se encontra entre a e c.
+- 1. De cada três pontos que se encontram sobre uma linha reta, existe um que se encontra entre os outros os dois.
+- 2. Se a e b são dois pontos de uma linha reta, existe ao menos um ponto c sobre a reta tal que b se encontra entre a e c.
 - 3. Uma linha reta divide o plano em dois semiplanos.
 
 ## III. Axiomas de Movimento
 
 - 1. Um movimento transforma retas em retas.
-- 2. Dois movimentos efetuados sucessivamente s˜ao equivalentes a um s´o movimento.
-- 3. Sejam a e a <sup>0</sup> dois pontos, A e A<sup>0</sup> duas semi-retas que se originam deles e α e α <sup>0</sup> dois semiplanos limitados pelas retas prolonga¸c˜ao de A e A<sup>0</sup> ; existe, ent˜ao um ´unico movimento que leva a sobre a 0 , A sobre A<sup>0</sup> e α sobre α 0 .
+- 2. Dois movimentos efetuados sucessivamente são equivalentes a um só movimento.
+- 3. Sejam a e a <sup>0</sup> dois pontos, A e A<sup>0</sup> duas semi-retas que se originam deles e α e α <sup>0</sup> dois semiplanos limitados pelas retas prolongação de A e A<sup>0</sup> ; existe, então um único movimento que leva a sobre a 0 , A sobre A<sup>0</sup> e α sobre α 0 .
 
 ### IV. Axiomas de Continuidade
 
-1. Sejam a1, a2, a3, ..., pontos situados em uma linha reta de modo que cada um deles est´a `a direita do precedente e todos eles `a esquerda de um ponto b situado tamb´em sobre a reta. Existe ent˜ao um ponto c `a direita de todos os pontos a1, a2, a3, ..., situado tamb´em na reta e tal que ao menos um ponto a<sup>n</sup> est´a arbritariamente perto dele (ou seja, qualquer que seja o ponto d `a esquerda de c, existe um ponto a<sup>n</sup> sobre o segmento dc).
+1. Sejam a1, a2, a3, ..., pontos situados em uma linha reta de modo que cada um deles está à direita do precedente e todos eles à esquerda de um ponto b situado também sobre a reta. Existe então um ponto c à direita de todos os pontos a1, a2, a3, ..., situado também na reta e tal que ao menos um ponto a<sup>n</sup> está arbritariamente perto dele (ou seja, qualquer que seja o ponto d à esquerda de c, existe um ponto a<sup>n</sup> sobre o segmento dc).
 
 ### V. Axioma de Paralelismo
 
-1. Por um ponto que n˜ao esteja sobre uma reta dada se pode tra¸car uma reta que n˜ao a corte.
+1. Por um ponto que não esteja sobre uma reta dada se pode traçar uma reta que não a corte.
 
-Sendo uma axiom´atica cria¸c˜ao da raz˜ao humana, surge a pergunta: Esta cria¸c˜ao ´e arbitr´aria? Ela deve obedecer a alguns princ´ıpios? Caso afirmativo, quais s˜ao esses princ´ıpios? Qual a rela¸c˜ao entre os axiomas e a experiˆencia di´aria? Pode o homem, partindo de uma mesma situa¸c˜ao experimental criar axiom´aticas diferentes?
+Sendo uma axiomática criação da razão humana, surge a pergunta: Esta criação é arbitrária? Ela deve obedecer a alguns princípios? Caso afirmativo, quais são esses princípios? Qual a relação entre os axiomas e a experiência diária? Pode o homem, partindo de uma mesma situação experimental criar axiomáticas diferentes?
 
-Falemos, inicialmente, sobre a t˜ao propalada arbitrariedade dos axiomas. A esta quest˜ao liga-se outra, qual seja, a referente `as enormes aplica¸c˜oes da Matem´atica, apesar da enorme abstra¸c˜ao de seus conceitos. Evidentemente, um sistema de axiomas do qual fosse poss´ıvel deduzir dois teoremas contradit´orios entre si, este sistema poderia constituir-se na "infraestrutura" de uma ciˆencia, cujo objetivo principal ´e iluminar a realidade atrav´es de suas verdades? Como, ent˜ao, a Matem´atica poderia servir de linguagem para outras ciˆencias? A F´ısica Moderna, por exemplo, sobreviveria, tendo como linguagem subjacente uma linguagem contradit´oria? Ainda voltaremos a falar sobre a arbitrariedade dos axiomas.
+Falemos, inicialmente, sobre a tão propalada arbitrariedade dos axiomas. A esta questão liga-se outra, qual seja, a referente às enormes aplicações da Matemática, apesar da enorme abstração de seus conceitos. Evidentemente, um sistema de axiomas do qual fosse possível deduzir dois teoremas contraditórios entre si, este sistema poderia constituir-se na " infraestrutura" de uma ciência, cujo objetivo principal é iluminar a realidade através de suas verdades? Como, então, a Matemática poderia servir de linguagem para outras ciências? A Física Moderna, por exemplo, sobreviveria, tendo como linguagem subjacente uma linguagem contraditória? Ainda voltaremos a falar sobre a arbitrariedade dos axiomas.
 
-No problema das rela¸c˜oes entre a experiˆencia di´aria do homem e a constru¸c˜ao de axiom´aticas surgem diversas outras quest˜oes; uma delas, por exemplo, diz respeito `a intui¸c˜ao racional ou intelectual, a qual, segundo os filos´ofos se apresenta em dois tipos distintos: intui¸c˜ao material e intui¸c˜ao formal. A primeira servindo para nos colocar diretamente em contato com as "coisas intuidas" e esta ´ultima servindo para explicar o porquˆe de n´os intuirmos rela¸c˜oes e propriedades entre diversas entidades. Consideremos, para exemplificar, o conjunto vazio: dele podemos ter uma intui¸c˜ao material ou formal? Como este conceito nasceu e o porquˆe de seu nascimento? Alguns pensadores acham imposs´ıvel uma intui¸c˜ao material desse conceito, bem como de qualquer outra entidade abstrata. Do nosso ponto de vista, embora seja dif´ıcil, realmente, explicar o conjunto vazio atrav´es da intui¸c˜ao material, ser´a f´acil justific´a-lo o porquˆe de sua cria¸c˜ao; para isto, basta considerar as diversas opera¸c˜oes entre os conjuntos, tais como intersec¸c˜ao, reuni˜ao, etc.; ora, a fim de que essas opera¸c˜oes se operacionalizem sem exce¸c˜oes, ´e indispens´avel a existˆencia de um conjunto com as propriedades do conjunto vazio; fato inteiramente an´alogo ocorre com o zero: o processo da contagem - sempre se inicia a partir de "algo" diferente de nada e, aqui, igualmente com o que acontece com o conjunto vazio, ´e bem dif´ıcil uma intui¸c˜ao material; por´em, tudo fica mais claro quando se tenta operacionalizar os n´umeros atrav´es de suas rela¸c˜oes rec´ıprocas: a presen¸ca do zero ´e indispens´avel para que as opera¸c˜oes com os n´umeros se processem sem exce¸c˜oes maiores.
+No problema das relações entre a experiência diária do homem e a construção de axiomáticas surgem diversas outras questões; uma delas, por exemplo, diz respeito à intuição racional ou intelectual, a qual, segundo os filosófos se apresenta em dois tipos distintos: intuição material e intuição formal. A primeira servindo para nos colocar diretamente em contato com as " coisas intuidas" e esta última servindo para explicar o porquê de nós intuirmos relações e propriedades entre diversas entidades. Consideremos, para exemplificar, o conjunto vazio: dele podemos ter uma intuição material ou formal? Como este conceito nasceu e o porquê de seu nascimento? Alguns pensadores acham impossível uma intuição material desse conceito, bem como de qualquer outra entidade abstrata. Do nosso ponto de vista, embora seja difícil, realmente, explicar o conjunto vazio através da intuição material, será fácil justificá-lo o porquê de sua criação; para isto, basta considerar as diversas operações entre os conjuntos, tais como intersecção, reunião, etc.; ora, a fim de que essas operações se operacionalizem sem exceções, é indispensável a existência de um conjunto com as propriedades do conjunto vazio; fato inteiramente análogo ocorre com o zero: o processo da contagem - sempre se inicia a partir de " algo" diferente de nada e, aqui, igualmente com o que acontece com o conjunto vazio, é bem difícil uma intuição material; porém, tudo fica mais claro quando se tenta operacionalizar os números através de suas relações recíprocas: a presença do zero é indispensável para que as operações com os números se processem sem exceções maiores.
 
-Ainda de acordo com o nosso ponto de vista, sujeito, naturalmente, a outros aprofundamentos, acreditamos que a experiˆencia di´aria do homem exerce poderosa influˆencia sobre a cria¸c˜ao de qualquer axiom´atica, quer diretamente, como acontece na Mecˆanica, quer indiretamente, como se verifica nas chamadas ciˆencias formais. Uma an´alise da axiom´atica da geometria plana, dada acima, parece confirmar nossa opini˜ao, embora, a substitui¸c˜ao do V Axioma do Paralelismo de Euclides pelo axioma criado por Lobachevski n˜ao se ajuste, `a primeira vista, ao nosso ponto de vista. Um exame mais detalhado, por´em, dessa quest˜ao confirma a nossa tese: na elabora¸c˜ao de qualquer axiom´atica - que deve servir de suporte ao desenvolvimento de uma determinada ciˆencia - a experiˆencia di´aria do homem exerce poderosa influˆencia, pelo simples fato de que ´e imposs´ıvel, ao homem, alienar-se completamente dessa experiˆencia, sob pena de colocar em risco a sua pr´opria sobrevivˆencia. Toda e qualquer cria¸c˜ao cient´ıfica ´e imposs´ıvel, naturalmente, fora das leis l´ogicas tradicionais; ora, h´a uma rela¸c˜ao bem profunda entre estas e a Geometria Euclidiana e, como sabemos, nesta, o fator principal para a sua cria¸c˜ao foi a experiˆencia di´aria do homem com os objetivos do seu contorno. Por outro lado, pode-se mostrar a analogia profunda entre a geometria de Euclides e a Mecˆanica Cl´assica, cujos axiomas s˜ao o resultado de milhares e milhares de generaliza¸c˜oes de in´umeras experiˆencias do homem com o seu meio circundante. A t´ıtulo de ilustra¸c˜ao apresentamos a Axiom´atica da Est´atica (parte da Mecˆanica aonde s˜ao estudadas as no¸c˜oes gerais de for¸cas e as condi¸c˜oes de equil´ıbrio de corpos materiais submetidos `a a¸c˜ao de for¸cas).
+Ainda de acordo com o nosso ponto de vista, sujeito, naturalmente, a outros aprofundamentos, acreditamos que a experiência diária do homem exerce poderosa influência sobre a criação de qualquer axiomática, quer diretamente, como acontece na Mecânica, quer indiretamente, como se verifica nas chamadas ciências formais. Uma análise da axiomática da geometria plana, dada acima, parece confirmar nossa opinião, embora, a substituição do V Axioma do Paralelismo de Euclides pelo axioma criado por Lobachevski não se ajuste, à primeira vista, ao nosso ponto de vista. Um exame mais detalhado, porém, dessa questão confirma a nossa tese: na elaboração de qualquer axiomática - que deve servir de suporte ao desenvolvimento de uma determinada ciência - a experiência diária do homem exerce poderosa influência, pelo simples fato de que é impossível, ao homem, alienar-se completamente dessa experiência, sob pena de colocar em risco a sua própria sobrevivência. Toda e qualquer criação científica é impossível, naturalmente, fora das leis lógicas tradicionais; ora, há uma relação bem profunda entre estas e a Geometria Euclidiana e, como sabemos, nesta, o fator principal para a sua criação foi a experiência diária do homem com os objetivos do seu contorno. Por outro lado, pode-se mostrar a analogia profunda entre a geometria de Euclides e a Mecânica Clássica, cujos axiomas são o resultado de milhares e milhares de generalizações de inúmeras experiências do homem com o seu meio circundante. A título de ilustração apresentamos a Axiomática da Estática (parte da Mecânica aonde são estudadas as noções gerais de forças e as condições de equilíbrio de corpos materiais submetidos à ação de forças).
 
-### iii) Axiom´atica da Est´atica
+### iii) Axiomática da Estática
 
-Ap´os as defini¸c˜oes de corpo (conceito primitivo), livre, sistemas de for¸cas equivalentes, for¸cas internas, ligaduras, etc., s˜ao elaborados os axiomas abaixo:
+Após as definições de corpo (conceito primitivo), livre, sistemas de forças equivalentes, forças internas, ligaduras, etc., são elaborados os axiomas abaixo:
 
 ## Axioma I
 
-Se duas for¸cas atuam sobre um corpo r´ıgido livre, este pode permanecer em equil´ıbrio somente quando os m´odulos destas for¸cas s˜ao iguais (F<sup>1</sup> = F2) e elas est˜ao dirigidas em sentidos opostos ao largo de uma mesma linha.
+Se duas forças atuam sobre um corpo rígido livre, este pode permanecer em equilíbrio somente quando os módulos destas forças são iguais (F<sup>1</sup> = F2) e elas estão dirigidas em sentidos opostos ao largo de uma mesma linha.
 
 ### Axioma II
 
-A a¸c˜ao de um sistema de for¸cas sobre um corpo r´ıgido n˜ao se modificar´a se lhe ´e acrescentado ou lhe ´e retirado um sistema de for¸cas em equil´ıbrio.
+A ação de um sistema de forças sobre um corpo rígido não se modificará se lhe é acrescentado ou lhe é retirado um sistema de forças em equilíbrio.
 
-Axioma III (Axioma do Paralelogramo de For¸cas)
+Axioma III (Axioma do Paralelogramo de Forças)
 
-Duas for¸cas aplicadas a um corpo em um ponto tem uma resultante aplicada no mesmo ponto e representada pela diagonal do paralelogramo constru´ıdo sobre estas for¸cas como lados.
+Duas forças aplicadas a um corpo em um ponto tem uma resultante aplicada no mesmo ponto e representada pela diagonal do paralelogramo construído sobre estas forças como lados.
 
 ### Axioma IV
 
-Toda a¸c˜ao de um corpo material sobre outro traz consigo, por parte deste ´ultimo, uma rea¸c˜ao de mesma magnitude, por´em, em sentido oposto.
+Toda ação de um corpo material sobre outro traz consigo, por parte deste último, uma reação de mesma magnitude, porém, em sentido oposto.
 
-## Axioma V (Princ´ıpio de Rigidez)
+## Axioma V (Princípio de Rigidez)
 
-O equil´ıbrio de um corpo deform´avel que se encontra sob a a¸c˜ao de um sistema de for¸cas, se conserva se este corpo se considera solidificado.
+O equilíbrio de um corpo deformável que se encontra sob a ação de um sistema de forças, se conserva se este corpo se considera solidificado.
 
 ## Axioma VI (Das Ligaduras)
 
-Todo corpo ligado pode considerar-se como livre se suprimimos as ligaduras e substituimos suas a¸c˜oes pelas rea¸c˜oes destas ligaduras.
+Todo corpo ligado pode considerar-se como livre se suprimimos as ligaduras e substituimos suas ações pelas reações destas ligaduras.
 
-Deste reduzido n´umero de axiomas s˜ao deduzidos todos os teoremas e fatos relativos `a Est´atica; o leitor est´a convidado a estabelecer as correspondentes analogias entre esta axiom´atica e a experiˆencia da vida cotidiana.
+Deste reduzido número de axiomas são deduzidos todos os teoremas e fatos relativos à Estática; o leitor está convidado a estabelecer as correspondentes analogias entre esta axiomática e a experiência da vida cotidiana.
 
-A Matem´atica: suas origens, seu objeto e seus m´etodos. (Continua¸c˜ao)
+A Matemática: suas origens, seu objeto e seus métodos. (Continuação)
 
-### Novo N´umero
+### Novo Número
 
-No mˆes de junho, o telefone do NEMOC mudou o prefixo, passando para (75) 3161 8115. Para envio de fax: (75) 3161 8086.
+No mês de junho, o telefone do NEMOC mudou o prefixo, passando para (75) 3161 8115. Para envio de fax: (75) 3161 8086.
 
-Envie para cada Folhetim um selo de postagem nacional de 1 <sup>o</sup> porte. Dentro de no m´aximo quatro semanas, contadas a partir da data de recebimento do seu pedido, vocˆe receber´a os folhetins solicitados. OBS.: E permitida a reprodu¸c˜ao ´ total ou parcial deste Folhetim, desde que citada a fonte.
+Envie para cada Folhetim um selo de postagem nacional de 1 <sup>o</sup> porte. Dentro de no máximo quatro semanas, contadas a partir da data de recebimento do seu pedido, você receberá os folhetins solicitados. OBS.: E permitida a reprodução ´ total ou parcial deste Folhetim, desde que citada a fonte.

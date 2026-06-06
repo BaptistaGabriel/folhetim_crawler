@@ -1,20 +1,20 @@
 ![](_page_0_Picture_1.jpeg)
 
-Folhetim Educ. Mat., Feira de Santana, Ano 19, N´umero 168, set./out., 2012 ISSN 1415-8779
+Folhetim Educ. Mat., Feira de Santana, Ano 19, Número 168, set./out., 2012 ISSN 1415-8779
 
-Este Folhetim ´e um ve´ıculo de divulga¸c˜ao, circula¸c˜ao de ideias e de est´ımulo ao estudo e `a curiosidade intelectual. Dirige-se a todos os interessados pelos aspectos pedag´ogicos, filos´oficos e hist´oricos da Matem´atica. Pretende construir uma ponte para unir os que est˜ao pr´oximos e os que est˜ao distantes.
+Este Folhetim é um veículo de divulgação, circulação de ideias e de estímulo ao estudo e à curiosidade intelectual. Dirige-se a todos os interessados pelos aspectos pedagógicos, filosóficos e históricos da Matemática. Pretende construir uma ponte para unir os que estão próximos e os que estão distantes.
 
-Dando continuidade `a transcri¸c˜ao das notas intituladas "A Matem´atica: suas origens, seu objeto e seus m´etodos - Parte I", de autoria do professor Carloman, neste n´umero, veremos as Demonstra¸c˜oes Indiretas. O texto basicamente ´e apresentado por meio de exemplos de aplica¸c˜ao da tautologia que estabelece a equivalˆencia entre a implica¸c˜ao da hip´otese para a tese e a falsidade da conjun¸c˜ao entre a hip´otese e a nega¸c˜ao da tese. Os exemplos s˜ao ricos e abrangentes, e v˜ao desde propriedades dos n´umeros racionais e irracionais, passando por propriedades dos n´umeros primos. Outra equivalˆencia l´ogica, a contrapositiva da condicional, tamb´em ´e ilustrada com v´arios exemplos da teoria dos n´umeros, conjuntos e geometria.
+Dando continuidade à transcrição das notas intituladas "A Matemática: suas origens, seu objeto e seus métodos - Parte I", de autoria do professor Carloman, neste número, veremos as Demonstrações Indiretas. O texto basicamente é apresentado por meio de exemplos de aplicação da tautologia que estabelece a equivalência entre a implicação da hipótese para a tese e a falsidade da conjunção entre a hipótese e a negação da tese. Os exemplos são ricos e abrangentes, e vão desde propriedades dos números racionais e irracionais, passando por propriedades dos números primos. Outra equivalência lógica, a contrapositiva da condicional, também é ilustrada com vários exemplos da teoria dos números, conjuntos e geometria.
 
-Carloman Carlos Borges (UEFS) - in memoriam In´acio de Sousa Fadigas (UEFS) Marcos Grilo Rosa (UEFS) Traz´ıbulo Henrique (UEFS)
+Carloman Carlos Borges (UEFS) - in memoriam Inácio de Sousa Fadigas (UEFS) Marcos Grilo Rosa (UEFS) Trazíbulo Henrique (UEFS)
 
-A Matem´atica: suas origens, seu objeto e seus m´etodos (continua¸c˜ao)
+A Matemática: suas origens, seu objeto e seus métodos (continuação)
 
 Carloman Carlos Borges
 
-### 4. Demonstra¸c˜oes indiretas
+### 4. Demonstrações indiretas
 
-Algumas das demonstra¸c˜oes indiretas podem ser justificadas pela tautologia:
+Algumas das demonstrações indiretas podem ser justificadas pela tautologia:
 
 (H ⇒ T) ⇔ [( H∧ ∼ T) ⇒ f] cuja tabela-verdade damos abaixo:
 
@@ -26,25 +26,25 @@ Algumas das demonstra¸c˜oes indiretas podem ser justificadas pela tautologia:
 | F   | V   | V     | F   | F      | F   | V            | V              |
 | F   | F   | V     | V   | F      | F   | V            | V              |
 
-Alguns exemplos servir˜ao para ilustrar o emprego dessa importante tautologia.
+Alguns exemplos servirão para ilustrar o emprego dessa importante tautologia.
 
-Exemplo 1. Sendo a um n´umero racional e b um n´umero irracional, mostre que:
+Exemplo 1. Sendo a um número racional e b um número irracional, mostre que:
 
-i) a + b ´e irracional
+i) a + b é irracional
 
-ii) a · b ´e irracional (a 6= 0)
+ii) a · b é irracional (a 6= 0)
 
 Para (i), temos,
 
 $$H \left\{ \begin{array}{ll} a, & \text{racional} \\ b, & \text{irracional} \end{array} \right.$$
 
-T: a + b ´e irracional ∼ T: a + b ´e racional
+T: a + b é irracional ∼ T: a + b é racional
 
 Consideremos, ainda:
 
 H' : H ∧ ∼ T T': f
 
-Demonstra¸c˜ao: N = a + b (um n´umero racional, conforme H'), donde conclu´ımos N - a = b; ora, como N ´e racional e a, igualmente, N - a ´e um n´umero racional (a diferen¸ca entre dois racionais é um racional); logo, N - a=b representa uma contradição pois, no primeiro membro temos um número racional, N - a, enquanto no segundo membro temos b, que é irracional. Conforme a tautologia em estudo, concluímos definitivamente: a+b é um número irracional. A demonstração de (ii) é inteiramente análoga.
+Demonstração: N = a + b (um número racional, conforme H'), donde concluímos N - a = b; ora, como N é racional e a, igualmente, N - a é um número racional (a diferença entre dois racionais é um racional); logo, N - a=b representa uma contradição pois, no primeiro membro temos um número racional, N - a, enquanto no segundo membro temos b, que é irracional. Conforme a tautologia em estudo, concluímos definitivamente: a+b é um número irracional. A demonstração de (ii) é inteiramente análoga.
 
 **Exemplo 2.** Mostre que $\sqrt{n}$ é um número irracional, toda vez que o número n não seja o quadrado de outro número natural. Temos:
 
@@ -61,7 +61,7 @@ Demonstração: $x=\sqrt{n}=\frac{p}{q}$ é racional (conforme H'; aqui, p e q s
 
 Mostremos, agora, que $nq^2 = p^2$ , que é o nosso T' representa uma contradição. Realmente, devido ao sinal de igualdade, os dois números $nq^2$ e $p^2$ quando decompostos em fatores primos deverão coincidir, isto é, a representação de $nq^2$ como produto de fatores primos deverá apresentar os mesmos fatores primos da representação de $p^2$ quando escrito como produto de fatores primos. Cada número primo deve aparecer um número par de vezes na decomposição tanto de $p^2$ como de $q^2$ (pois ambos os números $p \in q$ estão ao quadrado) e isto significa que a mesma coisa deverá ocorrer na decomposição de n, o que implica ser n um quadrado perfeito, contrariando, portanto H. Logo, de acordo com a tautologia, $\sqrt{n}$ é um número irracional toda vez que n não for um quadrado perfeito. Observação: na demonstração acima empregamos
 
-o chamado "Teorema Fundamental da Aritmética": "Todo número inteiro N maior do que 1, pode ser decomposto em um produto de fatores primos, e esta decomposição é única, a menos da ordem dos fatores".
+o chamado " Teorema Fundamental da Aritmética": " Todo número inteiro N maior do que 1, pode ser decomposto em um produto de fatores primos, e esta decomposição é única, a menos da ordem dos fatores".
 
 **Exemplo 3.** Mostre que $\sqrt{2} + \sqrt{5}$ é um número irracional. Temos:
 
@@ -97,45 +97,45 @@ Demonstração: conforme H', C é um conjunto finito de números primos, isto é
 
 Folhetim Educ. Mat., Feira de Santana, Ano 19, Número 168, set./out. 2012 - Editores: Inácio, Grilo e Trazíbulo - Digitação: Josenildes Oliveira Venas Almeida e Manoel Aquino dos Santos - Editoração: Evandro Vaz e Nivaldo Assis - Impressão: Imprensa Gráfica Universitária - Periodicidade: bimestral - Tiragem: 1.500 exemplares - Distribuição gratuita - Endereço: Avenida Transnordestina s/n, Módulo Prof. Carloman Carlos Borges, bairro Novo Horizonte, Feira de Santana, BA, Brasil. CEP 44.036-900. - Telefone: (75)3161-8115 - Fax: (75)3161-8086 - E-mail: nemoc@uefs.br - Home-Page: www.uefs.br/nemoc
 
-- a) N ´e, claramente, maior que 1 (estamos considerando apenas os n´umeros primos positivos);
-  - b) N ´e maior que cada um dos p<sup>i</sup> ;
-- c) N n˜ao ´e um n´umero primo, pois ele ´e diferente e maior do que cada um dos p<sup>i</sup> existentes;
-- d) N n˜ao sendo um n´umero primo, pode ser decomposto num produto de fatores primos, conforme Teorema Fundamental da Aritm´etica;
-- e) Como N 1 ´e divis´ıvel por cada um dos p<sup>i</sup> , isto significa que N n˜ao o ´e e, conforme (d), na decomposi¸c˜ao de N h´a de aparecer um n´umero primo diferente de cada um dos p<sup>i</sup> .
+- a) N é, claramente, maior que 1 (estamos considerando apenas os números primos positivos);
+  - b) N é maior que cada um dos p<sup>i</sup> ;
+- c) N não é um número primo, pois ele é diferente e maior do que cada um dos p<sup>i</sup> existentes;
+- d) N não sendo um número primo, pode ser decomposto num produto de fatores primos, conforme Teorema Fundamental da Aritmética;
+- e) Como N 1 é divisível por cada um dos p<sup>i</sup> , isto significa que N não o é e, conforme (d), na decomposição de N há de aparecer um número primo diferente de cada um dos p<sup>i</sup> .
 
-Esta contradi¸c˜ao demonstra o teorema de que existem infinitos n´umeros primos.
+Esta contradição demonstra o teorema de que existem infinitos números primos.
 
-Exemplo 5. Aqui, empregamos a equivalˆencia:
+Exemplo 5. Aqui, empregamos a equivalência:
 
 $$(H \Rightarrow T) \Longleftrightarrow (\sim T \Rightarrow \sim H)$$
 
-Considere o teorema: "Se x <sup>2</sup> ´e divis´ıvel por 5 ent˜ao, x tamb´em o ´e". Temos:
+Considere o teorema: " Se x <sup>2</sup> é divisível por 5 então, x também o é". Temos:
 
-H: x <sup>2</sup> ´e divis´ıvel por 5;
+H: x <sup>2</sup> é divisível por 5;
 
-T: x ´e divis´ıvel por 5;
+T: x é divisível por 5;
 
-∼ T: x n˜ao ´e divis´ıvel por 5;
+∼ T: x não é divisível por 5;
 
-∼ H: x <sup>2</sup> n˜ao ´e divis´ıvel por 5.
+∼ H: x <sup>2</sup> não é divisível por 5.
 
-Podemos, pois, escrever a equivalˆencia:
+Podemos, pois, escrever a equivalência:
 
-<sup>2</sup> ´e divis´ıvel por 5, ent˜ao, x tamb´em o ´e".
+<sup>2</sup> é divisível por 5, então, x também o é".
 
-"Se
+" Se
 $$x^2$$
 é divisível por 5, então, $x$ também o é" $\updownarrow$
 
-"Se x n˜ao ´e divis´ıvel por 5, ent˜ao, x 2 tamb´em n˜ao o ´e".
+" Se x não é divisível por 5, então, x 2 também não o é".
 
 Neste caso, temos:
 
 $$\sim T \left\{ \begin{array}{l} x = 5n+1 \\ x = 5n+2 \\ x = 5n+3 \\ x = 5n+4 \end{array} \right. \sim H \left\{ \begin{array}{l} x^2 = 5p+1 \\ x^2 = 5p+2 \\ x^2 = 5p+3 \\ x^2 = 5p+4 \end{array} \right.$$
 
-n e p s˜ao n´umeros naturais.
+n e p são números naturais.
 
-Demonstra¸c˜ao: temos que considerar, separadamente, cada um dos quatro tipos da hip´otese (∼ T) e verificar se, partindo da´ı, chegamos a um dos tipos representados pela tese (no caso ∼ H). Assim, de x = 5n + 1, vem:
+Demonstração: temos que considerar, separadamente, cada um dos quatro tipos da hipótese (∼ T) e verificar se, partindo daí, chegamos a um dos tipos representados pela tese (no caso ∼ H). Assim, de x = 5n + 1, vem:
 
 $$x^2 = 25n^2 + 10n + 1 = 5(5n^2 + 2n) + 1 = 5p + 1$$
 (fazendo $5n^2 + 2n = p$ )
@@ -156,35 +156,35 @@ Finalmente, de x = 5n + 4, tem-se:
 
 $$x^{2} = 25n^{2} + 40n + 16 = 5(5n^{2} + 8n + 3) + 1 = 5p + 1$$
 
-e a demonstra¸c˜ao est´a terminada.
+e a demonstração está terminada.
 
-Exemplo 6. Considere a defini¸c˜ao: "no plano euclidiano, duas retas AB e CD s˜ao paralelas se, e somente se, sua interse¸c˜ao ´e vazia". Consideremos a figura abaixo:
+Exemplo 6. Considere a definição: " no plano euclidiano, duas retas AB e CD são paralelas se, e somente se, sua interseção é vazia". Consideremos a figura abaixo:
 
 ![](_page_2_Picture_31.jpeg)
 
-Seja a hip´otese: "os ˆangulos 1 e 2 s˜ao iguais entre si"; tese: "as retas AB e CD s˜ao paralelas". Temos:
+Seja a hipótese: " os ângulos 1 e 2 são iguais entre si"; tese: " as retas AB e CD são paralelas". Temos:
 
 ∼ T: AB e CD se intersectam em I;
 
-∼ H: os ˆangulos 1 e 2 s˜ao diferentes entre si.
+∼ H: os ângulos 1 e 2 são diferentes entre si.
 
-Demonstra¸c˜ao: no triˆangulo PQI, o ˆangulo 2 ´e interno, enquanto que o ˆangulo 1 ´e exterior; logo, a medida de 1, isto ´e, m(1) ´e maior que m(2) pois "a medida do ˆangulo externo de um triˆangulo ´e igual `a soma das medidas dos dois ˆangulos internos n˜ao adjacentes" (prove este teorema); esta contradi¸c˜ao prova o teorema, conforme a equivalˆencia usada no exemplo 5.
+Demonstração: no triângulo PQI, o ângulo 2 é interno, enquanto que o ângulo 1 é exterior; logo, a medida de 1, isto é, m(1) é maior que m(2) pois " a medida do ângulo externo de um triângulo é igual à soma das medidas dos dois ângulos internos não adjacentes" (prove este teorema); esta contradição prova o teorema, conforme a equivalência usada no exemplo 5.
 
-Exemplo 7. Sejam A, B e C trˆes conjuntos, f uma aplica¸c˜ao de A dentro de B e g uma aplica¸c˜ao de B dentro de C. Demonstre: se gof ´e injetora ent˜ao f ´e injetora.
+Exemplo 7. Sejam A, B e C três conjuntos, f uma aplicação de A dentro de B e g uma aplicação de B dentro de C. Demonstre: se gof é injetora então f é injetora.
 
 No teorema direto temos:
 
-H: gof ´e injetora;
+H: gof é injetora;
 
-T: f ´e injetora.
+T: f é injetora.
 
-ent˜ao, podemos escrever:
+então, podemos escrever:
 
-∼ T: f n˜ao ´e injetora;
+∼ T: f não é injetora;
 
-∼ H: gof ´e n˜ao injetora.
+∼ H: gof é não injetora.
 
-Demonstra¸c˜ao: se f n˜ao ´e injetora ent˜ao, por defini¸c˜ao, existem em A dois elementos a e a 0 com a mesma imagem y por f, donde se conclui que a e a 0 ter˜ao mesma imagem g(y) por gof, o que implica a fun¸c˜ao composta ser n˜ao injetora.
+Demonstração: se f não é injetora então, por definição, existem em A dois elementos a e a 0 com a mesma imagem y por f, donde se conclui que a e a 0 terão mesma imagem g(y) por gof, o que implica a função composta ser não injetora.
 
 **Exemplo 8.** Sejam $E_1$ e $E_2$ dois espaços métricos com as distâncias respectivas $d_1$ e $d_2$ ; então, uma aplicação de $E_1$ dentro de $E_2$ é uniformemente contínua se, para todo $\varepsilon > 0$ , existe a > 0 tal que, quaisquer que sejam x e x dentro de $E_1$ , tem-se:
 
@@ -213,7 +213,7 @@ Façamos
 $$x=\frac{1}{a}, x'=\frac{1}{a}+\frac{a}{2}.$$
 Tem-se: $|x-x'|=\frac{a}{2}< a,$ e $|x^2-x'^2|=|\frac{1}{a^2}-(\frac{1}{a^2}+\frac{a^2}{4}+1)|=1+\frac{a^2}{4}>1.$
 
-**Exemplo 9.** A propriedade mais importante dos números reais provavelmente é a seguinte: "Se C é um conjunto não vazio de números reais e C está acotado superiormente, então, C tem uma cota superior mínima".
+**Exemplo 9.** A propriedade mais importante dos números reais provavelmente é a seguinte: " Se C é um conjunto não vazio de números reais e C está acotado superiormente, então, C tem uma cota superior mínima".
 
 **Teorema:** Seja $\mathbb N$ o conjunto dos números naturais. Mostrar que $\mathbb N$ não está acotado superiormente. Temos:
 
@@ -243,7 +243,7 @@ Façamos:
 
 H': $(H \land \sim T)$ T': f
 
-Demonstração: consideremos o conjunto A dos "múltiplos positivos" de a, isto é:
+Demonstração: consideremos o conjunto A dos " múltiplos positivos" de a, isto é:
 
 $\mathbf{A}=\{na\};$ ora, da hipótese (isto é, de $\sim T),$ concluímos ser A majorado por b, donde existe $s=\sup \mathbf{A}.$
 

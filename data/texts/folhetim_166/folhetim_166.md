@@ -1,28 +1,28 @@
 ![](_page_0_Picture_1.jpeg)
 
-Folhetim Educ. Mat., Feira de Santana, Ano 18, N´umero 166, maio/jun., 2012 ISSN 1415-8779
+Folhetim Educ. Mat., Feira de Santana, Ano 18, Número 166, maio/jun., 2012 ISSN 1415-8779
 
-Este Folhetim ´e um ve´ıculo de divulga¸c˜ao, circula¸c˜ao de ideias e de est´ımulo ao estudo e `a curiosidade intelectual. Dirige-se a todos os interessados pelos aspectos pedag´ogicos, filos´oficos e hist´oricos da Matem´atica. Pretende construir uma ponte para unir os que est˜ao pr´oximos e os que est˜ao distantes.
+Este Folhetim é um veículo de divulgação, circulação de ideias e de estímulo ao estudo e à curiosidade intelectual. Dirige-se a todos os interessados pelos aspectos pedagógicos, filosóficos e históricos da Matemática. Pretende construir uma ponte para unir os que estão próximos e os que estão distantes.
 
-Dando continuidade `a transcri¸c˜ao das notas intituladas "A Matem´atica: suas origens, seu objeto e seus m´etodos - Parte I", de autoria do professor Carloman, neste n´umero, veremos mais aplica¸c˜oes do Princ´ıpio de Indu¸c˜ao Completa. O leitor ter´a a oportunidade de perceber que a utilidade do Princ´ıpio de Indu¸c˜ao n˜ao se restringe `a Teoria dos N´umeros: o Exemplo 8 cont´em uma demonstra¸c˜ao do Teorema do Binˆomio de Newton para an´eis comutativos e o Exemplo 9 apresenta uma demonstra¸c˜ao da F´ormula de Leibniz, muito utilizada no C´alculo Diferencial e Integral.
+Dando continuidade à transcrição das notas intituladas "A Matemática: suas origens, seu objeto e seus métodos - Parte I", de autoria do professor Carloman, neste número, veremos mais aplicações do Princípio de Indução Completa. O leitor terá a oportunidade de perceber que a utilidade do Princípio de Indução não se restringe à Teoria dos Números: o Exemplo 8 contém uma demonstração do Teorema do Binômio de Newton para anéis comutativos e o Exemplo 9 apresenta uma demonstração da Fórmula de Leibniz, muito utilizada no Cálculo Diferencial e Integral.
 
-Outro destaque desta edi¸c˜ao do Folhetim trata da possibilidade de se demonstrar leis operat´orias. Deve ficar claro para o leitor que um postulado em uma axiom´atica pode ser um teorema em outra axiom´atica. Ademais, um postulado P em uma axiom´atica A, ser´a sempre um postulado na axiom´atica A e nunca ser´a demonstrado na axiom´atica A.
+Outro destaque desta edição do Folhetim trata da possibilidade de se demonstrar leis operatórias. Deve ficar claro para o leitor que um postulado em uma axiomática pode ser um teorema em outra axiomática. Ademais, um postulado P em uma axiomática A, será sempre um postulado na axiomática A e nunca será demonstrado na axiomática A.
 
-Carloman Carlos Borges (UEFS) - in memoriam In´acio de Sousa Fadigas (UEFS) Marcos Grilo Rosa (UEFS) Traz´ıbulo Henrique (UEFS)
+Carloman Carlos Borges (UEFS) - in memoriam Inácio de Sousa Fadigas (UEFS) Marcos Grilo Rosa (UEFS) Trazíbulo Henrique (UEFS)
 
-A Matem´atica: suas origens, seu objeto e seus m´etodos (continua¸c˜ao)
+A Matemática: suas origens, seu objeto e seus métodos (continuação)
 
 Carloman Carlos Borges
 
-# 3.1 Indu¸c˜ao Completa (continua¸c˜ao)
+# 3.1 Indução Completa (continuação)
 
-Exemplo 5. Sejam a e n n´umeros naturais, n > 0. Consideremos a defini¸c˜ao por recorrˆencia:
+Exemplo 5. Sejam a e n números naturais, n > 0. Consideremos a definição por recorrência:
 
 $$a^1 = a$$
 
 $$a^{n+1} = a^n.a$$
 
-Dados a, n e m naturais com n > 0 e m > 0, vamos demonstrar as leis operat´orias:
+Dados a, n e m naturais com n > 0 e m > 0, vamos demonstrar as leis operatórias:
 
 $$I) \quad a^m.a^n = a^{m+n}$$
 
@@ -34,8 +34,8 @@ $$P(n): a^m.a^n = a^{m+n}$$
 
 Fixado m arbitrariamente, vem:
 
-- i) Para n = 1, decorre da defini¸c˜ao a <sup>m</sup>.a<sup>1</sup> = a <sup>m</sup>+1; logo, P(1) ´e verdadeira.
-- ii) Suponhamos que P(n) ´e verdadeira para todo n natural; mostremos que, desta suposi¸c˜ao, podemos concluir a verdade de P(n + 1), isto ´e:
+- i) Para n = 1, decorre da definição a <sup>m</sup>.a<sup>1</sup> = a <sup>m</sup>+1; logo, P(1) é verdadeira.
+- ii) Suponhamos que P(n) é verdadeira para todo n natural; mostremos que, desta suposição, podemos concluir a verdade de P(n + 1), isto é:
 
 $$P(n+1): a^m.a^{n+1} = a^{m+n+1}$$
 
@@ -45,7 +45,7 @@ $$a^{m}.a^{n+1} = a^{m}.(a^{n}.a) = (a^{m}.a^{n}).a$$
 
 = $a^{m+n}.a = a^{m+n+1}$
 
-As igualdades acima justificam-se pelo uso, nessa ordem, da defini¸c˜ao, da lei associativa, da hip´otese de indu¸c˜ao e novamente, da defini¸c˜ao.
+As igualdades acima justificam-se pelo uso, nessa ordem, da definição, da lei associativa, da hipótese de indução e novamente, da definição.
 
 Para o item II), seja
 
@@ -53,8 +53,8 @@ $$P(n): (a^m)^n = a^{mn}$$
 
 Fixado m arbitrariamente, temos:
 
-- i) Para n = 1, decorre da defini¸c˜ao (a m) <sup>1</sup> = a m; logo, P(1) ´e verdadeira.
-- ii) Suponhamos que P(n) ´e verdadeira para todo n natural; mostremos, da´ı, a verdade de P(n + 1), isto ´e:
+- i) Para n = 1, decorre da definição (a m) <sup>1</sup> = a m; logo, P(1) é verdadeira.
+- ii) Suponhamos que P(n) é verdadeira para todo n natural; mostremos, daí, a verdade de P(n + 1), isto é:
 
 $$P(n+1): (a^m)^{n+1} = a^{m+n+1}$$
 
@@ -64,15 +64,15 @@ $$(a^m)^{n+1} = (a^m)^n \cdot a^m = a^{mn} \cdot a^m =$$
 
 = $a^{mn+n} = a^{m(n+1)}$
 
-As igualdades acima justificam-se pelo uso, nessa ordem, da defini¸c˜ao, da hip´otese de indu¸c˜ao, da propriedade (I) e da distributividade.
+As igualdades acima justificam-se pelo uso, nessa ordem, da definição, da hipótese de indução, da propriedade (I) e da distributividade.
 
 ### Exemplo 6. Demonstrar que
 
 $$P(n): (1^5 + \dots + n^5) + (1^7 + \dots + n^7) = 2\left[\frac{n(n+1)}{2}\right]^4$$
 
-´e verdadeira para n ≥ 1.
+é verdadeira para n ≥ 1.
 
-- i) P(1) ´e, evidentemente, verdadeira.
+- i) P(1) é, evidentemente, verdadeira.
 - ii) Supondo P(n) verdadeira, mostremos, que:
 
 $$P(n+1): (1^5 + \dots + (n+1)^5) + (1^7 + \dots + (n+1)^7) =$$
@@ -91,12 +91,12 @@ $$= (n+1)^{4}\left[\frac{n^{4} + 8n^{3} + 24n^{2} + 32n + 16}{2^{3}}\right] =$$
 
 $$= \left[\frac{(n+1)^4(n+2)^4}{2^3}\right] = 2\left[\frac{(n+1)(n+2)}{2}\right]^4$$
 
-Logo, P(n) ´e verdadeira para qualquer n´umero natural n ≥ 1.
+Logo, P(n) é verdadeira para qualquer número natural n ≥ 1.
 
-Exemplo 7. Demonstrar que 32n+2 − 2 <sup>n</sup>+1 ´e divis´ıvel por 7, qualquer que seja n natural maior do que 1. Temos:
+Exemplo 7. Demonstrar que 32n+2 − 2 <sup>n</sup>+1 é divisível por 7, qualquer que seja n natural maior do que 1. Temos:
 
-- i) Para n = 1, 3<sup>4</sup> − 2 <sup>2</sup> = 81 − 4 = 77, donde P(1) ´e verdadeira.
-- ii) Supondo que P(n) ´e verdadeira para qualquer que seja n natural, mostremos que P(n + 1) ´e verdadeira, isto ´e, 32n+4 − 2 <sup>n</sup>+2 ´e divis´ıvel por 7. Para facilitar a demonstra¸c˜ao, denotemos a express˜ao 3 <sup>2</sup>n+2 − 2 <sup>n</sup>+1 por Pn.
+- i) Para n = 1, 3<sup>4</sup> − 2 <sup>2</sup> = 81 − 4 = 77, donde P(1) é verdadeira.
+- ii) Supondo que P(n) é verdadeira para qualquer que seja n natural, mostremos que P(n + 1) é verdadeira, isto é, 32n+4 − 2 <sup>n</sup>+2 é divisível por 7. Para facilitar a demonstração, denotemos a expressão 3 <sup>2</sup>n+2 − 2 <sup>n</sup>+1 por Pn.
 
 Prova:
 
@@ -106,7 +106,7 @@ $$= 3^{2n+2}(9-1) - 2^{n+1}(2-1) =$$
 
 $$= 3^{2n+2}.8 - 2^{n+1}$$
 
-isto ´e,
+isto é,
 
 $$P_{n+1} - P_n = 3^{2n+2} \cdot 8 - 2^{n+1} = 7 \cdot 3^{2n+2} + P_n$$
 
@@ -116,7 +116,7 @@ $$P_{n+1} = 7.3^{2n+2} + 2P_n$$
 
 o que demonstra o resultado.
 
-Exemplo 8. Considere um anel comutativo A e x e y dois de seus elementos. Demonstre a f´ormula do Binˆomio de Newton:
+Exemplo 8. Considere um anel comutativo A e x e y dois de seus elementos. Demonstre a fórmula do Binômio de Newton:
 
 $$(x+y)^n = \sum_{k=0}^n C_n^k x^k y^{n-k}, n \ge 1$$
 
@@ -128,7 +128,7 @@ $$x + y = \begin{pmatrix} 0 \\ 0 \end{pmatrix} x^1 y^0 + \begin{pmatrix} 1 \\ 0 
 
 ## NEMOC - NUCLEO DE EDUCAC¸ ´ AO MATEM ˜ ATICA OMAR CATUNDA ´
 
-Folhetim Educ. Mat., Feira de Santana, Ano 18, N´umero 166, maio/jun. 2012 - Editores: In´acio, Grilo e Traz´ıbulo - Digita¸c˜ao: Josenildes Oliveira Venas Almeida e Manoel Aquino dos Santos - Editora¸c˜ao: Evandro Vaz e Nivaldo Assis - Impress˜ao: Imprensa Gr´afica Universit´aria - Periodicidade: bimestral - Tiragem: 1.500 exemplares - Distribui¸c˜ao gratuita - Endere¸co: Avenida Transnordestina s/n, M´odulo Prof. Carloman Carlos Borges, bairro Novo Horizonte, Feira de Santana, BA, Brasil. CEP 44.036-900. - Telefone: (75)3161-8115 - Fax: (75)3161-8086 - E-mail: nemoc@uefs.br - Home-Page: www.uefs.br/nemoc
+Folhetim Educ. Mat., Feira de Santana, Ano 18, Número 166, maio/jun. 2012 - Editores: Inácio, Grilo e Trazíbulo - Digitação: Josenildes Oliveira Venas Almeida e Manoel Aquino dos Santos - Editoração: Evandro Vaz e Nivaldo Assis - Impressão: Imprensa Gráfica Universitária - Periodicidade: bimestral - Tiragem: 1.500 exemplares - Distribuição gratuita - Endereço: Avenida Transnordestina s/n, Módulo Prof. Carloman Carlos Borges, bairro Novo Horizonte, Feira de Santana, BA, Brasil. CEP 44.036-900. - Telefone: (75)3161-8115 - Fax: (75)3161-8086 - E-mail: nemoc@uefs.br - Home-Page: www.uefs.br/nemoc
 
 ii) Supondo que P(n) é verdadeira, demonstre que P(n+1) é verdadeira, isto é,
 
@@ -286,7 +286,7 @@ A SBM está lançando a revista Professor de Matemática Online (PMO), um veícu
 
 ### **CEEM Semipresencial**
 
-O Núcleo de Informática e Sociedade (NIS) e o NEMOC oferecerão o Curso de Especialização em Educação Matemática, modalidade semipresencial. As inscrições ocorrerão no período de 01 a 26 de outubro de 2012. Cada disciplina terá 15 horas presenciais na UEFS e 30 horas à distância. Maiores informações, no site do NEMOC: <a href="http://www.uefs.br/nemoc">http://www.uefs.br/nemoc</a>
+O Núcleo de Informática e Sociedade (NIS) e o NEMOC oferecerão o Curso de Especialização em Educação Matemática, modalidade semipresencial. As inscrições ocorrerão no período de 01 a 26 de outubro de 2012. Cada disciplina terá 15 horas presenciais na UEFS e 30 horas à distância. Maiores informações, no site do NEMOC: <a href=" http://www.uefs.br/nemoc">http://www.uefs.br/nemoc</a>
 
 # **NÚMEROS ATRASADOS**
 

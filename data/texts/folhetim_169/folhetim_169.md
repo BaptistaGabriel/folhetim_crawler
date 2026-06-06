@@ -1,52 +1,52 @@
 ![](_page_0_Picture_1.jpeg)
 
-Folhetim Educ. Mat., Feira de Santana, Ano 19, N´umero 169, nov./dez., 2012 ISSN 1415-8779
+Folhetim Educ. Mat., Feira de Santana, Ano 19, Número 169, nov./dez., 2012 ISSN 1415-8779
 
-Este Folhetim ´e um ve´ıculo de divulga¸c˜ao, circula¸c˜ao de ideias e de est´ımulo ao estudo e `a curiosidade intelectual. Dirige-se a todos os interessados pelos aspectos pedag´ogicos, filos´oficos e hist´oricos da Matem´atica. Pretende construir uma ponte para unir os que est˜ao pr´oximos e os que est˜ao distantes.
+Este Folhetim é um veículo de divulgação, circulação de ideias e de estímulo ao estudo e à curiosidade intelectual. Dirige-se a todos os interessados pelos aspectos pedagógicos, filosóficos e históricos da Matemática. Pretende construir uma ponte para unir os que estão próximos e os que estão distantes.
 
-Dando continuidade `a transcri¸c˜ao das notas intituladas "A Matem´atica: suas origens, seu objeto e seus m´etodos - Parte I", de autoria do professor Carloman, neste n´umero, o professor Carlomam traz alguns coment´arios pertinentes sobre as demonstra¸c˜oes indiretas. Inicia por mostrar as implica¸c˜oes filos´oficas no uso das demonstra¸c˜oes indiretas, e apresenta os argumentos da escola "intuicionista", para a n˜ao aceita¸c˜ao de tais formas de demonstra¸c˜ao. Entretanto, o autor tamb´em apresenta argumentos sobre a importˆancia das demonstra¸c˜oes indiretas para a evolu¸c˜ao da Matem´atica como ciˆencia.
+Dando continuidade à transcrição das notas intituladas "A Matemática: suas origens, seu objeto e seus métodos - Parte I", de autoria do professor Carloman, neste número, o professor Carlomam traz alguns comentários pertinentes sobre as demonstrações indiretas. Inicia por mostrar as implicações filosóficas no uso das demonstrações indiretas, e apresenta os argumentos da escola " intuicionista", para a não aceitação de tais formas de demonstração. Entretanto, o autor também apresenta argumentos sobre a importância das demonstrações indiretas para a evolução da Matemática como ciência.
 
-Outro t´opico desenvolvido no presente Folhetim trata das Demonstra¸c˜oes Diretas. Por meio de v´arios exemplos, tais tipos de demonstra¸c˜oes s˜ao ilustradas, usando conceitos da geometria e da ´algebra linear.
+Outro tópico desenvolvido no presente Folhetim trata das Demonstrações Diretas. Por meio de vários exemplos, tais tipos de demonstrações são ilustradas, usando conceitos da geometria e da álgebra linear.
 
-Carloman Carlos Borges (UEFS) - in memoriam In´acio de Sousa Fadigas (UEFS) Marcos Grilo Rosa (UEFS) Traz´ıbulo Henrique (UEFS)
+Carloman Carlos Borges (UEFS) - in memoriam Inácio de Sousa Fadigas (UEFS) Marcos Grilo Rosa (UEFS) Trazíbulo Henrique (UEFS)
 
-A Matem´atica: suas origens, seu objeto e seus m´etodos (continua¸c˜ao)
+A Matemática: suas origens, seu objeto e seus métodos (continuação)
 
 Carloman Carlos Borges
 
-## 5. Coment´arios Gerais Sobre as Demonstra¸c˜oes Indiretas
+## 5. Comentários Gerais Sobre as Demonstrações Indiretas
 
-As demonstra¸c˜oes indiretas, tamb´em conhecidas como demonstra¸c˜oes "por absurdo" envolvem algumas id´eias que devem ser discutidas. A primeira delas diz respeito ao problema da existˆencia em Matem´atica, isto ´e, como se deve provar a existˆencia de um determinado objeto? Claro, podemos, por um lado, fazˆe-lo por interm´edio de exemplos "palp´aveis" acompanhados do correspondente m´etodo que serviu para constru´ılo. Por outro lado, podemos fazˆe-lo mostrando que a simples nega¸c˜ao de sua existˆencia conduz a uma contradi¸c˜ao l´ogica. A primeira prova mencionada acima d´a-se o nome de ` prova construtivista e a ela se filiam matem´aticos como Kronecker (1823-1891), Poincar´e (1854-1912), Lebesgue (1875-1941) e outros; entre estes pode-se citar o seu grande te´orico holandˆes Luitzen Egbertus Jan Brouwer (1881-1966) que em 1907 lan¸ca os princ´ıpios da chamada escola "intuicionista". Eis algumas de suas teses:
+As demonstrações indiretas, também conhecidas como demonstrações " por absurdo" envolvem algumas idéias que devem ser discutidas. A primeira delas diz respeito ao problema da existência em Matemática, isto é, como se deve provar a existência de um determinado objeto? Claro, podemos, por um lado, fazê-lo por intermédio de exemplos " palpáveis" acompanhados do correspondente método que serviu para construílo. Por outro lado, podemos fazê-lo mostrando que a simples negação de sua existência conduz a uma contradição lógica. A primeira prova mencionada acima dá-se o nome de ` prova construtivista e a ela se filiam matemáticos como Kronecker (1823-1891), Poincaré (1854-1912), Lebesgue (1875-1941) e outros; entre estes pode-se citar o seu grande teórico holandês Luitzen Egbertus Jan Brouwer (1881-1966) que em 1907 lança os princípios da chamada escola " intuicionista". Eis algumas de suas teses:
 
-- a) rejei¸c˜ao pura e simples do infinito acabado;
-- b) aceita¸c˜ao de uma "intui¸c˜ao primordial";
-- c) aceita¸c˜ao do terceiro exclu´ıdo somente em dom´ınios finitos.
+- a) rejeição pura e simples do infinito acabado;
+- b) aceitação de uma " intuição primordial";
+- c) aceitação do terceiro excluído somente em domínios finitos.
 
-Os intuicionistas, portanto, n˜ao aceitam demonstra¸c˜oes baseadas no terceiro exclu´ıdo como as demonstra¸c˜oes por absurdo. Eles colocam na origem do conhecimento matem´atico a "intui¸c˜ao primordial", que n˜ao ´e "sensorial" nem "emp´ırica", mas "uma esp´ecie de certeza imediata que associa aos fatos da l´ogica, da aritm´etica e do c´alculo combinat´orio". Essa intui¸c˜ao daria sentido ao conceito de n´umero e a outros conceitos matem´aticos importantes, dos quais, por constru¸c˜oes graduais, ´e poss´ıvel construir-se a Matem´atica. E interessante observar ´ que um dos conceitos fundamentais do intuicionismo, qual seja, o da "intui¸c˜ao primordial", ainda n˜ao foi devidamente esclarecido por nenhum intuicionista, persistindo, portanto, ainda, como uma no¸c˜ao obscura. Ao referirem-se `as pretens˜oes dessa escola, os matem´aticos R. Courant e H. Robbins (What is Mathematics?) escrevem: "Mesmo que se considere desej´avel este programa, no estado atual da Matem´atica ele introduziria uma grande complica¸c˜ao e tamb´em a parcial destrui¸c˜ao do edif´ıcio matem´atico atual. Por esta raz˜ao n˜ao ´e de estranhar que a escola 'intuicionista', a qual adotou este programa, tenha encontrado forte resistˆencia e que, os intuicionistas mais puros n˜ao podem em certas ocasi˜oes permanecer fi´eis a seus princ´ıpios".
+Os intuicionistas, portanto, não aceitam demonstrações baseadas no terceiro excluído como as demonstrações por absurdo. Eles colocam na origem do conhecimento matemático a " intuição primordial", que não é " sensorial" nem " empírica", mas " uma espécie de certeza imediata que associa aos fatos da lógica, da aritmética e do cálculo combinatório". Essa intuição daria sentido ao conceito de número e a outros conceitos matemáticos importantes, dos quais, por construções graduais, é possível construir-se a Matemática. E interessante observar ´ que um dos conceitos fundamentais do intuicionismo, qual seja, o da " intuição primordial", ainda não foi devidamente esclarecido por nenhum intuicionista, persistindo, portanto, ainda, como uma noção obscura. Ao referirem-se às pretensões dessa escola, os matemáticos R. Courant e H. Robbins (What is Mathematics?) escrevem: " Mesmo que se considere desejável este programa, no estado atual da Matemática ele introduziria uma grande complicação e também a parcial destruição do edifício matemático atual. Por esta razão não é de estranhar que a escola 'intuicionista', a qual adotou este programa, tenha encontrado forte resistência e que, os intuicionistas mais puros não podem em certas ocasiões permanecer fiéis a seus princípios".
 
-As demonstra¸c˜oes indiretas se constituem em um poderoso m´etodo de demonstra¸c˜ao matem´atico. Existem teoremas que podem ser demonstrados quer diretamente quer indiretamente, – por´em, a sua demonstra¸c˜ao direta acarreta maiores dificuldades do que sua demonstra¸c˜ao indireta; ademais, existem teoremas para os quais somente se conhecem demonstra¸c˜oes do tipo indiretas, como a demonstra¸c˜ao dada por Cantor de que "o conjunto dos n´umeros reais n˜ao ´e enumer´avel". Algumas vezes, a pr´opria demonstra¸c˜ao indireta sugere a demonstra¸c˜ao – construtivista, como ´e o caso, por exemplo, da demonstra¸c˜ao de que existem infinitos n´umeros primos, dada anteriormente (Folhetim 168). Assim, se considerarmos os n´umeros primos 2 e 3, poderemos – construir novos n´umeros primos e como tal opera¸c˜ao poder´a ser repetida ilimitadas vezes, ent˜ao, conclu´ımos ser a s´erie dos primos constitu´ıda de infinitos n´umeros. Exemplificando:
+As demonstrações indiretas se constituem em um poderoso método de demonstração matemático. Existem teoremas que podem ser demonstrados quer diretamente quer indiretamente, – porém, a sua demonstração direta acarreta maiores dificuldades do que sua demonstração indireta; ademais, existem teoremas para os quais somente se conhecem demonstrações do tipo indiretas, como a demonstração dada por Cantor de que " o conjunto dos números reais não é enumerável". Algumas vezes, a própria demonstração indireta sugere a demonstração – construtivista, como é o caso, por exemplo, da demonstração de que existem infinitos números primos, dada anteriormente (Folhetim 168). Assim, se considerarmos os números primos 2 e 3, poderemos – construir novos números primos e como tal operação poderá ser repetida ilimitadas vezes, então, concluímos ser a série dos primos constituída de infinitos números. Exemplificando:
 
 $$N_1=2$$
 . $3+1=7$ (novo número primo)  
  $N_2=2$ . $3$ . $7+1=43$ (novo número primo)
 
-Quando N<sup>i</sup> n˜ao for primo, evidentemente ele conter´a entre seus divisores, pelo menos um n´umero primo n˜ao encontrado anteriormente. Note-se o emprego do infinito potencial nesse tipo de demonstra¸c˜ao.
+Quando N<sup>i</sup> não for primo, evidentemente ele conterá entre seus divisores, pelo menos um número primo não encontrado anteriormente. Note-se o emprego do infinito potencial nesse tipo de demonstração.
 
-De tudo que temos visto at´e agora podemos concluir que as diversas interpreta¸c˜oes filos´oficas da Matem´atica (racionalismo, apriorismo, realismo, intuicionismo, etc.) giram em torno, basicamente, do problema da "existˆencia matem´atica". Qual a natureza dos entes matem´aticos? Seus conceitos fundamentais s˜ao derivados diretamente da experiˆencia, da atividade humana? Como se desenvolve a Matem´atica? Fixando-se exclusivamente em um dos aspectos da Matem´atica e relegando a segundo plano as origens humildes dessa ciˆencia, alguns desses te´oricos se esquecem das enormes aplica¸c˜oes da Matem´atica, da natureza operacional de seus conceitos, pois a cada um desses conceitos h´a de juntar-se seu correspondente conte´udo, sob pena de transformar-se essa ciˆencia num formalismo oco e vazio, brinquedo de uns poucos diletantes intelectuais. Esta "batalha entre gatos e c˜aes – matem´aticos", no dizer de Albert Einstein parece n˜ao ter fim e nos faz lembrar as palavras do matem´atico francˆes Jacques Hadamard (1865-1963): "ali onde a influˆencia reguladora da experiˆencia n˜ao interv´em, as diferen¸cas pr´e-existentes – subsistem, diferen¸cas irredut´ıveis, diferen¸cas psicol´ogicas, sem d´uvida. Quem sabe entre Monsieur Lebesgue e eu as divergˆencias entre o empirismo e o idealismo n˜ao provˆem de algumas diferen¸cas entre o pH de tal ou qual categoria de c´elulas? (Eu digo os 'pH' porque estamos em 1926: em tempo de Le Tantec eu falaria de tens˜ao osm´otica)."
+De tudo que temos visto até agora podemos concluir que as diversas interpretações filosóficas da Matemática (racionalismo, apriorismo, realismo, intuicionismo, etc.) giram em torno, basicamente, do problema da " existência matemática". Qual a natureza dos entes matemáticos? Seus conceitos fundamentais são derivados diretamente da experiência, da atividade humana? Como se desenvolve a Matemática? Fixando-se exclusivamente em um dos aspectos da Matemática e relegando a segundo plano as origens humildes dessa ciência, alguns desses teóricos se esquecem das enormes aplicações da Matemática, da natureza operacional de seus conceitos, pois a cada um desses conceitos há de juntar-se seu correspondente conteúdo, sob pena de transformar-se essa ciência num formalismo oco e vazio, brinquedo de uns poucos diletantes intelectuais. Esta " batalha entre gatos e cães – matemáticos", no dizer de Albert Einstein parece não ter fim e nos faz lembrar as palavras do matemático francês Jacques Hadamard (1865-1963): " ali onde a influência reguladora da experiência não intervém, as diferenças pré-existentes – subsistem, diferenças irredutíveis, diferenças psicológicas, sem dúvida. Quem sabe entre Monsieur Lebesgue e eu as divergências entre o empirismo e o idealismo não provêm de algumas diferenças entre o pH de tal ou qual categoria de células? (Eu digo os 'pH' porque estamos em 1926: em tempo de Le Tantec eu falaria de tensão osmótica)."
 
-# 6. Demonstra¸c˜oes Diretas e outras demonstra¸c˜oes
+# 6. Demonstrações Diretas e outras demonstrações
 
-Consideremos a inclus˜ao H ⊃ T, sendo H e T duas proposi¸c˜oes. Nesta inclus˜ao temos:
+Consideremos a inclusão H ⊃ T, sendo H e T duas proposições. Nesta inclusão temos:
 
-H ´e a hip´otese T ´e a tese
+H é a hipótese T é a tese
 
-As demonstra¸c˜oes que partem dessa inclus˜ao s˜ao denominadas de demonstra¸c˜oes diretas. Mais adiante voltaremos a desenvolver este assunto; antes, por´em, recordemos alguns fatos intimamente ligados `a implica¸c˜ao.
+As demonstrações que partem dessa inclusão são denominadas de demonstrações diretas. Mais adiante voltaremos a desenvolver este assunto; antes, porém, recordemos alguns fatos intimamente ligados à implicação.
 
 ## NEMOC - NUCLEO DE EDUCAC¸ ´ AO MATEM ˜ ATICA OMAR CATUNDA ´
 
-Folhetim Educ. Mat., Feira de Santana, Ano 19, N´umero 169, nov./dez. 2012 - Editores: In´acio, Grilo e Traz´ıbulo - Digita¸c˜ao: Josenildes Oliveira Venas Almeida e Manoel Aquino dos Santos - Editora¸c˜ao: Evandro Vaz e Nivaldo Assis - Impress˜ao: Imprensa Gr´afica Universit´aria - Periodicidade: bimestral - Tiragem: 1.500 exemplares - Distribui¸c˜ao gratuita - Endere¸co: Avenida Transnordestina s/n, M´odulo Prof. Carloman Carlos Borges, bairro Novo Horizonte, Feira de Santana, BA, Brasil. CEP 44.036-900. - Telefone: (75)3161-8115 - Fax: (75)3161-8086 - E-mail: nemoc@uefs.br - Home-Page: www.uefs.br/nemoc
+Folhetim Educ. Mat., Feira de Santana, Ano 19, Número 169, nov./dez. 2012 - Editores: Inácio, Grilo e Trazíbulo - Digitação: Josenildes Oliveira Venas Almeida e Manoel Aquino dos Santos - Editoração: Evandro Vaz e Nivaldo Assis - Impressão: Imprensa Gráfica Universitária - Periodicidade: bimestral - Tiragem: 1.500 exemplares - Distribuição gratuita - Endereço: Avenida Transnordestina s/n, Módulo Prof. Carloman Carlos Borges, bairro Novo Horizonte, Feira de Santana, BA, Brasil. CEP 44.036-900. - Telefone: (75)3161-8115 - Fax: (75)3161-8086 - E-mail: nemoc@uefs.br - Home-Page: www.uefs.br/nemoc
 
-Dada a proposi¸c˜ao condicional H ⇒ T, a ela podemos fazer corresponder trˆes outras proposi¸c˜oes:
+Dada a proposição condicional H ⇒ T, a ela podemos fazer corresponder três outras proposições:
 
 $$T \Rightarrow H$$
 
@@ -54,38 +54,38 @@ $$\sim H \Rightarrow \sim T$$
 
 $$\sim T \Rightarrow \sim H$$
 
-denominadas, respectivamente: rec´ıproca, contr´aria e contrapositiva de H ⇒ T, a qual ´e chamada de direta. Por exemplo, se a proposi¸c˜ao direta ´e "se a = b, ent˜ao a <sup>2</sup> = b <sup>2</sup>", sendo a e b n´umeros reais quaisquer, temos:
+denominadas, respectivamente: recíproca, contrária e contrapositiva de H ⇒ T, a qual é chamada de direta. Por exemplo, se a proposição direta é " se a = b, então a <sup>2</sup> = b <sup>2</sup>", sendo a e b números reais quaisquer, temos:
 
-Proposi¸c˜ao rec´ıproca: "Se a <sup>2</sup> = b 2 , ent˜ao, a = b".
+Proposição recíproca: " Se a <sup>2</sup> = b 2 , então, a = b".
 
-Proposi¸c˜ao contr´aria: "Se a 6= b, ent˜ao, a <sup>2</sup> 6= b <sup>2</sup>".
+Proposição contrária: " Se a 6= b, então, a <sup>2</sup> 6= b <sup>2</sup>".
 
-Proposi¸c˜ao contrapositiva: "Se a <sup>2</sup> 6= b 2 , ent˜ao, a 6= b".
+Proposição contrapositiva: " Se a <sup>2</sup> 6= b 2 , então, a 6= b".
 
-Neste caso, temos que a proposi¸c˜ao direta ´e verdadeira, igualmente com a contrapositiva, enquanto as outras duas s˜ao falsas. E f´acil mostrar os seguintes ´ fatos ligando essas quatro proposi¸c˜oes:
+Neste caso, temos que a proposição direta é verdadeira, igualmente com a contrapositiva, enquanto as outras duas são falsas. E fácil mostrar os seguintes ´ fatos ligando essas quatro proposições:
 
 - i) o teorema direto equivale ao teorema contrapositivo;
-- ii) o teorema rec´ıproco equivale ao teorema contr´ario.
+- ii) o teorema recíproco equivale ao teorema contrário.
 
-Desses fatos podemos concluir que, para essas quatro proposi¸c˜oes teremos sempre um n´umero par de proposi¸c˜oes verdadeiras.
+Desses fatos podemos concluir que, para essas quatro proposições teremos sempre um número par de proposições verdadeiras.
 
-Exemplo 1. Seja a proposi¸c˜ao verdadeira: "se um triˆangulo ´e equil´atero, ent˜ao, ´e equiˆangulo", a qual chamaremos de direta; temos, ent˜ao, as seguintes proposi¸c˜oes, todas elas verdadeiras:
+Exemplo 1. Seja a proposição verdadeira: " se um triângulo é equilátero, então, é equiângulo", a qual chamaremos de direta; temos, então, as seguintes proposições, todas elas verdadeiras:
 
-Proposi¸c˜ao rec´ıproca: "Se um triˆangulo ´e equiˆangulo, ent˜ao, ´e equil´atero".
+Proposição recíproca: " Se um triângulo é equiângulo, então, é equilátero".
 
-Proposi¸c˜ao contr´aria: "Se um triˆangulo n˜ao ´e equil´atero, ent˜ao, n˜ao ´e equiˆangulo".
+Proposição contrária: " Se um triângulo não é equilátero, então, não é equiângulo".
 
-Proposi¸c˜ao contrapositiva: "Se um triˆangulo n˜ao ´e equiˆangulo, ent˜ao, n˜ao ´e equil´atero".
+Proposição contrapositiva: " Se um triângulo não é equiângulo, então, não é equilátero".
 
-E evidente a importˆancia metodol´ogica das equi- ´ valˆencias (i) e (ii) logo acima e o fato de que para proposi¸c˜ao direta pode ser tomada qualquer uma das quatro proposi¸c˜oes mencionadas.
+E evidente a importância metodológica das equi- ´ valências (i) e (ii) logo acima e o fato de que para proposição direta pode ser tomada qualquer uma das quatro proposições mencionadas.
 
-Outro processo de demonastra¸c˜ao importante ´e o chamado processo construtivo, sobre o qual j´a escrevemos algo nos Folhetins anteriores.
+Outro processo de demonastração importante é o chamado processo construtivo, sobre o qual já escrevemos algo nos Folhetins anteriores.
 
-Estas demonstra¸c˜oes s˜ao baseadas nos princ´ıpios dos intuicionistas, ressurgidos com nova for¸ca por interm´edio dos trabalhos de d'Erret Bishop da Universidade da Calif´ornia, nos Estados Unidos da Am´erica do Norte. Em seu trabalho publicado em 1967, Os Fundamentos das Matem´aticas Construtivas, Bishop apresenta-se com o firme prop´osito de mostrar que os resultados obtidos atrav´es dos m´etodos defendidos pelos intuicionistas nada ficam a dever `aqueles – obtidos pelos formalistas.
+Estas demonstrações são baseadas nos princípios dos intuicionistas, ressurgidos com nova força por intermédio dos trabalhos de d'Erret Bishop da Universidade da Califórnia, nos Estados Unidos da América do Norte. Em seu trabalho publicado em 1967, Os Fundamentos das Matemáticas Construtivas, Bishop apresenta-se com o firme propósito de mostrar que os resultados obtidos através dos métodos defendidos pelos intuicionistas nada ficam a dever àqueles – obtidos pelos formalistas.
 
-Abaixo, damos um exemplo de demonstra¸c˜ao desse tipo.
+Abaixo, damos um exemplo de demonstração desse tipo.
 
-Exemplo 2. Seja o sistema de equa¸c˜oes lineares abaixo:
+Exemplo 2. Seja o sistema de equações lineares abaixo:
 
 $$a_{11}x_1 + a_{12}x_2 + \dots + a_{1n}x_n = b_1$$
 
@@ -94,11 +94,11 @@ $a_{21}x_1 + a_{22}x_2 + \dots + a_{2n}x_n = b_2$ (I)
 
 $$a_{n1}x_1 + a_{n2}x_2 + \dots + a_{nn}x_n = b_n$$
 
-no qual os aij e os b<sup>i</sup> s˜ao constantes reais. Vamos demonstrar o seguinte teorema:
+no qual os aij e os b<sup>i</sup> são constantes reais. Vamos demonstrar o seguinte teorema:
 
-"Se b<sup>1</sup> = b<sup>2</sup> = ... = b<sup>n</sup> = 0 em (I) e o determinante dos coeficientes ´e 4 = 0, ent˜ao o sistema (I) tem uma solu¸c˜ao diferente da trivial".
+" Se b<sup>1</sup> = b<sup>2</sup> = ... = b<sup>n</sup> = 0 em (I) e o determinante dos coeficientes é 4 = 0, então o sistema (I) tem uma solução diferente da trivial".
 
-Demonstra¸c˜ao: Consideremos n = 2. Neste caso, o sistema (I) se reduz ao seguinte:
+Demonstração: Consideremos n = 2. Neste caso, o sistema (I) se reduz ao seguinte:
 
 $$a_{11}x_1 + a_{12}x_2 = 0$$
 
@@ -106,40 +106,40 @@ $$a_{21}x_1 + a_{22}x_2 = 0$$
 
 no qual a11a<sup>22</sup> − a21a<sup>12</sup> = 0.
 
-Se a<sup>11</sup> 6= 0, ent˜ao
+Se a<sup>11</sup> 6= 0, então
 
-x<sup>1</sup> = −a<sup>12</sup> a<sup>11</sup> , x<sup>2</sup> = 1 ´e uma solu¸c˜ao.
+x<sup>1</sup> = −a<sup>12</sup> a<sup>11</sup> , x<sup>2</sup> = 1 é uma solução.
 
-Se a<sup>21</sup> 6= 0, ent˜ao:
+Se a<sup>21</sup> 6= 0, então:
 
-x<sup>1</sup> = −a<sup>22</sup> a<sup>21</sup> , x<sup>2</sup> = 1 ´e uma solu¸c˜ao.
+x<sup>1</sup> = −a<sup>22</sup> a<sup>21</sup> , x<sup>2</sup> = 1 é uma solução.
 
 Finalmente, a<sup>11</sup> = a<sup>21</sup> = 0 vem:
 
-x<sup>1</sup> = 1 e x<sup>2</sup> = 0 ´e uma solu¸c˜ao e o teorema est´a demonstrado.
+x<sup>1</sup> = 1 e x<sup>2</sup> = 0 é uma solução e o teorema está demonstrado.
 
-Coment´arios: Observemos que as solu¸c˜oes expl´ıcitas mencionadas foram todas elas constru´ıdas, e esta possibilidade ´e a caracter´ıstica fundamental desse m´etodo. Naturalmente, tal possibilidade pode ser ampliada para sistemas maiores (n = 3, 4, etc.). Para os construtivistas, o infinito ´e a "possibilidade de uma constru¸c˜ao mental ilimitada" e, segundo Henri Poincar´e, um de seus eminentes representantes: "A Matem´atica progride por constru¸c˜oes"; ela "constr´oi combina¸c˜oes cada vez mais complicadas. Entretanto, para ser ´util, para representar mais que um desnecess´ario esfor¸co da mente, para poder servir de trampolim a qualquer um que queira subir, a constru¸c˜ao deve possuir sobretudo uma qualidade que permita reconhecer nela algo mais que o simples amontoado de elementos. Mais precisamente, deve-se reconhecer a vantagem nisto: ´e prefer´ıvel contemplar a constru¸c˜ao a contemplar os elementos isolados". Observe que, como podemos apresentar demonstra¸c˜oes an´alogas para sistemas nos quais n = 3, 4, etc., conclu´ımos da simples demonstra¸c˜ao para n = 2 que o teorema foi demonstrado. Na demonstra¸c˜ao ´ultima que demos de que o conjunto dos n´umeros primos ´e infinito, o procedimento empregado ´e o mesmo: gradualmente s˜ao constru´ıdos n´umeros primos, sendo a possibilidade dessas constru¸c˜oes mentais ilimitadas. O car´ater operacional das demonstra¸c˜oes construtivistas parece evidente e sobre isso voltaremos a falar. Finalmente notemos que, se escolhemos n = 2, o fizemos por quest˜oes de simplicidade, usando um dos princ´ıpios da investiga¸c˜ao cient´ıfica: o emprego de exemplos simples na investiga¸c˜ao de resultados gerais. Outro tipo de demonstra¸c˜ao ´e baseada na "Regra de Separa¸c˜ao de Casos", tamb´em conhecida como "Regra de Disjun¸c˜ao de Casos". Como mencionamos anteriormente, a correspondente tautologia ´e a seguinte:
+Comentários: Observemos que as soluções explícitas mencionadas foram todas elas construídas, e esta possibilidade é a característica fundamental desse método. Naturalmente, tal possibilidade pode ser ampliada para sistemas maiores (n = 3, 4, etc.). Para os construtivistas, o infinito é a " possibilidade de uma construção mental ilimitada" e, segundo Henri Poincaré, um de seus eminentes representantes: " A Matemática progride por construções"; ela " constrói combinações cada vez mais complicadas. Entretanto, para ser útil, para representar mais que um desnecessário esforço da mente, para poder servir de trampolim a qualquer um que queira subir, a construção deve possuir sobretudo uma qualidade que permita reconhecer nela algo mais que o simples amontoado de elementos. Mais precisamente, deve-se reconhecer a vantagem nisto: é preferível contemplar a construção a contemplar os elementos isolados". Observe que, como podemos apresentar demonstrações análogas para sistemas nos quais n = 3, 4, etc., concluímos da simples demonstração para n = 2 que o teorema foi demonstrado. Na demonstração última que demos de que o conjunto dos números primos é infinito, o procedimento empregado é o mesmo: gradualmente são construídos números primos, sendo a possibilidade dessas construções mentais ilimitadas. O caráter operacional das demonstrações construtivistas parece evidente e sobre isso voltaremos a falar. Finalmente notemos que, se escolhemos n = 2, o fizemos por questões de simplicidade, usando um dos princípios da investigação científica: o emprego de exemplos simples na investigação de resultados gerais. Outro tipo de demonstração é baseada na " Regra de Separação de Casos", também conhecida como " Regra de Disjunção de Casos". Como mencionamos anteriormente, a correspondente tautologia é a seguinte:
 
-[(p ⇒ q) ∧ (∼ p ⇒ q)]⇒ q e a regra l´ogica associada diz o seguinte:
+[(p ⇒ q) ∧ (∼ p ⇒ q)]⇒ q e a regra lógica associada diz o seguinte:
 
-"Se dentro de uma teoria T, (P ⇒ Q) ´e verdadeiro e (∼ P ⇒ Q) ´e verdadeiro, ent˜ao Q ´e verdadeiro dentro dessa teoria". O exemplo abaixo dever´a ilustrar essa regra.
+" Se dentro de uma teoria T, (P ⇒ Q) é verdadeiro e (∼ P ⇒ Q) é verdadeiro, então Q é verdadeiro dentro dessa teoria". O exemplo abaixo deverá ilustrar essa regra.
 
 Exemplo 3. Considere A, B, C subconjuntos de um conjunto E. Mostrar que:
 
 $$\left\{ \begin{array}{lll} A \cup B & \subset & A \cup C & (1) \\ & & & \Rightarrow & B \subset C \\ A \cap B & \subset & A \cap C & (2) \end{array} \right.$$
 
-Temos de mostrar que todo x pertencente a B tamb´em pertence a C; seja x ∈ B.
+Temos de mostrar que todo x pertencente a B também pertence a C; seja x ∈ B.
 
-Se x ∈ A, ent˜ao x ∈ A ∩ B e, conforme (2): x ∈ A ∩ C, donde x ∈ C.
+Se x ∈ A, então x ∈ A ∩ B e, conforme (2): x ∈ A ∩ C, donde x ∈ C.
 
-Se x 6∈ A, ent˜ao x ∈ A ∪ B e, conforme (1): x ∈ A ∪ C, donde x ∈ C (pois x 6∈ A).
+Se x 6∈ A, então x ∈ A ∪ B e, conforme (1): x ∈ A ∪ C, donde x ∈ C (pois x 6∈ A).
 
-Em ambos os casos, se x ∈ B, ent˜ao x ∈ C, donde B ⊂ C.
+Em ambos os casos, se x ∈ B, então x ∈ C, donde B ⊂ C.
 
-A Matem´atica: suas origens, seu objeto e seus m´etodos. (Continua¸c˜ao)
+A Matemática: suas origens, seu objeto e seus métodos. (Continuação)
 
-## 29<sup>o</sup> Col´oquio Brasileiro de Matem´atica
+## 29<sup>o</sup> Colóquio Brasileiro de Matemática
 
-O IMPA realizar´a no per´ıodo de 21 de julho a 02 de agosto de 2013 o 29<sup>o</sup> Col´oquio Brasileiro de Matem´atica. O Col´oquio Brasileiro de Matem´atica ´e uma ampla reuni˜ao cient´ıfica organizada pelo IMPA congregando bianualmente cerca de 1000 estudantes e pesquisadores das diversas ´areas existentes do pa´ıs, em Matem´atica, Matem´atica Aplicada e Estat´ıstica. Tem representado um dos mais significativos elos de unidade da Matem´atica Brasileira, ao longo de quase quatro d´ecadas de existˆencia. Durante o Col´oquio s˜ao oferecidos cursos introdut´orios e avan¸cados, cujos professores preparam textos especialmente para este fim. O programa oferece tamb´em conferˆencias de diversos tipos: conferˆencias plen´arias, de car´ater geral e proferidas por destacados matem´aticos, conferˆencias de divulga¸c˜ao cient´ıfica, conferˆencias especializadas e comunica¸c˜oes. Para maiores informa¸c˜oes: www.impa.br
+O IMPA realizará no período de 21 de julho a 02 de agosto de 2013 o 29<sup>o</sup> Colóquio Brasileiro de Matemática. O Colóquio Brasileiro de Matemática é uma ampla reunião científica organizada pelo IMPA congregando bianualmente cerca de 1000 estudantes e pesquisadores das diversas áreas existentes do país, em Matemática, Matemática Aplicada e Estatística. Tem representado um dos mais significativos elos de unidade da Matemática Brasileira, ao longo de quase quatro décadas de existência. Durante o Colóquio são oferecidos cursos introdutórios e avançados, cujos professores preparam textos especialmente para este fim. O programa oferece também conferências de diversos tipos: conferências plenárias, de caráter geral e proferidas por destacados matemáticos, conferências de divulgação científica, conferências especializadas e comunicações. Para maiores informações: www.impa.br
 
-Envie para cada Folhetim um selo de postagem nacional de 1<sup>o</sup> porte. Dentro de no m´aximo quatro semanas, contadas a partir da data de recebimento do seu pedido, vocˆe receber´a os folhetins solicitados. OBS.: E´ permitida a reprodu¸c˜ao total ou parcial deste Folhetim, desde que citada a fonte.
+Envie para cada Folhetim um selo de postagem nacional de 1<sup>o</sup> porte. Dentro de no máximo quatro semanas, contadas a partir da data de recebimento do seu pedido, você receberá os folhetins solicitados. OBS.: E´ permitida a reprodução total ou parcial deste Folhetim, desde que citada a fonte.

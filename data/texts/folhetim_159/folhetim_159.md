@@ -1,30 +1,30 @@
 ![](_page_0_Picture_1.jpeg)
 
-Folhetim Educ. Mat., Feira de Santana, Ano 17, N´umero 159, mar./abr., 2011 ISSN 1415-8779
+Folhetim Educ. Mat., Feira de Santana, Ano 17, Número 159, mar./abr., 2011 ISSN 1415-8779
 
-Este Folhetim ´e um ve´ıculo de divulga¸c˜ao, circula¸c˜ao de ideias e de est´ımulo ao estudo e `a curiosidade intelectual. Dirige-se a todos os interessados pelos aspectos pedag´ogicos, filos´oficos e hist´oricos da Matem´atica. Pretende construir uma ponte para unir os que est˜ao pr´oximos e os que est˜ao distantes.
+Este Folhetim é um veículo de divulgação, circulação de ideias e de estímulo ao estudo e à curiosidade intelectual. Dirige-se a todos os interessados pelos aspectos pedagógicos, filosóficos e históricos da Matemática. Pretende construir uma ponte para unir os que estão próximos e os que estão distantes.
 
-Prosseguimos com a transcri¸c˜ao das notas intituladas "A Matem´atica: suas origens, seu objeto e seus m´etodos - Parte I", de autoria do professor Carloman. Neste n´umero, o nosso professor em´erito continua sua explana¸c˜ao sobre a L´ogica Cl´assica, adentrando no silogismo. A Geometria Euclidiana reaparece nos exemplos, clarificando ainda mais a exposi¸c˜ao.
+Prosseguimos com a transcrição das notas intituladas "A Matemática: suas origens, seu objeto e seus métodos - Parte I", de autoria do professor Carloman. Neste número, o nosso professor emérito continua sua explanação sobre a Lógica Clássica, adentrando no silogismo. A Geometria Euclidiana reaparece nos exemplos, clarificando ainda mais a exposição.
 
-Registramos que no ´ultimo dia 11 de mar¸co, o professor Carloman completaria 80 anos. Na ocasi˜ao, o grupo de amigos do professor Carloman prestou mais uma singela homenagem. Outras homenagens dever˜ao ocorrer neste ano: o NEMOC, por exemplo, pretende realizar eventos cient´ıficos cujos temas estejam ligados ao legado do nosso saudoso professor.
+Registramos que no último dia 11 de março, o professor Carloman completaria 80 anos. Na ocasião, o grupo de amigos do professor Carloman prestou mais uma singela homenagem. Outras homenagens deverão ocorrer neste ano: o NEMOC, por exemplo, pretende realizar eventos científicos cujos temas estejam ligados ao legado do nosso saudoso professor.
 
 Carloman Carlos Borges (UEFS) - in memoriam
 
-In´acio de Sousa Fadigas (UEFS)
+Inácio de Sousa Fadigas (UEFS)
 
 Marcos Grilo Rosa (UEFS)
 
-Traz´ıbulo Henrique (UEFS)
+Trazíbulo Henrique (UEFS)
 
-A Matem´atica: suas origens, seu objeto e seus m´etodos (continua¸c˜ao)
+A Matemática: suas origens, seu objeto e seus métodos (continuação)
 
 Carloman Carlos Borges
 
-## 2.1 L´ogica (continua¸c˜ao)
+## 2.1 Lógica (continuação)
 
-Tanto na constru¸c˜ao da Aritm´etica como da Geometria vimos que ambas nasceram de necessidades pr´aticas; seus primeiros conceitos foram abstra´ıdos de uma realidade bem concreta; neste processo houve a participa¸c˜ao direta de fatos reais, de milhares de "registros" sensoriais e da capacidade criadora da raz˜ao humana; da observa¸c˜ao e do manuseio de milhares de situa¸c˜oes objetivas e de seu reflexo no c´erebro humano formaram-se os princ´ıpios l´ogicos ou as leis b´asicas da raz˜ao humana sobre as quais falamos anteriormente (ver Folhetim n <sup>o</sup> 158). Nada disto ´e estranho, pois desde o tempo de Paul Broca, meados do s´eculo XIX, que a ciˆencia vem dando precisas indica¸c˜oes sobre a localiza¸c˜ao de determinadas atividades cerebrais em regi˜oes bem precisas do c´erebro. O pr´oprio Broca foi o descobridor da "´area de Broca" - regi˜ao da terceira circunvolu¸c˜ao do lobo frontal esquerdo do c´ortex cerebral e na qual est´a localizada a linguagem articulada, em sua grande parte.
+Tanto na construção da Aritmética como da Geometria vimos que ambas nasceram de necessidades práticas; seus primeiros conceitos foram abstraídos de uma realidade bem concreta; neste processo houve a participação direta de fatos reais, de milhares de " registros" sensoriais e da capacidade criadora da razão humana; da observação e do manuseio de milhares de situações objetivas e de seu reflexo no cérebro humano formaram-se os princípios lógicos ou as leis básicas da razão humana sobre as quais falamos anteriormente (ver Folhetim n <sup>o</sup> 158). Nada disto é estranho, pois desde o tempo de Paul Broca, meados do século XIX, que a ciência vem dando precisas indicações sobre a localização de determinadas atividades cerebrais em regiões bem precisas do cérebro. O próprio Broca foi o descobridor da " área de Broca" - região da terceira circunvolução do lobo frontal esquerdo do córtex cerebral e na qual está localizada a linguagem articulada, em sua grande parte.
 
-Provavelmente, um dos primeiros m´etodos empregados na Matem´atica tenha sido o da indu¸c˜ao: em um primeiro momento, resultados gerais s˜ao obtidos a partir da observa¸c˜ao de muitos e muitos casos particulares. A este processo do conhecimento, formado a partir do particular, d´a-se o nome de indu¸c˜ao. Fazemos indu¸c˜ao, por exemplo, quando, dada uma progress˜ao aritm´etica de termo a<sup>1</sup> e raz˜ao r observamos:
+Provavelmente, um dos primeiros métodos empregados na Matemática tenha sido o da indução: em um primeiro momento, resultados gerais são obtidos a partir da observação de muitos e muitos casos particulares. A este processo do conhecimento, formado a partir do particular, dá-se o nome de indução. Fazemos indução, por exemplo, quando, dada uma progressão aritmética de termo a<sup>1</sup> e razão r observamos:
 
 $$a_2 = a_1 + r$$
 $a_2 = a_1 + r$  
@@ -35,37 +35,37 @@ para finalmente, concluir que:
 
 $$a_n = a_1 + (n-1)r$$
 
-No processo de indu¸c˜ao, o conhecimento come¸ca a formarse a partir da observa¸c˜ao de casos particulares e suas rela¸c˜oes rec´ıprocas para, em seguida, atingir uma propriedade geral que evidencie as regularidades b´asicas surgidas nos diversos casos particulares. Este ´e um dos procedimentos b´asicos na aquisi¸c˜ao do conhecimento. Outro caminho empregado por n´os na aquisi¸c˜ao de conhecimentos consiste em, dadas determinadas leis gerais, delas extrairmos um certo ju´ızo. Em Matem´atica, com uma determinada axiom´atica, a mais geral poss´ıvel, produzimos os teoremas que s˜ao verdades menos gerais do que as contidas na axiom´atica. A esta via de conhecimento damos o nome de dedu¸c˜ao, e a este m´etodo de conhecimento, m´etodo de obter verdades, d´a-se o nome de "m´etodo dedutivo". Surge, ent˜ao, a quest˜ao: como temos certeza da verdade dos teoremas? O que garante essa veracidade ´e o fato de que, na dedu¸c˜ao, por meio de racioc´ınios corretos, empregamos determinadas leis gerais - os axiomas, etc. - a casos particulares. Temos, ent˜ao, o seguinte esquema:
+No processo de indução, o conhecimento começa a formarse a partir da observação de casos particulares e suas relações recíprocas para, em seguida, atingir uma propriedade geral que evidencie as regularidades básicas surgidas nos diversos casos particulares. Este é um dos procedimentos básicos na aquisição do conhecimento. Outro caminho empregado por nós na aquisição de conhecimentos consiste em, dadas determinadas leis gerais, delas extrairmos um certo juízo. Em Matemática, com uma determinada axiomática, a mais geral possível, produzimos os teoremas que são verdades menos gerais do que as contidas na axiomática. A esta via de conhecimento damos o nome de dedução, e a este método de conhecimento, método de obter verdades, dá-se o nome de " método dedutivo". Surge, então, a questão: como temos certeza da verdade dos teoremas? O que garante essa veracidade é o fato de que, na dedução, por meio de raciocínios corretos, empregamos determinadas leis gerais - os axiomas, etc. - a casos particulares. Temos, então, o seguinte esquema:
 
-- a) leis gerais verdadeiras: a axiom´atica.
-- b) racioc´ınios l´ogicos.
-- c) conclus˜oes menos gerais verdadeiras.
+- a) leis gerais verdadeiras: a axiomática.
+- b) raciocínios lógicos.
+- c) conclusões menos gerais verdadeiras.
 
-Tudo se passa da seguinte maneira quando se trata de uma teoria axiomatizada: as verdades dos teoremas j´a est˜ao "dentro" dos pr´oprios axiomas; cabe ao racioc´ınio, `a imagina¸c˜ao criadora e a outras faculdades da mente explicitar tais verdades; neste sentido ´e que se diz ser a Matem´atica uma imensa tautologia, pois as verdades dos teoremas j´a se encontram nos axiomas, apenas revestidas de formas diferentes. Claramente que neste sentido n˜ao somente a Matem´atica mas, qualquer outra teoria dedutiva ´e tautol´ogica. Por´em, como bem escreve o matem´atico francˆes Andr´e Revuz (Matem´atica Moderna, Matem´atica Viva - Fundo de Cultura): "Nota-se, contudo, que embora esta afirma¸c˜ao seja verdadeira para um esp´ırito capaz de conceber instantaneamente todas as consequˆencias dos axiomas, ela n˜ao o ´e na pr´atica, relativamente ao homem normal, o qual s´o ao cabo de ingentes esfor¸cos poder´a deduzir as conclus˜oes que lhe s˜ao ´uteis. E ´e falsa a afirma¸c˜ao, tanto na teoria como na pr´atica, quanto `a totalidade da Matem´atica, que se mant´em amplamente aberta e sempre incompleta, porque sempre poder´a criar teorias completamente novas". Sim, sempre poder´a criar teorias novas - acrescentamos n´os - atrav´es de novas axiom´aticas.
+Tudo se passa da seguinte maneira quando se trata de uma teoria axiomatizada: as verdades dos teoremas já estão " dentro" dos próprios axiomas; cabe ao raciocínio, à imaginação criadora e a outras faculdades da mente explicitar tais verdades; neste sentido é que se diz ser a Matemática uma imensa tautologia, pois as verdades dos teoremas já se encontram nos axiomas, apenas revestidas de formas diferentes. Claramente que neste sentido não somente a Matemática mas, qualquer outra teoria dedutiva é tautológica. Porém, como bem escreve o matemático francês André Revuz (Matemática Moderna, Matemática Viva - Fundo de Cultura): " Nota-se, contudo, que embora esta afirmação seja verdadeira para um espírito capaz de conceber instantaneamente todas as consequências dos axiomas, ela não o é na prática, relativamente ao homem normal, o qual só ao cabo de ingentes esforços poderá deduzir as conclusões que lhe são úteis. E é falsa a afirmação, tanto na teoria como na prática, quanto à totalidade da Matemática, que se mantém amplamente aberta e sempre incompleta, porque sempre poderá criar teorias completamente novas". Sim, sempre poderá criar teorias novas - acrescentamos nós - através de novas axiomáticas.
 
-Algumas formas de racioc´ınio podem ser "visualizadas" atrav´es dos chamados diagramas de Euler-Venn; abaixo, alguns diagramas correspondentes `as proposi¸c˜oes b´asicas de Arist´oteles:
+Algumas formas de raciocínio podem ser " visualizadas" através dos chamados diagramas de Euler-Venn; abaixo, alguns diagramas correspondentes às proposições básicas de Aristóteles:
 
-A : Todos os X s˜ao Y
+A : Todos os X são Y
 
 ![](_page_1_Picture_9.jpeg)
 
-E : Nenhum X ´e Y
+E : Nenhum X é Y
 
 ![](_page_1_Picture_11.jpeg)
 
-I : Algum X ´e Y
+I : Algum X é Y
 
 ![](_page_1_Picture_13.jpeg)
 
 ## NEMOC - NUCLEO DE EDUCAC¸ ´ AO MATEM ˜ ATICA OMAR CATUNDA ´
 
-Folhetim Educ. Mat., Feira de Santana, Ano 17, N´umero 159, mar./abr. 2011 - Editores: In´acio, Grilo e Traz´ıbulo - Digita¸c˜ao: Josenildes Oliveira Venas Almeida e Manoel Aquino dos Santos - Editora¸c˜ao: Evandro Vaz e Nivaldo Assis - Impress˜ao: Imprensa Gr´afica Universit´aria - Periodicidade: bimestral - Tiragem: 1.500 exemplares - Distribui¸c˜ao gratuita - Endere¸co: Avenida Transnordestina s/n, M´odulo Prof. Carloman Carlos Borges, bairro Novo Horizonte, Feira de Santana, BA, Brasil. CEP 44.036-900. - Telefone: (75)3224-8115 - Fax: (75)3224-8086 - E-mail: nemoc@uefs.br - Home-Page: www.uefs.br/nemoc
+Folhetim Educ. Mat., Feira de Santana, Ano 17, Número 159, mar./abr. 2011 - Editores: Inácio, Grilo e Trazíbulo - Digitação: Josenildes Oliveira Venas Almeida e Manoel Aquino dos Santos - Editoração: Evandro Vaz e Nivaldo Assis - Impressão: Imprensa Gráfica Universitária - Periodicidade: bimestral - Tiragem: 1.500 exemplares - Distribuição gratuita - Endereço: Avenida Transnordestina s/n, Módulo Prof. Carloman Carlos Borges, bairro Novo Horizonte, Feira de Santana, BA, Brasil. CEP 44.036-900. - Telefone: (75)3224-8115 - Fax: (75)3224-8086 - E-mail: nemoc@uefs.br - Home-Page: www.uefs.br/nemoc
 
-### O : Algum X n˜ao ´e Y
+### O : Algum X não é Y
 
 ![](_page_2_Picture_2.jpeg)
 
-Seja, por exemplo, a conhecida quest˜ao: sendo P o conjunto dos paralelogramos, L o conjunto dos losangos, R o conjunto dos retˆangulos e Q o conjunto dos quadrados, determinar:
+Seja, por exemplo, a conhecida questão: sendo P o conjunto dos paralelogramos, L o conjunto dos losangos, R o conjunto dos retângulos e Q o conjunto dos quadrados, determinar:
 
 - a) L ∩ P
 - b) R ∩ P
@@ -73,35 +73,35 @@ Seja, por exemplo, a conhecida quest˜ao: sendo P o conjunto dos paralelogramos,
 - d) R ∩ Q
 - e) L ∩ R
 
-Da geometria elementar sabemos que paralelogramo ´e o quadril´atero que possui os dois pares de lados opostos respectivamente paralelos. Os seguintes paralelogramos recebem nomes especiais:
+Da geometria elementar sabemos que paralelogramo é o quadrilátero que possui os dois pares de lados opostos respectivamente paralelos. Os seguintes paralelogramos recebem nomes especiais:
 
-- a) Retˆangulo: possui os quatro ˆangulos internos retos;
+- a) Retângulo: possui os quatro ângulos internos retos;
 - b) Losango: os quatro lados possuem o mesmo comprimento;
-- c) Quadrado: ´e o paralelogramo cujo os quatro lados possuem o mesmo comprimento e os quatro ˆangulos internos s˜ao retos.
+- c) Quadrado: é o paralelogramo cujo os quatro lados possuem o mesmo comprimento e os quatro ângulos internos são retos.
 
-Um diagrama de Euler-Venn para a quest˜ao proposta pode ser o seguinte:
+Um diagrama de Euler-Venn para a questão proposta pode ser o seguinte:
 
 ![](_page_2_Picture_14.jpeg)
 
-Uma simples inspe¸c˜ao visual leva-nos `as respostas: a) L; b) R; c) Q; d) Q; e) Q. Consideremos, agora, a
+Uma simples inspeção visual leva-nos às respostas: a) L; b) R; c) Q; d) Q; e) Q. Consideremos, agora, a
 
-seguinte argumenta¸c˜ao: "Em todos os retˆangulos as diagonais s˜ao iguais entre si; todos os quadrados s˜ao retˆangulos; conclus˜ao: em todos os quadrados as diagonais s˜ao iguais entre si". Designemos por Q, a classe mais extensa (os quadril´ateros), a classe intermedi´aria (os retˆangulos) pela letra R, e finalmente a classe menor (os quadrados) pela letra Q. Esquematicamente, temos:
+seguinte argumentação: " Em todos os retângulos as diagonais são iguais entre si; todos os quadrados são retângulos; conclusão: em todos os quadrados as diagonais são iguais entre si". Designemos por Q, a classe mais extensa (os quadriláteros), a classe intermediária (os retângulos) pela letra R, e finalmente a classe menor (os quadrados) pela letra Q. Esquematicamente, temos:
 
-- 1. Todo R ´e Q.
-- 2. Todo Q ´e R.
-- 3. Conclus˜ao: todo Q ´e Q.
+- 1. Todo R é Q.
+- 2. Todo Q é R.
+- 3. Conclusão: todo Q é Q.
 
 Pelo diagrama de Euler-Venn, tem-se:
 
 ![](_page_2_Picture_21.jpeg)
 
-Em L´ogica Formal, o racioc´ınio formado por trˆes proposi¸c˜oes: a primeira chamada de premissa maior, a segunda, premissa menor e a terceira, conclus˜ao, d´a-se o nome de silogismo. Exemplos de silogismos s˜ao os mencionados acima. Todo silogismo pode ser colocado na forma condicional: Se, ..., ent˜ao, ... . Ali´as, qualquer argumento corresponde a um enunciado condicional cujo antecedente ´e formado pela conjun¸c˜ao de todas as premissas e o consequente ´e formado pela conclus˜ao do argumento. Da´ı, decorre a importˆancia do seu estudo. Consideremos, exemplificando, o argumento:
+Em Lógica Formal, o raciocínio formado por três proposições: a primeira chamada de premissa maior, a segunda, premissa menor e a terceira, conclusão, dá-se o nome de silogismo. Exemplos de silogismos são os mencionados acima. Todo silogismo pode ser colocado na forma condicional: Se, ..., então, ... . Aliás, qualquer argumento corresponde a um enunciado condicional cujo antecedente é formado pela conjunção de todas as premissas e o consequente é formado pela conclusão do argumento. Daí, decorre a importância do seu estudo. Consideremos, exemplificando, o argumento:
 
-Se Paulo ´e estudante, ent˜ao ele estuda. Paulo ´e estudante.
+Se Paulo é estudante, então ele estuda. Paulo é estudante.
 
-Conclus˜ao: Paulo estuda.
+Conclusão: Paulo estuda.
 
-Este argumento poder´a ser assim esquematizado:
+Este argumento poderá ser assim esquematizado:
 
 $$P \Longrightarrow M$$
 
