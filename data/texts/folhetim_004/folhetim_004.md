@@ -53,11 +53,9 @@ Consideremos, agora, as duas figuras abaixo:
 
 ![](_page_2_Picture_1.jpeg)
 
-Qualquer pessoa de ''bom senso'' dirá imediatamente: não há nenhuma coisa em comum a essas duas figuras. A fig. 3 é uma "deformação" da fig. 2 e pode lembrar tudo, menos o retângulo da fig. 2. No entanto, um exame mais atento revela o seguinte: apesar de toda a "deformação" apresentada pela fig. 3 em relação à fig. 2, algumas propriedades permaneceram invariantes pela distorção. Quais são elas? Observe que em ambas as figuras, os pontos E, D e F permanecem, respectivamente, entre os pontos A e C, B e F, C e D. Apesar, pois, de toda a sua distorção, a fig. 3 conserva, para os pontos citados, a mesma ordem dentro da qual eles se apresentam na fig.2. Aqui, estamos na presença de uma transformação topológica, uma vez que a transformação que levou a figura retangular à seguinte conservou a ordem dos pontos citados, embora não tenha conservado a retidão dos lados e os ângulos tenham sofrido alterações profundas.
+Qualquer pessoa de "bom senso" dirá imediatamente: não há nenhuma coisa em comum a essas duas figuras. A fig. 3 é uma "deformação" da fig. 2 e pode lembrar tudo, menos o retângulo da fig. 2. No entanto, um exame mais atento revela o seguinte: apesar de toda a "deformação" apresentada pela fig. 3 em relação à fig. 2, algumas propriedades permaneceram invariantes pela distorção. Quais são elas? Observe que em ambas as figuras, os pontos E, D e F permanecem, respectivamente, entre os pontos A e C, B e F, C e D. Apesar, pois, de toda a sua distorção, a fig. 3 conserva, para os pontos citados, a mesma ordem dentro da qual eles se apresentam na fig.2. Aqui, estamos na presença de uma transformação topológica, uma vez que a transformação que levou a figura retangular à seguinte conservou a ordem dos pontos citados, embora não tenha conservado a retidão dos lados e os ângulos tenham sofrido alterações profundas.
 
-Consideremos outra transformação, aquela que transforma um círculo em um oito. Esta transformação é topológica? Observe que podemos ter no circulo dois
-
-pontos distintos A e B, os quais, após a transformação, podem se apresentar no oito, em contacto; logo, tratase de uma transformação que não transforma todos os pontos distintos do círculo em pontos distintos na segunda figura (o oito). Portanto, não é uma transformação topológica. Imaginemos uma bola de couro e recalquemos uma parte de sua superficie. Pode-se apresentar duas situações:
+Consideremos outra transformação, aquela que transforma um círculo em um oito. Esta transformação é topológica? Observe que podemos ter no circulo dois pontos distintos A e B, os quais, após a transformação, podem se apresentar no oito, em contacto; logo, tratase de uma transformação que não transforma todos os pontos distintos do círculo em pontos distintos na segunda figura (o oito). Portanto, não é uma transformação topológica. Imaginemos uma bola de couro e recalquemos uma parte de sua superficie. Pode-se apresentar duas situações:
 
 - a) o recalque provoca na superficie apenas um pequeno rebaixamento. Não há rompimento do couro.
 - b) o recalque provoca na superficie um buraco; o couro foi rompido.
@@ -77,5 +75,3 @@ Resposta: Pode Inicialmente, observe que este jogo possui "quatro cantos", "quat
 De todas as três possíveis aberturas a mais perigosa é o canto. O jogador B somente evitará, no lance seguinte, de cair numa armadilha, se escolher o centro. Na modalidade apresentada acima, o número de jogadas possíveis apenas para os seis primeiros movimentos é muito grande: 60.480 (9x8x7x6x5x4) sequências diferentes.
 
 Na sua obra Arte de Amar, Ovidio aconselha às mulheres a aprendizagem deste jogo, a fim de, elas, as mulheres, agradarem aos homens...
-
-SELO
