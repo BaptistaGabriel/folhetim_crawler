@@ -24,7 +24,7 @@ Fax: (075) 224.2284
 
 Este Folhetim é um veiculo de divulgação, circulação de idéias e de estímulo ao estudo e à curiosidade intelectual. Dirige-se a todos os interessados pelos aspectos pedagógicos, filosóficos e históricos da Matemática. Pretende construir uma ponte para unir os que estão próximos e os que estão distantes.
 
-## Comité Editorial
+## Comitê Editorial
 
 Carloman Carlos Borges (Doutor) Inácio de S. Fadigas (Mestre) Wilson Pereira de Jesus (Mestre)
 
