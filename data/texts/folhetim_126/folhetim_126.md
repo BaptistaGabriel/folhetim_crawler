@@ -16,7 +16,7 @@ Nos últimos 2 ou 3 meses inúmeras pessoas têm nos procurado para saber do _Fo
 
 Há muito o que escrever sobre o ensino da Matemática ; por isso mesmo o presente _Folhetim é_ a continuidade de números anteriores. Nele, o leitor vai entender, com bastante clareza, a distinção entre significado e significante, e sua importância no ensino.
 
-# **COMITÉ EDITORIAL**
+# **COMITÊ EDITORIAL**
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 

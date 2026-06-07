@@ -20,7 +20,7 @@ No presente Folhetim, o prof. Carloman Borges, retoma, numa abordagem atual, o p
 
 É gratificante saber que nosso Folhetim desperta o interesse também de pessoas de outras áreas.
 
-# COMITÉ EDITORIAL
+# COMITÊ EDITORIAL
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 
@@ -38,7 +38,7 @@ $"3" \neq "2 + 1"$ .
 
 Na primeira fórmula estão símbolos designativos de certos números e nela não figuram nomes de tais símbolos; na segunda empregamos os nomes de tais símbolos e é claro que o símbolo "3" é diferente do símbolo "2+1". Salientamos: na primeira fórmula 3 = 2 + 1 fazemos referência ao número inteiro 3, enquanto na segunda expressão fazemos referência aos símbolos "3" e "2 + 1". Conclusão do exposto: é importante distinguir entre a identidade de objetos da identidade de suas designações. Um mesmo objeto pode ser designado de maneiras diferentes. Mais um exemplo:
 
-1. Maria é uma mulher.
+- 1. Maria é uma mulher.
 
 - 2. Maria tem cinco letras.
 - 3. "Maria" é uma mulher.
@@ -64,7 +64,7 @@ tarefa é deixada a cargo de alguns espertos e sabidos, divulgadores de tolices,
 
 1ª diferença: quando aprendo um idioma estrangeiro, o Francês, por exemplo, eu já tenho um mundo de significados; sei, exemplificando, o que é uma mesa e devo aprender que ela é simbolizada como table. Quando o aluno aprende Matemática, ele necessita de dominar símbolos novos (exemplos: função, logaritmo, etc.) como, também, seus significados;
 
-<u>2ª diferença:</u> dado o caráter discreto e combinatório da linguagem natural, ela é incapaz de descrever processos que apresentem _gradações contínuas_; o lugar certo para esse tipo de descrições é a linguagem matemática.
+2ª diferença: dado o caráter discreto e combinatório da linguagem natural, ela é incapaz de descrever processos que apresentem gradações contínuas; o lugar certo para esse tipo de descrições é a linguagem matemática.
 
 Resta agora, tirar as conclusões pedagógicas de tudo isso, uma vez que nossos professores continuam ensinando a Matemática como é ensinado um idioma estrangeiro. Isso, fica para o próximo Folhetim...
 
@@ -134,9 +134,7 @@ Impressão: Imprensa Gráfica Universitária
 
 Tiragem: 1.200 exemplares
 
-Endereço: Av. Universitária, s/n - km 03
-
-BR 116-Campus Universitário
+Endereço: Av. Universitária, s/n - km 03 BR 116-Campus Universitário
 
 Telefone: (075)224-8115
 

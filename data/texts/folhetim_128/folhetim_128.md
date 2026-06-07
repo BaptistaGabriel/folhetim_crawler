@@ -16,7 +16,7 @@ Inicia-se comeste número o ano 12 do Folhetim de Educação Matemática do NEMO
 
 O presente número é a sequência do tema geral iniciado com o nº 122 sobre alguns aspectos do ensino da matemática. No presente, o raciocínio analítico e o raciocínio intuitivo são discutidos e exemplificados, com relação ao seus empregos no campo do ensino, tanto fundamental quanto médio.
 
-# COMITÉ EDITORIAL
+# COMITÊ EDITORIAL
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 

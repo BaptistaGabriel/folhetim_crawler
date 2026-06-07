@@ -16,7 +16,7 @@ A famosa obra de Euclides de Alexandria está sempre em discussão quando o assu
 
 Quando se relaciona os Elementos à questão do ensino, deve-se ter em mente que não é uma obra escrita para servir de livro texto, embora só se tenha observado isso tardiamente, uma vez que o texto ainda era visado como fiel até meados do século passado; pelo menos entre nós.
 
-## COMITÉ EDITORIAL
+## COMITÊ EDITORIAL
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 

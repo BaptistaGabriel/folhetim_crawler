@@ -1,6 +1,6 @@
 # UNIVERSIDADE ESTADUAL DE FEIRADE SANTANA DEPARTAMENTO DE CIÊNCIAS EXATAS
 
-NEMOC - Núcleo de Educação Matemática OmarCatunda
+NEMOC - Núcleo de Educação Matemática Omar Catunda
 
 Folhetim de Educação Matemática
 
@@ -54,20 +54,14 @@ Um método bastante útil no estudo de determinadas relações entre conjuntos c
 
 Alguns exemplos o ilustrarão:
 
+![alt text](_page_3_Figure.png)
+
 c) Seja comprovar as regras: (A ∪ B)'= (A') ∩ (B'), (A ∩ B)'= (A') ∪ (B').
 Uma simples tabelinha fará a comprovação solicitada:
 
-| PQ  | P Q | (P \( \text{Q} \) | (P') | (Q') | [(P')^(Q')] | (Page | $(P \cap Q)$ | [('P')\_(Q')] |
-| --- | --- | ----------------- | ---- | ---- | ----------- | ----- | ------------ | ------------- |
-| 1 1 | 1   | 0                 | 0    | 0    | 0           | 1     | 0            | 0             |
-| 1 0 | 1   | 0                 | 0    | I.   | 0           | 0     | 1            | 1             |
-| 0 1 |     | 0                 | 1    | 0    | Ü           | 0     | 1            | 1             |
-| 0 0 | 0   | 1                 |      | 1    | 1           | 0     | 1            | 1             |
-|     |     | <u> </u>          |      |      |             |       | <u></u>      |               |
+![alt text](_page_3_Figure_2.png)
 
-Em (b) mostramos que (U') = Ø (lê-se: complementar de U em relação a U é igual ao conjunto vazio) e (Ø') = U (lê-se: complementar do vazio em relação a U é igual a U). As regras mostradas em (c) se traduzem por: $\sim$ (p $\vee$ q) $\Leftrightarrow$ ( $\sim$ p) $\wedge$ ( $\sim$ q) (lê-se: não p ou q é equivalente a não p e não q, $\sim$ (p $\wedge$ q) $\Leftrightarrow$ ( $\sim$ p) $\vee$ ( $\sim$ q) (lê-se: não p e q é equivalente a não p ou não q. Estas regras
-
-facilitam o cálculo na negação de relações complicadas.
+Em (b) mostramos que (U') = Ø (lê-se: complementar de U em relação a U é igual ao conjunto vazio) e (Ø') = U (lê-se: complementar do vazio em relação a U é igual a U). As regras mostradas em (c) se traduzem por: $\sim$ (p $\vee$ q) $\Leftrightarrow$ ( $\sim$ p) $\wedge$ ( $\sim$ q) (lê-se: não p ou q é equivalente a não p e não q, $\sim$ (p $\wedge$ q) $\Leftrightarrow$ ( $\sim$ p) $\vee$ ( $\sim$ q) (lê-se: não p e q é equivalente a não p ou não q. Estas regras facilitam o cálculo na negação de relações complicadas.
 
 Em toda esta exposição o conjunto universal U é o conjunto X dos números reais. Para um dado referencial, X, por exemplo, denomina-se forma proposicional com uma variável, definida sobre X, toda expressão contendo uma variável x e abreviada por p(x) (lê-se: $p \ de \ x$ ) (ou q(x), ou f(x),...) e da qual se obtém uma proposição, para todo valor dado a x pertencente a X. Exemplo: em N (conjunto dos naturais) seja a forma proposicional $x^2$ - 3x + 6 = 0; os valores que a transformam em proposição verdadeira são, claramente, 2 ou 3.
 
@@ -81,9 +75,7 @@ Pode-se, agora, introduzir a noção de quantificador:
 
 Como $P = \emptyset$ equivale a P' = X. obtem-se a regra: $\sim [(\exists x) p(x)] \Leftrightarrow (\forall x) (\sim (p(x)))$ . Como $P \neq X$ equivale a $P' \neq \emptyset$ , obtem-se a regra: $\sim [(\forall x) p(x)] \Leftrightarrow (\exists x) (\sim p(x))$ . Voltando à primeira figura, vimos que $(p \Rightarrow q)$ é logicamente verdadeiro se e somente se seu conjunto verdade é X, ou $(P - Q) = \emptyset$ . Ora, se (P - Q) é vazio, então $P \subset Q$ . Assim $p \Rightarrow q$ é logicamente verdadeiro, se e somente se, $P \subset Q$ . É evidente que se $P \subset Q$ , então $Q' \subset P'$ e reciprocamente, donde: $(p \Rightarrow q) \Leftrightarrow (\sim q \Rightarrow \sim p)$ . Isto significa que uma demonstração envolvendo a implicação $p \Rightarrow q$ , pode ser substituida pela demonstração da veracidade da implicação $\sim q \Rightarrow \sim p$ , o que, aliás, é muito usual em alguns tipos de demonstrações indiretas.
 
-O resumo básico do exposto consiste no seguinte: a cada
-
-proposição corresponde um conjunto-verdade e a cada conective lógico corresponde uma operação de conjunto. Os conjunto $P \cup Q$ , $P \cap Q$ , $P' \in (P - Q)'$ representam, respectivamente, o conjuntos-verdade das proposições $(p \vee q)$ , $(p \wedge q)$ , $(\sim p) \in (p \Rightarrow q)$ . A proposição p é logicamente verdadeira se e soment se seu conjunto-verdade é X.
+O resumo básico do exposto consiste no seguinte: a cada proposição corresponde um conjunto-verdade e a cada conective lógico corresponde uma operação de conjunto. Os conjunto $P \cup Q$ , $P \cap Q$ , $P' \in (P - Q)'$ representam, respectivamente, o conjuntos-verdade das proposições $(p \vee q)$ , $(p \wedge q)$ , $(\sim p) \in (p \Rightarrow q)$ . A proposição p é logicamente verdadeira se e soment se seu conjunto-verdade é X.
 
 Tudo o que acabamos de expor perde muito de seu valor se não for suficientemente contextualizado. Qual o significado de suficientemente contextualizado? Significa simplesmente isto para o estudante de matemática, o estudo da Lógica não é um finem si mesmo; ele deve servir, apenas, para convencer o aluno de veracidade daquilo a ser exposto, quando for o caso exemplificando, uma demonstração por absurdo, tão rejeitada no princípio e no fim, pelo aluno, deve ser precedida da corres pondente justificativa lógica; aqui, porém, a responsabilidad cabe ao professor pois, ele mesmo, nem sempre, conhece esti justificativa lógica. Ainda, como exemplo: seja o sistema,
 
@@ -100,8 +92,8 @@ Se designarmos x = 2 de p, x = 5 de q, x + y = 8 de r, (2) é equivalente, logic
 Ainda, os seguintes exemplos:
 
 - a) Uma relação binária R sobre um conjunto P é reflexiva se: (∀x) (x R x); logo, ela é não reflexiva se: (∃x) (x~Rx).
-  - b) Sendo (a, b, c elementos de N):
-  - (a < b) ⇒ (a = b) tem por negação a < b. Realmente:
+- b) Sendo (a, b, c elementos de N):
+- (a < b) ⇒ (a = b) tem por negação a < b. Realmente:
 
 $(a < b) \Rightarrow (a = b) \Leftrightarrow (a \ge b) \lor (a = b) \Leftrightarrow (a > b) \lor (a = b)$ $\lor (a = b) \Leftrightarrow (a > b) \lor (a = b) \Leftrightarrow (a \ge b)$ . Logo, a negação de $(a < b) \Rightarrow (a = b) \Leftrightarrow$ a negação de $(a \ge b)$ que é (a < b).
 
@@ -113,14 +105,6 @@ $(a < b) \Rightarrow (a = b) \Leftrightarrow (a \ge b) \lor (a = b) \Leftrightar
 
 Para encerrar, um contra-exemplo (aliás, exemplos devem vir sempre acompanhados de contra-exemplos). Após explicada a negação da implicação, considere a frase: "se você for ao cinema então eu fico com Carlos"; sua negação é: Você vai ao cinema e eu não fico com Carlos". Este e outros similares enunciados são apresentados ao aluno como bons exemplos ilustrativos dessa negação. Como se não bastasse, o professor ainda acrescenta: "vocês estão vendo como é importante a Lógica? Sem ela como iríamos fazer tal negação?". Ora bolas, qualquer criança negaria o enunciado, assim: "pode ir ao cinema que eu não vou ficar com Carlos, não". E, felizmente, sem nunca ter estudado a negação lógica de proposições, nossa criança seria muito bem compreendida.
 
-## \* \* \* \*
-
 No próximo número, as respostas para: Uma reta pode ser considerada uma curva?
 
-\*\* \*\* \*\*
-
-Aguardemi
-
-IM PRESSO
-
-SELO
+Aguardem!

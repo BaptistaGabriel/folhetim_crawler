@@ -24,7 +24,7 @@ No editorial do número 59 do Folhetim, onde se lê "falare-mos", leia-se "falar
 
 Pedimos desculpas ao leitor.
 
-# COMITÉ EDITORIAL
+# COMITÊ EDITORIAL
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 

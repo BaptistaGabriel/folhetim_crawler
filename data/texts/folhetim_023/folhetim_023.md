@@ -40,9 +40,7 @@ $$(a-b)^2 = a^2 - [ab + b(a-b)] = a^2 - [ab + ab - b^2] =$$
 
 $$= a^2 - 2ab + b^2.$$
 
-Quanto aos critérios de divisibilidade indicam condições para que um número natural seja divisível por outro, pelo que começamos nossa resposta salientando alguns preliminares. Sabemos que as operações de adição, subtração e multiplicação entre números naturais apresentam como resultados sempre números naturais. Numa linguagem sofisticada, expressamos este fato afirmando que o conjunto dos naturais é fechado em relação às operações mencionadas. O fechamento do conjunto dos números naturais não se verifica
-
-quando a operação é a divisão pois, neste caso, podemos aplicar esta operação a dois números naturais e obter como resultado um número não natural. Em virtude disto, dados dois números naturais e a operação de divisão, devemos imediatamente considerar a seguinte questão: é possível esta operação dentro do conjunto dos números naturais? Com esta pergunta queremos dizer simplesmente isto: o resultado da operação é um número natural? Esta pergunta é respondida com os chamados critérios de divisibilidade. Agora, uma definição: O número a é divisível por b, isto é, b divide a, se existir um número c que satisfaça a igualdade a = bc. Consideremos um número natural como, por exemplo, 25674. Que significa esta representação? Ela é simplesmente a abreviatura do seguinte:
+Quanto aos critérios de divisibilidade indicam condições para que um número natural seja divisível por outro, pelo que começamos nossa resposta salientando alguns preliminares. Sabemos que as operações de adição, subtração e multiplicação entre números naturais apresentam como resultados sempre números naturais. Numa linguagem sofisticada, expressamos este fato afirmando que o conjunto dos naturais é fechado em relação às operações mencionadas. O fechamento do conjunto dos números naturais não se verifica quando a operação é a divisão pois, neste caso, podemos aplicar esta operação a dois números naturais e obter como resultado um número não natural. Em virtude disto, dados dois números naturais e a operação de divisão, devemos imediatamente considerar a seguinte questão: é possível esta operação dentro do conjunto dos números naturais? Com esta pergunta queremos dizer simplesmente isto: o resultado da operação é um número natural? Esta pergunta é respondida com os chamados critérios de divisibilidade. Agora, uma definição: O número a é divisível por b, isto é, b divide a, se existir um número c que satisfaça a igualdade a = bc. Consideremos um número natural como, por exemplo, 25674. Que significa esta representação? Ela é simplesmente a abreviatura do seguinte:
 
 $$25674 = 2.10^4 + 5.10^3 + 6.10^2 + 7.10 + 4$$
 
@@ -64,9 +62,7 @@ note que tanto o número representado no primeiro parêntese como o representado
 
 Para que um número $A = a_n a_{n-1} ... a_2 a_1 a_0$ seja divisível por 4, é necessário e suficiente que o número $a_1 a_0$ (isto é, o formado pelos seus dois últimos algarismos) seja divisível por 4.
 
-Será que o número 784 é divisível por 2? A resposta é positiva, pois ele termina em 4 e este é divisível por 2. A justificativa: 784 = 7.10<sup>2</sup> + 8.10 + 4 = (7.10 + 8)10 + 4; os números representados dentro dos dois parênteses são divisíveis por 2, logo, o número dado 784 também o é. É preciso acrescentar que as justificativas que apresentamos acima são, ambas, incompletas, servindo tão somente para a introdução do assunto. Quando um teorema fala em condição necessária e suficiente, a sua demonstração se desdobra em duas etapas; acima, nos fixamos apenas em uma dessas etapas. A outra etapa, o colega poderá tentar seguindo
-
-um raciocínio análogo ao empregado por nós. Os demais critérios de divisibilidade seguem um caminho semelhante ao já discutido e você poderá, então, discutilos sozinho...
+Será que o número 784 é divisível por 2? A resposta é positiva, pois ele termina em 4 e este é divisível por 2. A justificativa: 784 = 7.10<sup>2</sup> + 8.10 + 4 = (7.10 + 8)10 + 4; os números representados dentro dos dois parênteses são divisíveis por 2, logo, o número dado 784 também o é. É preciso acrescentar que as justificativas que apresentamos acima são, ambas, incompletas, servindo tão somente para a introdução do assunto. Quando um teorema fala em condição necessária e suficiente, a sua demonstração se desdobra em duas etapas; acima, nos fixamos apenas em uma dessas etapas. A outra etapa, o colega poderá tentar seguindo um raciocínio análogo ao empregado por nós. Os demais critérios de divisibilidade seguem um caminho semelhante ao já discutido e você poderá, então, discutilos sozinho...
 
 2ª Pergunta. Um colega de Feira de Santana pergunta: Qualquer pessoa pode aprender matemática?
 
@@ -75,8 +71,6 @@ R. Penso que o conhecimento matemático pode ser adquirido por qualquer pessoa d
 Não há uma vantagem absoluta no desenvolvimento da inteligência. Ela é uma formidável ferramenta, mas não é uma garantia de que vamos sobreviver como espécie (o grifo é nosso). O intelecto humano não tem compromisso absoluto com a sobrevivência da humanidade nem com a manutenção da vida no planeta (o grifo é nosso).
 
 É preciso dar exemplos para ilustrar a tese acima?
-
-#### \* \* \* \*
 
 Obs.: É permitida a reprodução total ou parcial desse folhetim desde que citada a fonte.
 
@@ -89,6 +83,4 @@ No próximo número, as respostas para:
 - A ordem dentro da qual as palavras de um dicionário aparecem, tem algo a ver com a ordem estudada em Matemática?
 - Qual a finalidade de uma demonstração? Ela deve ser ensinada no 1º Ciclo?
 
-Aguardens
-
-![](_page_5_Picture_9.jpeg)
+Aguardem!

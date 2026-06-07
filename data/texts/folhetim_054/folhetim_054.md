@@ -18,7 +18,7 @@ Neste número, que é o primeiro de 1997, incluimos uma coluna nova intitulada "
 
 Esperamos com isto atender a um considerável percentual de leitores que nos sugeriram tal abordagem, em suas avaliações.
 
-# COMITÉ EDITORIAL
+# COMITÊ EDITORIAL
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 
@@ -30,9 +30,7 @@ R. A Educação Matemática é considerada pelos seus especialistas uma discipli
 
 Educação Matemática. Aconselhamos a leitura do artigo aos interessados. No artigo: Sobre o Ensino da Geometria, a conhecida especialista Maria Laura M. Leite Lopes, transcreve as seguintes afirmações de Richard Courant sobre a atuação do professor: Em Educação Matemática é verdade que o método dedutivo, começando com axiomas aparentemente dogmáticos, proporciona um atalho para a travessia de um extenso território. Entretanto, o método socrático. construtivo, partindo do particular para o geral e que evita o impulso dogmático, conduz com mais segurança à formação do pensamento produtivo independente... (Vide Boletim-junho/83-15-GEPEM). Ouanto ao método socrático mencionado pelo ilustre matemático, nosso leitor poderá consultar o Folhetim nº 53. Ainda sobre o mesmo assunto, há o livro Educação Matemática: da teoria à pratica, Ubiratan D'Ambrosio - Campinas - SP: Papirus, 1996 - Coleção Perspectivas em Educação Matemática. O autor é muito conhecido entre aqueles que se dedicam a educação matemática.
 
-Para o nosso entendimento, a educação matemática se insere em um contexto maior, mais abrangente: o conceito de educação. Esta; para nós, deve ser uma estratégia da sociedade visando à atualização das potencialidades de todos os seres humanos, objetivando, fortemente, a torná-los cidadãos, isto é, pessoas conscientes de seus deveres e direitos. Mais ainda, não basta possuir uma consciência: é imprescindível, a partir desta, lutar por esses deveres e direitos sem qualquer pusilanimidade. Assentada esta premissa, educação matemática, para nós, é a pesquisa sobre o ensino de Matemática e, por via de consequência, a sua socialização. Devemos contar com o auxílio da Psicologia Cognitiva e da Psicologia Social bem como de outras ciências - como, exemplificando, a neurologia - capazes de iluminarem o cérebro humano, levando-nos a compreensão do que seja o processo da compreensão. Naturalmente, é possível aumentar o elenco dos problemas pertinentes a disciplina em questão: deixamos de fazê-lo pois estamos firmes no convencimento de que as teses básicas foram já apresentadas acima. Por uma questão de honestidade, é preciso acrescentar que ainda estamos no terreno do imaginário. O real, isto é, o que se passa nas salas de
-
-aulas, o que aí se ensina, como se avalia, enfim, toda a prática pedagógica encontra-se muito distante da nobreza dos propósitos da educação matemática. Em primeiro lugar o mais importante: conhecer muito bem o que é ensinado. Quanto a este aspecto, qual é o real? O professor de matemática poderia participar, como personagem central do livro Humilhados e Ofendidos do escritor russo Dostoievski. Ele se acha em tal situação que o próprio nome de professor já vem sendo substituído pelo de tio, tia e, até mesmo, em algumas disciplinas, pelo duvidoso nome de facilitador.
+Para o nosso entendimento, a educação matemática se insere em um contexto maior, mais abrangente: o conceito de educação. Esta; para nós, deve ser uma estratégia da sociedade visando à atualização das potencialidades de todos os seres humanos, objetivando, fortemente, a torná-los cidadãos, isto é, pessoas conscientes de seus deveres e direitos. Mais ainda, não basta possuir uma consciência: é imprescindível, a partir desta, lutar por esses deveres e direitos sem qualquer pusilanimidade. Assentada esta premissa, educação matemática, para nós, é a pesquisa sobre o ensino de Matemática e, por via de consequência, a sua socialização. Devemos contar com o auxílio da Psicologia Cognitiva e da Psicologia Social bem como de outras ciências - como, exemplificando, a neurologia - capazes de iluminarem o cérebro humano, levando-nos a compreensão do que seja o processo da compreensão. Naturalmente, é possível aumentar o elenco dos problemas pertinentes a disciplina em questão: deixamos de fazê-lo pois estamos firmes no convencimento de que as teses básicas foram já apresentadas acima. Por uma questão de honestidade, é preciso acrescentar que ainda estamos no terreno do imaginário. O real, isto é, o que se passa nas salas de aulas, o que aí se ensina, como se avalia, enfim, toda a prática pedagógica encontra-se muito distante da nobreza dos propósitos da educação matemática. Em primeiro lugar o mais importante: conhecer muito bem o que é ensinado. Quanto a este aspecto, qual é o real? O professor de matemática poderia participar, como personagem central do livro Humilhados e Ofendidos do escritor russo Dostoievski. Ele se acha em tal situação que o próprio nome de professor já vem sendo substituído pelo de tio, tia e, até mesmo, em algumas disciplinas, pelo duvidoso nome de facilitador.
 
 Nunca é demais ressaltar que a condição mais importante para se falar com proveito sobre matemática, é conhecê-la suficientemente. A ausência dessa condição ou a sua presença bem pálida nos faz lembrar o trecho abaixo extraído do livro Matemática Elementar, a partir de um ponto de vista superior, Felix Klein: Aritmetica y Algebra. Ibero-Americana, Buenos Aires: O professor Thomae, qualificava, àqueles que se ocupam quase exclusivamente de investigações abstratas e lógicas sobre entes que nada significam e princípios que nada dizem ... com a feliz denominação de pensadores sem pensamento. Pensadores sem pensamento, repetimos, caracteriza muito bem uma pleiade que, neste Brasil oceânico, fala e escreve sobre tudo sem qualquer compromisso com a competência. Quando se trata de Matemática, isto étão evidente, que nos faz voltar aos tempos de Euclides (século III a.C.) e acreditar em coisas evidentes por si mesmas. Vejamos mais de perto a questão. Que se nota, imediatamente, quando folheamos um desses manuais de matemática?
 
@@ -73,11 +71,7 @@ $12345678987654321 = 123456789 \times 999999999$
 Veja os números famosos: 666 (número da Besta do Apocalipse - livro que encerra as revelações de São João Evangelista sobre o fim do mundo), 33 (idade de Jesus), 1001 (que aparece no título da famosa obra literária: O Livro das Mil e Uma Noites, cuja leitura serviu para embalar o sono de muitas crianças).
 
 - 2. O número representado por 121 representa um quadrado perfeito em qualquer sistema de numeração de base b maior que 2. (Porque a base não pode ser igual a 2?) Verifique a proposição acima!
-  - 3. Considere o número representado por
-
-12345679. Multiplique-o por 7 e, em seguida por 9. Qual o resultado? Claramente: 77777777. Com o mesmo número dado, multiplique-o por qualquer outro (de um só algarismo) e em seguida por 9. Uma surpresa estará esperando por você.
-
-12345680. O valor da expressão:
+- 3. Considere o número representado por 12345679. Multiplique-o por 7 e, em seguida por 9. Qual o resultado? Claramente: 77777777. Com o mesmo número dado, multiplique-o por qualquer outro (de um só algarismo) e em seguida por 9. Uma surpresa estará esperando por você. 12345680. O valor da expressão:
 
 $$(x^4 + x^3 + x^2 + x + 1 + 2)(x^4 - x^3 + x^2 - x + 1 - 2)$$
 
@@ -87,7 +81,7 @@ não se altera se eliminarmos ambas as frações, isto é, é igual ao valor da 
 
 $$(x^4 + x^3 + x^2 + x + 1) (x^4 - x^3 + x^2 - x + 1)$$
 . Por quê?  
-5. "Há aqui três afirmações falsas. Identifique-as:
+- 5. "Há aqui três afirmações falsas. Identifique-as:
 
 a) $2 \times 3 = 6$
 
@@ -105,12 +99,12 @@ Resposta: Claramente, as afirmações (b) e (e) são falsas. E a terceira afirma
 
 Envie para cada folhetim um selo de postagem nacional de 1º porte. Dentro de no máximo quatro semanas, contadas a partir da data de recebimento do seu pedido, você estará recebendo os folhetins solicitados. OBS.: É permitida a reprodução total ou parcial desse folhetim, desde que citada a fonte.
 
-#### NEMOC-NÚCLEODE EDUCAÇÃOMATEMÁTICAOMAR CATUNDA
+#### NEMOC-NÚCLEODE EDUCAÇÃO MATEMÁTICA OMAR CATUNDA
 
 Folhetim de Educação Matemática Ano 4. n. 54 Janeiro-Maio/97
 
 Editores: Carloman e Inácio
-
+ 
 Editoração e Impressão: Núcleo de Editoração
 
 Gráfica-NUEG

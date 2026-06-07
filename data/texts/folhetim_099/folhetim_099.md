@@ -14,7 +14,7 @@ Este Folhetim é um veículo de divulgação, circulação de idéias e de estí
 
 Sem dúvida os números exercem um grande fascínio sobre os homens. O Triângulo de Pascal, e sua relação com a análise combinatória mostra um aspecto desse fascínio, apontando uma maneira prática e elementar de se determinar os coeficientes no desenvolvimento do Binômio de Newton. Longe de ser apenas uma curiosidade, encontramos também a formação do Triângulo de Pascal com apoio nas potências de 11 (de forma direta até a quarta potência). É esse o assunto tratado pelo presente _Folhetim_, que traz ainda uma discussão sobre os abusos de linguagem na matemática.
 
-# COMITÉ EDITORIAL
+# COMITÊ EDITORIAL
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 

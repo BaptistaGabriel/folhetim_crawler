@@ -14,7 +14,7 @@ Sem dúvida um dos mais importantes conceitos da matemática é o de função. E
 
 Os exemplos apresentados ilustram este importante papel desempenhado _pela função característica._
 
-## **COMITÉ EDITORIAL**
+## **COMITÊ EDITORIAL**
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 

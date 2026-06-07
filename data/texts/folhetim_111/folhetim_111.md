@@ -16,7 +16,7 @@ Contamos pois com a colaboração do leitor, no sentido de dispor de 5 a 10 minu
 
 Aproveitamos a oprtunidade para desejar a todos um Feliz Natal, e que o ano de 2003 possa ser um ano realmente de mudanças (para melhor).
 
-## **COMITÉ EDITORIAL**
+## **COMITÊ EDITORIAL**
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 

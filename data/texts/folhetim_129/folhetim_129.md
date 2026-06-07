@@ -14,7 +14,7 @@ Este _Folhetim_ é um veículo de divulgação, circulação de **ideias** e de 
 
 Desde o n° 122 do _Folhetim,_ procurou-se cobrir parte de um vasto campo que é o ensino de matemática. Com este número finaliza-se, pelo menos com o titulo acima, as discussões, reflexões e sugestões sobre alguns aspectos do ensino da matemática. Especificamente no presente _Folhetim, o_ tema abordado é a metáfora, e seu uso na educação matemática. O texto finaliza com uma citação que tratado mesmo tema, extraído do livro MatemáticaeEducação: alegorias, tecnologias e temas afins, de Nilson José Machado.
 
-# **COMITÉ EDITORIAL**
+# **COMITÊ EDITORIAL**
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 

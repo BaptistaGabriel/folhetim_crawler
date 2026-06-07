@@ -18,7 +18,7 @@ Este _Folhetim,_ na coluna _Pergunte que o NEMOC Responde,_ trata dessas questõ
 
 Em breve estaremos disponibilizando os Folhetins de Educação "on-line" através da Internet. Aguardem.
 
-# **COMITÉ EDITORIAL**
+# **COMITÊ EDITORIAL**
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 

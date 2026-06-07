@@ -14,7 +14,7 @@
 
 Continuamos enfatizando alguns conceitos básicos à compreensão da Teoria de Galois, tais como, permutação, simetria e grupo. Também mencionamos contribuições de outros matemáticos - como Lagrange - à resolução da quíntica.
 
-# **COMITÉ EDITORIAL**
+# **COMITÊ EDITORIAL**
 
 Carloman Carlos Borges (UEFS) Inácio de Sousa Fadigas (UEFS) Marcos Grilo Rosa (UEFS) Trazíbulo Henrique Pardo Casas (UEFS)
 

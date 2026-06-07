@@ -14,17 +14,17 @@ Este _Folhetim é_ um veículo de divulgação, circulação de ideias e de est�
 
 o fim do ano se aproxima, e desde já queremos externar os nossos agradecimentos a você leitor, que direta ou indiretamente, através de sugestões, críticas, palavras de incentivo, ou simplesmente lendo o nosso Folhetim, contribuiu para que pudéssemos prosseguir por mais um ano com este trabalho.
 
-Sempre visando contribuir com o leitor, neste número publicamos todas as perguntas e assuntos que foram tratados nos Folhetins anteriores, sobretudo na coluna _Pergunte que o NEMOC Responde._ Desta forma, será mais fácil ao leitor recorrer a determinado assunto, e quem sabe nos questionar mais sobre o mesmo.
+Sempre visando contribuir com o leitor, neste número publicamos todas as perguntas e assuntos que foram tratados nos Folhetins anteriores, sobretudo na coluna Pergunte que o NEMOC Responde. Desta forma, será mais fácil ao leitor recorrer a determinado assunto, e quem sabe nos questionar mais sobre o mesmo.
 
 Pergunte que o NEMOC responde!
 
-# **COMITÉ EDITORIAL**
+# **COMITÊ EDITORIAL**
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 
 # **PERGUNTE QUE O NEMOC RESPONDE**
 
-_Pergunte que o NEMOC Responde é_ uma coluna de autoria do prof. Dr. Carloman Carlos Borges e objetiva atingir ao público interessado em Matemática nos seus múltiplos aspectos.
+Pergunte que o NEMOC Responde é uma coluna de autoria do prof. Dr. Carloman Carlos Borges e objetiva atingir ao público interessado em Matemática nos seus múltiplos aspectos.
 
 Caso o leitor queira fazer alguma pergunta escreva-nos.
 
@@ -38,19 +38,19 @@ N°2(An o 1.08.08.93) - Resolução do CONSAD.
 
 N°3(An o 1. 15.08.93)
 
-**Pergunta.** _Existe algum ramo da Matemática no qual o conceito de número não possua importância?_
+**Pergunta.** Existe algum ramo da Matemática no qual o conceito de número não possua importância?
 
-#### N°4(An o 1.22.08.93)
+#### N°4(Ano 1.22.08.93)
 
-**1\* Pergunta.** _Você poderia aprofundar o que escreveu anteriormente sobre esse ramo fascinante da Matemática que se chama Topologia?_
+**1 Pergunta.** Você poderia aprofundar o que escreveu anteriormente sobre esse ramo fascinante da Matemática que se chama Topologia?
 
-**2" Pergunta.** A _Matemática pode nos dar alguma "dica" a respeito do popular "jogo da velha"?_
+**2 Pergunta.** A Matemática pode nos dar alguma "dica" a respeito do popular "jogo da velha"?
 
-#### N°5(An o 1.29.08.93)
+#### N°5(Ano 1.29.08.93)
 
-- **1^ Pergunta.** _O número zero é um número natural?_
-- **2" Pergunta.** _Em alguns livros que tenho em casa, o zero é considerado um número par, enquanto em outros o primeiro número par é o 2. Oruie se encontra a certeza?_
-- _y_ **Pergunta.** A pergunta abaixo, que se desdobra em cinco outras, foi formulada pela garotinha Camila Gonçalves de Jesus, de 9 anos de idade. Ei-la: _O que é a Matemática? Quando a Matemática foi inventada?_
+- **1 Pergunta.** O número zero é um número natural?
+- **2 Pergunta.** Em alguns livros que tenho em casa, o zero é considerado um número par, enquanto em outros o primeiro número par é o 2. Oruie se encontra a certeza?
+- y **Pergunta.** A pergunta abaixo, que se desdobra em cinco outras, foi formulada pela garotinha Camila Gonçalves de Jesus, de 9 anos de idade. Ei-la: _O que é a Matemática? Quando a Matemática foi inventada?_
 
 _Quantos anos a Matemática tem? Por quem a Matemática foi inventada? Quantos sinais existem na Matemática?_
 

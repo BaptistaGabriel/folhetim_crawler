@@ -18,7 +18,7 @@ Isto constitui-se numa importante ferramenta para ingresso nos mercados cada vez
 
 No presente Folhetim, o prof. Carloman Carlos Borges trata da matemática para todos os cidadãos. É uma questão ainda aberta e crucial, dentro de Educação Matemática, e sugestões dos leitores podem surgir a partir da leitura do texto.
 
-# **COMITÉ EDITORIAL**
+# **COMITÊ EDITORIAL**
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 
@@ -64,8 +64,6 @@ OBS.: É permitida a reprodução total ou parcial desse folhetim, desde que cit
 
 Catunda, Omar
 
-engenharia civil com relativa facilidade, principalmente nas matérias que dependiam de Matemática, pois o meu sistema de estudo consistia em repassar diariamente os apontamentos de aula, ..."
-
-"Fiz os seis anos de
+"Fiz os seis anos de engenharia civil com relativa facilidade, principalmente nas matérias que dependiam de Matemática, pois o meu sistema de estudo consistia em repassar diariamente os apontamentos de aula, ..."
 
 23 de setembro de 1909 12 de agosto de 1986

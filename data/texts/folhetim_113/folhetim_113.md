@@ -20,7 +20,7 @@ A propósito, no Folhetim n° 112 anunciamos a continuação do tema _Coisas ele
 
 Aproveitamos ainda para informar que está chegando de todo país as "fichas de pesquisa de satisfação". Estamos esperando a sua, se ainda não enviou.
 
-# **COMITÉ EDITORIAL**
+# **COMITÊ EDITORIAL**
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 

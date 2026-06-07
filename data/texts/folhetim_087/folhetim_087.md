@@ -16,7 +16,7 @@ O movimento internacional denominado "Matemática Moderna" sem dúvida deixou su
 
 No momento estamos em meio a um processo de adequação do sistema educacional, desencadeado pela novas Leis de Diretrizes e Bases, que no seu contexto reconhece o valor da matemática e define as finalidades do ensino dessa Ciência. É preciso então a adoção de políticas sérias para a formação dos professores, pois qualquer mudança que se deseje no ensino só pode ser concretizada com a participação destes.
 
-# COMITÉ EDITORIAL
+# COMITÊ EDITORIAL
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 

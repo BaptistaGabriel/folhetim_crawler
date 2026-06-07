@@ -18,7 +18,7 @@ Para marcar estas datas significativas, publicamos novamente neste número, um a
 
 O leitor pode perceber que este número corresponde aos meses de agosto a dezembro. Tal iniciativa foi necessária para que pudéssemos atualizar nosso Folhetim. O próximo número (54) corresponderá aos meses de janeiro a maio. Pedimos desculpas aos nosos leitores.
 
-# COMITÉ EDITORIAL
+# COMITÊ EDITORIAL
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre) Wilson Pereira de Jesus (Mestre)
 

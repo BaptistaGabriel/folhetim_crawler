@@ -16,7 +16,7 @@ Alguns tópicos relacionados a geometria fractal, a exemplo do conceito de dimen
 
 Neste número, é mostrada a importância do advento dos computadores como forma de concretizar em imagens o que antes só havia na abstração dos matemáticos.
 
-# COMITÉ EDITORIAL
+# COMITÊ EDITORIAL
 
 Carloman Carlos Borges (Doutor)
 Inácio de Sousa Fadigas (Mestre)

@@ -41,8 +41,7 @@ Resposta: Existe, sim. Este "ramo" é chamado de Topologia. Para compreender est
 Consideremos as seguintes perguntas: (1) Qual é o comprimento desta sala de aula? (2) Qual o ângulo feito por aquelas duas paredes? (3) Qual a área desta sala? (4) Qual a distância do centro da cidade para a Universidade de Feira? (5) Aonde vamos hoje à noite? (6) Você é vizinho de Paula? (7) Maria derramou o café fora da xicara? (8) José se encontra à direita ou à esquerda de Maria? Ou ele está entre Maria e João? (9) O móvel já está dentro da sala? (10) Qual a divisa (fronteira) entre Sergipe e a Bahia? (11) A porta está aberta ou fechada?
 
 Agora vamos tentar "comparar" as quatro primeiras perguntas acima com as demais. Desta comparação podemos chegar a muitas conclusões, naturalmente, porém vamos nos restringir àquela que nos interessa. Para responder às quatro primeiras perguntas mencionadas, você pode fazê-lo por intermédio de um número, de uma quantidade. Nesse sentido, chamemos a essas quatro perguntas de perguntas quantitativas. E quanto às demais perguntas? Obviamente, elas poderão ser perfeitamente respondidas sem o emprego de qualquer número para representar uma quantidade. Nesse sentido, chamemos a essas perguntas de perguntas qualitativas. Entre os dois grupos de perguntas acima, há, então, uma diferença notável: o primeiro grupo está relacionado à quantidade do objeto, do fenômeno, etc.,
-
-enquanto o segundo grupo se relaciona com a sua qualidade
+enquanto o segundo grupo se relaciona com a sua qualidade.
 
 Os numerosos objetos e fenômenos que nos cercam estão em permanente movimento, mudança, etc. Apesar disto, aos nossos olhos eles se distinguem uns dos outros. Esta discriminação é devida ao seu duplo aspecto: quantitativo e qualitativo. Aparentemente há uma diferença, uma quase oposição entre esses dois aspectos, porém, entre eles existe uma grande unidade indissoluvel.
 
@@ -63,9 +62,3 @@ Você poderia aprofundar o que escreveu anteriormente sobre esse ramo fascinante
 A Matemática pode nos dar alguma "dica" a respeito do popular "jogo da velha?" Aguardem!
 
 ![](_page_4_Picture_0.jpeg)
-
-![](_page_5_Picture_0.jpeg)
-
-SELO
-
-MESS

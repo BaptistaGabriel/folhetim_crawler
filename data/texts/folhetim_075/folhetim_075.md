@@ -18,7 +18,7 @@ Uma importante abordagem envolvendo limites e decomposição de números reais �
 
 Convidamos o leitor a se informar sobre as outras atividades do NEMOC na coluna "Notícias".
 
-# **COMITÉ EDITORIAL**
+# **COMITÊ EDITORIAL**
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 

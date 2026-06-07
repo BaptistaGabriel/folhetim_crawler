@@ -16,7 +16,7 @@ Nessse número, o professor Carloman Borges começa a responder à indagação s
 
 Não é uma tarefa fácil, escrever sobre tal assunto em mVel de divulgação que se pretende. Esperamos que o objetivo seja alcançado, e contribua para o entendimento dessa jóia da Matemática que é o Último Teorema de Fermat.
 
-# **COMITÉ EDITORIAL**
+# **COMITÊ EDITORIAL**
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 

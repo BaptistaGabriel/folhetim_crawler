@@ -16,7 +16,7 @@ Continuando o tema abordado no Folhetim anterior, a coluna Pergunte que o NEMOC 
 
 O artigo começa apresentando a relação ente o "número áureo" e as equações do 2º grau, e no final relaciona esse número com o método geométrico para solução das equações do 2º grau apresentado no _Folhetim_ anterior, quando se tratou das raízes que são complexos conjugados.
 
-## COMITÉ EDITORIAL
+## COMITÊ EDITORIAL
 
 Carloman Carlos Borges (Doutor)
 

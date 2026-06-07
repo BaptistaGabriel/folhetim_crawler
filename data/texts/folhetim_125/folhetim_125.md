@@ -14,7 +14,7 @@ Este Folhetim é um veículo de divulgação, circulação de idéias e de estí
 
 Ainda sobre o ensino de Matemática, os leitores são convidados a refletir e compreender a questão da generalização, como um processo fundamental na compreensão da fecundidade da matemática. O artigo mostra a relação muito próxima dos conceitos teóricos usados na matemática, com aqueles empregados ordinariamente. Um ponto a destacar é, mais uma vez, chamar a atenção do professor de matemática da necessidade da compreensão dos conceitos "escondidos" por traz da simbologia usada para representá-los, destacando a matemática, assim como toda ciência, como um conjunto de idéias e não de símbolos.
 
-## **COMITÉ EDITORIAL**
+## **COMITÊ EDITORIAL**
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 

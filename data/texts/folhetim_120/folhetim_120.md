@@ -14,7 +14,7 @@ Este Folhetim é um veículo de divulgação, circulação de idéias e de estí
 
 O propósito do presente Folhetim é dar continuidade ao tratamento geométrico das curvas podárias da parábola, via tecnologias computacionais. Conforme iniciado no Foletim 119, com uma visão panorâmica do programa Winplot, a tarefa agora consiste em aplicar os recursos do programa para obter as saídas gráficas desejadas. Claro que os recursos do programa não podem ser totalmente apresentados numa mídia estática, como é o caso da mídia escrita. A percepção de certos aspectos das curvas fica mais clara quando tais objetos são manipulados e animados, usando os recursos próprios do programa. O que se tenta fazer aqui é apenas uma amostra da potencialidade de tais recursos, com vistas a auxiliar o ensino-aprendizagem.
 
-# COMITÉ EDITORIAL
+# COMITÊ EDITORIAL
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 

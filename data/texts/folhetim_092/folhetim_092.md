@@ -22,7 +22,7 @@ Certamente o artigo vai ser uma fonte útil de pesquisa para os professores do e
 
 Nossos agradecimentos ao professor Geraldo Ávila.
 
-# **COMITÉ EDITORIAL**
+# **COMITÊ EDITORIAL**
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 

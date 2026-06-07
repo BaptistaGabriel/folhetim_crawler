@@ -16,7 +16,7 @@ Após as primeiras exposições sobre o Último Teorema de Fermat, no folhetim a
 
 Ao final do artigo, algumas notas sobre Andrew Wiles são apresentadas. Percebe-se nelas a determinação e genialidade desse jovem matemático contemporâneo.
 
-# **COMITÉ EDITORIAL**
+# **COMITÊ EDITORIAL**
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 

@@ -1,4 +1,4 @@
-# UNIVERSIDADE ESTADUAL DE FEIRADE SANTANA DEPARTAMENTO DE CIÊNCIAS EXATAS
+# UNIVERSIDADE ESTADUAL DE FEIRA DE SANTANA DEPARTAMENTO DE CIÊNCIAS EXATAS
 
 NEMOC - Núcleo de Educação Matemática Omar Catunda
 
@@ -54,28 +54,16 @@ R. Damos, abaixo, a relação do material solicitado, o qual deve constituir o a
 - 44. Olimpíadas Brasileiras de Matemática. 1º a 8º (problemas e resoluções), Coleção Fundamentos da Matemática Elementar, Comissão de Olimpíadas da Sociedade Brasileira de Matemática, Editora Núcleo.
 - 45. Priciples of Mathematics, Carl B. Allendoerfer e Clettus O. Oakley, MacGraw-Hill Book Company, Inc. New York. Comentário: O livro trata de tópicos estudados no 1º e 2º graus, de uma maneira elegante, séria e competente qualidades nem sempre oferecidas por nossos manuais escolares, em sua maioria. Vale a pena tê-lo na estante para consulta e estudo.
 - 46. La Ensenanza de las Matemáticas Modernas, J. Piaget, G. Choquet, J. Dieudonné, R. Thom y outros. Alianza Editorial. Trata-se de uma seleção de artigos escritos, alguns, por eminentes matemáticos, como Marshall Stone, Hans Freudental, Gustave Choquet, René Thom e Jean Dieudonné. Comentário: Vale a pena e como vale! ler o artigo de René Thom: são as matemáticas "modernas" um erro pedagógico e filosófico? Em seguida vem a réplica de Dieudonné: Devemos ensinar as "matemáticas modernas"? Continuando, outro artigo de René Thom: Matemáticas modernas e matemáticas de sempre. O artigo de Hans Freudental: O ensino das matemáticas modernas ou o ensino moderno das matemáticas? apresenta algumas idéias sobre o ensino dessa ciência que merecem reflexão por parte de seus professores.
-- 47. A Formação da Matemática Contemporânea, Jean Dieudonné, Publicações Dom Quixote, Lisboa, 1990. Comentário: Este eminente matemático contemporâneo, que já pertenceu ao famoso Grupo Bourbaki, desenvolve neste livro tópicos tais como: Matemáticas e matemáticos, A Natureza
+- 47. A Formação da Matemática Contemporânea, Jean Dieudonné, Publicações Dom Quixote, Lisboa, 1990. Comentário: Este eminente matemático contemporâneo, que já pertenceu ao famoso Grupo Bourbaki, desenvolve neste livro tópicos tais como: Matemáticas e matemáticos, A Natureza dos Problemas das Matemáticas, Objetos e Métodos das Matemáticas Clássicas, Novos Objetos e Novos Métodos, Problemas e Pseudoproblemas dos "Fundamentos". Em todos esses tópicos, Dieudonné "derrama" a sua já conhecida erudição. Alguns de seus comentários podem e devem ser discutidos visando a uma maior verticalização. Assim, na página 147, último parágrafo, ele se refere a repugnância e mesmo ao medo, por parte dos matemáticos gregos, da noção de infinito. Aqui torna-se necessário ressaltar que os gregos admitiam apenas a existência do infinito potencial, do qual não sentiam medo nem repugnância, e nunca do infinito atual; para ilustrar essa assertiva, basta recordar a "definição" de Euclides sobre a linha reta ou mesmo suas referências ao conjunto dos números primos e, ainda, a "definição" que ele dá de linhas paralelas como retas em um plano que, sendo estendidas infinitamente em ambas as direções, não se encontram.
 
-dos Problemas das Matemáticas, Objetos e Métodos das Matemáticas Clássicas, Novos Objetos e Novos Métodos, Problemas e Pseudoproblemas dos "Fundamentos". Em todos esses tópicos, Dieudonné "derrama" a sua já conhecida erudição. Alguns de seus comentários podem e devem ser discutidos visando a uma maior verticalização. Assim, na página 147, último parágrafo, ele se refere a repugnância e mesmo ao medo, por parte dos matemáticos gregos, da noção de infinito. Aqui torna-se necessário ressaltar que os gregos admitiam apenas a existência do infinito potencial, do qual não sentiam medo nem repugnância, e nunca do infinito atual; para ilustrar essa assertiva, basta recordar a "definição" de Euclides sobre a linha reta ou mesmo suas referências ao conjunto dos números primos e, ainda, a "definição" que ele dá de linhas paralelas como retas em um plano que, sendo estendidas infinitamente em ambas as direções, não se encontram.
+- 48. Parábolas e Catástrofes, (Entrevista sobre Matemática, Ciência e Filosofia, conduzida por Giulio Giorello e Simonaa Morini), René Thom, Publicações Dom Quixote, Lisboa, 1985. Comentário: É sempre uma ocasião para sur sa quando se entra em contato com as idéias pedagógicas e filosóficas desse grande topólogo, sábio e pensador extremamente original.
 
-48. Parábolas e Catástrofes, (Entrevista sobre Matemática, Ciência e Filosofia, conduzida por Giulio Giorello e Simonaa Morini), René Thom, Publicações Dom Quixote, Lisboa, 1985. Comentário: É sempre uma ocasião para sur sa quando se entra em contato com as idéias pedagógicas e filosóficas desse grande topólogo, sábio e pensador extremamente original.
-
-Observações Finais; os livros listados acima - no nosso entendimento - devem constituir uma mini-biblioteca para os professores do 1º e do 2º graus. Nossas preocupações nessa organização podem ser resumidas assim: (a) listar apenas obras de autores "confiáveis". Que significa "confiável"? São aqueles que sabem matemática tendo um amplo domínio sobre o que estão escrevendo; enfatizamos que muitos autores confiáveis deixam de comparecer nesta lista ora por esquecimento (e aqui nossas desculpas), ora pelo nosso propósito: sugestões para uma mini-biblioteca; (b) pensamos em livros predominantemente escritos em português e que
-
-possam ser encontrados em "boas livrarias".
-
-## \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+Observações Finais; os livros listados acima - no nosso entendimento - devem constituir uma mini-biblioteca para os professores do 1º e do 2º graus. Nossas preocupações nessa organização podem ser resumidas assim: (a) listar apenas obras de autores "confiáveis". Que significa "confiável"? São aqueles que sabem matemática tendo um amplo domínio sobre o que estão escrevendo; enfatizamos que muitos autores confiáveis deixam de comparecer nesta lista ora por esquecimento (e aqui nossas desculpas), ora pelo nosso propósito: sugestões para uma mini-biblioteca; (b) pensamos em livros predominantemente escritos em português e que possam ser encontrados em "boas livrarias".
 
 Obs.: É permitida a reprodução total ou parcial desse folhetim desde que citada a fonte.
 
 Caso você tenha interesse em receber esta publicação escreva para o NEMOC.
 
-# \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
 Números atrasados - envie para cada folhetim um selo de postagem nacional de 1º porte. Dentro de no máximo quatro semanas, contadas a partir da data de recebimento do seu pedido, você estará recebendo os folhetins solicitados.
 
-Aguardeni
-
-IP/IP/RESSO
-
-SELO
+Aguardem!

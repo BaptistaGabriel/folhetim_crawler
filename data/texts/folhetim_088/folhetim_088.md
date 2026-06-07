@@ -14,7 +14,7 @@ Este _Folhetim_ é um veículo de divulgação, circulação de idéias e de est
 
 Temos a satisfação de informar aos nosssos leitores que recebemos várias manifestações a respeito do Folhetim nº 86, que tratou do ensino na Bahia. Realmente a situação é preocupante, e temos feito um esforço para, pelo menos, alertar todos aqueles envolvidos com a questão educacional. Além disso, estamos promovendo atividades de extensão, visando a dar uma contribuição mais efetiva para a melhoria do ensino, a exemplo do curso de atualização "A Matemática do Século XXI", inserido no projeto Pró-Ciências, cujo início está previsto para o próximo dia 11 de maio e visa atualizar professores da Rede Pública do Ensino Médio.
 
-## COMITÉ EDITORIAL
+## COMITÊ EDITORIAL
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 

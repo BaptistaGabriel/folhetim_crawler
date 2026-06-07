@@ -18,7 +18,7 @@ Logo nas primeiras linhas deste _Folhetim,_ demonstramos o Teorema de Pitágoras
 
 Esperamos que nossos leitores possam usar a Análise Dimensional em outras demonstrações.
 
-# **COMITÉ EDITORIAL**
+# **COMITÊ EDITORIAL**
 
 Carloman Carlos Borges (UEFS) Inácio de Sousa Fadigas (UEFS) Marcos Grilo Rosa (UEFS) Trazíbulo Henrique Pardo Casas (UEFS)
 

@@ -22,7 +22,7 @@ Como forma de avaliar o aceite do nosso trabalho, brevemente estaremos enviando 
 
 Nos próximos números daremos maiores informações.
 
-## COMITÉ EDITORIAL
+## COMITÊ EDITORIAL
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre) Wilson Pereira de Jesus (Mestre)
 
@@ -44,16 +44,14 @@ $$
 
 Vejamos a Indução Matemática. Ela diz respeito àquelas proposições referentes aos números naturais. A idéia é a seguinte: queremos provar que uma dada proposição é verdadeira para todos os números naturais. Para isto, é suficiente provar o seguinte:
 
-- 1. 1 (um) possui a propriedade em questão.
-- 2. Para qualquer número n, se n tem essa propriedade, então o sucessor de n, isto é, n + 1, também a possui.
+1. 1 (um) possui a propriedade em questão.
+2. Para qualquer número n, se n tem essa propriedade, então o sucessor de n, isto é, n + 1, também a possui.
 
 A condição (2) é equivalente à sequência infinita de enunciados condicionais abaixo:
 
 Se 1 tem essa propriedade, então 2 também tem. Se 2 tem essa propriedade, então 3 também tem. Se 3 tem essa propriedade, então 4 também tem.
 
-A condição (1) e o primeiro desses condicionais implica, por _modus ponens_, que 2 tem a propriedade. Porém, se 2 tem essa propriedade e empregando o segundo condicional, vem, novamente com a aplicação de _modus ponens_, que 3 também tem, e assim sucessivamente. Logo, por intermédio de infinitas aplicações de*modus ponens*, concluímos que todos os naturais possuem essa propriedade. O grande matemático Poincaré comparou essa seqüên-
-
-cia de inferências lógicas a uma cascata. Claramente, é impossível escrever, por extenso, essa _cascata_, pois ela teria um _comprimento infinito_: desta forma, porém, como este raciocínio é válido, adotamos a seguinte regra de inferência: se forem válidas as condições (1) e (2), é permitido inferir:
+A condição (1) e o primeiro desses condicionais implica, por _modus ponens_, que 2 tem a propriedade. Porém, se 2 tem essa propriedade e empregando o segundo condicional, vem, novamente com a aplicação de _modus ponens_, que 3 também tem, e assim sucessivamente. Logo, por intermédio de infinitas aplicações de*modus ponens*, concluímos que todos os naturais possuem essa propriedade. O grande matemático Poincaré comparou essa seqüência de inferências lógicas a uma cascata. Claramente, é impossível escrever, por extenso, essa _cascata_, pois ela teria um _comprimento infinito_: desta forma, porém, como este raciocínio é válido, adotamos a seguinte regra de inferência: se forem válidas as condições (1) e (2), é permitido inferir:
 
 (3) todo número natural tem essa propriedade.
 

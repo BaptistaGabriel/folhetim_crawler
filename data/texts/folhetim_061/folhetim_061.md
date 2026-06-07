@@ -74,11 +74,15 @@ c) consumo de energia elétrica: m = preço quilowatt-hora, k = preço do alugue
 
 d) as funções lineares representadas por y = mx servem para modelar questões envolvendo proporcionalidade. Exemplos: dizemos que os conjuntos numéricos X e Y são proporcionais quando existem: i) uma bijeção $f: x \in X \rightarrow y \in Y$ e ii) um número m tal que y = mx. A bijeção f é denominada de proporcionalidade e o número m é chamado de razão de coeficiente de proporcionalidade. Exemplos:
 
-a)
-$$\frac{X}{Y} \begin{vmatrix} 1 & 2 & 3 & 4 & 5 \\ 4 & 8 & 12 & 16 & 20 \end{vmatrix}$$
+a) $\frac{X}{Y} \begin{vmatrix} 1 & 2 & 3 & 4 & 5 \\ 4 & 8 & 12 & 16 & 20 \end{vmatrix}$
+
 $m = 4$  
- $y = 4x$  
-b) $\frac{X}{Y} \begin{vmatrix} 0.1 & 0.01 & 0.001 & 0.0001... \\ Y \begin{vmatrix} 0.05 & 0.005 & 0.0005 & 0.00005... \\ y = 0.5x \end{vmatrix}$ $m = 0.5$
+$y = 4x$  
+
+b) $\frac{X}{Y} \begin{vmatrix} 0,1 & 0,01 & 0,001 & 0,0001... \\ 0,05 & 0,005 & 0,0005 & 0,00005... \end{vmatrix}$
+
+$m = 0,5$  
+$y = 0,5x$
 
 c) Consideremos uma mola resistente à compressão e à extensão e que se encontra suspensa verticalmente. Na extremidade inferior da mola é pendurado um corpo de massa m tão grande em relação à massa da mola que esta pode ser desprezada. Se o corpo é puxado para baixo de uma certa distância e em seguida liberado, ele passa a movimentar-se. Neste caso, a força da mola, que é exercida por esta quando deformada é proporcional à deformação, isto é:
 

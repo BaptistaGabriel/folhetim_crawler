@@ -16,7 +16,7 @@ O nosso leitor teve a oportunidade de acompanhar, desde o número 95 do Folhetim
 
 Este número em especial, além de trazer uma análise geral dos métodos anteriormente descritos, dá atenção também para a questão do ensino/educação matemática.
 
-# COMITÉ EDITORIAL
+# COMITÊ EDITORIAL
 
 Carloman Carlos Borges (Doutor)
 Inácio de Sousa Fadigas (Mestre)

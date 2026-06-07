@@ -18,7 +18,7 @@ Nesse número, concluímos a abordagem sobre a Geometria, iniciada no número 10
 
 A partir do questionamento de vários alunos, a coluna _Pergunte que o NEMOC Responde_ trata dos paradoxos, em particular daqueles tipos que suscitaram investigações de caráter matemático/filosófico. Vale a pena a leitura, principalmente pela clareza como o assunto é tratado.
 
-# **COMITÉ EDITORIAL**
+# **COMITÊ EDITORIAL**
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 

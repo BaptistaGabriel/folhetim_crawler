@@ -16,7 +16,7 @@ o tema principal tratado neste _Folhetim_ refere-se aos _quadrados mágicos._ Es
 
 ![](_page_0_Picture_8.jpeg)
 
-## **COMITÉ EDITORIAL**
+## **COMITÊ EDITORIAL**
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 

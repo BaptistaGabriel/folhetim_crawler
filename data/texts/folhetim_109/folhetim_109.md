@@ -16,7 +16,7 @@ Ainda sobre o cálculo, destacamos neste Folhetim um recente avanço na formaliz
 
 Conforme anunciado no Folhetim anterior, a nossa pesquisa de satisfação consistirá em um questionário (breve e objetivo) que acompanhará o Folhetim de número 111. Esse questionário deverá ser respondido e devolvido à nossa secretaria, confirmando assim o desejo do leitor em continuar fazendo parte do grupo de leitores do Folhetim. Aguardem.
 
-# COMITÉ EDITORIAL
+# COMITÊ EDITORIAL
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 

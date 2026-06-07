@@ -18,7 +18,7 @@ Tópicos como sistemas de numeração, as leis formais da adição e multiplica�
 
 Por fim, desejamos aos nossos estimados leitores um ótimo Natal, além de um Ano Novo próspero e repleto de realizações.
 
-#### COMITÉ EDITORIAL
+#### COMITÊ EDITORIAL
 
 Carloman Carlos Borges (UEFS) - in memoriam Inácio de Sousa Fadigas (UEFS) Marcos Grilo Rosa (UEFS) Trazíbulo Henrique(UEFS)
 

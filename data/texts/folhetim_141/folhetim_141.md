@@ -14,7 +14,7 @@ Este Folhetim é um veículo de divulgação, circulação de idéias e de estí
 
 Ao longo dos últimos Folhetins (este já é o 8°) o tema Fractais esteve presente, e continuará ainda por alguns Folhetins. Iniciado com uma abordagem histórica, parte da geometria euclidiana como expressão da natureza, mas aponta para outro tipo de geometria que apresentam conjuntos irregulares (fogem ao padrão da geometria euclidiana). Em seguida, os Folhetins apresentam descrições e definições próprias da geometria fractal. Entre estas, o número 136 é dedicado à dimensão, seguido de exemplos no número 137 e 138. A partir daí, a relação entre caos e fractais começa a ser estabelecida a partir dos sistemas dinâmicos conceitos como atrator e acaso são abordados. A hipersensibilidade às condições iniciais é abordada em seguida. O presente número trata ainda da relação caos e fractais e associa os dois conceitos a partir dos atratores estranhos. Destaca-se as citações dos trabalhos de Ruelle e Prigogine, que é um convite a aprofundar esta bela temática.
 
-## COMITÉ EDITORIAL
+## COMITÊ EDITORIAL
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre) Trazíbulo Henrique Pardo Casas (Doutor)
 

@@ -16,7 +16,7 @@ Este Folhetim dá sequência à abordagem sobre as geometrias. Campo vasto de in
 
 Como anunciado no número anterior, a partir do número 102 estaremos com a periodicidade alterada para bimestral, o que nos permitirá tratar dos assuntos com mais vigor, enriquecendo o nosso _Folhetim_.
 
-# COMITÉ EDITORIAL
+# COMITÊ EDITORIAL
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 

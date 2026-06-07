@@ -16,7 +16,7 @@ Conceitos básicos da Matemática - como _semelhança, classe de equivalência, 
 
 Como somos capazes de, olhando uma simples fotografia 3/4 reconhecer a figura familiar de nosso pai? Como classificarmos as coisas? Perguntas como estas e outras tantas começam a ser investigadas a partir deste _Folhetim._
 
-## **COMITÉ EDITORIAL**
+## **COMITÊ EDITORIAL**
 
 Carloman Carlos Borges (UEFS) Inácio de Sousa Fadigas (UEFS) Trazíbulo Henrique Pardo Casas (UEFS)
 

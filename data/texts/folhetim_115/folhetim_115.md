@@ -14,7 +14,7 @@ Este Folhetim é um veículo de divulgação, circulação de idéias e de estí
 
 O Folhetim de Educação Matemática, através do seu corpo editorial, sente-se honrado em publicar o artigo de Aron Simis: Gênese e História: lugar nos corações matemáticos? no qual esse celebrado matemático tem como objetivo "tornar aceitável a noção de como o conhecimento de períodos anteriores, enfocado criticamente, pode desempenhar papel na formação do aluno e do profissional da área".
 
-# COMITÉ EDITORIAL
+# COMITÊ EDITORIAL
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 

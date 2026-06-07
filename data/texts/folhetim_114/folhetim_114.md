@@ -14,7 +14,7 @@ Ainda sobre coisas elementares de matemática, o presente Fo//ierim traz respost
 
 Aproveitamos a oportunidade para agradecer a todos os que nos enviaram sugestões e avaliaram nosso trabalho através da ficha de pesquisa que foi anexa ao _Folhetim n°_ 111. Garanta o recebimento dos números a partir do 116, enviando-nos a citada ficha preenchida.
 
-## **COMITÉ EDITORIAL**
+## **COMITÊ EDITORIAL**
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 

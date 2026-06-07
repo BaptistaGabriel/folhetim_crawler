@@ -16,7 +16,7 @@ Neste número definimos dois conceitos. _Forma_ e _Fórmula -_ os quais permeiam
 
 O principal foco deste _Folhetim,_ no entanto, é a Análise Dimensional, poderoso instrumento metodológico no ensino da Física, principalmente. No ensino de Matemática ele poderá, também, ser empregado com bastante proveito. Desta forma, por intermédio desse instrumento, pode-se contextualizar melhor o seu ensino e então, uma das recomendações centrais dos PCNEM que é a contextualização merecerá um estudo mais aprofundado. Além disso, o professor de matemática, ainda tendo em vista essa mesma recomendação, poderá explorar - como tema de interdisciplinaridade - a Física - de cuj os problemas, historicamente, surgiram muitas inspirações na criação de teorias matemáticas.
 
-# **COMITÉ EDITORIAL**
+# **COMITÊ EDITORIAL**
 
 Carloman Carlos Borges (UEFS) hiácio de Sousa Fadigas (UEFS) Trazíbulo Henrique Pardo Casas (UEFS)
 

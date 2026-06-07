@@ -18,7 +18,7 @@ Já no número 62, apresentamos como desafios dois problemas. Não recebemos at�
 
 Ficamos gratificados ao lermos na revista "Educação Matemática em Revista", nº 6, ano 5, nota a respeito do nosso _Folhetim_ na seção "Eventos, notícias e outras coisas". Agradecemos aos editores a gentileza.
 
-# COMITÉ EDITORIAL
+# COMITÊ EDITORIAL
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 

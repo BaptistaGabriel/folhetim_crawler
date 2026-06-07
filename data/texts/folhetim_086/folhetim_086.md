@@ -16,7 +16,7 @@ Este Folhetim é um veículo de divulgação, circulação de idéias e de estí
 
 O texto da coluna Pergunte que o NEMOC Responde traz uma indignada amostragem dessa realidade. Lendo atentamente você poderá inferir sobre os caminhos que estão sendo apontados para a formação de professores. Os nossos alunos, principalmente de Licenciatura em Matemática, encontrarão razões para serem pragmáticos: para que "perder tempo" estudando tantas definições, demonstrações, ... perguntarão eles. Basta apenas estudar por um manual de ensino fundamental e médio, resolvendo os exercícios ali apresentados, para obter sucesso - pelo menos em matemática - em alguns concursos para professor.
 
-## COMITÉ EDITORIAL
+## COMITÊ EDITORIAL
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 

@@ -20,7 +20,7 @@
 
 **Outro fato a ser ressaltado é a diversidade de assuntos abordados, o que sem dúvida requer a a experiência e habilidade do prof. Carloman.**
 
-# **COMITÉ EDITORIAL**
+# **COMITÊ EDITORIAL**
 
 **Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)**
 

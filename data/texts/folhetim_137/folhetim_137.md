@@ -14,7 +14,7 @@ Este _Folhetim_ é um veículo de divulgação, circulação de ideias e de est�
 
 Ainda sobre fractais, na sequência do Folhetim anterior, outros exemplos são apresentados para tomar mais clara a definição de dimensão fi-actal. Um exemplo numérico da dimensão da curva de Koch é apresentado e algumas propriedades são exploradas. A seguir são apresentadas algumas aplicações da Geometria Fractal, mostrando-se que não se trata apenas do estudo abstrato de propriedades de figuras. Um interessante exemplo mostra que o comprimento da fi-onteira de uma região (país) pode variar de acordo com a escala empregada, o que mostra mais uma vez que a natureza comporta-se mais de acordo com a geometria íractal de que propriamente com a geometria euclidiana.
 
-## **COMITÉ EDITORIAL**
+## **COMITÊ EDITORIAL**
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre) Trazíbulo Henrique Pardo Casas (Doutor)
 

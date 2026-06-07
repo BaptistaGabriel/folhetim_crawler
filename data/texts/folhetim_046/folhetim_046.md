@@ -18,7 +18,7 @@ Neste primeiro número de 96 (que só agora conseguimos editar), além da coluna
 
 Esperamos diversificar cada vez mais, oportunizando uma maior participação do leitor.
 
-## COMITÉ EDITORIAL
+## COMITÊ EDITORIAL
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre) Wilson Pereira de Jesus (Mestre)
 

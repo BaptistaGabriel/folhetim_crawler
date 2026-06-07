@@ -20,7 +20,7 @@ Queremos chamar a atenção também do nosso leitor sobre o interessante artigo 
 
 Não menos intessante é a abordagem do professor Carloman sobre estrutura curricular e ensino de matemática.
 
-## COMITÉ EDITORIAL
+## COMITÊ EDITORIAL
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 

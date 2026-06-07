@@ -14,7 +14,7 @@ Este Folhetim é um veículo de divulgação, circulação de idéias e de estí
 
 Com a publicação desse número esperamos ter regularizado a periodicidade do Folhetim. Neste número, ainda a questão do significado e significante é abordada, agora com outros exemplos. Para aprofundar um pouco o tema, características de uma definição é discutida no texto. A leitura do número anterior do Folhetim juntamente comeste deve conduzir a uma reflexão crítica sobre a forma que os professores de Matemática conduzem o ensino dessa Ciência. Tal reflexão deverá conduzir a uma mudança na postura daqueles que ainda abordam o ensino de Matemática de forma "acrítica e formal", o que certamente leva a ocultação da beleza escondidas atrás dos símbolos.
 
-## COMITÉ EDITORIAL
+## COMITÊ EDITORIAL
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 

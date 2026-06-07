@@ -14,7 +14,7 @@ Este _Folhetim é_ um veículo de divulgação, circulação de **ideias** e de 
 
 É interessante notar como assuntos tratados por livros "antigos", e que hoje não são mais encontrados em nossos manuais despertam a curiosidade do leitor. Neste _Folhetim,_ é abordado o método da "Falsa Posição", cuja raiz está na proporcionalidade. Sempre que se fala em proporcionalidade, vem logo à mente a Aritmética de Antônio Trajano, cujas primeiras edições remontam ao século passado. Isso vem reforçar a proporcionalidade como uma das ideias fundamentais da Matemática. Essa é inseparável da também fundamental ideia de semelhança. Já tivemos a oportunidade de discorrer sobre o assunto no _Folhetim_ de número 59, de outubro de 1997. Vale a pena conferir. Os dois textos formam um conjunto, como sempre numa linguagem simples eobjetiva.
 
-## **COMITÉ EDITORIAL**
+## **COMITÊ EDITORIAL**
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 

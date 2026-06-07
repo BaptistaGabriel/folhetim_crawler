@@ -14,7 +14,7 @@ Os números têm trazido fascínio ao espírito humano há milénios, e ainda ho
 
 Como novidade, chamamos a atenção do leitor para uma seção nova, intitulada "Problemas", onde, como primeira contribuição, apresentamos a criativa solução da estudante Ana Cristina Salviano para uma propriedade dos "números triangulares". Esta seção constará no _Folhetim_ sempre que tivermos a colaboração do leitor com problemas e soluções interessantes.
 
-# **COMITÉ EDITORIAL**
+# **COMITÊ EDITORIAL**
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 

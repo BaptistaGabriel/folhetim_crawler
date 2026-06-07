@@ -14,7 +14,7 @@ Este Folhetim é um veículo de divulgação, circulação de idéias e de estí
 
 Ao prosseguir com o tema sobre Alguns aspectos no Ensino da Matemática, após abordar a questão da linguagem e seu(bom) uso na matemática, a coluna Pergunte que o NEMOC Responde trás até o leitor uma reflexão sobre os movimentos básicos do pensamento, e como esses se aplicam às questões relativas ao ensino da matemática, comexemplos que ilustram as idéias discutidas no texto. O presente Folhetim coloca a disposição de todos um rico material para pesquisa.
 
-## COMITÉ EDITORIAL
+## COMITÊ EDITORIAL
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 

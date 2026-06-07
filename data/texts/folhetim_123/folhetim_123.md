@@ -14,7 +14,7 @@ Este Folhetim é um veículo de divulgação, circulação de idéias e de estí
 
 Encerra-se mais um ano no calendário civil, mas o trabalho da equipe não para, graças a aceitação e crescimento do número de assinantes. Apesar dos inúmeros atropelos, o ano de 2004 foi bastante produtivo, e seus resultados divulgados nos _Folhetins_ desde o número 1 até o presente. Este dá seguimento ao tema abordado no nº 122, ou seja, _Alguns aspectos no Ensino da Matemática_. Aspectos da linguagem com a resolução de problemas apresentados aqui, com vários exemplos de como a representação simbólica pode ajudar - e muito - na resolução dos problemas.
 
-# **COMITÉ EDITORIAL**
+# **COMITÊ EDITORIAL**
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 

@@ -18,7 +18,7 @@ Além do Folhetim, o Núcleo de Educação Matemática Omar Catunda, também est
 
 Levamos também ao conhecimento do leitor que, recentemente, tivemos a aprovação de um curso de aperfeiçoamento "A Matemática do Século XXI", dentro do programa Pró-Ciências - Bahiaque tem financiamento da CAPES/C ADCT.
 
-# **COMITÉ EDITORIAL**
+# **COMITÊ EDITORIAL**
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 

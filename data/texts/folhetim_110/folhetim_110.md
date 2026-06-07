@@ -16,7 +16,7 @@ A maioria dos livros, em particular os de geometria, usa com bastante freqüênc
 
 A propósito, o próximo _Folhetim_ (111) será acompanhado do questionário de satisfação do leitor a ser respondido e enviado, para que possamos implementar ações que visem a melhorar nossa publicação.
 
-# COMITÉ EDITORIAL
+# COMITÊ EDITORIAL
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 

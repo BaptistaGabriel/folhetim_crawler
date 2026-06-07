@@ -16,7 +16,7 @@ Interrompemos nossas considerações sobre o ensino da Matemática, para respond
 
 Ele apresenta algumas constatações sobre resultados importantes da Matemática. Naturalmente, constatações improcedentes - frutos, talvez, de suas fantasias...
 
-# COMITÉ EDITORIAL
+# COMITÊ EDITORIAL
 
 Carloman Carlos Borges (UEFS) Inácio de Sousa Fadigas (UEFS) Marcos Grilo Rosa (UEFS) Trazíbulo Henrique Pardo Casas (UEFS)
 

@@ -18,7 +18,7 @@ Vamos deixar um pouco a matemática, para desejar aos nossos assinantes um feliz
 
 ![](_page_0_Picture_10.jpeg)
 
-# **COMITÉ EDITORIAL**
+# **COMITÊ EDITORIAL**
 
 Carioman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 

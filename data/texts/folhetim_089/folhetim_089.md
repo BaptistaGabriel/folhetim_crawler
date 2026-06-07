@@ -18,7 +18,7 @@ Recentemente, um incentivo à pesquisa em Matemática foi dado através do anún
 
 Esses prêmios fazem parte da comemoração do Ano Internacional da Matemática, decretado pela UNESCO.
 
-# COMITÉ EDITORIAL
+# COMITÊ EDITORIAL
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 

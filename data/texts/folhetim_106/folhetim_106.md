@@ -16,7 +16,7 @@ A questão do ensino da Geometria é retomada neste _Folhetim,_ onde são ressal
 
 Um outro aspecto enfatizado é o confronto entre as **ideias** de Piaget e Freudhental. Este último tem pouco de suas obras em nossa língua, o que sem dúvida dificulta um debate mais profundo entre concepções diferentes, em nossas escolas.
 
-## **COMITÉ EDITORIAL**
+## **COMITÊ EDITORIAL**
 
 Carloman Carlos Borges (Doutor)
 

@@ -18,7 +18,7 @@ A partir dessa investigação, surge a relação entre cissóides e estrofóides
 
 Aproveitamos para nos desculpar diante de nossos leitores pela demorados últimos _Folhetins_. Houve problemas técnicos no nosso parque gráfico, e tratando-se de uma Instituição pública, nem sempre os problemas são resolvidos na velocidade desejada.
 
-# COMITÉ EDITORIAL
+# COMITÊ EDITORIAL
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 

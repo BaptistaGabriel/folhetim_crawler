@@ -26,9 +26,7 @@ Este, é óbvio, é o nosso primeiro número. Dedicado a um personagem fundament
 
 Faleccu no dia 12 de agosto de 1986, em Salvador, onde residia desde 1963.
 
-Nasceu a 23 de setembro de 1906, em Santos. Formado na Escola Politécnica de São Paulo em 1930, trabalhou como engenheiro da Prefeitura de Santos por breve período. Em 1933, prestou concurso para a cadeira de Cálculo Infinitesimal da Escola Politécnica. Revelou então uma formação matemática muito superior à que poderia obter nos cursos da época. Os dois membros da banca qualificados como matemáticos, Lelio Gama e Teodoro Ramos, reconheceram seus
-
-méritos e lhe atribuiram o primeiro lugar, que os outros três conferiram a outro candidato.
+Nasceu a 23 de setembro de 1906, em Santos. Formado na Escola Politécnica de São Paulo em 1930, trabalhou como engenheiro da Prefeitura de Santos por breve período. Em 1933, prestou concurso para a cadeira de Cálculo Infinitesimal da Escola Politécnica. Revelou então uma formação matemática muito superior à que poderia obter nos cursos da época. Os dois membros da banca qualificados como matemáticos, Lelio Gama e Teodoro Ramos, reconheceram seus méritos e lhe atribuiram o primeiro lugar, que os outros três conferiram a outro candidato.
 
 Porém, em 1934, quando da fundação da Universidade de São Paulo, nasceu a Faculdade de Filosofia, Ciências e Letras. Teodoro Ramos, que tivera um papel primordial na escolha dos professores estrangeiros que participaram de sua fundação, lembrou-se de seu ex-aluno e candidato preferido à cátedra, oferecendo-lhe o lugar de Assistente de 1ª categoria, e daí tem início a carreira acadêmica de Omar Catunda.
 
@@ -66,15 +64,10 @@ Como a formação da mentalidade se processa ao longo de vários anos, é precis
 
 Convém ainda assinalar o seguinte:
 
-1. Como o desenvolvimento do raciocinio exige o uso da fala ou
+1. Como o desenvolvimento do raciocinio exige o uso da fala ou da escrita, o ensino da matemática pressupõe o uso correto da língua; assim, para a eficiência desse ensino é indispensável o aperfeiçoamento do ensino da língua.
 
-da escrita, o ensino da matemática pressupõe o uso correto da língua; assim, para a eficiência desse ensino é indispensável o aperfeiçoamento do ensino da língua.
-
-- 2. O ensino da matemática é cumulativo em todas as etapas, isto é, o estudo de cada teoria exige o conhecimento das noções e teorias que lhe servem de base. O ensino da álgebra exige o pleno conhecimento do campo racional e das propriedades das operações, a geometria analítica pressupõe o conhecimento do campo real, da álgebra e da geometria elementar e assim por diante.
-- 3. Sendo a matemática uma disciplina formativa, seu aprendizado requer do aluno um permanente esforço intelectual (assim como aprendizado de qualquer esporte exige um esforço físico para o desenvolvimento dos músculos). É inútil e contraproducente a preocupação de facilitar ao máximo esse estudo.
+2. O ensino da matemática é cumulativo em todas as etapas, isto é, o estudo de cada teoria exige o conhecimento das noções e teorias que lhe servem de base. O ensino da álgebra exige o pleno conhecimento do campo racional e das propriedades das operações, a geometria analítica pressupõe o conhecimento do campo real, da álgebra e da geometria elementar e assim por diante.
+3. Sendo a matemática uma disciplina formativa, seu aprendizado requer do aluno um permanente esforço intelectual (assim como aprendizado de qualquer esporte exige um esforço físico para o desenvolvimento dos músculos). É inútil e contraproducente a preocupação de facilitar ao máximo esse estudo.
 
 As concepções anteriores, que refletem as concepções dominantes nos congressos internacionais de ensino da matemática, podem ser confrontadas com a caricatura desse ensino, que predomina no Brasil. Nosso atraso nessa questão é devido a um sem número de fatores históricos, mas atualmente predomina a exigüidade das verbas destinadas à educação, a calamitosa massificação levada a efeito sem a melhoria da estrutura existente e a enorme deficiência do ensino superior. Nestas condiçães, só aprende matemática a infima minoria dos que têm decidida vocação e que a rigor poderiam estudar sozinhos, dispensando o professor. De nada adiantam reformas de ensino, se não se muda a mentalidade, se as autoridades não se compenetram da verdade aceita no mundo civilizado, tanto capitalista como socialista: O maior capital de que dispõe uma nação é o homem, e todo investimento destinado ao seu aperfeiçoamento rende mais do que qualquer outro.
 
-Ě
-
-PESSO

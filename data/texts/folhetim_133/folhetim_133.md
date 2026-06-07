@@ -20,7 +20,7 @@ Outro assunto palpitante, que será abordado nos próximos números, diz respeit
 
 É oportuno também lembrar que neste mês de agosto, precisamente dia 12, faz 20 anos de falecimento do Prof. Dr. Omar Catunda, cuja homenagem é prestada através do nosso Núcleo de Educação Matemática que leva o seu nome. A preocupação de Catunda com o ensino de matemática em seus diversos níveis fortaleceu o propósito desse veículo de divulgação da matemática, apesar dos enúmeros obstáculos encontrados.
 
-# **COMITÉ EDITORIAL**
+# **COMITÊ EDITORIAL**
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 

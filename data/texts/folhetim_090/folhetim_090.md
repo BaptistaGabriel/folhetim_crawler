@@ -16,7 +16,7 @@ Nesse número, o professei Carloman Carlos Borges em sua coluna _"Pergunte que o
 
 Enfim, este número traz uma explicação satisfatória para aqueles que querem entender melhor o assunto.
 
-## COMITÉ EDITORIAL
+## COMITÊ EDITORIAL
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 

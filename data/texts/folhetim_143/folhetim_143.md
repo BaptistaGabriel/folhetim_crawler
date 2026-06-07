@@ -16,7 +16,7 @@ Nos últimos Folhetins, apresentou-se ao leitor uma abordagem sobre temas como C
 
 Para referência sobre os tópicos correlatos, consultem os Folhetins nº 59, 84, 89 e 108.
 
-# COMITÉ EDITORIAL
+# COMITÊ EDITORIAL
 
 Carloman Carlos Borges (UEFS) Inácio de Sousa Fadigas (UEFS) Trazíbulo Henrique Pardo Casas (UEFS)
 

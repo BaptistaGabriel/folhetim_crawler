@@ -1,6 +1,6 @@
 # UNIVERSIDADE ESTADUAL DE FEIRADE SANTANA DEPARTAMENTO DE CIÊNCIAS EXATAS
 
-NEMOC - Núcleo de Educação Matemática OmarCatunda
+NEMOC - Núcleo de Educação Matemática Omar Catunda
 
 Folhetim de Educação Matemática
 

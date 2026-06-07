@@ -16,7 +16,7 @@ Este Folhetim é um veículo de divulgação, circulação de idéias e de estí
 
 O professor Elon Lages Lima tem se destacado principalmente pela forma didática e comunicativa com que escreve seus textos. Um exemplo disso é este artigo que muito gentilmente escreveu para o nosso _Folhetim_, onde, de forma clara e precisa, apresenta idéias importantes sobre a questão sempre presente do ensino de Matemática. Sem dúvida este artigo será de grande utilidade, principalmente para nossos professores do ensino básico. Agradecemos ao professor Elon, e o parabenizamos pelos seus 70 anos.
 
-# COMITÉ EDITORIAL
+# COMITÊ EDITORIAL
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 

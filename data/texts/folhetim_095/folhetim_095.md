@@ -16,7 +16,7 @@ Não sendo uma ciência empírica, a matemática necessita da demonstração for
 
 Esperamos que o artigo se preste, entre outras, para minimizar o pavor de alunos (e de professores também) quando se trata de demonstrar algumas afirmações em matemática.
 
-# COMITÉ EDITORIAL
+# COMITÊ EDITORIAL
 
 Carloman Carlos Borges (Doutor)
 Inácio de Sousa Fadigas (Mestre)

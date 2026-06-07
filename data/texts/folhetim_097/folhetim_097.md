@@ -16,7 +16,7 @@ Não poderíamos deixar de lembrar neste _Folhetim_ que esse ano é um marco par
 
 Muitos avanços ocorreram na matemática durante o último século. Nós queremos lembrar que muitos dos resultados que hoje usamos, remontam até mais de dois milénios atrás. Um desses temas é tratado peloprof Carloman Carlos Borges na coluna _Pergunte que o NEMOC Responde._ Trata-se de um método de demonstração chamado "Método de Exaustão", prosseguindo assim a discussão do tema sobre demonstração em matemática, iniciado no Folhetim n° 95.
 
-# **COMITÉ EDITORIAL**
+# **COMITÊ EDITORIAL**
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 

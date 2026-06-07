@@ -16,7 +16,7 @@ Ainda sobre coisas elementares .... o _Folhetim_ n° 112 prossegue com a tentati
 
 Agradecemos desde j á aos leitores que nos retomaram a ficha com críticas e sugestões sobre o _Folhetim,_ estamos aguardando a sua.
 
-# **COMITÉ EDITORIAL**
+# **COMITÊ EDITORIAL**
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 

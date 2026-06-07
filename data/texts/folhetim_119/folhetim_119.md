@@ -16,7 +16,7 @@ Como mesmo tema dos dois últimos Folhetins, agora é introduzido um tratamento 
 
 O propósito também é apresentar as tecnologias computacionais como um recurso auxiliar na Educação Matemática, atentos porém às limitações dos mesmos.
 
-# COMITÉ EDITORIAL
+# COMITÊ EDITORIAL
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 

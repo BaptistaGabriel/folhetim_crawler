@@ -14,7 +14,7 @@ Este _Folhetim_ é um veículo de divulgação, circulação de ideias e de est�
 
 Na explanação preparatória à Introdução da Teoria de Galois, alguns conceitos são esclarecidos. como os de automorfismo, simetria, permutação, etc. Assim, estaremos nos aproximando cada vez mais daquelabela teoria.
 
-# **COMITÉ EDITORIAL**
+# **COMITÊ EDITORIAL**
 
 Carloman Carlos Borges (UEFS) Inácio de Sousa Fadigas (UEFS) Marcos Grilo Rosa (UEFS) Trazíbulo Henrique Pardo Casas (UEFS)
 

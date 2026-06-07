@@ -14,7 +14,7 @@ Este _Folhetim é_ um veículo de divulgação, circulação de ideias e de est�
 
 Nos dois últimos _Folhetins_ a questão do ensino da geometria esteve em foco. De início _(Folhetim n°_ 105), são apresentadas as tendências do ensino da geometria, a abordagem axiomática sintética, via tratamento métrico, e a abordagem a partir das transformações geométricas. Em seguida, Prof. Carloman apresenta suas reflexões sobre o ensino da geometria, criticando a postura dos que vêm a geometria como um jogo, com definições, regras, bem como a apresentação daquela ciência de forma axiomática para crianças que não possuem ainda maturidade para o raciocínio dedutivo. No _Folhetim_ n° 106, ainda sobre o ensino de geometria, destaque é dado às contribuições dos Van Hiele e o confronto entre as ideias de Piaget e Hans Freudenthal. No presente _Folhetim,_ encerra o tema, fazendo considerações sobre a intuição e o rigor no ensino da geometria.
 
-# **COMITÉ EDITORIAL**
+# **COMITÊ EDITORIAL**
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 

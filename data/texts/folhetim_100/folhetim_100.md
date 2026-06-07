@@ -42,7 +42,7 @@ _É com muita satisfação que acompanhamos este momento do Folhetim de Educaç�
 
 Haroldo Gonçalves Benatti - Professor Doutor da Área de Fundamentos de Matemática.
 
-# **COMITÉ EDITORIAL**
+# **COMITÊ EDITORIAL**
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 

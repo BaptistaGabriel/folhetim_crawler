@@ -14,7 +14,7 @@ Este _Folhetim é_ um veículo de divulgação, circulação de **ideias** e de 
 
 **o** _Folhetim de Educação Matemática_ quebra a barreira dos dez anos e inicia seu "Ano 11". Foi um longo caminho até aqui, produzindo artigos ininterruptamente (às vezes com atrasos causados por fatores fora do controle dos editores). Com o número 122, retoma-se a coluna _Pergunte que o Nemoc Responde_ com mais um (de mais de uma centena) artigo do prof. Carloman Carlos Borges. Neste, um importante aspecto do ensino aprendizagem é abordado - resolução de problemas. Mais especialmente, trata-se de ir ao cerne da questão para identificar o que é um problema - do ponto de vista matemático, é claro. As observações feitas no texto são importantes e devem ser refletidas, principalmente por aqueles diretamente ligados e atuantes em educação Matemática.
 
-# **COMITÉ EDITORIAL**
+# **COMITÊ EDITORIAL**
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 

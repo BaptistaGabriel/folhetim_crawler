@@ -38,7 +38,7 @@ O unitário dos teus pensamentos,
 Quero ser e o seu amor, sendo
 Infinito por ser finito!
 
-# COMITÉ EDITORIAL
+# COMITÊ EDITORIAL
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 

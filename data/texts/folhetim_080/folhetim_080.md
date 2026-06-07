@@ -20,7 +20,7 @@ Nessa perspectiva, é oportuno encontrarmos neste folhetim uma exposição clara
 
 Associado ao seu objeto, o texto da coluna _"Pergunte que o NEMOC responde"_ apresenta também através de exemplos, o que é uma Álgebra, essa riquíssima estrutura algébrica que se enriquece continuamente.
 
-# **COMITÉ EDITORIAL**
+# **COMITÊ EDITORIAL**
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 

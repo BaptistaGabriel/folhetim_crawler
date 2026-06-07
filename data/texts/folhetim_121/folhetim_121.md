@@ -14,7 +14,7 @@ Este _Folhetim_ é um veículo de divulgação, circulação de ideias e de est�
 
 Com o presente _Folhetim_ encerra-se uma série sobre as podarias de parábola com um tratamento via geometria dinâmica. Encerra-se também mais um ano de pubUcação do _Folhetim, o_ décimo ano. O propósito dos tópicos tratados apartirdo _Folhetim_ 117 foi mostrar como ferramentas modernas, a exemplo dos programas de computador, podem auxiliar os estudantes, professores e pesquisadores em Educação Matemática no trato com curvas planas e suas propriedades, de maneira motivadora. Com a aplicação dos programas quer-se evidenciar as vantagens de uma mídia que oferece a possibilidade de manipulação, movimento e visualização dos objetos matemáticos representados.
 
-# **COMITÉ EDITORIAL**
+# **COMITÊ EDITORIAL**
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 

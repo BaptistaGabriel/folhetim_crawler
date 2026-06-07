@@ -16,7 +16,7 @@ Após trilharmos os caminhos da geometria, a partir desse número do _Folhetim_ 
 
 Queremos também aproveitar este espaço para informar aos nossos leitores que iremos fazer uma pesquisa de satisfação com os nossos leitores, e desde já gostaríamos de contar com a colaboração de cada um. Nos próximos folhetins daremos mais detalhes. Por enquanto, fiquem com um pouco da história do cálculo na coluna Pergunte que o NEMOC Responde.
 
-## COMITÉ EDITORIAL
+## COMITÊ EDITORIAL
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 

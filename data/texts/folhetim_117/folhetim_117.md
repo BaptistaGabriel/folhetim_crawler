@@ -16,7 +16,7 @@ A partir do presente Folhetim iniciamos uma série que trata de tópicos relacio
 
 Para o traçado das curvas que aparecem em algumas figuras deste número, foram usados recursos do programa winplot, que será mais explorado nos próximos _Folhetins_.
 
-### COMITÉ EDITORIAL
+### COMITÊ EDITORIAL
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 

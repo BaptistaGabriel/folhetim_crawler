@@ -34,7 +34,7 @@ Dando continuidade às publicações da coluna Pergunte que o NEMOC responde de 
 
 R. Existe um ramo da Matemática denominado de Teoria dos Números, o qual estuda problemas relacionados com os números inteiros; pertence a essa teoria o teorema que diz o seguinte:
 
-Dados dois inteiros quaisquer a e b, com a > 0, existem inteiros q e r tais que b = qa + r, sendo $0 \le r < a$ .
+Dados dois inteiros quaisquer $a$ e $b$, com $a>0$, existem inteiros $q$ e $r$ tais que $ b = qa + r$, $\qquad 0 \le r < a. $
 
 Esta proposição, nós a usamos toda vez que efetuamos uma divisão e, por isso, nos é bastante familiar. Alguns autores a chamam de algoritmo da divisão.
 
@@ -68,15 +68,11 @@ E serve para justificar a prova dos nove na multiplicação.
 
 Aplicação: sejam os números 357 e 128 cujos restos decorrentes da divisão por nove são, respectivamente: (a) 3+5+7=15 = 1+5=6; (b) 1+2+8=11=1+1=2; o produto destes dois restos da 12(noves fora, 3); ao multiplicarmos os dois números dados obtemos como resultado 45696, cujo resto decorrente da divisão por nove é igual a 4+5+6+9+6=30 = 3+0=3, exatamente igual ao produto dos restos encontrados em (a) e (b).
 
-É importante observar que a prova dos nove, tanto na adição como na multiplicação, pode falhar: pode acontecer que uma dessas operações esteja errada, porém, o erro não é detectado pela prova. Exemplo: se você adicionar 47 mais 16 obtém como resultado 63; se você obtivesse como resultado qualquer múltiplo de 63, como, 189 ou 126, a operação estaria errada e, todavia, a prova não seria capaz de detectar o erro. Verifique! Na
-
-multiplicação é igualmente válida esta observação: ao multiplicar 125 por 42 você obterá de maneira correta o resultado 5250 cujo resto é igual a 3 que é igual por sua vez ao produto dos restos de 125 e 42; contudo, se você obtém, erradamente, qualquer outro resultado cujo resto seja também 3, a prova é incapaz de detectar tal erro. Resumindo: a prova pode esta correta, porém, o resultado incorreto. Se a prova não estiver correta, então, certamente, a operação estará incorreta.
+É importante observar que a prova dos nove, tanto na adição como na multiplicação, pode falhar: pode acontecer que uma dessas operações esteja errada, porém, o erro não é detectado pela prova. Exemplo: se você adicionar 47 mais 16 obtém como resultado 63; se você obtivesse como resultado qualquer múltiplo de 63, como, 189 ou 126, a operação estaria errada e, todavia, a prova não seria capaz de detectar o erro. Verifique! Na multiplicação é igualmente válida esta observação: ao multiplicar 125 por 42 você obterá de maneira correta o resultado 5250 cujo resto é igual a 3 que é igual por sua vez ao produto dos restos de 125 e 42; contudo, se você obtém, erradamente, qualquer outro resultado cujo resto seja também 3, a prova é incapaz de detectar tal erro. Resumindo: a prova pode esta correta, porém, o resultado incorreto. Se a prova não estiver correta, então, certamente, a operação estará incorreta.
 
 2º Pergunta Um colega de Feira de Santana pergunta: que é uma operação racional?
 
 R. Uma operação é racional, quando, aplicada a um número racional, produz um número racional. A adição, a subtração, a multiplicação e a divisão (exceto por zero) são operações racionais, pois, quando aplicadas aos números racionais, dão como resultados, números racionais. Isto não acontece, para dar um contra exemplo, com a operação de extração de raiz pois, ao aplicá-la a um número racional, você pode obter como resultado, um número não racional. Basta lembrar que 2 que é um número racional, apresenta como raiz quadrada um número irracional. Este é um exemplo histórico pois provocou a primeira crise na história da Matemática; esta irracionalidade foi descoberta pela Escola Pitagórica, uma das matrizes daquilo que hoje conhecemos como numerologia.
-
-# \*\* \*\* \*\*
 
 Obs.: É permitida a reprodução total ou parcial desse folhetim desde que citada a fonte.
 
@@ -84,14 +80,8 @@ Caso você tenha interesse em receber esta publicação escreva para o NEMOC.
 
 Números atrasados - envie para cada folhetim um selo de postagem nacional de 1º porte. Dentro de no máximo quatro semanas, contadas a partir da data de recebimento do seu pedido, você estará recebendo os folhetins solicitados.
 
-# \*\* \*\* \*\* \*\*
-
 No próximo número, as respostas para:
 
 Se aceitamos a Relatividade o que dizer do ressuscitamento do _infinitésimo_? Que relacionamento há com a idéia filosófica em Matemática do zero? E se fosse possível ir mais longe, que tal incrementar uma trindade com a tão abominada _mônada_? (Os grifos são do leitor).
 
-Aguardeni
-
-IN PERSO
-
-SELO
+Aguardem!

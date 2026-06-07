@@ -18,7 +18,7 @@ Temos recebido estímulos de alguns leitores que espontanemente nos enviaram sua
 
 O preenchimento e devolução da ficha em anexo significa que você quer continuar recebendo o _Folhetim_.
 
-# COMITÉ EDITORIAL
+# COMITÊ EDITORIAL
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre) Wilson Pereira de Jesus (Mestre)
 
@@ -34,9 +34,7 @@ axiomático deve ser empregado não apenas com parcimônia mas e sobretudo, com 
 
 A idéia de que tudo é número foi muito bem expressa pelo pitagórico Filolaus quando,
 
-presumivelmente, afirmou: todas as coisas que podem ser conhecidas têm número: pois não é possível que sem número qualquer coisa possa ser concebida ou conhecida. Como já escrevemos anteriormente, esta quantificação do conhecimento humano é, hoje, uma realidade consensual na comunidade científica. Pois bem, dentro deste contexto histórico não é difícil, para nós, do século XX, imaginar o espanto dos pitagóricos perante o surgimento dos irracionais. Em primeiro lugar, esta descoberta rompia com a identificação entre números e figuras, deixando de ser uma coisa para expressar-se por intermédio de uma relação (relação entre o quadrado e a diagonal). Que ironia! Esta relação surgir exatamente no quadrado, uma das figuras básicas da mística dessa Escola. Em seguida, como ficaria a divisa máxima: tudo é número? O espanto experimentado pelos gregos ante a incomensurabilidade ilustra o que nos mostra a História da Ciência: todo conhecimento novo causa alvoroço pois nunca é inteiramente absorvido pela geração contemporânea, aquela que o viu nascer. A sua pergunta (c) merece os seguintes comentários: a História da Matemática como recurso ao ensino dessa ciência possui alguma legitimidade. Ao professor de qualquer ciência cabe-lhe procurar conhecer a história do seu saber. Inicialmente, é bom lembrar que esse recurso didático não é de agora. Livros de antigamente, lá das décadas anteriores à 2ª Guerra Mundial, já exibiam notas históricas acerca do desenvolvimento histórico da Matemática. E, diga-se de passagem, eram notas bem elaboradas, em alguns daqueles manuais. Ao nível de 1° e 2° graus, a integração no processo de ensino-aprendizagem da história das idéias matemáticas poderá servir como motivação dos alunos ao estudo desse saber - com resultados duvidosos. Em cursos de graduação de Matemática a sua História é aconselhável - pois serve para mostrar que, na construção desse saber, as dificuldades enfrentadas pelos matemáticos serão, guardadas as devidas proporções, as mesmas a serem sentidas pelos alunos. Por outro lado, ela nos mostra que pessoas consideradas bem mais dotadas do que nós incorreram em erros e tolices
-
-que não serão praticados por nós. Finalmente, um simples lembrete a alguns autores de notas históricas: assumam uma postura crítica nessa exposição deixando de serem meros cronistas. Agora mesmo estou lendo em um desses mais recentes manuais a transcrição da seguinte frase atribuída à Escola Pitagórica: Não é digno de se chamar homem aquele que não sabe que a diagonal e o lado do quadrado são grandezas incomensuráveis. Tolices iguais a estas e outras ligando a Matemática à honra do espírito humano, não colaboram em nada na educação de alguém. Sua última pergunta nos conduz novamente aos números irracionais. A incomensurabilidade entre dois segmentos ( a relação entre o quadrado e sua diagonal) - isto é, a impossibilidade de encontrar-se um terceiro segmento que caiba um número inteiro de vezes no lado do quadrado e outro número inteiro de vezes na sua diagonal - não foi, historicamente, de fácil compreensão. Mais de 25 séculos se passaram desde o seu surgimento até a criação de uma explicação satisfatória. Qual o porquê de tanta dificuldade? Subjacente à idéia de número irracional, há outra, muito mais profunda, mais intrigante e muito mais fascinante. Qual é esta idéia? É a idéia do infinito perante a qual o ser humano experimenta um sentimento de espanto em seu primeiro contacto. Perante a idéia do infinito desabrocham as duas profundas necessidades do ser humano: saber e acreditar. Agora, vamos direto à pergunta. Extraindo as raízes aproximadas por deficiência e por excesso respectivamente, de 3, obtemos as duas sucessões de aproximações:
+presumivelmente, afirmou: todas as coisas que podem ser conhecidas têm número: pois não é possível que sem número qualquer coisa possa ser concebida ou conhecida. Como já escrevemos anteriormente, esta quantificação do conhecimento humano é, hoje, uma realidade consensual na comunidade científica. Pois bem, dentro deste contexto histórico não é difícil, para nós, do século XX, imaginar o espanto dos pitagóricos perante o surgimento dos irracionais. Em primeiro lugar, esta descoberta rompia com a identificação entre números e figuras, deixando de ser uma coisa para expressar-se por intermédio de uma relação (relação entre o quadrado e a diagonal). Que ironia! Esta relação surgir exatamente no quadrado, uma das figuras básicas da mística dessa Escola. Em seguida, como ficaria a divisa máxima: tudo é número? O espanto experimentado pelos gregos ante a incomensurabilidade ilustra o que nos mostra a História da Ciência: todo conhecimento novo causa alvoroço pois nunca é inteiramente absorvido pela geração contemporânea, aquela que o viu nascer. A sua pergunta (c) merece os seguintes comentários: a História da Matemática como recurso ao ensino dessa ciência possui alguma legitimidade. Ao professor de qualquer ciência cabe-lhe procurar conhecer a história do seu saber. Inicialmente, é bom lembrar que esse recurso didático não é de agora. Livros de antigamente, lá das décadas anteriores à 2ª Guerra Mundial, já exibiam notas históricas acerca do desenvolvimento histórico da Matemática. E, diga-se de passagem, eram notas bem elaboradas, em alguns daqueles manuais. Ao nível de 1° e 2° graus, a integração no processo de ensino-aprendizagem da história das idéias matemáticas poderá servir como motivação dos alunos ao estudo desse saber - com resultados duvidosos. Em cursos de graduação de Matemática a sua História é aconselhável - pois serve para mostrar que, na construção desse saber, as dificuldades enfrentadas pelos matemáticos serão, guardadas as devidas proporções, as mesmas a serem sentidas pelos alunos. Por outro lado, ela nos mostra que pessoas consideradas bem mais dotadas do que nós incorreram em erros e tolices que não serão praticados por nós. Finalmente, um simples lembrete a alguns autores de notas históricas: assumam uma postura crítica nessa exposição deixando de serem meros cronistas. Agora mesmo estou lendo em um desses mais recentes manuais a transcrição da seguinte frase atribuída à Escola Pitagórica: Não é digno de se chamar homem aquele que não sabe que a diagonal e o lado do quadrado são grandezas incomensuráveis. Tolices iguais a estas e outras ligando a Matemática à honra do espírito humano, não colaboram em nada na educação de alguém. Sua última pergunta nos conduz novamente aos números irracionais. A incomensurabilidade entre dois segmentos ( a relação entre o quadrado e sua diagonal) - isto é, a impossibilidade de encontrar-se um terceiro segmento que caiba um número inteiro de vezes no lado do quadrado e outro número inteiro de vezes na sua diagonal - não foi, historicamente, de fácil compreensão. Mais de 25 séculos se passaram desde o seu surgimento até a criação de uma explicação satisfatória. Qual o porquê de tanta dificuldade? Subjacente à idéia de número irracional, há outra, muito mais profunda, mais intrigante e muito mais fascinante. Qual é esta idéia? É a idéia do infinito perante a qual o ser humano experimenta um sentimento de espanto em seu primeiro contacto. Perante a idéia do infinito desabrocham as duas profundas necessidades do ser humano: saber e acreditar. Agora, vamos direto à pergunta. Extraindo as raízes aproximadas por deficiência e por excesso respectivamente, de 3, obtemos as duas sucessões de aproximações:
 
 | por deficiência | por excesso | diferenças |
 | --------------- | ----------- | ---------- |
@@ -111,23 +109,35 @@ Tiragem: 1.400 exemplares
 
 Endereço: Av. Universitária, s/n-km03 BR 116 - Campus Universitário Fax: (075)224-2284 - CEP 44031-460
 
-# UNIVERSIDADE ESTADUAL DE FEIRA DE SANTANA DEPARTAMENTO DE CIÊNCIAS EXATAS NEMOC-NÚCLEO DE EDUCAÇÃO MATEMÁTICA OMAR CATUNDA
+UNIVERSIDADE ESTADUAL DE FEIRA DE SANTANA
+DEPARTAMENTO DE CIÊNCIAS EXATAS
+NEMOC - NÚCLEO DE EDUCAÇÃO MATEMÁTICA OMAR CATUNDA
 
-| HCHA DE AVALIAÇÃO                              |                   |                   |                      |                               |              |     |
-| ---------------------------------------------- | ----------------- | ----------------- | -------------------- | ----------------------------- | ------------ | --- |
-| NOME:                                          |                   |                   |                      |                               |              |     |
-| ENDEREÇO COMPLETO:                             |                   |                   |                      |                               |              |     |
-|                                                |                   |                   |                      |                               |              |     |
-| 1] Que temas você go                           | ostaria qu        | ie fossem         | tratados?            |                               | No.          |     |
-|                                                |                   |                   |                      |                               |              |     |
-|                                                |                   |                   |                      |                               |              |     |
-| 2] Faça uma avaliaçã                           | o do Folh         | etim              |                      |                               |              |     |
-|                                                | Ótimo             | Bom               | Regular              | Necessita Mel                 | horar        |     |
-| Formato ·                                      |                   |                   |                      |                               |              |     |
-| Temas Abordados                                |                   |                   |                      |                               |              |     |
-| Nível da Linguagem                             |                   |                   |                      |                               |              |     |
-| 3] Necessita temas q<br>□ 1° Grau (1ª a 4ª sér |                   |                   | a 8ª série)          | □ 2º Grau                     | □ 3° Grau    |     |
-| OBS: O PREENCHIMI<br>QUE VOCÊ QU               | ENTO E<br>UER CON | DEVOLUÇ<br>TINUAR | ÃO DESTA<br>RECEBENI | A FICHA SIGNI<br>DO O FOLHETI | IFICA<br>IM. |     |
-|                                                |                   |                   |                      |                               |              |     |
+FICHA DE AVALIAÇÃO
 
-NEMOC - NÚCLEO DE EDUCAÇÃO MATEMÁTICA OMAR CATUNDA Av. Universitária s/n - Campus Universitário 44031-460 Feira de Santana - Ba
+NOME:
+
+ENDEREÇO COMPLETO:
+
+1] Que temas você gostaria que fossem tratados?
+
+2] Faça uma avaliação do Folhetim
+
+Formato
+Temas Abordados
+Nível da Linguagem
+
+Ótimo | Bom | Regular | Necessita Melhoar
+
+3] Necessita temas que abordem mais:
+
+1° Grau (1ª a 4ª série)
+1° Grau (5ª a 8ª série)
+2° Grau
+3° Grau
+
+OBS: O PREENCHIMENTO E DEVOLUÇÃO DESTA FICHA SIGNIFICA QUE VOCÊ QUER CONTINUAR RECEBENDO O FOLHETIM.
+
+NEMOC - NÚCLEO DE EDUCAÇÃO MATEMÁTICA OMAR CATUNDA
+Av. Universitária s/n - Campus Universitário
+44031-460 Feira de Santana - Ba

@@ -16,7 +16,7 @@ O amplo tema sobre caos e fractais continua a ser discutido no presente _Folheti
 
 Ainda serão necessárias mais algumas colunas do _Folhetim_ para que a proposta de discussão sobre Fractais tenha um desfecho, o que não significa porém que o assunto esteja esgotado.
 
-# COMITÉ EDITORIAL
+# COMITÊ EDITORIAL
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre) Trazíbulo Henrique Pardo Casas (Doutor)
 

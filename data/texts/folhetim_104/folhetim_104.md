@@ -16,7 +16,7 @@ Desde o _Folhetim_ de nº 100, sem dúvida um marco para nós, nesse desafio de 
 
 E, para dar continuidade ao trabalho, o presente _Folhetim_ traz a seqüência do tema apresentado no número anterior, sobre o significado de _paradoxo_. Algumas propriedades dos transfinitos são apresentadas, para dar embasamento a questões ligadas a paradoxos.
 
-## COMITÉ EDITORIAL
+## COMITÊ EDITORIAL
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 

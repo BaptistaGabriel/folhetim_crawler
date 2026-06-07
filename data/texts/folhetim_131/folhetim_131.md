@@ -16,7 +16,7 @@ O tema proposto por esse _Folhetim_ abre o caminho para uma gama de informaçõe
 
 A abordagem dos temas ou do tema, uma vez que estão muito relacionados, desperta o olhar para a Matemática que, apesar de longe das escolas, está bem próxima de nós, isto é, dos fatos, fenômenos e objetos que nos rodeiam. O artigo pretende pois fazer esta aproximação entre a "teoria" e "prática", com desdobramentos muito interessantes. Aguardem.
 
-# COMITÉ EDITORIAL
+# COMITÊ EDITORIAL
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 

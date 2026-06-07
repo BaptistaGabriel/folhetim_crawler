@@ -14,7 +14,7 @@ Este Folhetim é um veículo de divulgação, circulação de idéias e de estí
 
 O tema fractais continua a ser explorado no presente artigo, agora, como sequência do Folhetim anterior, é explorada a dependência das condições iniciais em modelos matemáticos para previsões futuras. Como exemplo, as equações de Lorenz sobre previsões meteorológicas são apresentadas e discutidas. Para melhor compreensão da não linearidade de fenômenos naturais, o exemplo do pêndulo é estudado, mostrando-se que as equações lineares são aproximações, às vezes muito grosseiras. Explicase o que se entende por horizonte preditivo e, discute-se a impossibilidade de modelos preverem o futuro a longo prazo e, às vezes, a médio prazo. Definições de caos são apresentadas ao final do Folhetim ... mas a discussão ainda não acabou. Aguardem o próximo.
 
-# COMITÉ EDITORIAL
+# COMITÊ EDITORIAL
 
 Carloman Carlos Borges (Doutor)
 Inácio de Sousa Fadigas (Mestre)

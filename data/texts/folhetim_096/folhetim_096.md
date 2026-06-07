@@ -14,7 +14,7 @@ Este _Folhetim_ é um veículo de divulgação, circulação de ideias e de est�
 
 Em prosseguimento à exposição dos métodos de demonstração em matemática, este _Folhetim_ traz outros métodos dedutivos. Apresenta mais um exemplo da Descida Infinita, cuj a exposição foi iniciada no _Folhetim_ anterior. Chamamos a atenção do leitor para a Demonstração por Absurdo, que é bastante utíUzada, sem que sua fundamentação lógica seja, na maioria das vezes, explicada. Em seguida, é apresentado o Método de Demonstração por Recorrência ou por Indução Matemática.
 
-# **COMITÉ EDITORIAL**
+# **COMITÊ EDITORIAL**
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 

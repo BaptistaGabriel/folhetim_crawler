@@ -20,7 +20,7 @@ Chamamos a atenção que as fotos do Folhetim 67, desse Folhetim, e que aparecer
 
 Aproveitamos também para divulgar as atividades que serão desenvolvidas pelo CAEM, neste semestre.
 
-# **COMITÉ EDITORIAL**
+# **COMITÊ EDITORIAL**
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 
@@ -89,12 +89,12 @@ O Centro de Aperfeiçoamento do Ensino de Matemática - CAEM, do IME/USP, estar�
 - -Espaçoe Forma: a geometria na escola infantil;
 - Desenvolvendo as capacidades de visualização espacial;
 - Explorando sólidos geométricos através de um software;
-  - O uso de material dourado;
-  - -Exponenciais e logaritmos;
+- O uso de material dourado;
+- Exponenciais e logaritmos;
 - Modelagem: o estudo de expressões algébricas e equações;
-  - Área de triângulos e relações trigonométrias;
-  - Semelhança: atividades práticas;
-  - Conceitos de divisibilidade e o jogo senha.
+- Área de triângulos e relações trigonométrias;
+- Semelhança: atividades práticas;
+- Conceitos de divisibilidade e o jogo senha.
 
 # Seminários do CAEM:
 

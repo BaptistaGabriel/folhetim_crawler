@@ -14,7 +14,7 @@ Este Folhetim é um veículo de divulgação, circulação de idéias e de estí
 
 Neste número são dadas definições de algumas importantes estruturas algébricas - monóide, semi-grupo e grupo. O propósito de relembrar as definições é preparar o leitor à compreensão de outros conceitos, como o de simetria e sua articulação com a Teoria de Galois para, e, finalmente, prepará-lo a uma pequena introdução à Teoria de Galois.
 
-## COMITÉ EDITORIAL
+## COMITÊ EDITORIAL
 
 Carloman Carlos Borges (UEFS)
 Inácio de Sousa Fadigas (UEFS)

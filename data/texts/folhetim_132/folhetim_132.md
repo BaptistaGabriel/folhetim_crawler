@@ -14,7 +14,7 @@ Este _Folhetim é_ um veículo de divulgação, circulação de ideias e de est�
 
 **o** texto ora apresentado ao leitor na coluna Pergunte que o NEMOC Responde é uma continuação do Folhetim anterior (n° 131) no qual se inicia a discussão de tópicos como Ordem, Complexidade e Caos. Palavras antigas, mas que apartir do final do século XX, assumem conotações distintas daquelas usadas na linguagem comum. Muitas vezes, o entendimento de tais conceitos não é uma tarefa fácil para os não-iniciados, principalmente se apresentados em textos técnicos e científicos. Seguindo a mesma linhajá iniciada em Folhetins anteriores, o presente texto visa a levar ao leitor, numa linguagem informal e intuitiva, porém objetiva, os conceitos acima citados. Desta vez é dado destaque ao conceito de Caos. Assunto palpitante, e ainda não consensual por parte da comunidade científica, o caos é abordado aqui de uma forma compreensiva, que permite ao leitor uma **ideia** bastante razoável destes temas tão atuais.
 
-## **COMITÉ EDITORIAL**
+## **COMITÊ EDITORIAL**
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 

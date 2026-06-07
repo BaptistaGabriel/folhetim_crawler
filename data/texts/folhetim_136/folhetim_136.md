@@ -14,7 +14,7 @@ Este _Folhetim_ é um veículo de divulgação, circulação de **ideias** e de 
 
 Uma das características que difere a Geometria Fractal da Geometria Euclidiana é a possibilidade dos objetos fi-actais possuírem dimensões não inteiras. É esse o tópico principal abordado no presente _Folhetim._ Através de exemplos claros, é apresentado, com detalhes e figuras ilustrativas, como calcular a dimensão fractal de certos objetos. A partir da leitura, percebe-se que o conceito de dimensão, quando aplicado a objetos fi-actais, leva em conta outras características, como aspereza, espessura, textura, etc.
 
-# **COMITÉ EDITORIAL**
+# **COMITÊ EDITORIAL**
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre) Trazíbulo Henrique Pardo Casas (Doutor)
 

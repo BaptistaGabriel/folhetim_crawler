@@ -14,7 +14,7 @@ Este _Folhetim_ é um veículo de divulgação, circulação de ideias e de est�
 
 No _Folhetim_ n° 137 foi apresentado um exemplo numérico da dimensão da Curva de Koch, bem como algumas explicações da Geometria Fractal. O _presente Folhetim_ trata, de umaformadetalhada,docálculodecomprimentoda Curva Floco de Neve. Mais especificamente mostra que tal curva tem comprimento infinito, embora possua uma superfície finita. Tais propriedades causaram embarços a grandes matemáticos como Poincaré e Hermita que consideram os obj etos íractais como anomalias, não merecendo portanto seu estudo muita dedicação. Hoj e porém tais obj etos j á fazem parte até do ensino fiindamental e médio, mesmo que no nível de divulgação e curiosidade. A propósito da divulgação, é interessante a concepção da artista plástica Fayga Ostrwer sobre as figuras fi^actais.
 
-# **COMITÉ EDITORIAL**
+# **COMITÊ EDITORIAL**
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre) Trazíbulo Henrique Pardo Casas (Doutor)
 

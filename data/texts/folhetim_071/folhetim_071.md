@@ -18,7 +18,7 @@ Chamamos a atenção do leitor para a notícia, na coluna própria, sobre livros
 
 Para aqueles mais curiosos, alguns problemas desafiantes estão na coluna "Divertimentos Matemáticos".
 
-## COMITÉ EDITORIAL
+## COMITÊ EDITORIAL
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 
@@ -64,8 +64,7 @@ $x = x_o + v_o t + \frac{1}{2} wt^2$ , onde $v_o$ é a velocidade inicial do pon
 
 c) Oscilações harmônicas. Vejamos o movimento retilíneo do ponto quando sua distância x à origem das coordenadas varia com o tempo de conformidade com a lei $x = a \cos kt$ , onde $\underline{a} e \underline{k} \sin kt$ são grandezas constantes. O ponto M (veja figura abaixo) durante este movimento oscila entre as posições M (+a) e M (-a).
 
-$$M_1$$
-0 M M $A$
+![alt text](image.png)
 
 ## NEMOC - NÚCLEO DE EDUCAÇÃO MATEMÁTICA OMAR CATUNDA
 
@@ -79,8 +78,7 @@ Em todos os casos estudados, a trajetória é uma linha reta enquanto os gráfic
 
 de referência respeito ao qual é examinado o movimento de um ponto. Mais um exemplo: seja o movimento de um ponto no plano Oxy e determinado pelas equações:
 
-$$x = 2t$$
-, $y = 12 t^2$
+$x = 2t , y = 12 t^2$
 
 A trajetória do ponto pode ser encontrada com a eliminação de t nessas equações. Assim, da primeira delas vem t = x/2; colocando esse valor de t na segunda equação, obtem-se:
 

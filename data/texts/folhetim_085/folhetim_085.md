@@ -16,7 +16,7 @@ Este _Folhetim é_ um veículo de divulgação, circulação de ideias e de est�
 
 ![](_page_0_Picture_8.jpeg)
 
-## **COMITÉ EDITORIAL**
+## **COMITÊ EDITORIAL**
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 

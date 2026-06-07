@@ -18,7 +18,7 @@ Que relação tem o fato com os fractais? É que nessa geometria, o todo pode es
 
 Geometrias não euclidianas e fractais são exemplos de um importante aspecto na pesquisa científica: orientar a pesquisa para a aplicação pode empobrecer a ciência, pois muitos resultados "abstratos" só mostraram suas possibilidades de aplicação a _posteriori_.
 
-# COMITÉ EDITORIAL
+# COMITÊ EDITORIAL
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre) Trazíbulo Henrique Pardo Casas (Doutor)
 

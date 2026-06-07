@@ -16,7 +16,7 @@ Um interessante tema é abordado nesse Folhetim: trata-se dos fractais. A relaç
 
 É esse fascinante mundo dos fractais que a partir desse número será abordado.
 
-# COMITÉ EDITORIAL
+# COMITÊ EDITORIAL
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 

@@ -18,7 +18,7 @@ Em média, o Folhetim obteve **55^%** de conceito **ótimo** e **38,1** % de con
 
 Os resultados detalhados encontram-se na coluna RESULTADOS DA PESQUISA.
 
-# **COMITÉ EDITORIAL**
+# **COMITÊ EDITORIAL**
 
 Carloman Carlos Borges (Doutor) Inácio de Sousa Fadigas (Mestre)
 
